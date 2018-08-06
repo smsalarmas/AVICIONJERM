@@ -1,0 +1,8 @@
+{
+  "name": "MasterTEAM",
+  "integrations": {
+    "cordova": {}
+  },
+  "app_id": "",
+  "type": "ionic-angular"
+}
