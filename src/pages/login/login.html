@@ -1,0 +1,29 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>LICENCIA</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <form #userForm="ngForm">
+  <img width="400" height="91" src="assets/imgs/logo_aviacionesav.png"/>
+  <ion-item>
+      <ion-label md-margin-end="$item-md-padding-end / 2">DATOS:</ion-label>    
+  </ion-item>
+
+  <ion-item>
+    <ion-input name="nombre" placeholder="Nombre:" maxlength="40"  (change)="GuardarName($event.target.value)"></ion-input> 
+  </ion-item>
+  <ion-item>
+    <ion-input name="email" placeholder="E-mail:"  maxlength="70"  (change)="GuardarEmail($event.target.value)"></ion-input> 
+  </ion-item>
+  <ion-item>
+    <ion-input name="serial" placeholder="Serial:" (change)="GuardarSerial($event.target.value)"  maxlength="15"></ion-input>           
+  </ion-item>
+  </form>
+  <button ion-button round shape="round" fill="outline" color="primary" (click)="ChequeoSerial()">Registrar</button>
+  
+</ion-content>

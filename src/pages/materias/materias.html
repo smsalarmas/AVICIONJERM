@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>SELECCIONE MATERIA</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+    <img width="400" height="91" src="assets/imgs/logo_aviacionesav.png"/>
+ 
+    <ion-list-header>
+      <ion-label >SELECCIONE {{Materia}}</ion-label>        
+    </ion-list-header>
+    <ion-list>
+      <ion-item *ngFor="let item of items; let i = index">            
+        <ion-label  text-wrap>{{item.title}}</ion-label>
+        <ion-radio value="{{item.title}}" (ionSelect)="openPreguntasPage(i+1)"></ion-radio>
+      </ion-item> 
+    </ion-list>
+</ion-content>

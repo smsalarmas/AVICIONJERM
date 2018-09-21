@@ -1,0 +1,117 @@
+{
+    "Comunicaciones_Aeronáuticas": [{
+            "Pregunta": "2.- SI EXISTE UN NOTAM, NOTIFICANDO DEL ESTABLECIMIENTO DE UNA ZONA RESTRINGIDA, PUEDO OPERAR LIBREMENTE POR ESTA ZONA:",
+            "RespuestaCorrecta": "3",
+            "A": "Si, porque es restringida y no prohibida",
+            "B": "Solamente a solicitud con el ATC",
+            "C": "No, porque está publicada su restricción"
+        }, {
+            "Pregunta": "60.- CUÁNDO SE LE REQUIERE A UN PILOTO SOMETER UN REPORTE DETALLADO DE UNA EMERGENCIA, LO QUE CAUSÓ DESVIARSE DE UNA AUTORIZACION DEL ATC:",
+            "RespuestaCorrecta": "1",
+            "A": "Cuando sea requerido por el ATC",
+            "B": "Inmediatamente",
+            "C": "Dentro de 7 días"
+        }, {
+            "Pregunta": "130.- EL MÉTODO CORRECTO DE MENCIONAR 4500 PIES MSL AL ATC ES:",
+            "RespuestaCorrecta": "1",
+            "A": "Cuatro mil quinientos",
+            "B": "Cuatro punto cinco",
+            "C": "Cuarenta y cinco cien pies MSL"
+
+        }, {
+            "Pregunta": "158.- UNA AUTORIZACIÓN DEL ATC DA:",
+            "RespuestaCorrecta": "3",
+            "A": "Prioridad sobre cualquier otro tráfico",
+            "B": "Separación adecuada de cualquier otro tráfico",
+            "C": "Autorización para proceder bajo condiciones de tráfico especificadas en un espacio aéreo controlado"
+
+        }, {
+            "Pregunta": "741.-  UNA ESTACIÓN ATC CON RADAR EMITE EL SIGUIENTE AVISO A UN PILOTO A QUE VUELA EN UN RUMBO 090° TRÁFICO A LAS 3 EN PUNTO, 2 MILLAS, CON RUMBO AL OESTE DÓNDE DEBE BUSCAR EL PILOTO ÉSTE TRÁFICO:",
+            "RespuestaCorrecta": "2",
+            "A": "AL ESTE",
+            "B": "AL SUR",
+            "C": "AL OESTE"
+        }, {
+            "Pregunta": "749.- EN UNA APROXIMACIÓN AL CIRCUITO DE TRÁNSITO, SE OBSERVA QUE ADELANTE Y A LA DERECHA SE TIENE A UNA AERDNAVE REMOLCANDO UN RÓTULO, QUIÉN TIENE EL DERECHO DE PASO:",
+            "RespuestaCorrecta": "2",
+            "A": "Yo, porque soy más rápido y maniobrable",
+            "B": "La aeronave que remolca siempre tiene el derecho de paso",
+            "C": "El que llegue primero al tránsito básico"
+
+        }, {
+            "Pregunta": "752.- CUANDO SE HA OBTENIDC UNA AUTORIZACION DEL ATC, NINGUN PILOTO  AL MANDO PODRÁ DESVIARSE DE ESA AUTORIZACION, A MENOS QUE EL PILOTO OBTENGA UNA AUTORIZACION ENMENDADA LA UNICA EXCEPCION A ESTA REGULACION ES :",
+            "RespuestaCorrecta": "2",
+            "A": "Cuando la aut0rizaci0n afirma, a discreción del piloto ",
+            "B": "En una emergencia",
+            "C": "Si la autorización lleva una restricción"
+        }, {
+            "Pregunta": "740.- EL MÉTODO CORRECTO PARA ESTABLECER 10500 PIES MSL AL ATC ES:",
+            "RespuestaCorrecta": "3",
+            "A": "Ten thousand five hundred feet",
+            "B": "Ten point five",
+            "C": "One zero thousand, five hundred"
+        }, {
+            "Pregunta": "748.- BAJO LA REGULACIÓN NACIONAL (RDA C, ES PERMITIDA LA OPERACIÓN VFR NOCTURNA:",
+            "RespuestaCorrecta": "2",
+            "A": "No, porque no hay referencias visuales confiables",
+            "B": "Si y bajo coordinación con el atc",
+            "C": "Sólo con un permiso escrito de operaciones y del atc"
+
+        }, {
+            "Pregunta": "53- EXCEPTO CUANDO SEA NECESARIO PARA DESPEGUES Y ATERRIZAJES, CUAL ES LA ALTITUD MINIMA SEGURA PARA QUE UN PILOTO OPERE UNA AERONAVE EN CUALQUIER LUGAR:",
+            "RespuestaCorrecta": "1",
+            "A": "Una altitud que permita, si falla una unidad de motor, un aterrizaje de emergencia sin riesgos indebidos a personas o propiedad en la superficie",
+            "B": "Una altitud de 500 pies sobre la superficie y no más cerca de 500 pies de cualquier persona, vehículo, o estructura",
+            "C": "Una altitud de 500 pies sobre el obstáculo más alto entre un radio horizontal de 1000 pies"
+        }, {
+            "Pregunta": "54.- (3102) EXCEPTO CUANDO SEA NECESARIO PARA DESPEGUE Y ATERRIZAJE CUAL ES LA MINIMA ALTITUD SEGURA REQUERIDA PARA QUE UN PILOTO OPERE UNA AERONAVE SOBRE AREAS CONGESTIONADAS:",
+            "RespuestaCorrecta": "3",
+            "A": "Una altitud de 1000 pies por encima de cualquier persona",
+            "B": "Una altitud de 500 pies por encima del obstáculo más alto, dentro de un radio horizontal de 1000 pies de la aeronave",
+            "C": "Una altitud de 100o pies del obstáculo más alto, dentro de un radio horizontal de 2000 pies de la aeronave"
+        },
+        {
+            "Pregunta": "55.- (3103) EXCEPTO CUANDO SEA NECESARIO PARA DESPEGUES Y ATERRIZAJES, CUAL ES LA ALTITUD MINIMA SEGURA REQUERIDA PARA QUE UN PILOTO OPERE UNA AERONAVE SOBRE OTRA COSA QUE NO SEA UN AREA CONGESTIONADA:",
+            "RespuestaCorrecta": "2",
+            "A": "Una altitud que permita, si falla una unidad de motor, un aterrizaje de emergencia sin peligros indebidos a personas o propiedad en la superficie",
+            "B": "Una altitud de 500 pies AGL, excepto sobre mar abierto o un área escasamente poblada, que requiere 500 pies de cualquier persona, barco, vehículo o estructura",
+            "C": "Una altitud de 500 pies sobre el obstáculo más alto, dentro de un radio de 1000 pies"
+        }, {
+            "Pregunta": "474.- CUANDO SE ACTIVA UNA RADIO ELT, LA TRANSMISIÓN SE REALIZA EN:",
+            "RespuestaCorrecta": "2",
+            "A": "115.0 Y 1155 MHZ",
+            "B": "121.5 Y 243.0 MHZ",
+            "C": "123.0 Y 119.0 MHZ"
+        }, {
+            "Pregunta": "469.- UNA LUZ VERDE FIJA SEÑALADA DIRECTAMENTE DESDE LA TWR AL AVIÓN EN VUELO ES UNA SEÑAL QUE EL PILOTO:",
+            "RespuestaCorrecta": "1",
+            "A": "Está autorizado para aterrizar",
+            "B": "Debe dar paso a otro avión y circular para aterrizar",
+            "C": "Debe retornar para aterrizar"
+        }, {
+            "Pregunta": "470.- DESTELLOS BLANCOS SEÑALADOS DESDE LA TWR PARA UN AVIÓN QUE ESTÁ EN TAXEO ES UNA INDICACION DE:",
+            "RespuestaCorrecta": "2",
+            "A": "Taxear a una velocidad mayor",
+            "B": "Taxear solamente por la calle de rodaje sin cruzar las pistas",
+            "C": "Retornar al punto de partida del aeródromo"
+        }, {
+            "Pregunta": "471.- SI LA TWR EMITE UNA SEÑAL PARA QUE EL PILOTO CEDA EL PASO A OTRAS AERONAVES Y SIGA EN EL CIRCUITO, LA LUZ DEBERA SER:",
+            "RespuestaCorrecta": "2",
+            "A": "Destellos rojos:",
+            "B": "Roja fija",
+            "C": "alternado roja y verde"
+        }, {
+            "Pregunta": "472.- QUÉ SEÑAL DE LUZ AUTORIZA AL PILOTO PARA EL TEXEO:",
+            "RespuestaCorrecta": "1",
+            "A": "Destellos verdes",
+            "B": "Verde fija",
+            "C": "Destellos blancos"
+        }, {
+            "Pregunta": "473.- SI UN AVIÓN ESTÁ CON FALLA DE RADIO, CUAL ES EL PROCEDIMIENTO RECOMENDANDO PARA ATERRIZAR EN UN AEROPUERTO CONTROLADO:",
+            "RespuestaCorrecta": "1",
+            "A": "Observar el flujo de tráfico, ingresar al patrón y esperar las señales luminosas desde la twr",
+            "B": "Ingresar a pierna con el viento y mover las alas",
+            "C": "Realizar destellos con las luces de aterrizaje y reciclar el tren mientras este circulando"
+        }
+    ]
+}

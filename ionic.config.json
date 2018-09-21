@@ -1,8 +1,7 @@
 {
-  "name": "MasterTEAM",
+  "name": "AVIACIONESAV",
   "integrations": {
     "cordova": {}
   },
-  "app_id": "",
   "type": "ionic-angular"
 }

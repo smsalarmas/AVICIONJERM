@@ -1,0 +1,40 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Configuración</ion-title>
+  </ion-navbar>
+</ion-header>
+ 
+
+<ion-content padding>
+    <img width="400" height="91" src="assets/imgs/logo_aviacionesav.png"/>
+ 
+       
+      <ion-item>
+          <ion-label md-margin-end="$item-md-padding-end / 2">CONFIGURACIÓN</ion-label>    
+      </ion-item>
+      <ion-item><ion-label>Cantidad de Preguntas:</ion-label></ion-item>
+      <ion-item name="uno">
+          
+          <ion-range name="uno" min="5" max="200" pin="true" step="2" [(ngModel)]="brightness">
+            <ion-icon small range-left name="aperture"></ion-icon>
+            <ion-icon range-right name="aperture"></ion-icon>
+          </ion-range>
+        </ion-item>
+        <ion-item><ion-label></ion-label></ion-item>
+        <ion-item><ion-label>Tiempo por Pregunta:</ion-label>
+            <ion-input type="number"  maxlength="3" value="60"></ion-input> 
+        </ion-item><br/><br/><br/>
+        <button ion-button round>Guardar</button>
+       
+</ion-content>
+
+
+
+<ion-footer>
+  <ion-toolbar>
+    <ion-label class="my-label" stacked>info@aviacionesav.com</ion-label>
+  </ion-toolbar>
+</ion-footer>

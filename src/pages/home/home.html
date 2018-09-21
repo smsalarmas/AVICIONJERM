@@ -1,18 +1,36 @@
 <ion-header>
-  <ion-navbar>
-    <button ion-button menuToggle>
-      <ion-icon name="menu"></ion-icon>
-    </button>
-    <ion-title>Home</ion-title>
+  <ion-navbar  class="ios-header">
+    <button ion-button menuToggle><ion-icon name="menu"></ion-icon></button>   
+    <ion-title pre-wrap><img width="300" height="77" src="assets/imgs/logo_aviacionesav.png"/></ion-title>
   </ion-navbar>
 </ion-header>
 
-<ion-content padding>
-  <h3>Ionic Menu Starter</h3>
-
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will show you the way.
-  </p>
-
-  <button ion-button secondary menuToggle>Toggle Menu</button>
+<ion-content width="100%">
+  
+  <ion-item >
+    <ion-label text-center label-md-text-color="#ffffff">VUELA SIN PENSAR EN LAS BARRERAS...</ion-label>    
+  </ion-item>
+  
+  <ion-grid>
+    <ion-row  align-items-center>
+      <ion-col align-self-center>
+        <button menuClose ion-item  (click)="openCarrerasPage()">
+         <img width="500" src="assets/imgs/aeroplaneicon.png"/>
+        </button>
+      </ion-col>
+      <ion-col align-self-center>
+          <button menuClose (click)="openCarrerasPage()">PRACTICAR</button>
+      </ion-col>
+    </ion-row>
+    <ion-row  align-items-center>
+      <ion-col align-self-center>
+        <button menuClose  ion-item  (click)="openConfigPage()">
+          <img width="500" src="assets/imgs/tools.png"/>
+        </button>
+      </ion-col>
+      <ion-col align-self-center>
+          <button menuClose  (click)="openConfigPage()">CONFIGURAR</button>
+      </ion-col>      
+    </ion-row>
+  </ion-grid>
 </ion-content>

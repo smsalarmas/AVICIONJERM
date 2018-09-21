@@ -1,0 +1,1154 @@
+{
+	"Metereologia": [{		
+			"Pregunta": "196. - LA CAPA INMEDIATAMENTE SUPERIOR A LA TROPOPAUSA SE LLAMIA:",
+			"RespuestaCorrecta": "4",
+			"A": "Troposfera",
+			"B": "Capa ionizada",
+			"C": "Exosfera",
+			"D": "Estratosfera"
+		},
+		{
+			"Pregunta": "197. - COMIO SE DENOMINA LA REGION DE LA ATMIOSFERA DONDE OCURREN LA MIAYOR PARTE DE LOS FENOMENOS METEOROLOGICOS:",
+			"RespuestaCorrecta": "3",
+			"A": "Tropopausa",
+			"B": "Estratosfera",
+			"C": "Troposfera",
+			"D": "Exosfera"
+		},
+		{
+			"Pregunta": "198. - EL MOVIMIENTO DESORDENADO DEL AIRE, SE LLAMIA:",
+			"RespuestaCorrecta": "2",
+			"A": "Corrientes advectivas",
+			"B": "Turbulencia",
+			"C": "Viento",
+			"D": "Corrientes irregulares"
+		},
+		{
+			"Pregunta": "199. - CUAL DE ESTOS GASES QUE FORMIAN ELAIRE, CONSTITUYE MIAS O MENOS LAS 4/5 PARTES DEL TOTAL:",
+			"RespuestaCorrecta": "3",
+			"A": "Oxigeno",
+			"B": "Vapor de agua",
+			"C": "Nitrogeno",
+			"D": "Helio"
+		},
+		{
+			"Pregunta": "200. - ELAIRE SE ENCUENTRA SATURADO, CUANDO:",
+			"RespuestaCorrecta": "3",
+			"A": "Contiene mas vapor de agua del que es capaz",
+			"B": "No contiene vapor de agua",
+			"C": "Contiene todo el vapor de agua de que es capaz"
+		},
+		{
+			"Pregunta": "201. - PARA QUE SE PRODUZCA LA SATURACION DEL AIRE DEBERIA:",
+			"RespuestaCorrecta": "2",
+			"A": "Disminuir la temperatura y la humedad",
+			"B": "Disminuir la temperatura y aumentar la humedad",
+			"C": "Aumentar la y la humedad"
+		},
+		{
+			"Pregunta": "202.- LA TEIVPERATURA DEL PUNTO DE ROCIO ES:",
+			"RespuestaCorrecta": "4",
+			"A": "La temperatura del rocio",
+			"B": "La temperatura a la cual elaire se condensa",
+			"C": "la temperaturaalacualelrocio se enfria",
+			"D": "La temperaturaa la cual elaire se enfria para llegar a la saturacion"
+		},
+		{
+			"Pregunta": "203.- LA HUMEDAD ATMOSFERICA ES EXPRESADA CON LOS SIGUIENTES CONCEPTOS:",
+			"RespuestaCorrecta": "4",
+			"A": "Precipitaciones, rocio y humedad relativa",
+			"B": "Aire saturado, sobresaturado y adiabatico humedo",
+			"C": "Aire saturado, relacion de mezcla y punto de rocio",
+			"D": "Humedad relativa, punto de rocio y relacion de mezcla"
+		},
+		{
+			"Pregunta": "204- LA DISMINUCION DE LA TEMPERATURA CON LA ALTURA A RAZON DE 6,5C POR CADA 1000 IVETROS,SE DENOMNA: ",
+			"RespuestaCorrecta": "1",
+			"A": "Gradiente termico de la temperatura standard",
+			"B": "Gradiente termico adiabatico seco",
+			"C": "Gradiente termico real",
+			"D": "Gradiente termico horizontal"
+		},
+		{
+			"Pregunta": "205. - LA PRESION ATMOSFERICA DISMNUYE CON LA ALTURA, PARTIENDO DEL NIVEL MEDIO DEL MAR, A QUE ALTITUD SU VALOR ES APROXIMADAlVENTE LA MITAD:",
+			"RespuestaCorrecta": "2",
+			"A": "12000 Pies",
+			"B": "18000 Pies",
+			"C": "24000 Pies"
+		},
+		{
+			"Pregunta": "206. - UTILIZANDO EL VAPOR DEL GRADIENTE TERMCO POR LA ATMOSFERA STANDAR, CALCULAR LA TEMPERATURA QUE TENDRA EN UN MOlVENTO DADO UN AERODROMO SITUADO A 500 M. SOBRE EL NIVEL DEL MAR.",
+			"RespuestaCorrecta": "3",
+			"A": "0,65 C",
+			"B": "10,13'C",
+			"C": "15,00 'C"
+		},
+		{
+			"Pregunta": "207. - LAS LECTURAS DEL ALTIIVETRO ESTAN BASADAS EN:",
+			"RespuestaCorrecta": "2",
+			"A": "La altitud e indican la presion delavion",
+			"B": "La presion e indican la altitud indicada del avion",
+			"C": "La altitud e indican presion de la estacion",
+			"D": "La presion e indican la altitud verdadera delavion"
+		},
+		{
+			"Pregunta": "208.- LA FORMULA PARA CONVERTIR TAC,ES: ",
+			"RespuestaCorrecta": "4",
+			"A": "'0=3/4",
+			"B": "-0=9/5 'F + 32",
+			"C": "C=5/9CF + 32)",
+			"D": "C=5/9CF - 32)"
+		},
+		{
+			"Pregunta": "209. - LA TURBULENCIA EN LA ATMOSFERA:",
+			"RespuestaCorrecta": "3",
+			"A": "Afectaa toda la atmosfera",
+			"B": "Es de origen mecancico solamente",
+			"C": "Afectaa una parte de la atmosfera solamente",
+			"D": "Solo se produce durante la noche por enfriamiento adiabatico"
+		},
+		{
+			"Pregunta": "210. - CUAL ES LA DIRECCION GENERAL DE LA CIRCULACION DEL AIRE ALREDEDOR DE UNA AREA DE ALTA PRESION EN EL HEMSFERIO NORTE:",
+			"RespuestaCorrecta": "4",
+			"A": "Deleste",
+			"B": "Del oeste",
+			"C": "En sentido contrario a las manecillas del reloj",
+			"D": "En sentido de las manecillas del reloj"
+		},
+		{
+			"Pregunta": "211. - QUE FUERZA HACE QUE ELAIRE SE DESPLACE HACIA LA IZQUIERDA DE SU NORMAL POSICION EN EL HEMISFERIO NORTE, SI ESTAMOS EN EL ECUADOR MRANDO AL POLO:",
+			"RespuestaCorrecta": "4",
+			"A": "La fuerza centrifuga",
+			"B": "La fuerza centripeda",
+			"C": "La fuerza de friccion",
+			"D": "La fuerza de coriolis"
+		},
+		{
+			"Pregunta": "212. - EN LAS ZONAS COSTERAS Y DURANTE LAS PRIMERAS HORAS DEL DIA, POR CALENTAMENTO SOLAR ELAIRE CIRCULA:",
+			"RespuestaCorrecta": "1",
+			"A": "}De mar atierra",
+			"B": "De tierraamar",
+			"C": "A lo largo de la costa",
+			"D": "El viento es siempre calma"
+		},
+		{
+			"Pregunta": "213. - CUANDO ELAIRE FLUYE DEL MAR HACIA EL CONTINENTE, SE DEBE A:",
+			"RespuestaCorrecta": "1",
+			"A": "Que la tierra esta mas caliente que el mar",
+			"B": "Que el mar esta mas caliente que la tierra",
+			"C": "Al movimiento de las olas",
+			"D": "A la turbulencia"
+		},
+		{
+			"Pregunta": "214- COMO SE DENOMNA LA ZONA EN LA CUAL LA PRESION ES MAYOR QUE EN LAS AREAS CIRCUNDANTES:",
+			"RespuestaCorrecta": "2",
+			"A": "Ciclon",
+			"B": "Anticiclon",
+			"C": "Vaguada",
+			"D": "Collado"
+		},
+		{
+			"Pregunta": "215. - CUAL ES LA DIRECCION GENERAL DE LA CIRCULACION DELAIRE ALREDEDOR DE UNA AREA DE BAJA PRESION EN EL HEMSFERIO SUR:",
+			"RespuestaCorrecta": "3",
+			"A": "Deleste",
+			"B": "Prevalente del oeste",
+			"C": "En sentido de las manecillas del reloj",
+			"D": "En sentido contrario a las manecillas del reloj"
+		},
+		{
+			"Pregunta": "216. - COMO SE DENOMNA LA ZONA EN LA CUAL LA PRESION ES IVENOR QUE EN LAS AREAS CIRCUNDANTES:",
+			"RespuestaCorrecta": "2",
+			"A": "Cuna",
+			"B": "Ciclon",
+			"C": "Collado",
+			"D": "Anticiclon"
+		},
+		{
+			"Pregunta": "217. - ELMOVIMENTO DELAIRE CAUSADO POR EL DESIGUAL CALENTAMENTO, AL MOVERSE SOBRE SUPERFICIES DE DIFERENTE ALBEDO, SE DENOMNA:",
+			"RespuestaCorrecta": "4",
+			"A": "Corrientes convectivas",
+			"B": "Corrientes advectivas",
+			"C": "Corrientes monzonicas",
+			"D": "Vientos alisios"
+		},
+		{
+			"Pregunta": "218. - EN UN MAPA METEOROLOGICO LAS ISOBARAS QUE SE ESTRECHAN (SE APIÑAN), SON UNA INDICACION DE:",
+			"RespuestaCorrecta": "1",
+			"A": "Aumento de velocidad del viento",
+			"B": "Disminucion de la velocidad del viento",
+			"C": "Turbulencia en los niveles superiores al punto de convergencia",
+			"D": "Turbulencia en los niveles inferiores al punto de convergencia"
+		},
+		{
+			"Pregunta": "219. - EN EL GRADIENTE TERMCO VERTICAL REAL:",
+			"RespuestaCorrecta": "1",
+			"A": "El aire seco tiene un gradiente mayor que el humedo",
+			"B": "El aire humedo tiene un gradiente mayor que el seco",
+			"C": "El radiente verticales igualal horizontal de temperatura"
+		},
+		{
+			"Pregunta": "220.- EN LA INVERSION:",
+			"RespuestaCorrecta": "2",
+			"A": "La temperatura disminuye con la altura",
+			"B": "la temperatura aumenta con laaltura",
+			"C": "La presion disminuye con la altura"
+		},
+		{
+			"Pregunta": "221.- A IVENOR PRESION POR ELEVACION, LE CORRESPONDE:",
+			"RespuestaCorrecta": "1",
+			"A": "Una mayor velocidad delavion para el despe©ue y el aterrizaje",
+			"B": "Una mayor velocidad de ascenso y menor velocidad de vuelo",
+			"C": "Una menor velocidad de ascenso y menor velocidad minima de vuelo",
+			"D": "Una menor velocidad delavion para el despegue y el aterrizaje"
+		},
+		{
+			"Pregunta": "222.- LA VARIACION DE LA PRESION ES MAYOR EN LAS:",
+			"RespuestaCorrecta": "3",
+			"A": "Latitudes de 45",
+			"B": "Latitudes de 60",
+			"C": "Latitudes polares",
+			"D": "Latitudes ecuatoriales"
+		},
+		{
+			"Pregunta": "223.- EN UN INFORIVC METAR EN EL GRUPO DE TIEMPO PRESENTE, LAS LETRAS 'DZ´ SIN INDICADOR DE INTENCIDAD (+ O -), SIGNIFICA:",
+			"RespuestaCorrecta": "4",
+			"A": "Nieve",
+			"B": "Niebla",
+			"D": "Llovizna moderada",
+			"C": "Lluvia"
+		},
+		{
+			"Pregunta": "224- AL VOLAR SOBRE AREAS MONTAÑOSAS, LAS CONDICIONES MAS RIGUROSAS DE FORMACION DE HIELO SE PRODUCIRAN:",
+			"RespuestaCorrecta": "3",
+			"A": "En el lado de sotavento",
+			"B": "Sobre los valles situados en las coordilleras",
+			"C": "Sobre las crestas de las montañas en el lado de barlovento",
+			"D": "En el lado de sotavento y barlovento"
+		},
+		{
+			"Pregunta": "225. - LOS VIENTOS ALICIOS EN EL HEMISFERIO SUR SOPLAN DEL:",
+			"RespuestaCorrecta": "3",
+			"A": "N-E",
+			"B": "N-W",
+			"C": "S-E",
+			"D": "S-W"
+		},
+		{
+			"Pregunta": "226. - LOS VIENTOS QUE ASCIENDEN A LO LARGO DE LAS LADERAS DE LAS MONTANAS DURANTE ELDIA, DEBIDO AL CALENTAMIENTO DELAIRE POR CONTACTO, SE LLAMAN:",
+			"RespuestaCorrecta": "4",
+			"A": "Adiabaticos",
+			"B": "Geostroficos",
+			"C": "CatabaticoS",
+			"D": "Anabaticos"
+		},
+		{
+			"Pregunta": "227. - LA TEMPERATURA OPTIMA DE FORMACION DE HIELO EN LOS AVIONES (ENGELAMIENTO), SE PRODUCE GENERALMENTE ENTRE:",
+			"RespuestaCorrecta": "2",
+			"A": "O Y+5 °C; ",
+			"B": "0 Y-18 °C",
+			"C": "-30 Y-35 °C",
+			"D": "-10 Y-18 °C"
+		},
+		{
+			"Pregunta": "228. - LA ZONA DE INTERCONVERGENCIA TROPICAL ES:",
+			"RespuestaCorrecta": "4",
+			"A": "Un frente caliente",
+			"C": "La zona de choque de los vientos del s-e. exclusivamente",
+			"B": "La zona de choque de los vientos del n-e, exclusivamente",
+			"D": "La zona donde convergen los vientos alisios"
+		},
+		{
+			"Pregunta": "229. - A UNA BAJA PRESION SE LA DENOMINA:",
+			"RespuestaCorrecta": "1",
+			"A": "Ciclon",
+			"B": "Baja termica",
+			"C": "Anticiclon",
+			"D": "Cuña"
+		},
+		{
+			"Pregunta": "230. - DURANTE LA EPOCA CALUROSA EL PILOTO ENCONTRARA QUE ELAIRE ES GENERALMENTE TURBULENTO:",
+			"RespuestaCorrecta": "3",
+			"A": "Por encima de las nubes stratus",
+			"B": "Por debajo de las nubes stratus",
+			"C": "Debajo'de los cumulos",
+			"D": "En una pista cubierta por niebla"
+		},
+		{
+			"Pregunta": "231. - LA TROPOPAUSA ES UNA ZONA DE TRANSICION QUE SEPARA LA TROPOSFERA. POR LO TANTO ESTA ES:",
+			"RespuestaCorrecta": "1",
+			"A": "Mas alta en el ecuador y mas baja en los polos",
+			"B": "Igual altura en el ecuador y polos",
+			"C": "Continua en el ecuador y discontinua en los polos",
+			"D": "Mas baja en el ecuador y mas alta en los polos"
+		},
+		{
+			"Pregunta": "232. - LA ATMOSFERA TERRESTRE ES CONSIDERADA COMO UNA CAPA GASEOSA QUE CUBRE LA TIERRA, CUYOS COMPONENTES SON:",
+			"RespuestaCorrecta": "2",
+			"A": "21% oxigen.o. 70% nitrogeno, 9% vapor de agua",
+			"B": "21% oxigeno, 78% nitrogeno, 1% gases raros",
+			"C": "20% oxigeno, 70% nitrogeno, 10% vapor de agua",
+			"D": "20% nitrogeno, 70% oxigeno, 10% vapor de agua"
+		},
+		{
+			"Pregunta": "233. - EN LA ATMOSFERA, AL CONSIDERAR LAS TRES PRIMERAS CAPAS CERCANAS A LA TIERRA, EN ORDEN ASCENDENTE SON:",
+			"RespuestaCorrecta": "1",
+			"A": "Troposfera, estratosfera, ionosfera",
+			"B": "Tropopausa, ionosfera, troposfera",
+			"C": "Troposfera. ionosfera, tropopausa",
+			"D": "Estratosfera, tropopausa, troposfera"
+		},
+		{
+			"Pregunta": "234- LA FUERZA DE CORIOLIS PRODUCE UN EFECTO DE DESVIACION DE CUALQUIER PARTICULA DE AIRE RESPECTO A SU TRAYECTORIA, ESTA DESVIACION ES:",
+			"RespuestaCorrecta": "2",
+			"A": "Menor cuando mayor sea la latitud en la que se encuentra la particula",
+			"B": "Hacia la derecha en el hemisferio norte y hacia la izquierda en el hemisferio sur",
+			"C": "Hacia la derecha en el hemisferio sur y hacia la izquierda en el hemisferio norte",
+			"D": "Hacia la derecha en ambos hemisferios"
+		},
+		{
+			"Pregunta": "235. - CUAL ES LA DIRECCION GENERAL DE LA CIRCULACION DEL AIRE ALREDEDOR DE UN AREA DE BAJA PRESION EN EL HEMISFERIO ÍJORTE:",
+			"RespuestaCorrecta": "3",
+			"A": "Deleste, hacia afuera",
+			"B": "En el sentido de las manecillas delreloj. hacia adentro",
+			"C": "En sentido contrario al de las manecillas del reloj, hacia adentro",
+			"D": "Del oeste. hacia afuera"
+		},
+		{
+			"Pregunta": "236. - SE HA ENCOTRADO QUE EL CALOR ESPECIFICO DE LAS AGUAS OCEANICAS ES BASTANTE MAYOR QUE EL CALOR ESPECIFICO DE LOS CONTINENTES, ESTO SIGNIFICA QUE:",
+			"RespuestaCorrecta": "2",
+			"A": "Los oceanos tardan menos tiempo en calentarse y enfriarse que los continentes adyacentes",
+			"B": "Los oceanos tardan mas tiempo en calentarse y enfriarse que los continentes adyacentes",
+			"C": "En verano los continentes alcanzan a calentarse menos que los oceanos",
+			"D": "En invierno los oceanos se enfrian mas rapidamente que los continentes"
+		},
+		{
+			"Pregunta": "237. - EL TERMOMETRO DE BULBO SECO NOS INDICA 20 °C Y EL DE BULBO HUIVEDO NOS ENDICA IGUAL TEIVPERATURA, ESTAS CONDICIONES NOS REVELAN QUE:",
+			"RespuestaCorrecta": "4",
+			"A": "El aire se encuentra completamente saturado",
+			"B": "El aire es completamente seco",
+			"C": "El aire contiene el 100% del vapor de agua que puede contener",
+			"D": "Las respuestasayc son correctas"
+		},
+		{
+			"Pregunta": "238. - LA PRECIPITACION QUE SE ENCUENTRA ASOCIADA A NUBES CUMULIFORMES Y SE CARACTERIZAN PORQUE COMIENZA Y TERMINA SUBITAMENTE Y SU INTENSIDAD VARIA RAPIDAMENTE, SE DENOMINA:",
+			"RespuestaCorrecta": "3",
+			"A": "Precipitacion continua",
+			"B": "Precipitacion intermitente",
+			"C": "Precipitacion tipo chubasco",
+			"D": "Precipitacion acumulada"
+		},
+		{
+			"Pregunta": "239. - EN LA BRISA DE MAR, EL VIENTO SE DESPLAZA DE:",
+			"RespuestaCorrecta": "1",
+			"A": "Mar a tierra",
+			"B": "Tierraamar",
+			"C": "A lo largo de la costa",
+			"D": "El viento esta en calma"
+		},
+		{
+			"Pregunta": "240. - EL PESO DE UNA COLUMMA DE AIRE SECCION UNITARIA QUE SE EXTIENDE DESDE LA SUPERFICIE HASTA EL LIMITE EXTERIOR DE LA ATMOSFERA, SE DEFINE COMO:",
+			"RespuestaCorrecta": "3",
+			"A": "Unidad de presion",
+			"B": "Equilibrio hidrostatico",
+			"C": "Presion atmosferica",
+			"D": "Gradiente vertical de presion"
+		},
+		{
+			"Pregunta": "241. - SEÑALE LAS CARATERISTICS MAS IMPORTANTES DE LA TROPOPAUSA:",
+			"RespuestaCorrecta": "4",
+			"A": "La temperatura continua disminuyendo con la altura y es una capa inestable",
+			"B": "La temperatura aumenta con la altura. los vientos son suaves y luego aumentan en intensidad. se caracteriza por ser inestable",
+			"C": "Es una capa inestable en la que se producen todos los fenomenos meteorologicos mas importantes conocidos",
+			"D": "La temperatura deja de disminuir con la altura. los vientos alcanzan maxima intendidad y es una capa estable"
+		},
+		{
+			"Pregunta": "242. - UN FACTOR QUE DA LUGAR AL TRANSPORTE DE CALOR DE UN LUGAR A OTRO. O SEA, EL TRASLADO DE LAS MASAS DE AIRE EN SENTIDO HORIZONTAL,SE DENOMINAN:",
+			"RespuestaCorrecta": "4",
+			"A": "Turbulencia mecanica",
+			"C": "Conveccion",
+			"D": "Adveccion",
+			"B": "Turbulencia termica"
+		},
+		{
+			"Pregunta": "243. - UNA DE LAS RAZONES PARA LA EXISTENCIA DE LOS ERRORES ALTIMETRICOS POR TEMPERATURA, ES",
+			"RespuestaCorrecta": "4",
+			"A": "Que la temperatura delaire al nivel del mar no siempre es igual a 15 C",
+			"B": "Que el gradiente termico real no siempre es de 0.65 'c por cada 100 M.",
+			"C": "Las dos respuestas anteriores son correctas",
+			"D": "La diferente densidad delaire entre las zonas polares y ecuatorial"
+		},
+		{
+			"Pregunta": "244- LOS TECHOS BAJOS Y LAS MALAS CONDICIONES DEL TIEMPO PARA EL VUELO, USUALMENTE ESTAN ACOMPAÑADAS POR NUBES TIPO:",
+			"RespuestaCorrecta": "4",
+			"A": "Cirrustratos",
+			"B": "Stratocumulos",
+			"C": "Altocumulos",
+			"D": "Cumulos"
+		},
+		{
+			"Pregunta": "245. - LA NIEBLA QUE SE FORMA GENERALMENTE EN LA IVEDIA NOCHE Y ESPECIALIVENTE EN LA MADRUGADA, CON CIELO DESPEJADO Y VELOCIDAD MUY REDUCIDA DEL VIENTO, SE DENOMINA:",
+			"RespuestaCorrecta": "4",
+			"A": "Niebla frontal",
+			"B": "Nieblaadvectiva",
+			"C": "Niebla de montaña",
+			"D": "Niebla de radiacion"
+		},
+		{
+			"Pregunta": "246. - EN LOS CONTINENTES, LA DIFERENCIA DE LA PRESION EN INVIERNO Y RELATIVA BAJA PRESION EN VERANO, HACIENDO QUE LOS VIENTOS SOPLEN DEL MAR HACIA LA TIERRA EN VERANO Y DE LA TIERRA HACIA EL MAR EN INVIERNO, ESTE REGIMEN DE VIENTO SE CONOCE COMO:",
+			"RespuestaCorrecta": "1",
+			"A": "Monzonico",
+			"B": "Geostrofico",
+			"C": "De brisas",
+			"D": "De valle"
+		},
+		{
+			"Pregunta": "247. - LOS FENOMENOS DE CALIMA, HUMO, TOVANERA Y TORMENTA DE ARENA, SE LOS CLASIFICA COMO:",
+			"RespuestaCorrecta": "3",
+			"A": "FOTOMETEOROS",
+			"B": " ELECTROMETEOROS",
+			"C": "LITOMETEOROS",
+			"D": "FENOMENOS DE VISION"
+		},
+		{
+			"Pregunta": "248. - CRONOLOGICAMENTE, CUALES SON LAS DIFERENTES ETAPAS DE UNA TORMENTA ELECTRICA:",
+			"RespuestaCorrecta": "4",
+			"A": "ETAPA DE CUMULOS. DE DISIPACION Y DE DESARROLLO",
+			"B": " ETAPA DE DESARROLLO. DE CUMULOS Y DE DISIPACION",
+			"C": "ETAPA DE DISIPACION. DE CUMULOS Y ETAPA DE DESARROLLO",
+			"D": "ETAPA DE CUMULOS. DE MADUREZ Y DE DISIPACION"
+		},
+		{
+			"Pregunta": "249. - EL PILOTO PUEDE ESPERAR UNA MAYOR NUBOSIDAD, NIEBLA O PRESIPITACION CUANDO:",
+			"RespuestaCorrecta": "1",
+			"A": "BAJA UK TEMPERATURA Y AUMENTA LA HUMEDAD",
+			"B": " BAJA LA TEMPERATURA Y DISMINUYE LA HUMEDAD",
+			"C": "SUBE LA TEMPERATURA Y AUMENTA LA HUMEDAD",
+			"D": "SUBE LA TEMPERATURA Y DISMINUYE LA HUMEDAD"
+		},
+		{
+			"Pregunta": "250. - LAS LINEAS QUE UNEN TODOS AQUELLOS PUNTOS EN LOS QUE LA TEMPERATURA TIENE EL MISMO VALOR, SE LLAMA:",
+			"RespuestaCorrecta": "1",
+			"A": "ISOTERMAS;",
+			"B": " ISOTACAS;",
+			"C": "CATABATICAS;",
+			"D": "ISOBARAS."
+		},
+		{
+			"Pregunta": "251. - AL ATERRIZAR UNA AERONAVE CON ELALTIMETRO AJUSTADO AL VALOR QNH, ESTE INDICARA:",
+			"RespuestaCorrecta": "4",
+			"A": "LA ALTITUD PRESION DE LA ESTACION",
+			"B": " LAS MANECILLAS DEL INSTRUMENTO INDICARAN CERO",
+			"C": "LA ALTURA DELAEROPUERTO",
+			"D": "lA ELEVACION DE LA ESTACION (AEROPUERTO)"
+		},
+		{
+			"Pregunta": "252. - LA ZONA DE TRANSICION QUE SEPARA DOS MASAS DE AIRE DE DIFERENTE CONTENIDO EN TEMPERATURA Y HUMEDAD, SE DENOMINA:",
+			"RespuestaCorrecta": "3",
+			"A": "Onda del este",
+			"B": " Turbulencia",
+			"C": "Frente",
+			"D": "Viento alicio"
+		},
+		{
+			"Pregunta": "261.- LA ESCALA TERMOMÉTRICA CUYOS PUNTOS EXTREMOS HAN SIDO FIJADOS POR LA TEMPERATURA DEL PUNTO DE EBULLICIÓN DEL AGUA Y LA TEMPERATURA DE FUSIÓN DEL HIELO SE LLAMA:",
+			"RespuestaCorrecta": "3",
+			"A": "FAHRENHEIT",
+			"B": "KELVIN",
+			"C": "CENTIGRADA"
+		},
+		{
+			"Pregunta": "262.- LA VARIACIÓN DE LA PRESIÓN ATMOSFÉRICA TIENE UN CARÁCTER CÍCLICO DURANTE LAS 24 HORAS DEL D|A (MAREA BAROMÉTRIC A LOS VALORES MÍNIMOS DE PRESIÓN SE REGISTRARÁN A LAS: ",
+			"RespuestaCorrecta": "3",
+			"A": "1100 Y 0400 HORAS",
+			"B": "2000 Y 2200 HORAS",
+			"C": "0400 Y 1600 HORAS",
+			"D": "1000 Y 2200 HORAS"
+		},
+		{
+			"Pregunta": "263.- LA TROPÓSFERA SE CARACTERIZA POR:",
+			"RespuestaCorrecta": "3",
+			"A": "La presencia de ondas ionizadas que reflejan las ondas de radio siendo la temperatura constante",
+			"B": "La disminución de la temperatura con la altura, desplazamientos lentos a del aire y presencia de auroras boreales",
+			"C": "Ocurren la mayor parte de los fenómenos meteorológicos",
+			"D": "Se presentan inversiones de temperatura, la temperatura disminuye solo, en los primeros niveles"
+		},
+		{
+			"Pregunta": "264.- QUÉ PROCESO FÍSICO DA LUGAR A LAS NUBES CUMULIFORMES:",
+			"RespuestaCorrecta": "3",
+			"A": "Las corrientes invectivas",
+			"B": "La inversión de la temperatura",
+			"C": "Las corrientes convectivas",
+			"D": "El gradiente térmico vertical"
+		},
+		{
+			"Pregunta": "265.- EL PILOTO CONOCE QUE EL ALTÍMETRO ESTÁ CONSTRUIDO PARA QUE FUNCIONE CON LA ATMOSFERA ESTANDARD. SI LA TEMPERATURA REAL DEL AIRE NO COINCIDE CON ESTA ATMOSFERA, INDIQUE LA SITUACION QUE SUCEDERÍA, EL AIRE ES MÁS:",
+			"RespuestaCorrecta": "3",
+			"A": "Caliente que el de la atmosfera estándar, el avión está más bajo de lo que indica el altímetro",
+			"B": "Caliente que el de la atmosfera estándar, el avión estará más bajo de lo que indica el altímetro",
+			"C": "Frío que el de la atmosfera estándar, el avión estará más bajo de lo que indica el altímetro",
+			"D": "Frío o más caliente que el de la atmosfera estándar, la altura del avión será igual"
+		},
+		{
+			"Pregunta": "266.- SI EN UN AEROPUERTO AL COMENZAR LA MAÑANA EXISTE NIEBLA MODERADA, LA VELOCIDAD DE VIENTO SERA DE:",
+			"RespuestaCorrecta": "4",
+			"A": "11 A 15 KT.",
+			"B": "8 A 10 KT.",
+			"C": "5 A 8 KT.",
+			"D": "MENOS DE 5 KT."
+		},
+		{
+			"Pregunta": "267.- EN UNA CARTA METEOROLÓGICA UNA ZONA SOMBREADA DE COLOR AMARILLO, SIGNIFICA LA PRESENCIA DE:",
+			"RespuestaCorrecta": "2",
+			"A": "BRUMA",
+			"B": "NIEBLA",
+			"C": "LLUVIA",
+			"D": "NIEVE"
+		},
+		{
+			"Pregunta": "268.- SEÑALE LAS NUBES BAJAS:",
+			"RespuestaCorrecta": "2",
+			"A": "CI, CS, SC",
+			"B": "ST, SC",
+			"C": "CU, AS, AC",
+			"D": "ST, CU, SC"
+		},
+		{
+			"Pregunta": "269.- QUÉ PROCESO FÍSICO ORIGINA LA FORMACION DE NIEBLAS STRATUS BAJOS:",
+			"RespuestaCorrecta": "3",
+			"A": "Los vientos anabáticos",
+			"B": "Los procesos de sobresaturación",
+			"C": "Las corrientes advectivas del aire",
+			"D": "Las corrientes convectivas"
+		},
+		{
+			"Pregunta": "270.- SI EL VIENTO ESTÁ EN CALMA DURANTE LA NOCHE, EL AIRE ES HÚMEDO Y LA TEMPERATURA DEL AIRE AMBIENTE DESCIENDE HASTA SU PUNTO DE ROCIO, LO MAS PROBABLE QUE SE FORME ES:",
+			"RespuestaCorrecta": "4",
+			"A": "BRUMA",
+			"B": "HUMO",
+			"C": "TORMENTAS ELÉCTRICAS",
+			"D": "NIEBLA"
+		},
+		{
+			"Pregunta": "271.- QUÉ INCONVENIENTE OPERACIONAL PRESENTA LA NIEBLA:",
+			"RespuestaCorrecta": "3",
+			"A": "Dificulta el vuelo en rutas",
+			"B": "Cubre con escarcha la estructura de una aeronave",
+			"C": "Impide los aterrizajes y despegues de las aeronaves",
+			"D": "Humedece la pista de aterrizaje"
+		},
+		{
+			"Pregunta": "272.- CUÁL ES LA FUNCIÓN ESPECÍFICA DE UN BARÓGRAFO:",
+			"RespuestaCorrecta": "2",
+			"A": "Indica la presión atmosférica en el momento que se efectúa la medición",
+			"B": "Proporciona un registro continuo de la presión atmosférica",
+			"C": "Indica la altura en que se encuentra una aeronave durante el vuelo",
+			"D": "Localizar centros de presión"
+		},
+		{
+			"Pregunta": "273.- EN QUÉ CIRCUNSTANCIAS EL AIRE ESTÁ EN CONDICIONESDE CONTENER MAYOR CANTIDAD DE VAPOR DE AGUA:",
+			"RespuestaCorrecta": "3",
+			"A": "Al llegar a la temperatura de vaporización",
+			"B": "Cuando disminuye la temperatura",
+			"C": "Cuando aumenta la temperatura",
+			"D": "Cuando entramos en una zona frontal"
+		},
+		{
+			"Pregunta": "274.- SE ENTIENDE POR VIENTO:",
+			"RespuestaCorrecta": "3",
+			"A": "Al desplazamiento de las masas de aire caliente",
+			"B": "Al movimiento irregular del aire caliente",
+			"C": "Al desplazamiento del aire en el sentido horizontal",
+			"D": "Al movimiento desordenado del aire"
+		},
+		{
+			"Pregunta": "275.- LA TEMPERATURA ES EL ESTADO SENSIBLE DEL CALOR Y ES DIRECTAMENTE PROPORCIONAL A LA CANTIDAD DE CALOR QUE ABSORBE O PIERDE UN CUERPO O SUBSTANCIA:",
+			"RespuestaCorrecta": "1",
+			"A": "Verdadero",
+			"B": "Falso"
+		},
+		{
+			"Pregunta": "276.- EL AIRE ES DIATERMO A LA RADICACION SOLAR, ESTO QUIERE DECIR QUE: ",
+			"RespuestaCorrecta": "1",
+			"A": "DEJA PASAR LA ONDA CORTA DEL SOL ",
+			"B": "SOLO PASA LA ONDA LARGA DEL SOL ",
+			"C": "SALE LA ONDA CORTA AL ESPACIO EXTERIOR",
+			"D": "EL OZONO ESTA EN UN PORCENTAJE BAJO"
+		},
+		{
+			"Pregunta": "277.- LA TIERRA GIRA ALREDEDOR DEL SOL, CUANDO EL UN HEMISFERIO RECIBE LOS RAYOS SOLARES VERTICALMENTE EL OTRO HEMISFERIO RECIBE LOS RAYOS SOLARES MUY INCLINADOS, POR LO TANTO LA TIERRA SE ENCUENTRA EN:",
+			"RespuestaCorrecta": "3",
+			"A": "Solsticio el primero y equinoccio el segundo",
+			"B": "Equinoccio el primero y en solsticio el segundo",
+			"C": "Verano el primer y en invierno el segundo",
+			"D": "Invierno el primero y en verano el segundo"
+		},
+		{
+			"Pregunta": "278.- LA PRESIÓN VARÍA CON LA TEMPERATURA, POR L0 TANTO DIREMOS QUE LA PRESIÓN ES INVERSAMENTE PROPORCIONAL A LA TEMPERATURA:",
+			"RespuestaCorrecta": "1",
+			"A": "Verdadero:",
+			"B": "Falso"
+		},
+		{
+			"Pregunta": "279.- LA PRESIÓN EN UN AERÓDROMO CUYA ELEVACION ES DE 282M PARTIENDO DE UNA ATMÓSFERA ESTÁNDAR LE CORRESPONDE UN VALOR DE:",
+			"RespuestaCorrecta": "1",
+			"A": "998 HECTOPASCALES",
+			"B": "988 HECTOPASCALES",
+			"C": "978 HECTOPASCALES",
+			"D": "968 HECTOPASCALES"
+		},
+		{
+			"Pregunta": "280. - EL SITIO EN EL CUAL LA PRESION ES MENOR QUE EN LAS AREAS CIRCUNDANTES, SE DENOMNA: ",
+			"RespuestaCorrecta": "4",
+			"A": "ANTICICLON; ",
+			"B": "COLLADO; ",
+			"C": "ALTA PRESION; ",
+			"*D": "CICLON."
+		},
+		{
+			"Pregunta": "281. - SI EL VIENTO SOPLA DEL CENTRO DEL SISTEMA DE PRESION HACIA AFUERA, DIREMOS QUE SE TRATA DE UN SISTEMA DE PRESION LLAMADO: ",
+			"A": "CUÑA DE ALTA PRESION, ANTICICLON ",
+			"B": "VAGUADA, CICLON; ",
+			"C": "COLLADO",
+			"D": "CUÑA DE PRESION, VAGUADA"
+		},
+		{
+			"Pregunta": "282.- CUANDO SE VUELA HACIA UNA REGION DE PRESIONES CRECIENTES, SI NO SE CORRIGE EL ERROR POR PRESIÓN, EL ALTIMETRO INDICARA UNA ALTITUD:",
+			"RespuestaCorrecta": "2",
+			"A": "Mayor que la real de vuelo",
+			"B": "Menor que la real de vuelo",
+			"C": "Iguala la altitud real",
+			"D": "Igual durante su vuelo, pues no incide esta variac|0n de presión"
+		},
+		{
+			"Pregunta": "283.- CUANDO SE ESTÁ VOLANDO DESDE UNA ALTA PRESIÓN HACIA UNA BAJA  PRESIÓN A UNA ALTITUD INDICADA CONSTANTE Y SIN AJUSTE DEL ALTIMETRO, SE ESTÁ PERDIENDO ALTITUD VERDADERA CASO PELIGROSO:",
+			"RespuestaCorrecta": "1",
+			"A": "Verdadero",
+			"B": "Falso"
+		},
+		{
+			"Pregunta": "284.- CUANDO LA TEMPERATURA A UN DETERMINADO NIVEL ES MAYOR QUE LA QUE SUPONE LA ATM0SI=ERA ESTANDARD, LA ALTITUD REAL DE VUELO ES MAYOR QUE LA INDICADA POR EL ALTIMETRO:",
+			"RespuestaCorrecta": "1",
+			"A": "Verdadero",
+			"B": "Falso"
+		},
+		{
+			"Pregunta": "285. - LAS CORRIENTES CONVECTIVAS QUE EXISTEN EN LA ATMOSFERA, SIRVEN PARA: ",
+			"RespuestaCorrecta": "1",
+			"*A": "PROPAGAR EL CALOR VERTICALMENTE;",
+			"B": "PROPAGAR EL CALOR VERTICAL U HORIZONTALMENTE;",
+			"C": "PROPAGAR EL CALOR HORIZONTALMENTE;",
+			"D": "FORMACION DE NUBES ESTRATIFORMES"
+		},
+		{
+			"Pregunta": "286. - LA INTENSIDAD DE LA FUERZA DE CORIOLIS ES: ",
+			"RespuestaCorrecta": "1",
+			"*A": "NULA EN EL ECUADOR Y MAXIMA EN LOS POLOS;",
+			"B": "NULA EN LOS POLOS Y MAXIMA EN EL ECUADOR;",
+			"C": "INDEPENDIENTE DE LA LATITUD;",
+			"D": "MAXIMA EN EL ECUADOR Y EN LOS POLOS. "
+		},
+		{
+			"Pregunta": "287. - LA FUERZA DE CORIOLIS DESVIA AL VIENTO 90 GR. HACIA LA DERECHA EN EL HEMIOSFERIO NORTE Y A LA IZQUIERDA EN EL HEMSFERIO SUR, ESTO SE DEBE A QUE: ",
+			"RespuestaCorrecta": "2",
+			"A": "L---A GIRA ALREDEDOR DEL SOL ",
+			"*B": "LA TIERRA GIRA ALREDEDOR DE SU PROPIO EJE;",
+			"C": "lA TIERRA GIRA CON VIENTOS GEOSTROFICOS;",
+			"D": "LA PRESENCIA DE CONTINENTES ES MAYOR QUE LOS OCEANOS EN EL HHEMISFERIO NORTE."
+		},
+		{
+			"Pregunta": "288. - EN LA CELULA ECUATORIAL DEL HEMSFERIO NORTE, LOS VIENTOS SOPLAN CON UNA TENDENCIA DETERMNADA, SE LOS CONOCE COMO:",
+			"RespuestaCorrecta": "3",
+			"A": "VIENTOS'DEL HEMISFERIO NORTTE;",
+			"B": "VIENTOS ALISIOS DEL S-E;",
+			"*C": "VIENTOS ALISIOS DEL N-E;",
+			"D": "VIENTOS PREDOMINANTES DEL W. "
+		},
+		{
+			"Pregunta": "289. - CONOCEMOS QUE LA TIERRA SE CALIENTA MAS RAPIDAMENTE QUE LOS OCEANOS, PERO LOS MARES SE EFRIAN MAS RAPIDAMENTE QUE LA TIERRA:",
+			"RespuestaCorrecta": "2",
+			"A": "VERDADERO;",
+			"*B": "FALSO. "
+		},
+		{
+			"Pregunta": "290. - LA CIRCULACION MONZONICA SE DEBE A LA DIFERENCIA DE CALENTAMENTO ENTRE LOS CONTINENTES Y LOS OCEANOS EN DIVERSAS ESTACIONES DEL AÑO: ",
+			"RespuestaCorrecta": "1",
+			"*A": "VERDADERO;",
+			"B": "FALSO. "
+		},
+		{
+			"Pregunta": "291. - LA BRISA DEL MAR SE PRODUCE DURANTE LAS HORAS DE LA TARDE Y SE DEBE A QUE LAS COSTAS SE HAN CALENTADO MAS QUE LOS OCEANOS ADYACENTES POR LO QUE EN LA COSTA SE HA FORMADO UNA ZONA DE:",
+			"RespuestaCorrecta": "2",
+			"A": "RELATIVA ALTA PRESION;",
+			"*B": "RELATIVA BAJA PRESION;",
+			"C": "RELATIVA ALTA TERMICA;",
+			"D": "RELATIVA BAJA TERMICA"
+		},
+		{
+			"Pregunta": "292. - LA INTENSIDAD DE LOS VIENTOS DEPENDE DEL GRADO DEL CALENTAMENTO DE LA ATMOSFERA Y DE LA DIFERENCIA DE CALENTAMENTO DE LAS PLAYAS CON RESPECTO AL MAR: ",
+			"RespuestaCorrecta": "1",
+			"*A": "VERDADERO;",
+			"B": "FALSO. "
+		},
+		{
+			"Pregunta": "293. - LA HUMEDAD RELATIVA ES UNA FORMA DE MEDIR LA CANTIDAD DE VAPOR DE AGUA EXISTENTE EN LA ATMOSFERA Y CONSISTE EN RELACIONAR EL VAPOR DE AGUA QUE REALMENTE EXISTE CON LA QUE PODRIA CONTENER EL AIRE Y SE EXPRESA EN PORCENTAJE:",
+			"RespuestaCorrecta": "3",
+			"A": "VERDADERO ",
+			"B": "FALSO. "
+		},
+		{
+			"Pregunta": "294. - CUANDO EL VALOR DE LA DEPRESION DEL PUNTO DE ROCIO ES CERO, DIREMOS QUE EL AIRE ESTA:",
+			"RespuestaCorrecta": "3",
+			"A": "PROXIMO A EVAPORARSE;",
+			"B": "PROXIMO A SATURARSE AL 100%;",
+			"*C": "COMPLETAMENTE SATURADO AL 100%;",
+			"D": "SOBRE SATURADO. "
+		},
+		{
+			"Pregunta": "295. - PARA LLEGAR A LA PRECIPITACION, SE DEBE CUMPLIR CON EL SIGUIENTE PROCESO:",
+			"RespuestaCorrecta": "1",
+			"A": "EVAPORACION. CONSDESACION. PRECIPITACION;",
+			"B": "EVAPORACION, SATURACION. PRECIPITACION;",
+			"C": "SATURACION.CONDESACION,PRECIPITACION;",
+			"D": "EVAPORACION, SATURACION. CONDESACION Y PRECIPITACION"
+		},
+		{
+			"Pregunta": "296. - LA PRECIPITACION QUE PERMANECE LIQUIDA CAE COMO LLUVIA, LA SUBLIMACION DA LUGAR A COPOS DE NIEVE Y CAE COMO NIEVE: ",
+			"RespuestaCorrecta": "1",
+			"*A": "VERDADERO;",
+			"B": "FALSO. "
+		},
+		{
+			"Pregunta": "297. - EL ROCIO Y LA ESCARCHA TAMBIEN CAEN A LA SUPERFICIE POR LO QUE PODEMOS CONSIDERAR COMO UNA CLASE DE PRECIPITACION:",
+			"RespuestaCorrecta": "2",
+			"A": "VERDADERO;",
+			"*B": "FALSO. "
+		},
+		{
+			"Pregunta": "298. - CUANDO LA DEPRESION DEL PUNTO DE ROCIO AUMENTA, COMO PILOTO SE ESPERA QUE:",
+			"RespuestaCorrecta": "2",
+			"A": "lA NUBPSIDAD Y LA NIEBLA DESAPAREZCAN VIOLENTAMENTE;",
+			"*B": "LA NUBOSIDAD Y LA NIEBLA SE ELEBARAN Y DISIPARAN;",
+			"C": "LA NUBOSIDAD Y LA NIEBLA AUMENTARAN;",
+			"D": "LA NUBOSIDAD Y LA NIEBLA PERMANEZCAN IGUALES. "
+		},
+		{
+			"Pregunta": "299. - EL CHUBASCO ES UN TIPO DE PRECIPITACION QUE ES DE CORTA DURACION, CUYA CARACTERISTICA ES QUE COMIENZA Y TERMINA BRUSCAMENTE Y PUEDE SER DE GRAN INTENSIDAD: ",
+			"RespuestaCorrecta": "1",
+			"*A": "VERDADERO;",
+			"B": "FALSO. "
+		},
+		{
+			"Pregunta": "300. - SI SE ESTA VOLANDO A TRAVEZ DE NUBES DE PRECIPITACION LIQUIDA CON TEMPERATURAS INFERIORES A LA DE CONGELACION SE PUEDE ESPERAR:",
+			"RespuestaCorrecta": "3",
+			"A": "FORMACION DE CRISTALES DE HIELO EN ALTOS NIVELES;",
+			"B": "ENGELAMIENTO EN LA ESTRUCTURA DE LA AERONAVE;",
+			"C": "PRESENCIA DE PRECIPITACION LIQUIDA;",
+			"D": "PRESENCIA DE PRECIPITACION SOLIDA. UNICAMENTE"
+		},
+		{
+			"Pregunta": "301. - UNA CAPA DE AIRE ES ESTABLE CUANDO:",
+			"RespuestaCorrecta": "3",
+			"A": "HAY CORRIENTES EN SENTIDO HORIZONTAL",
+			"B": "HAY NUBES DE DESARROLLO VERTICAL ",
+			"*C": "HAY NUBES ESTRATIFICADAS;",
+			"D": "HAY CORRIENTES ASCENDENTES Y DESCENDENTES. "
+		},
+		{
+			"Pregunta": "302. - CUANDO EL AIRE ES ESTABLE EN VUELO SE ENCONTRARA NUBES ESTRATIFICADAS Y VUELO ESTABLE: -",
+			"RespuestaCorrecta": "3",
+			"A": "VERDADERO;",
+			"B": "FALSO. "
+		},
+		{
+			"Pregunta": "303. - LAS FAMILIAS DE LAS NUBES SON LAS SEGUIENTES:",
+			"RespuestaCorrecta": "3",
+			"A": "NUBES ALTAS. MEDIAS Y DE DESARROLLO VERTICAL",
+			"B": "NUBES ALTAS. BAJAS Y DE DESARROLLO VERTICAL",
+			"C": "NUBES MEDIAS. BAJAS Y DE DESARROLLO VERTICAL ",
+			"D": "NUBES ALTAS. MEDIAS. BAJAS Y DE DESARROLLO VERTICAL "
+		},
+		{
+			"Pregunta": "304.- LA FAMILIA DE NUBES ALTAS ESTAN COMPUESTAN POR CRISTALES DE HIELO Y LA ALTURA DE ESTAS NUBES VA DESDE: -",
+			"RespuestaCorrecta": "3",
+			"A": "18000 PIES;",
+			"B": "6000 PIES;",
+			"C": "2000 M. "
+		},
+		{
+			"Pregunta": "305. - LAS NUBES MEDIAS SON NUBES COMPUESTAS POR GOTITAS DE AGUA Y CRISTALES DE HIELO, LA ALTURA DE LA BASE DE ESTAS NUBES EN LA REGION TROPICAL VA DESDE: ",
+			"RespuestaCorrecta": "2",
+			"A": "12000 FT A46000 FT;",
+			"*B": "6000 FTA24000FT;",
+			"C": "6000 FT A46000 FT;",
+			"D": "LA SUPERFICIE A 12000 FT."
+		},
+		{
+			"Pregunta": "306. - LAS NUBES BAJAS ESTAN COMPUESTAS POR:",
+			"RespuestaCorrecta": "2",
+			"A": "CRISTALES DE HIELO: ",
+			"*B": "GOTAS DE AGUA:",
+			"C": "GOTAS DE AGUA Y CRISTALES DE HIELO:",
+			"D": "GOTAS DE AGUA INVISIBLES. "
+		},
+		{
+			"Pregunta": "307. - LASNUBESCIRRUS/CIRROCUMULOSYCIRROSTRATUSPERNECEM ALASNUBES: ",
+			"RespuestaCorrecta": "1",
+			"*A": "ALTAS",
+			"B": "BAJAS",
+			"C": "MEDIAS",
+			"D": "DE DESARROLLO VERTICAL"
+		},
+		{
+			"Pregunta": "308. - LOS ESTRATUS, STRATOCUMULOS Y CUMULOS PERTENECEN A LA FAMLIADE LAS NUBES:",
+			"RespuestaCorrecta": "3",
+			"A": "ALTAS;",
+			"B": "MEDIAS;",
+			"*C": "BAJAS;",
+			"D": "DE DESAROLLO VERTICAL "
+		},
+		{
+			"Pregunta": "309. - CUANDO EL AIRE FRIO SE DESPLAZA SOBRE UNA SUPERFICIE CALIENTE, ES CALENTADO DESDE ABAJO, GENERANDO:",
+			"RespuestaCorrecta": "3",
+			"A": "AIRE ESTABLE Y CHUBASCOS;",
+			"B": "AIRE ESTABLE O INESTABLE DEPENDIENDO DEL GRADO DE CALENTAMIENTO;",
+			"*C": "AIRE INESTABLE CON FORMACION DE NUBES CUMULIFORMES Y LA PRESENCIA DE CHUBASCOS;",
+			"D": "AIRE ESTABLE CON FORMACION DE NUBES ESTRATIFORMES Y LA PRESENCIA DE CHUBASCOS. "
+		},
+		{
+			"Pregunta": "310. - LA CORTANTE DE VIENTO ES CONOCIDA COMO:",
+			"RespuestaCorrecta": "2",
+			"A": "CORRIENTES DE LA MISMA DIRECCION;",
+			"*B": "CIZALLADURA DE VIENTO;",
+			"C": "CORRIENTES DE LA MISMA INTENSIDAD;",
+			"D": "CORRIENTES EN CHORRO. "
+		},
+		{
+			"Pregunta": "311. - EL CALENTAMENTO NO UNIFORIVE DE LA SUPERFICIE TERRESTRE, CON FRECUENCIA DA COMO RESULTADO LA FORMACION DE:",
+			"RespuestaCorrecta": "3",
+			"A": "UN FRENTE DE OCLUSION;",
+			"B": "UNA AREA DE ALTA PRESION;",
+			"C": "UN FRENTE CALIENTE;",
+			"D": "NUBES DE TIPO CUMULOS"
+		},
+		{
+			"Pregunta": "312. - A LA ZONA DE TRANSICION ENTRE DOS MASAS DE AIRE DIFERENTES QUE ESTAN EN CONTACTO, SE DENOMNA:",
+			"RespuestaCorrecta": "2",
+			"A": "MASA METEOROLOGICA;",
+			"*B": "FRENTE;",
+			"C": "CAPA DE TRANSICION;",
+			"D": "I.T.C. "
+		},
+		{
+			"Pregunta": "313. - EL BORDE DELANTERO DE UNA MASA POLAR O ARTICA QUE SE DESPLAZA HACIA IVENORES LATITUDES SE LLAMA:",
+			"RespuestaCorrecta": "3",
+			"A": "FRENTE CAUENTE;",
+			"B": "ZONA FRONTAL ",
+			"*C": "FRENTE FRIO. "
+		},
+		{
+			"Pregunta": "314. - LA MASA DE AIRE CAUENTE QUE DESPLAZA AL AIRE FRIO, RECIBE EL NOMBRE DE:",
+			"RespuestaCorrecta": "4",
+			"A": "FRENTE OCLUIDO;",
+			"B": "FRENTE FRIO;",
+			"C": "FRENTE ESTACIONARIO;",
+			"*D": "FRENTE CAUENTE. "
+		},
+		{
+			"Pregunta": "315. - EN ALGUNAS OCASIONES LAS FUERZAS OPUESTAS QUE EJERCEN LAS MASAS DE AIRE ADYACENTES, SON DE TAL NATURALEZA, QUE EL FRENTE NO SE MUEVE, A ESTO SE LLAMA: ",
+			"RespuestaCorrecta": "2",
+			"A": "FRENTES FIJOS;",
+			"*B": "FRENTES CUASIESTACIONARIOS;",
+			"C": "FRENTES CALIENTES."
+		},
+		{
+			"Pregunta": "316. - EL PRINCIPIO BASICO DEL ALTIIVETRO ES:",
+			"RespuestaCorrecta": "3",
+			"A": "U---N ENTRE LAS VARIACIONES DE TEMPERATURA ATMOSFERICA A MAYOR TEMPERATURA MENOR ALTURA Y VICEVERSA;",
+			"B": "NO HAY REGLA FIJA EN SU FUNCIONAMIENTO;",
+			"C": "REACCIONA ANTE VARIACIONES DE PRESION ATMOSFERICA. A MAYOR PRESION MENOR ALTITUD YA MENOR PRESION MAYOR ALTITUD. "
+		},
+		{
+			"Pregunta": "317. - LAS NUBES EN FORMA DE TORRE CON SUS BASES PLANAS Y DE COLOR LIGERAMENTE OSCURO SON:",
+			"RespuestaCorrecta": "3",
+			"A": "ESTRATUS;",
+			"B": "NIMBUSTRATOS;",
+			"*C": "CUMULUS;",
+			"D": "CIRRUS. "
+		},
+		{
+			"Pregunta": "318. - LA NUBE ASOCIADA CON TURBULENCIA SEVERA, LLUVIA FUERTE Y GRANIZO SE DENOMNA:",
+			"RespuestaCorrecta": "3",
+			"A": "ALTO STRATUS;",
+			"B": "NIMBUSTRATUS;",
+			"*C": "CUMULONIMBUS;",
+			"D": "CIRROCUMULUS."
+		},
+		{
+			"Pregunta": "319. - UNA MASA DE AIRE TROPICAL SE CARACTERIZA POR:",
+			"RespuestaCorrecta": "3",
+			"A": "TEMPERATURAS ALTAS Y REDUCIDA CAPACIDAD DE VAPOR DE AGUA;",
+			"B": "TEMPERATURAS BAJAS CON RESPECTO A LA SUPERFICIE;",
+			"C": "NUBES DE TIPO STRATUS Y AGUACEROS;",
+			"D": "ALTAS TEMPERATURAS. GRAN CANTIDAD DE VAPOR DE AGUA Y AIRE. "
+		},
+		{
+			"Pregunta": "320. - UNA BAJA REPENTINA EN EL BAROMETRO, GENERALIVENTE INDICA:",
+			"RespuestaCorrecta": "3",
+			"A": "EL PASO DE UNA VAGUADA;",
+			"B": "UN RAPIDO DESCENSO DE LA TEMPERATURA;",
+			"C": "LA PROXIMIDAD DEL TIEMPO BUENO Y DESPEJADO;",
+			"D": "LA PROXIMIDAD DE UNA TORMENTA."
+		},
+		{
+			"Pregunta": "321. - NUBES DE TIPO CUMULOS PEQUEÑAS Y AISLADAS, DISEMNADAS EN UN CIELO AZUL, SON CARACTERISTICAS DE:",
+			"RespuestaCorrecta": "2",
+			"A": "AREAS DE TORMENTA;",
+			"*B": "CUMULOS DE BUEN TIEMPO;",
+			"C": "NIEBLA INMINENTE;",
+			"D": "BUEN TIEMPO CON CHUBASCOS OCASIONALES. "
+		},
+		{
+			"Pregunta": "322. - EL TIPO DE NIEBLA QUE SE ORIGINA CUANDO EL AIRE CALIENTE SE MUEVE SOBRE UNA SUPERnCIE FRIA, SE DENOMNA: ",
+			"RespuestaCorrecta": "1",
+			"*A": "NIEBLA DE ADVECCION;",
+			"B": "NIEBLA DE VALLE;",
+			"C": "NIEBLA DE RADIACION;",
+			"D": "NIEBLA DE VAPORIZACION. "
+		},
+		{
+			"Pregunta": "323. - CUANDO EL AIRE A CIERTA TEIVPERATURA YA NO PUEDE CONTENER AGUA EN FORMA GASEOSA A ESA TEMPERATURA, SE DICE QUE ELAIRE ESTA:",
+			"RespuestaCorrecta": "3",
+			"A": "HUMEDO;",
+			"B": "FRESCO;",
+			"*C": "SATURADO;",
+			"D": "VAPORIZADO. "
+		},
+		{
+			"Pregunta": "324.- EN UN MAPA DE SUPERFICIE, QUE NOlVBRE TIENEN LAS LINEAS QUE UNEN PUNTOS DONDE LA PRESION ATMOSFERICA TIENE EL MSMO VALOR:",
+			"RespuestaCorrecta": "3",
+			"A": "ISOTOCAS;",
+			"B": "ISOTERMAS;",
+			"*C": "ISOBARAS."
+		},
+		{
+			"Pregunta": "325. - LAS NUBES QUE FORMAN SUS BASES DESDE MUY CERCA DE LA SUPERFICIE TERRESTRE HASTA LOS 2000 METROS DE ALTURA, CONSTITUYEN LA FAMILIA DE LAS NUBES: ",
+			"RespuestaCorrecta": "1",
+			"*A": "DE DESARROLLO VERTICAL",
+			"B": "MEDIAS;",
+			"C": "ALTAS. "
+		},
+		{
+			"Pregunta": "326. - SEÑALE EL GRUPO DE LAS NUBES IVEDIAS:",
+			"RespuestaCorrecta": "2",
+			"A": "CLCS. CC;",
+			"*B": "AS.AC.NS;",
+			"C": "ST, SC, CU. CS;",
+			"D": "AS. ST. CI. CB. "
+		},
+		{
+			"Pregunta": "327. - EL INSTRUMENTO PARA MEDIR LA DIRECCION DEL VIENTO, ES: ",
+			"RespuestaCorrecta": "1",
+			"*A": "ANEMOMETRO;",
+			"B": "BAROMETRO;",
+			"C": "NEFOBASIMETRO;",
+			"D": "TERMOMETRO."
+
+		},
+		{
+			"Pregunta": "328. - LA DEPRESIONDEL PUNTO DE ROCIO ES LA DIFERENCIA DE TEMPERATURAS INDICADAS ENTRE:",
+			"RespuestaCorrecta": "2",
+			"A": "EL TERMOMETRO AMBIENTE Y EL SECO;",
+			"*B": "EL TERMOMETRO AMBIENTE Y EL PUNTO DE ROCIO;",
+			"D": "EL TERMOMETRO AMBIENTE Y LA TEMPERATURA ABSOLUTA.",
+			"C": "EL TERMOMETRO DE BULBO SECO Y EL TERMOMETRO DE BULBO HUMEDO;"
+		},
+		{
+			"Pregunta": "329. - CUANDO UN PILOTO EN VUELO ACCIONA LA PERILLA DE SU ALTIMETRO ESTA AJUSTANDO: •",
+			"RespuestaCorrecta": "3",
+			"A": "VALORES DE PRESION;",
+			"B": "VALORES DE ALTURA;",
+			"C": "VALORES DE ELEVACION. "
+		},
+		{
+			"Pregunta": "330. - EL AIRE EN LAS LADERAS DE LAS SERRANIAS SE CALIENTA MAS RAPIDAMENTE DURANTE EL DIA QUE EL AIRE SUBYACENTE, LO QUE PRODUCE UN MOVEMIENTO ASCENDENTE DEL AIRE A LO LARGO DE LA PENDIENTE. EL VIENTO ASI GENERADO SE LLAMA:",
+			"RespuestaCorrecta": "4",
+			"A": "VIENTOS CATABATICOS;",
+			"B": "VIENTOS MONZONICOS;",
+			"C": "VIENTOS FOEHN;",
+			"*D": "VIENTOS ANABATICOS. "
+		},
+		{
+			"Pregunta": "331. - DIGA LAS UNIDADES QUE SE UTILIZAN PARA MEDIR LA CANTIDAD DE LAS NUBES:",
+			"RespuestaCorrecta": "2",
+			"A": "MILLAS NAUTICAS;",
+			"*B": "OCTAS;",
+			"C": "PIES;",
+			"D": "MILLAS TERRESTRES. "
+		},
+		{
+			"Pregunta": "332. - LAS LINEAS QUE UNEN TODOS AQUELLOS PUNTOS EN LOS QUE LA VELOCIDAD DEL VIENTO TIENE LA MISMA MAGNITUD E INTENSIDAD SE LLAMAN:",
+			"RespuestaCorrecta": "2",
+			"A": "ISOTERMAS;",
+			"*B": "ISOTACAS;",
+			"C": "ISOOONAS;",
+			"D": "ISOBARAS. "
+		},
+		{
+			"Pregunta": "333.- LA ALTURA DE LAS BASES Y TOPES DE LAS NUBES DE DESARROLLO VERTICAL EN LOS TROPICOS, PUEDEN SER DE: ",
+			"RespuestaCorrecta": "2",
+			"A": "1000 A LA TROPOPAUSA;",
+			"*B": "500 A 18 KM. APROXIMADAMENTE;",
+			"C": "O A6 KM. APROXIMADAMENTE.",
+			"D": "O A 12 KM. APROXIMADAMENTE."
+		},
+		{
+			"Pregunta": "334.- LA RELACION ENTRE LA CANTIDAD DE VAPOR DE AGUA EXISTENTE EN LA ATMOSFERA EN UN MOMENTO DETERMINADO Y LA QUE EXISTIRIA Si ELAIRE ESTUVIESE SATURADO, SE DENOMINA:",
+			"RespuestaCorrecta": "3",
+			"A": "TENSION DE VAPOR;",
+			"B": "DEPRESION DELPUNTO DE ROCIO;",
+			"C": "HUMEDAD ESPECIFICA;",
+			"D": "HUMEDAD RELATIVA "
+		},
+		{
+			"Pregunta": "335. - LA NIEBLA, CALIMA Y TORMENTA SE REPORTAN CON LOS SIGUIENTES SIMBOLOS: ",
+			"RespuestaCorrecta": "3",
+			"A": "P. NC, TS;",
+			"B": "FG. HZ, TOR;",
+			"*C": "FG. HZ.TS;",
+			"D": "F, T. H. "
+		},
+		{
+			"Pregunta": "336. - EN UN MAPA DE SUPERFICIE, QUE RELACION GUARDA EL ESPACIO ENTRE ISOBARAS Y LA INTENSIDAD DEL VIENTO: ",
+			"RespuestaCorrecta": "2",
+			"A": "DIRECTAMENTE PROPORCIONAL;",
+			"*B": "INVERSAMENTE PROPORCIONAL;",
+			"C": "PROPORCION SIMPLE;",
+			"D": "EN PROPORCION AL CUADRADO DE LA DISTANCIA."
+		},
+		{
+			"Pregunta": "337. - SE CONSIDERA A LA ATMOSFERA TERRESTRE COMO UNA CAPA GASEOSA QUE CUBRE LA TIERRA Y CUYOS COMPONENTES SON: ",
+			"RespuestaCorrecta": "1",
+			"*A": "21% OXIGENO. 78% NITROGENO. 1% GASES RAROS. VAPOR DE AGUA. ANHIDRIDO CARBONICO;",
+			"B": "21% OXIGENO. 70% NITROGENO. 9% GASES RAROS Y VAPOR DE AGUA;",
+			"C": "20% OXIGENO, 70% NITROGENO. 10% GASES RAROS. VAPOR DE AGUA Y ANHIDRIDO CARBONICO;",
+			"D": "20% OXIGENO. 70% NITROGENO. 10% GASES RAROS,ANHIDRIDO CARBONICO. "
+		},
+		{
+			"Pregunta": "338. - A LA CAPA GASEOSA QUE ENVUELVE LA TIERRA SE LA CONOCE CON EL NOMBRE DE:",
+			"RespuestaCorrecta": "2",
+			"A": "CROMOSFERA;",
+			"*B": "ATMOSFERA;",
+			"C": "IONOSFERA;",
+			"D": "HILIOSFERA. "
+		},
+		{
+			"Pregunta": "339. - LA TEMPERATURA SE EXPRESA EN:",
+			"RespuestaCorrecta": "2",
+			"A": "CALORIAS;",
+			"*B": "GRADOS TERMOMETRICOS;",
+			"C": "GRADOS GEOTERMICOS;",
+			"D": "GRADOS CENTIGRADOS. "
+		},
+		{
+			"Pregunta": "340. - LA TEMPERATURA DEL AIRE SE MIDE EN GRADOS: ",
+			"RespuestaCorrecta": "1",
+			"*A": "CENTIGRADOS O FARANHEIT;",
+			"C": "DE HUMEDAD RELATIVA;",
+			"D": "CENTIGRADOS DELPUNTO DELROCIO.",
+			"B": "ABSOLUTOS O CALORIAS;"
+		},
+		{
+			"Pregunta": "341. - DENTRO DE LOS GRADOS TERMOMETRICOS, CERO GRADOS CELSIUS O CENTIGRADOS EQUIVALEN A:",
+			"RespuestaCorrecta": "3",
+			"A": "O °F;",
+			"B": "212 °F;",
+			"*C": "32 °F."
+		},
+		{
+			"Pregunta": "342. - COVIERTA 86°f A °C:",
+			"RespuestaCorrecta": "3",
+			"A": "54 °C;",
+			"B": "36 °C;",
+			"*C": "30 °C;",
+			"D": "3 °C. "
+		},
+		{
+			"Pregunta": "343. - EN LA ATMOSFERA EXISTE UNA ZONA DE TRANSICION ENTRE LA TROPOSFERA Y LA ESTRATOSFERA LLAMADA:",
+			"RespuestaCorrecta": "3",
+			"A": "IONASFERA:",
+			"B": "CRONOSFERA;",
+			"C": "HELIOSFERA;",
+			"D": "TROPOPAUSA."
+		},
+		{
+			"Pregunta": "344.- UNO DE LOS INTRUIVENTOS UTILIZADOS EN METEOROLOGIA PARA REGISTRAR VARIACIONES DE PRESION ATMOSFERICA ES EL:",
+			"RespuestaCorrecta": "3",
+			"A": "VACUOMETRO;",
+			"B": "ELINDICADIR DEWAFC;",
+			"*C": "EL BAROGRAFO;",
+			"D": "EL TUBO PITOT. "
+		},
+		{
+			"Pregunta": "345. - LOS VALORES DE LA PRESION ATMOSFERICA QUE SE PROPORCIONAN A LOS PILOTOS, GENERALMENTE ESTAN DADOS EN:",
+			"RespuestaCorrecta": "2",
+			"A": "ATMOSFERAS;",
+			"*B": "MlUBARES O HECTOPASCALES;",
+			"C": "GRADOS CENTIGRADOS;",
+			"D": "GRADOS BAROMETRICOS;"
+		},
+		{
+			"Pregunta": "346. - SI EL PILOTO DE UNA AERONAVE EN VUELO AJUSTA EN SU ALTIMETRO 1013.25 M3. O BIEN 29.92 PULGADAS, QUE ALTITUD ESTA AJUSTANDO:",
+			"RespuestaCorrecta": "3",
+			"B": "ALTITUD BAROMETRICA;",
+			"A": "ALTITUD DENSIMETRICA;",
+			"C": "ALTITUD PRESION;",
+			"D": "ALTURA DE LA AERONAVE."
+		},
+		{
+			"Pregunta": "347. - DESPUES DE CRUZAR EL NIVEL DE TRANSICION EN UN VUELO EN ASCENSO, SE DEBE AJUSTAR EL ALTIMETRO A 1013.25 MB. QUÉ LECTURA INDICA SU ALTIMETRO:",
+			"RespuestaCorrecta": "3",
+			"A": "ELEVACION DELAEROPUERTO;",
+			"B": "ALTITUD DENSIMETRICA ",
+			"*C": "NIVEL DE VUELO;",
+			"D": "ELEVACION REQUERIDA "
+		},
+		{
+			"Pregunta": "348. - EN UNA CARTA DE SUPERFICIE, ANALIZADA EN BLANCO Y NEGRO, UN FRENTE FRIO SE REPRESENTA CON UNA LINEA:",
+			"RespuestaCorrecta": "3",
+			"A": "FRAGMENTADA;",
+			"B": "CON SEMICIRCULOS;",
+			"*C": "CON PICOS;",
+			"D": "UNA LINEA DE PUNTOS. "
+		},
+		{
+			"Pregunta": "349. - SI EL AIRE ES MIAS FRIO QUE EL DE LA ATMOSFERA ESTANDARD, EL AVION ESTARA MAS ABAJO DE LO QUE LE INDICA ELALTIMETRO: ",
+			"RespuestaCorrecta": "1",
+			"*A": "VERDADERO;",
+			"B": "FALSO. "
+		},
+		{
+			"Pregunta": "350. - EXPRESE EN TEXTO CLARO EL SIGUIENTE REPORTE METEREOLOGICO: METAR SEPA 1300 OOOOOKT 4000 TSRA SCT010CB SCTOCB OVC100 18/17 Q1020 CB TO S: •",
+			"RespuestaCorrecta": "3",
+			"A": "RESPUESTA. "
+		},
+		{
+			"Pregunta": "351. - EXPRESE EN TEXTO CLARO EL SIGUIENTE REPORTE METEOROLOGICO: METAR SEQU 1300",
+			"RespuestaCorrecta": "1",
+			"A": "RESPUESTA. "
+		},
+		{	"Pregunta": "352. - EXPRESE EN TEXTO CUVRO EL SIGUIENTE REPORTE METEOROLOGICO: METAR SEQU 2100 04005 KT 8000S 9999N TSRA SCT015 SCT020CB BKN033 14/12 Q1023 CB S BECMIG TL2200 NSW:",
+		    "RespuestaCorrecta": "1",
+			"A": "RESPUESTA"
+		},
+		{
+			"Pregunta": "353. - EXPRESE EN TEXTO CLARO EL SIGUIENTE REPORTE METEOROLOGICO: METAR SELA 1800 27005KT 5000NE 9999SW VCSH BKN020 BKN100 25/23 Q1012:", 
+			"RespuestaCorrecta": "1",
+			"A": "RESPUESTA"
+		},
+		{
+			"Pregunta": "354. - EXPRESE EN TEXTO CLARO EL SIGUIENTE REPORTE METEOROLOGICO: METAR SETU 1200 OOOOOKT 1000NE 9999SW BCFG SCT010 BKN300 07/07 Q1030: ",
+			"RespuestaCorrecta": "1",
+			"A": "RESPUESTA"
+		}
+    ]
+}

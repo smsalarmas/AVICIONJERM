@@ -1,3 +1,23 @@
 page-home {
+    $mybg-color: #1d437e;
 
+    $boxes-container: (
+        width: calc(100vh - 44px - 50px),
+        background-color: $mybg-color
+    );
+
+    $superfill: (
+        position: absolute,
+        top: 0,
+        left: 0,
+        bottom: 0,
+        right: 0,
+        margin: auto
+      );
+
+      .platform-ios .ios-header {
+        height:calc(56px + 20px);
+        min-height:calc(56px + 20px);
+        padding-top:20px;
+      }
 }
