@@ -1,5 +1,4 @@
-{
-    "Derecho_Aéreo": [{
+[		{
             "Pregunta": "537.- LAS HABILITACIONES RESPECTO A CATEGORIA DE AERONAVES COMPRENDE:",
             "RespuestaCorrecta": "2",
             "A": "CATEGORIA, CU---SE Y TIPO;",
@@ -841,4 +840,3 @@
             "C": "CUANDO SE BANQUEA INTENCIONALMENTE EN EXCESO DE 30 GRADOS. "
         }
     ]
-}

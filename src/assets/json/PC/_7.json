@@ -1,5 +1,4 @@
-{
-	"Performance_y_Planificación_de_vuelo": [{
+[		{
 			"Pregunta": "413. - DETERMINAR LA LONGITUD Y LATITUD APROXIMADA DEL AEROPUERTO 'GRAL. SERRANO (REF. CARTA (ANC-MACHALA-3011AB):",
 			"RespuestaCorrecta": "1",
 			"*A": "03* leMIN. S 79*58 MIN. W;",
@@ -865,4 +864,3 @@
 			"C": "NINGUNA RESPUESTA ES CORRECTA. "
 		}
     ]
-}

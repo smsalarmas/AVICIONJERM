@@ -1,5 +1,4 @@
-{
-	"Navegación_y_Aerodinámica": [{
+[		{
 			"Pregunta": "687. - (3 301) QUE FUERZA HACE QUE UN AVIÓN VIRE: ",
 			"RespuestaCorrecta": "1",
 			"A": "LA COMPONENTE HORIZONTAL DE LEVANTAMIENTO.",
@@ -238,4 +237,3 @@
 			"C": "POR DEBAJO Y VIENTO HACIA ARRIBA DE LAAERONAVE PESADA. "
 		}
     ]
-}

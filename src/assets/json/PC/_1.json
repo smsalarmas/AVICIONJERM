@@ -1,5 +1,4 @@
-{
-	"Pricipios_de_Vuelo": [{
+[		{
 			"Pregunta": "1.- CUALES SON LAS CUATRO FUERZAS AERODINAMCAS QUE ACTUAN SOBRE UN AVION:",
 			"RespuestaCorrecta": "3",
 			"A": "MOTOR. VELOCIDAD. GRAVEDAD Y RESISTENCIA",
@@ -972,4 +971,3 @@
 		}
 
     ]
-}

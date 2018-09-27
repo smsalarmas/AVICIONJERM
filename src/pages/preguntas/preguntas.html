@@ -30,33 +30,44 @@
           <ion-list radio-group [(ngModel)]="radio">
               <ion-item>
                   <ion-label  text-wrap>A.- {{item.A | titlecase}}</ion-label>
-                  <ion-radio [value]="'A,' + i" (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
+                  <ion-radio [disabled]="!SiguenteActive" [value]="'A,' + i" (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
               <ion-item>
                   <ion-label text-wrap>B.- {{item.B | titlecase}}</ion-label>
-                  <ion-radio [value]="'B,' + i" (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
+                  <ion-radio [disabled]="!SiguenteActive" [value]="'B,' + i" (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
               <ion-item *ngIf="item.C">
                   <ion-label text-wrap>C.- {{item.C | titlecase}}</ion-label>
-                  <ion-radio [value]="'C,' + i" (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
+                  <ion-radio [disabled]="!SiguenteActive" [value]="'C,' + i" (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
               <ion-item *ngIf="item.D">
                   <ion-label text-wrap>D.- {{item.D | titlecase}}</ion-label>
-                  <ion-radio [value]="'D,' + i"  (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
+                  <ion-radio [disabled]="!SiguenteActive" [value]="'D,' + i"  (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
               <ion-item *ngIf="item.E">
                   <ion-label text-wrap>E.- {{item.E | titlecase}}</ion-label>
-                  <ion-radio [value]="'E,' + i"  (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
+                  <ion-radio [disabled]="!SiguenteActive" [value]="'E,' + i"  (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
             </ion-list>
-            Here is the radio value: {{(radio||{}) | json}} - {{item.RespuestaCorrecta}} - {{RespuestaCorrecta}}
+           <!-- Here is the radio value: {{(radio||{}) | json}} - {{item.RespuestaCorrecta}} - {{RespuestaCorrecta}}-->
       </div>
     </ion-list>
   </ion-content>
 
-  <ion-footer  no-border>
+  <ion-footer  no-border color="secondary">
       <ion-toolbar>
-          <button ion-button [disabled]="SiguenteActive" round shape="round" fill="outline" color="primary" (click)="SiguentePregunta()">Siguente</button>
+          <ion-buttons left>
+            <button ion-button [disabled]="SiguenteActive" round shape="round" fill="outline" color="primary" (click)="SiguentePregunta()">Siguente</button>
+        </ion-buttons>
+          <ion-buttons right  >
+              <button color="secondary" *ngIf="BoolRespCorrecta && !SiguenteActive" ion-button color="save">
+                  CORRECTO
+              </button>
+              <button color="danger" *ngIf="!BoolRespCorrecta && !SiguenteActive"  ion-button color="save">
+                  INCORRECTO
+              </button>
+          </ion-buttons>
+
           <ion-label text-wrap>{{TimerRespuesta}}</ion-label>
         </ion-toolbar>
   </ion-footer>

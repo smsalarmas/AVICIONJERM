@@ -1,5 +1,4 @@
-{
-    "Conocimiento_general_de_aeronaves": [{
+[		{
             "Pregunta": "356. - DURANTE EL VUELO, CUANDO LAS CONDICIONES DEL COMPAS MIAGNETICO SON EXACTAS: ",
             "RespuestaCorrecta": "1",
             "A": "SOLAMENTE EN UN VUELO DESACELERANDO EN RECTO Y NIVELADO;",
@@ -401,4 +400,3 @@
             "C": "OPERACION CON UNA PRESION DE ACEITE MAYOR QUE LA NORMAL "
         }
     ]
-}

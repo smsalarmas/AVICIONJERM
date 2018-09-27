@@ -1,7 +1,11 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { ErrorHandler, NgModule } from '@angular/core';
 import { IonicApp, IonicErrorHandler, IonicModule } from 'ionic-angular';
-
+import { SQLite } from '@ionic-native/sqlite';
+import { StatusBar } from '@ionic-native/status-bar';
+import { SplashScreen } from '@ionic-native/splash-screen';
+import { HttpClientModule  } from '@angular/common/http';
+import { IonicStorageModule } from '@ionic/storage';
 
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
@@ -11,10 +15,8 @@ import { CarrerasPage } from '../pages/carreras/carreras';
 import { MateriasPage } from '../pages/materias/materias';
 import { PreguntasPage } from '../pages/preguntas/preguntas';
 import { ResultadoPage } from '../pages/resultado/resultado';
-import { StatusBar } from '@ionic-native/status-bar';
-import { SplashScreen } from '@ionic-native/splash-screen';
-import { HttpClientModule  } from '@angular/common/http';
-import { IonicStorageModule } from '@ionic/storage';
+import { JermSoftProvider } from '../providers/jerm-soft/jerm-soft';
+
 
 
 @NgModule({
@@ -48,7 +50,9 @@ import { IonicStorageModule } from '@ionic/storage';
   providers: [
     StatusBar,
     SplashScreen,
-    {provide: ErrorHandler, useClass: IonicErrorHandler}
+    SQLite,
+    {provide: ErrorHandler, useClass: IonicErrorHandler},
+    JermSoftProvider
   ]
 })
 export class AppModule {}

@@ -1,5 +1,4 @@
-{
-    "Comunicaciones_Aeronáuticas": [{
+[		{
             "Pregunta": "2.- SI EXISTE UN NOTAM, NOTIFICANDO DEL ESTABLECIMIENTO DE UNA ZONA RESTRINGIDA, PUEDO OPERAR LIBREMENTE POR ESTA ZONA:",
             "RespuestaCorrecta": "3",
             "A": "Si, porque es restringida y no prohibida",
@@ -114,4 +113,3 @@
             "C": "Realizar destellos con las luces de aterrizaje y reciclar el tren mientras este circulando"
         }
     ]
-}

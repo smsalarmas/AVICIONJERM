@@ -1,6 +1,4 @@
-{
-    "Procedimientos_Operacionales": [
-		{
+[		{
 			"Pregunta": "1.- AL APROXIMARSE A UN AEROPUERTO NO CONTROLADO, QUÉ TIPO DE MANIOBRA DEBERÁ DE REALIZARSE:",
 			"RespuestaCorrecta": "2",
 			"A": "Ninguna porque no es controlado",
@@ -287,4 +285,3 @@
 			"C": "determinar la dirección del viento para planear hacia un aterrizaje forzoso"
 		}
     ]
-}

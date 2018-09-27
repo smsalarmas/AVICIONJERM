@@ -15,13 +15,16 @@
   </ion-item>
 
   <ion-item>
-    <ion-input name="nombre" placeholder="Nombre:" maxlength="40"  (change)="GuardarName($event.target.value)"></ion-input> 
+    <ion-input value="{{userData.firstName | titlecase}}" name="nombre" placeholder="Nombre:" maxlength="40"  (change)="GuardarName($event.target.value)"></ion-input> 
   </ion-item>
   <ion-item>
-    <ion-input name="email" placeholder="E-mail:"  maxlength="70"  (change)="GuardarEmail($event.target.value)"></ion-input> 
+    <ion-input value="{{userData.Email | titlecase}}" name="email" placeholder="E-mail:"  maxlength="70"  (change)="GuardarEmail($event.target.value)"></ion-input> 
   </ion-item>
   <ion-item>
-    <ion-input name="serial" placeholder="Serial:" (change)="GuardarSerial($event.target.value)"  maxlength="15"></ion-input>           
+    <ion-input value="{{userData.WhatsApp | titlecase}}" name="Phone" placeholder="Phone:"  maxlength="70"  (change)="GuardarWhatsApp($event.target.value)"></ion-input> 
+  </ion-item>
+  <ion-item>
+    <ion-input value="{{userData.Serial | titlecase}}" name="serial" placeholder="Serial:" (change)="GuardarSerial($event.target.value)"  maxlength="15"></ion-input>           
   </ion-item>
   </form>
   <button ion-button round shape="round" fill="outline" color="primary" (click)="ChequeoSerial()">Registrar</button>

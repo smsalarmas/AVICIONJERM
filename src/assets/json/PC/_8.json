@@ -1,5 +1,4 @@
-{
-	"Factores_Humanos": [{
+[		{
 			"Pregunta": "161. - LA HIPOXIA ES PARTICULARMENTE PELIGROSA DURANTE EL VUELO PARA EL PILOTO, PORQUE:",
 			"RespuestaCorrecta": "2",
 			"A": "Afecta la vision nocturna, el piloto no puede observar otros aviones",
@@ -272,4 +271,3 @@
 			"C": "A CONCIENCIA DISMINUIR EL RÉGIMEN DE RESPIRACIÓN HASTA QUE LOS SÍNTOMAS DESAPAREZCAN Y LUEGO CONTINUAR RESPIRANDO NORMALMENTE"
 		}
     ]
-}

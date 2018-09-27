@@ -3,7 +3,7 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from '../../../node_modules/rxjs/Observable';
 import { ResultadoPage } from '../resultado/resultado';
-
+import { Storage } from '@ionic/storage';
 
 /*
  * Generated class for the PreguntasPage page.
@@ -30,8 +30,16 @@ export class PreguntasPage {
   public PreguntaIndex:number = 1;
   public radio: any;
   public SiguenteActive:boolean;
+  public BoolRespCorrecta:boolean;
 
-  constructor(public navCtrl: NavController, public navParams: NavParams, public http: HttpClient) {
+  userData = {
+    TimeByPreguntas: 0,
+    CantPreguntas:0
+  };
+
+  constructor(public navCtrl: NavController, 
+    public navParams: NavParams, private storage: Storage,
+    public http: HttpClient) {
     let data:Observable<any>;
 
     this.Id = this.navParams.get('id');
@@ -40,11 +48,17 @@ export class PreguntasPage {
     this.PreguntaActual = 1;
     this.RespuestaCorrecta = 0;
     this.SiguenteActive = true;
-    data = this.http.get('/assets/json/PP/_'+ this.Id +'.json');    
+
+    
+    this.StorageGet('TimeByPreguntas', this.userData.TimeByPreguntas);
+
+    data = this.http.get('/assets/json/' + this.navParams.get('Mat') + '/_' + this.Id + '.json');    
       data.subscribe(result => {        
          
         this.items = result;
+        this.StorageGet('CantPreguntas', this.userData.CantPreguntas);
         this.ToalPreguntas = this.items.length;
+        if (this.ToalPreguntas  > this.userData.CantPreguntas) this.ToalPreguntas = this.userData.CantPreguntas;
         
         for (var i=1;i<this.ToalPreguntas;i++)
         {
@@ -73,6 +87,23 @@ export class PreguntasPage {
     
   }
 
+  StorageGet(Key: string, Default: any) {
+
+    return new Promise((resolve, reject) => {
+        this.storage.get(Key).then((data) => {
+            console.log(" Storage.get ", Key, data);
+            if (Key === 'TimeByPreguntas') this.userData.TimeByPreguntas = data.toString();
+            if (Key === 'CantPreguntas') this.userData.CantPreguntas = data.toString();
+             
+            resolve(data);
+        })
+            .catch(() => {
+                console.log(" Load DEFAULTS", Default);
+                resolve(Default);
+            });
+    });
+  }
+
   SelectOP(RepCorrecta:number){
     this.SiguenteActive = false;
     let Buscar:string;
@@ -81,9 +112,12 @@ export class PreguntasPage {
     if (RepCorrecta == 3)   Buscar = "C";
     if (RepCorrecta == 4)   Buscar = "D";
     if (RepCorrecta == 5)   Buscar = "E";
-    
+    this.BoolRespCorrecta = false;
     var n = JSON.stringify(this.radio).search(Buscar);
-    if (n != -1) this.RespuestaCorrecta = this.RespuestaCorrecta + 1;
+    if (n != -1) {
+      this.RespuestaCorrecta = this.RespuestaCorrecta + 1;
+      this.BoolRespCorrecta = true;
+    }
     
      
   }

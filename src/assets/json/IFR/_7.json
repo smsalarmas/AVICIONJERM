@@ -1,5 +1,4 @@
-{
-	"Derecho_Aéreo": [{
+[	{
 		"Pregunta": "1.- LOS REQUERIMIENTOS PARA LA EMISION DE UN CERTIFICADO DE OPERACION DE ESCUELA DE PILOTOS, ESTAN CONTEMPLADOS EN LA RDAC:",
 		"RespuestaCorrecta": "2",
 		"A": "121",
@@ -300,4 +299,3 @@
 		"C": "TERCERA CLASE."
 	}
     ]
-}

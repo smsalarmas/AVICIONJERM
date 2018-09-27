@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "miapp.keystore",
+            "storePassword": "J3ermsoft",
+            "alias": "AVIACIONESAV",
+            "password" : "J3ermsoft",
+            "keystoreType": ""
+        },
+        "release": {
+            "keystore": "miapp.keystore",
+            "storePassword": "J3ermsoft",
+            "alias": "AVIACIONESAV",
+            "password" : "J3ermsoft",
+            "keystoreType": ""
+        }
+    }
+}
