@@ -1,709 +1,706 @@
-[		{
-			"Pregunta": "417.- (4086) CUÁLES SON LAS CONDICIONES MÍNIMAS METEOROLÓGICAS QUE DEBEN SER PRONOSTICADAS PARA LISTAR UN AEROPUERTO COMO ALTERNO CUANDO EL AEROPUERTO NO TIENE UN PAI APROBADO:",
+		[{
+			"Pregunta": "417.- (4086) cuáles son las condiciones mínimas meteorológicas que deben ser pronosticadas para listar un aeropuerto como alterno cuando el aeropuerto no tiene un PAI aprobado:",
 			"RespuestaCorrecta": "3",
-			"A": "EL TECHO Y LA VISIBILIDAD EN ETA, 2000 PIES Y 3 MILLAS, RESPECTIVAMENTE",
-			"B": "EL TECHO.Y LA VISIBILIDAD DESDE 2 HORAS ANTES HASTA 2 HORAS DESPUÉS DE ETA, 2000 PIES Y 3 MILLAS, RESPECTIVAMENTE",
-			"C": "EL TECHO Y VISIBILIDAD EN ETA DEBERAN PERMITIR DESCENDER DEL MEA Y ATERRIZAR BAJO VFR BÁSICO."
+			"A": "el techo y la visibilidad en eta, 2000 pies y 3 millas, respectivamente",
+			"B": "el techo y la visibilidad desde 2 horas antes hasta 2 horas después de eta, 2000 pies y 3 millas, respectivamente",
+			"C": "el techo y visibilidad en eta deberán permitir descender del mea y aterrizar bajo VFR básico."
 		},
 		{
-			"Pregunta": "418.- (4C:7) QUÉ CONDICIONES MÍNIMAS METEOROLÓGICAS DEBERÁN SER PRONOSTICADAS PAPA SU ETA EN UN AEROPUERTO QUE TIENE UN PROCEDIMIENTO DE APROXIMACIÓN DE PRECISIÓN, CON MINIMOS ALTERNOS ESTÁNDAR, PARA QUE EL AEROPUERTO SEA REGISTRADO COMO ALTERNO EN EL PLAN DE VUELO IFR:",
+			"Pregunta": "418.- (4c:7) qué condiciones mínimas meteorológicas deberán ser pronosticadas para su eta en un aeropuerto que tiene un procedimiento de aproximación de precisión, con mínimos alternos estándar, para que el aeropuerto sea registrado como alterno en el plan de vuelo IFR:",
 			"RespuestaCorrecta": "1",
-			"A": "600 PIES DE TECHO Y 2 MILLAS DE VISIBILIDAD EN SU ETA",
-			"B": "600 PIES DE TECHO Y 2 MILLAS DE VISIBILIDAD DESDE 2 HORAS ANTES Y 2 HORAS DESPUÉS DE ETA.",
-			"C": "800 DE TECHO Y 2 MILLAS DE VISIBILIDAD EN SU ETA."
+			"A": "600 pies de techo y 2 millas de visibilidad en su eta",
+			"B": "600 pies de techo y 2 millas de visibilidad desde 2 horas antes y 2 horas después de eta.",
+			"C": "800 de techo y 2 millas de visibilidad en su eta."
 		},
 		{
-			"Pregunta": "419.- (4089) BAJO QUÉ CONDICIÓN TIENEN LA ALTITUD PRESIÓN Y LA ALTITUD DENSIDAD EL MISMO VALOR:",
+			"Pregunta": "419.- (4089) bajo qué condición tienen la altitud presión y la altitud densidad el mismo valor:",
 			"RespuestaCorrecta": "3",
-			"A": "A TEMPERATURA ESTÁNDAR",
-			"B": "CUANDO EL ALTÍMETRO ES AJUSTADO A 29,92''HG",
-			"C": "CUANDO ES INDICADO, Y LAS ALTTFUDES PRESIÓN TIENEN EL MISMO VALOR EN EL ALTÍMETRO."
+			"A": "a temperatura estándar",
+			"B": "cuando el altímetro es ajustado a 29,92''hg",
+			"C": "cuando es indicado, y las altitudes presión tienen el mismo valor en el altímetro."
 		},
 		{
-			"Pregunta": "420.- (4090) BAJO QUÉ CONDICIÓN SERÁ LA ALTITUD PRESIÓN IGUALA LA ALTITUD VERDADERA: ",
+			"Pregunta": "420.- (4090) bajo qué condición será la altitud presión igual a la altitud verdadera: ",
 			"RespuestaCorrecta": "2",
-			"A": "CUANDO LA PRESIÓN ATMOSFÉRICA ES 29,92'' HG",
-			"B": "CUANDO EXISTEN CONDICIONES ATMOSFÉRICAS ESTÁNDAR",
-			"C": "CUANDO LA ALTITUD INDICADA ES IGUALA LA ALTFTUD PRESIÓN."
+			"A": "cuando la presión atmosférica es 29,92'' hg",
+			"B": "cuando existen condiciones atmosféricas estándar",
+			"C": "cuando la altitud indicada es igual a la altitud presión."
 		},
 		{
-			"Pregunta": "421.- (4091) QUÉ CONDICIÓN CAUSA QUE EL ALTÍMETRO INDIQUE UNA ALTITUD MÁS BAJA QUE LA QUE SE ESTÁ VOLANDO ACTUALMENTE (ALTITUD VERDADERA) ",
+			"Pregunta": "421.- (4091) qué condición causa que el altímetro indique una altitud más baja que la que se está volando actualmente (altitud verdadera) ",
 			"RespuestaCorrecta": "1",
-			"A": "TEMPERATURA DEL AIRE MÁS BAJA QUE LA ESTÁNDAR",
-			"B": "PRESIÓN ATMOSFÉRICA MÁS BAJA QUE LA ESTÁNDAR",
-			"C": "TEMPERATURA DEL AIRE MÁS CALIENTE QUE LA ESTÁNDAR. "
+			"A": "temperatura del aire más baja que la estándar",
+			"B": "presión atmosférica más baja que la estándar",
+			"C": "temperatura del aire más caliente que la estándar. "
 		},
 		{
-			"Pregunta": "422.- (4092) QUÉ ES VERDAD CON RESPECTO AL USO DEL RADAR METEOROLÓGÍCO DE EVASIÓN DE CONDICIONES DE TIEMPO PARA EL RECONOCIMIENTO DE CIERTAS CONDICIONES METEOROLÓGICAS:",
+			"Pregunta": "422.- (4092) qué es verdad con respecto al uso del radar meteorológico de evasión de condiciones de tiempo para el reconocimiento de ciertas condiciones meteorológicas:",
 			"RespuestaCorrecta": "1",
-			"A": "LA PANTALLA DEL RADAR NO SUMINISTRA SEGURIDAD DE EVADIR CONDICIONES METEOROLÓGICAS INSTRUMENTALES",
-			"B": "LA EVASIÓN DE GRANIZO SE ASEGURA CUANDO SE ESTÁ VOLANDO ENTRE Y JUSTO AFUERA DE LOS ECOS DE MAYOR INTENSIDAD",
-			"C": "EL ÁREA CLARA ENTRE ECOS INTENSOS INDICARÍA OBSERVACIÓN VISUAL DE TORMENTAS QUE PUEDE SER MANTENIDA CUANDO SE VUELA ENTRE ECOS."
+			"A": "la pantalla del radar no suministra seguridad de evadir condiciones meteorológicas instrumentales",
+			"B": "la evasión de granizo se asegura cuando se está volando entre y justo afuera de los ecos de mayor intensidad",
+			"C": "el área clara entre ecos intensos indicaría observación visual de tormentas que puede ser mantenida cuando se vuela entre ecos."
 		},
 		{
-			"Pregunta": "423.- (4093) CUANDO UN ALTÍMETRO ES CAMBIADO DE 30,11'' HG. A 29,95'' HG, EN QUÉ DIRECCIÓN CAMBIARÁ LAALTITUD INDICADA Y POR CUAL VALOR:",
+			"Pregunta": "423.- (4093) cuando un altímetro es cambiado de 30,11'' hg. a 29,95'' hg, en qué dirección cambiará la altitud indicada y por cual valor:",
 			"RespuestaCorrecta": "2",
-			"A": "EL ALTÍMETRO INDICARÁ 15 PIES MÁS BAJO",
-			"B": "EL ALTÍMETRO INDICARÁ 150 PIES MÁS BAJO",
-			"C": "EL ALTÍMETRO INDICARÁ 150 PIES MÁS ALTO."
+			"A": "el altímetro indicará 15 pies más bajo",
+			"B": "el altímetro indicará 150 pies más bajo",
+			"C": "el altímetro indicará 150 pies más alto."
 		},
 		{
-			"Pregunta": "424.- (4094) UN TIPO COMÚN DE INVERSIÓN DE TEMPERATURA EN LA TIERRA O SUPERFICIE, ES AQUELLA QUE SE PRODUCE POR:",
+			"Pregunta": "424.- (4094) un tipo común de inversión de temperatura en la tierra o superficie, es aquella que se produce por:",
 			"RespuestaCorrecta": "3",
-			"A": "AIRE CALIENTE QUE SE LEVANTA RÁPIDAMENTE EN LAS CERCANÍAS DE TERRENO MONTAÑOSO",
-			"B": "EL MOVIMIENTO DE AIRE FRÍO SOBRE AIRE CALIENTE, O EL MOVIMIENTO DE AIRE CALIENTE SOBRE AIRE FRÍO",
-			"C": "RADACIÓN TERRESTRE EN LAS NOCHES CLARAS Y FRÍAS CUANDO EL VIENTO ES LEVE."
+			"A": "aire caliente que se levanta rápidamente en las cercanías de terreno montañoso",
+			"B": "el movimiento de aire frío sobre aire caliente, o el movimiento de aire caliente sobre aire frío",
+			"C": "radiación terrestre en las noches claras y frías cuando el viento es leve."
 		},
 		{
-			"Pregunta": "425.- (4095) CUÁNTO MÁS FRÍO QUE LA TEMPERATURA ESTÁNDAR ES LA TEMPERATURA ACTUAL A 9000 PIES, COMO SE INDICA EN EL SIGUIENTE EXTRACTO DEL PRONÓSTICO DE VIENTOS Y TEMPERATURA SUPERIORES FT 6000 0737 - 04 9000 1043-10:",
+			"Pregunta": "425.- (4095) cuánto más frío que la temperatura estándar es la temperatura actual a 9000 pies, como se indica en el siguiente extracto del pronóstico de vientos y temperatura superiores ft 6000 0737 - 04 9000 1043-10:",
 			"RespuestaCorrecta": "3",
-			"A": "3°C",
+			"A": "3 °C",
 			"B": "10 °C",
 			"C": "7 °C."
 		},
 		{
-			"Pregunta": "425.- (4096) LA CAUSA PRINCIPAL DE TODOS LOS CAMBIOS EN LAS CONDICIONES ATMOSFÉRICAS DE LA TIERRA ES:",
+			"Pregunta": "425.- (4096) la causa principal de todos los cambios en las condiciones atmosféricas de la tierra es:",
 			"RespuestaCorrecta": "3",
-			"A": "VARACIONES DE LA ENERGÍA SOLAR RECIBIDAS EN LA REGIONES TERRESTRES",
-			"B": "CAMBIOS EN LA PRESIÓN DEL AIRE SOBRE LA SUPERFICIE TERRESTRE",
-			"C": "MOVIMIENTO DE UN MASAS DE AIRE."
+			"A": "variaciones de la energía solar recibidas en la regiones terrestres",
+			"B": "cambios en la presión del aire sobre la superficie terrestre",
+			"C": "movimiento de unas masas de aire."
 		},
 		{
-			"Pregunta": "427.- (4097) UNA CARACTERÍSTICA DE LA ESTRATOSFERA ES:",
+			"Pregunta": "427.- (4097) una característica de la estratosfera es:",
 			"RespuestaCorrecta": "3",
-			"A": "UNA DISMINUCIÓN GLOBAL EN LA TEMPERATURA CON UN AUMENTO EN LA ALTITUD",
-			"B": "UNA ALTITUD BASE RELATIVAMENTE CONSTANTE DE APROXIMADAMENTE 35000 PIES.",
-			"C": "3 CAMBIOS RELATIVAMENTE PEQUEÑOS EN TEMPERATURA CON UN AUMENTO EN LA ALTÍTUD."
+			"A": "una disminución global en la temperatura con un aumento en la altitud",
+			"B": "una altitud base relativamente constante de aproximadamente 35000 pies.",
+			"C": "3 cambios relativamente pequeños en temperatura con un aumento en la altitud."
 		},
 		{
-			"Pregunta": "428.- (4098) LLUVIA CONTINUA, EN CONTRÁSTE CON LOS CHUBASCOS, ANTERIOR A UN FRENTE ES UNA INDICACIÓN DE:",
+			"Pregunta": "428.- (4098) lluvia continua, en contraste con los chubascos, anterior a un frente es una indicación de:",
 			"RespuestaCorrecta": "3",
-			"A": "NUBES ESTRATIFORMES CON TURBULENCA MODERADA",
-			"B": "NUBES CUMULIFORMES CON POCA O NINGUNA TURBULENCA",
-			"C": "NUBES ESTRATIFORMES CON POCA O NINGUNA TURBULENCIA"
+			"A": "nubes estratiformes con turbulencia moderada",
+			"B": "nubes cumuliformes con poca o ninguna turbulencia",
+			"C": "nubes estratiformes con poca o ninguna turbulencia"
 		},
 		{
-			"Pregunta": "429.- (4099) LA PRESENCIA DE GRANIZO PEQUEÑO EN LA SUPERFICIE ES EVIDENCIA DE QUE:",
+			"Pregunta": "429.- (4099) la presencia de granizo pequeño en la superficie es evidencia de que:",
 			"RespuestaCorrecta": "3",
-			"A": "HAY TORMENTAS EN EL ÁREA",
-			"B": "UN FRENTE FRÍO HA PASADO",
-			"C": "HAY LLUVA CONGELANTE A GRANDES ALTrrUDES."
+			"A": "hay tormentas en el área",
+			"B": "un frente frío ha pasado",
+			"C": "hay lleva congelante a grandes altitudes."
 		},
 		{
-			"Pregunta": "430.- (4100) QUÉ CONDICIONES RESULTAN EN LA FORMACIÓN DE ESCARCHA: ",
+			"Pregunta": "430.- (4100) qué condiciones resultan en la formación de escarcha: ",
 			"RespuestaCorrecta": "3",
-			"A": "LA TEMPERATURA DE LA SUPERFICIE EN QUE SE FORMA ESTÁ  POR DEBAJO DEL PUNTO DE CONGELACION",
-			"B": "IÓN Y PEQUEÑAS GOTAS DE HUMEDAD ESTÁN CAYENDO",
-			"C": "CUANDO SE FORMA EL ROCÍO Y LA TEMPERATURA ESTÁ POR DEBAJO DEL PUNTO DE CONGELACIÓN",
-			"D": "LA TEMPERATURA DE LA SUPERFICIE EN QUE SE FORMA ESTÁ POR DEBAJO DEL PUNTO DE ROCÍO DEL AIRE ADYACENTE Y EL PUNTO DE ROCÍO ESTÁ POP DEBAJO DEL PUNTO DE CONGELACIÓN."
+			"A": "la temperatura de la superficie en que se forma está  por debajo del punto de congelación",
+			"B": "ión y pequeñas gotas de humedad están cayendo",
+			"C": "cuando se forma el rocío y la temperatura está por debajo del punto de congelación",
+			"D": "la temperatura de la superficie en que se forma está por debajo del punto de rocío del aire adyacente y el punto de rocío está pop debajo del punto de congelación."
 		},
 		{
-			"Pregunta": "431.- (4101) A QUÉ CONDICIÓN METEOROLÓGICA SE REFIERE EL TÉRMINO PUNTO DÉ ROCÍO:",
+			"Pregunta": "431.- (4101) a qué condición meteorológica se refiere el término punto de rocío:",
 			"RespuestaCorrecta": "1",
-			"A": "LA TEMPERATURA A LA CUAL EL AIRE DEBE SER EVAPORADO PARA SER SATURADO",
-			"B": "LA TEMPERATURA A LA CUAL CONDENSACIÓN Y EVAPORACIÓN SON IGUALES",
-			"C": "LA TEMPERATURA A LA CUAL ROCÍO SE FORMARÁ SIEMPRE."
+			"A": "la temperatura a la cual el aire debe ser evaporado para ser saturado",
+			"B": "la temperatura a la cual condensación y evaporación son iguales",
+			"C": "la temperatura a la cual rocío se formará siempre."
 		},
 		{
-			"Pregunta": "432.- (4102) QUÉ CONDICIÓN DE TEMPERATURA ES INDICADA SI SE ENCUENTRA NIEVE HÚMEDA EN SU ALTITUD DE VUELO:",
+			"Pregunta": "432.- (4102) qué condición de temperatura es indicada si se encuentra nieve húmeda en su altitud de vuelo:",
 			"RespuestaCorrecta": "1",
-			"A": "LA TEMPERATURA ESTÁ SOBRE EL PUNTO DE CONGELACIÓN EN SU ALTITUD",
-			"B": "LA TEMPERATURA ESTÁ POR DEBAJO DEL PUNTO DE CONGELACIÓN EN SU ALTÍTUD",
-			"C": "USTED ESTÁ VOLANDO DE UNA MASA DE AIRE CALENTE A UNA MASA DE AIRE FRÍO."
+			"A": "la temperatura está sobre el punto de congelación en su altitud",
+			"B": "la temperatura está por debajo del punto de congelación en su altitud",
+			"C": "usted está volando de una masa de aire caliente a una masa de aire frío."
 		},
 		{
-			"Pregunta": "433.- (4104) NUBES, NIEBLA O ROCÍO SIEMPRE SE FORMAN CUANDO: ",
+			"Pregunta": "433.- (4104) nubes, niebla o rocío siempre se forman cuando: ",
 			"RespuestaCorrecta": "1",
-			"A": "EL VAPOR DE AGUA SE CONDENSA",
-			"B": "EL VAPOR DE AGUA ESTÁ PRESENTE",
-			"C": "LA TEMPERATURA Y EL PUNTO DE ROCÍO SON IGUALES."
+			"A": "el vapor de agua se condensa",
+			"B": "el vapor de agua está presente",
+			"C": "la temperatura y el punto de rocío son iguales."
 		},
 		{
-			"Pregunta": "434.- (4105) QUÉ CAUSA QUE LOS VIENTOS DE SUPERFICIE FLUYAN A TRAVÉS DE LAS LÍNEAS ISOBARAS EN UN ÁNGULO MÁS QUE PARALELO A LAS ISOBARAS: ",
+			"Pregunta": "434.- (4105) qué causa que los vientos de superficie fluyan a través de las líneas isobaras en un ángulo más que paralelo a las isobaras: ",
 			"RespuestaCorrecta": "2",
-			"A": "LA FUERZA DE CORIOLIS",
-			"B": "LA FRICCION DE SUPERFICIE",
-			"C": "LA MAYOR DENSIDAD DEL AIRE EN LA SUPERFICIE."
+			"A": "la fuerza de coriolis",
+			"B": "la fricción de superficie",
+			"C": "la mayor densidad del aire en la superficie."
 		},
 		{
-			"Pregunta": "435.- (4106) LOS VIENTOS A 5000 PIES AGL EN UN VUELO PARTICULAR SON DELSUROESTE, MIENTRAS QUE LA MAYORÍA DE LOS VIENTOS EN LA SUPERFICIE SON DEL SUR. ESTA DIFERENCIA EN LA DIRECCIÓN DEL VIENTO ES PRINCIPALMENTE DEBIDO A:",
+			"Pregunta": "435.- (4106) los vientos a 5000 pies agl en un vuelo particular son del suroeste, mientras que la mayoría de los vientos en la superficie son del sur. esta diferencia en la dirección del viento es principalmente debido a:",
 			"RespuestaCorrecta": "3",
-			"A": "UNA GRADIENTE DE PRESIÓN MÁS FUERTE A GRANDES ALTÍTUDES",
-			"B": "LA FRICCIÓN ENTRE EL VIENTO Y LA SUPERFICIE",
-			"C": "LA FUERZA DE CORIOLIS MAYOR EN LA SUPERFICIE."
+			"A": "una gradiente de presión más fuerte a grandes altitudes",
+			"B": "la fricción entre el viento y la superficie",
+			"C": "la fuerza de coriolis mayor en la superficie."
 		},
 		{
-			"Pregunta": "435.- (4107) QUÉ RELACIÓN EXISTE ENTRE LOS VIENTOS A 2000 PIES SOBRE LA SUPERFICIE Y VIENTOS DE SUPERFICIE: ",
+			"Pregunta": "435.- (4107) qué relación existe entre los vientos a 2000 pies sobre la superficie y vientos de superficie: ",
 			"RespuestaCorrecta": "3",
-			"A": "LOS VIENTOS A 2000 PIES Y LOS VIENTOS DE SUPERFICIE FLUYEN EN LA MISMA DIRECCIÓN, PERO LOS VIENTOS DE SUPERFICIE SON MÁS DÉBILES DEBIDOS A LA FRICCIÓN",
-			"B": "LOS VIENTOS A 2000 PIES TIENDEN A ESTAR PARALELOS A LAS ISOBARAS MIENTRAS QUE LOS VIENTOS DE SUPERFICIE CRUZAN LAS ISOBARAS EN UN ÁNGULO HACIA UNA BAJA PRESIÓN Y SON DÉBILES",
-			"C": "LOS VIENTOS DE SUPERFICIETIENDEN A CAMBAR DEDIRECCIÓN HACIA LA DERECHA DE LOS VIENTOS A 2000 PIES Y GENERALMENTE SON DÉBILES."
+			"A": "los vientos a 2000 pies y los vientos de superficie fluyen en la misma dirección, pero los vientos de superficie son más débiles debidos a la fricción",
+			"B": "los vientos a 2000 pies tienden a estar paralelos a las isobaras mientras que los vientos de superficie cruzan las isobaras en un ángulo hacia una baja presión y son débiles",
+			"C": "los vientos de superficie tienden a cambiar de dirección hacia la derecha de los vientos a 2000 pies y generalmente son débiles."
 		},
 		{
-			"Pregunta": "437.- (4108) QUÉ FUERZA EN EL HEMISFERIO NORTE, ACTÚA EN UN ÁNGULO CORRECTO AL VIENTO Y LO DESVÍA HACIA LA DERECHA HASTA ESTAR PARALELO A LAS ISOBARAS:",
+			"Pregunta": "437.- (4108) qué fuerza en el hemisferio norte, actúa en un ángulo correcto al viento y lo desvía hacia la derecha hasta estar paralelo a las isobaras:",
 			"RespuestaCorrecta": "3",
-			"A": "CENTRÍFUGA",
-			"B": "GRADIENTE DE PRESIÓN",
-			"C": "CORIOLIS. :"
+			"A": "centrífuga",
+			"B": "gradiente de presión",
+			"C": "coriolis. :"
 		}, {
-			"Pregunta": "438.- (4109) BAJO QUÉ CONDICIONES SERÁ LA ALTITUD VERDADERA MÁS BAJA QUE LA ALTITUD INDICADA CON UN AJUSTE ALTIMETRICO DE 29,92'' HG:",
+			"Pregunta": "438.- (4109) bajo qué condiciones será la altitud verdadera más baja que la altitud indicada con un ajuste altimétrico de 29,92'' hg:",
 			"RespuestaCorrecta": "2",
-			"A": "CUANDO LA TEMPERATURA DEL AIRE ES MÁS CALIENTE QUE LA ESTÁNDAR",
-			"B": "CUANDO EL AIRE ES MÁS FRÍA QUE LA ESTÁNDAR.",
-			"C": "CUANDO LA ALTITUD DE DENSIDAD ES MAYOR QUE LA ALTITUD INDICADA."
+			"A": "cuando la temperatura del aire es más caliente que la estándar",
+			"B": "cuando el aire es más fría que la estándar.",
+			"C": "cuando la altitud de densidad es mayor que la altitud indicada."
 		},
 		{
-			"Pregunta": "439.- (4110) CUÁL DE LOS SIGÜIENTES TÉRMINOS DEFINE EL TIPO DE ALTITUD UTILIZADA CUANDO SE MANTIENE FL 210:",
+			"Pregunta": "439.- (4110) cuál de los siguientes términos define el tipo de altitud utilizada cuando se mantiene FL 210:",
 			"RespuestaCorrecta": "2",
-			"A": "INDICADA",
-			"B": "PRESIÓN",
-			"C": "CALIBRADA."
+			"A": "indicada",
+			"B": "presión",
+			"C": "calibrada."
 		},
 		{
-			"Pregunta": "440.- (4111) EL AJUSTE ALTIMETRICO ES EL VALOR EN EL CUAL LA ESCALA DEL ALTÍMETRO DE PRESIÓN ES FIJADO Y ASÍ EL ALTÍMETRO INDICA:",
+			"Pregunta": "440.- (4111) el ajuste altimétrico es el valor en el cual la escala del altímetro de presión es fijado y así el altímetro indica:",
 			"RespuestaCorrecta": "1",
-			"A": "LA ALTITUD VERDADERA EN LA ELEVACIÓN DEL CAMPO",
-			"B": "LA ALTITUD PRESIÓN EN LA ELEVACIÓN DEL CAMPO",
-			"C": "LA ALTITUD PRESIÓN AL NIVEL DEL MAR. "
+			"A": "la altitud verdadera en la elevación del campo",
+			"B": "la altitud presión en la elevación del campo",
+			"C": "la altitud presión al nivel del mar. "
 		},
 		{
-			"Pregunta": "441.- (4112) EL TIPO MÁS FRECUENTE DE INVERSIÓN DE TEMPERATURA EN LA TIERRA O SUPERFICIE ES AQUELLA PRODUCIDA POR:",
+			"Pregunta": "441.- (4112) el tipo más frecuente de inversión de temperatura en la tierra o superficie es aquella producida por:",
 			"RespuestaCorrecta": "1",
-			"A": "RADIACIÓN EN NOCHES CLARAS Y RELATIVAMENTE CALMAS",
-			"B": "AIRE CALIENTE QUE SE LEVANTA RÁPIDAMENTE EN LAS CERCANÍAS DE TERRENO MONTAÑOSO",
-			"C": "EL MOVIMIENTO DE AIRE FRÍO SOBRE AIRE CALIENTE, O EL MOVIMIENTO DE AIRE CALIENTE SOBRE AIRE FRÍO."
+			"A": "radiación en noches claras y relativamente calmas",
+			"B": "aire caliente que se levanta rápidamente en las cercanías de terreno montañoso",
+			"C": "el movimiento de aire frío sobre aire caliente, o el movimiento de aire caliente sobre aire frío."
 		},
 		{
-			"Pregunta": "442.- (4113) SI LA TEMPERATURA DEL AIRE ES +8 °C EN UNA ELEVACIÓN DE 1350 PIES Y EXISTE UNA GRADIENTE TÉRMICA ESTÁNDAR (PROMEDIO),.CUÁL SERÁ EL NIVEL APROXIMADO DE CONGELACIÓN:",
+			"Pregunta": "442.- (4113) si la temperatura del aire es +8 °C en una elevación de 1350 pies y existe una gradiente térmica estándar (promedio), cuál será el nivel aproximado de congelación:",
 			"RespuestaCorrecta": "2",
-			"A": "3350 PIES MSL",
-			"B": "5350 PIES MSL",
-			"C": "9350 PIES MSL"
+			"A": "3350 pies MSL",
+			"B": "5350 pies MSL",
+			"C": "9350 pies MSL"
 		},
 		{
-			"Pregunta": "443.- (4114) QUÉ CARACTERÍSTICA ESTÁ ASOCIADA CON LA INVERSIÓN DE TEMPERATURA:",
+			"Pregunta": "443.- (4114) qué característica está asociada con la inversión de temperatura:",
 			"RespuestaCorrecta": "1",
-			"A": "UNA CAPA ESTABLE DE AIRE",
-			"B": "UNA CAPA INESTABLE DE AIRE",
-			"C": "TORMENTAS PROVENIENTES DE UNA MASA DE AIRE,"
+			"A": "una capa estable de aire",
+			"B": "una capa inestable de aire",
+			"C": "tormentas provenientes de una masa de aire,"
 		},
 		{
-			"Pregunta": "444.- (4115) QUÉ TIPO DE NUBES SE FORMARÁN SI UN AIRE HÚMEDO Y  ESTABLE ES FORZADO A BARLOVENTO: ",
+			"Pregunta": "444.- (4115) qué tipo de nubes se formarán si un aire húmedo y  estable es forzado a barlovento: ",
 			"RespuestaCorrecta": "3",
-			"A": "PRIMERO NUBES ESTRATIFORMES Y DESPUÉS NUBES VERTICALES",
-			"B": "NUBES VERTICALES CON POCA ALTURA CRECIENTE",
-			"C": "NUBES ESTRATIFORMES CON PEQUEÑO DESARROLLO VERTICAL"
+			"A": "primero nubes estratiformes y después nubes verticales",
+			"B": "nubes verticales con poca altura creciente",
+			"C": "nubes estratiformes con pequeño desarrollo vertical"
 		},
 		{
-			"Pregunta": "445.- (4116) LAS CARACTERÍSTICAS GENERALES DEL AIRE INESTABLE SON:",
+			"Pregunta": "445.- (4116) las características generales del aire inestable son:",
 			"RespuestaCorrecta": "1",
-			"A": "BUENA VISIBILIDAD, CHUBASCOS Y NUBES DE TIPO CUMULUFORME",
-			"B": "BUENA VISIBILIDAD, LLUVIA CONTINUA Y NUBES DE TIPO ESTRATÍFORME",
-			"C": "VISIBILIDAD POBRE, PRECIPITACIÓN INTERMITENTE Y NUBES DE TIPO CUMULIFORME."
+			"A": "buena visibilidad, chubascos y nubes de tipo cumuluforme",
+			"B": "buena visibilidad, lluvia continua y nubes de tipo estratiforme",
+			"C": "visibilidad pobre, precipitación intermitente y nubes de tipo cumuliforme."
 		},
 		{
-			"Pregunta": "446..- (4118) QUÉ TIPO DE NUBES PUEDEN SER ESPERADAS CUANDO UNA MASA DE AIRE INESTABLE ES FORZADA A ASCENDER UNA LADERA DEL NA MONTAÑA: ",
+			"Pregunta": "446..- (4118) qué tipo de nubes pueden ser esperadas cuando una masa de aire inestable es forzada a ascender una ladera de la montaña: ",
 			"RespuestaCorrecta": "3",
-			"A": "CAPA DE NUBES CON PEQUEÑO DESARROLLO VERTICAL",
-			"B": "NUBES ESTRATIFORMES CON TURBULENCIA CONSIDERABLE",
-			"C": "NUBES CON EXTENSO DESARROLLO VERTICAL"
+			"A": "capa de nubes con pequeño desarrollo vertical",
+			"B": "nubes estratiformes con turbulencia considerable",
+			"C": "nubes con extenso desarrollo vertical"
 		},
 		{
-			"Pregunta": "447.- (4119) CUÁLES SON LAS CARACTERÍSTICAS DEL AIRE ESTÁBLE: ",
+			"Pregunta": "447.- (4119) cuáles son las características del aire estable: ",
 			"RespuestaCorrecta": "3",
-			"A": "BUENA VISIBILIDAD, LLUVA CONTINUA Y NUBES DE TIPO ESTRATIFORME",
-			"B": "POBRE VISIBILIDAD, PRECIPITACIÓN INTERMITENTE Y NUBES DE TIPO CUMULIFORME",
-			"C": "POBRE VISIBILIDAD, LLUVA ESTABLE Y NUBES DE TIPO ESTRATIFORME."
+			"A": "buena visibilidad, lleva continua y nubes de tipo estratiforme",
+			"B": "pobre visibilidad, precipitación intermitente y nubes de tipo cumuliforme",
+			"C": "pobre visibilidad, lleva estable y nubes de tipo estratiforme."
 		},
 		{
-			"Pregunta": "448.- (4120) CUÁLES SON ALGUNAS CARACTERÍSTICAS DEL AIRE INESTABLE:",
+			"Pregunta": "448.- (4120) cuáles son algunas características del aire inestable:",
 			"RespuestaCorrecta": "3",
-			"A": "NUBES NIMBUSTRATOS Y BUENA VISIBILIDAD EN LA SUPERFICIE",
-			"B": "TURBULENCA Y POBRE VISIBILIDAD EN lA SUPERFICIE",
-			"C": "TURBULENCA Y BUENA VISIBILIDAD EN LA SUPERFICIE."
+			"A": "nubes nimbostratos y buena visibilidad en la superficie",
+			"B": "turbulencia y pobre visibilidad en la superficie",
+			"C": "turbulencia y buena visibilidad en la superficie."
 		},
 		{
-			"Pregunta": "449.- (4122) QUE DETERMINA LA ESTRUCTURA O TIPO DE NUBES QUE SE FORMAN COMO RESULTADO DEL AIRE FORZADO A ASCENDER:",
+			"Pregunta": "449.- (4122) que determina la estructura o tipo de nubes que se forman como resultado del aire forzado a ascender:",
 			"RespuestaCorrecta": "2",
-			"A": "EL MÉTODO POR EL CUAL EL AIRE ES LEVANTADO",
-			"B": "LA ESTABILIDAD DEL AIRE ANTES DE QUE OCURRA EL LEVANTAMENTO",
-			"C": "LA CANTIDAD DE NÚCLEOS DE CONDENSACIÓN ESTÁN PRESENTES CUANDO OCURRE EL LEVANTAMIENTO."
+			"A": "el método por el cual el aire es levantado",
+			"B": "la estabilidad del aire antes de que ocurra el levantamiento",
+			"C": "la cantidad de núcleos de condensación están presentes cuando ocurre el levantamiento."
 		},
 		{
-			"Pregunta": "450.- (4123) CUÁL DE LAS SIGUIENTES COMBINACIONES DE TIEMPO QUE PRODUCEN VARIABLES PODRÍAN RESULTAR EN NUBES CUMULIFORMES, BUENA VISIBILIDAD, CHUBASCOS Y POSIBLE CONGELACIÓN DE TIPO CLARO EN LAS NUBES: ",
+			"Pregunta": "450.- (4123) cuál de las siguientes combinaciones de tiempo que producen variables podrían resultar en nubes cumuliformes, buena visibilidad, chubascos y posible congelación de tipo claro en las nubes: ",
 			"RespuestaCorrecta": "3",
-			"A": "AIRE HÚMEDO E INESTABLE PERO SIN MECANISMO DE LEVANTAMIENTO",
-			"B": "AIRE SECO Y ESTABLE Y CON LEVANTAMIENTO OROGRÁFICO",
-			"C": "AIRE HÚMEDO E INESTABLE Y CON LEVANTAMENTO OROGRÁFICO."
+			"A": "aire húmedo e inestable pero sin mecanismo de levantamiento",
+			"B": "aire seco y estable y con levantamiento orográfico",
+			"C": "aire húmedo e inestable y con levantamiento orográfico."
 		},
 		{
-			"Pregunta": "451.- (4124) EL AIRE NO SATURADO QUE FLUYE EN BARLOVENTO SE ENFRIARA A UN RÉGIMEN APROXIMADO (GRADIENTE ADIABÁTICA SECA) :",
+			"Pregunta": "451.- (4124) el aire no saturado que fluye en barlovento se enfriara a un régimen aproximado (gradiente adiabática seca) :",
 			"RespuestaCorrecta": "3",
-			"A": "3.°C POR CADA 1000 PIES",
-			"B": "2 °C POR CADA 1000 PIES",
-			"C": "2.5 °C POR CADA 1000 PIES."
+			"A": "3 °C por cada 1000 pies",
+			"B": "2 °C por cada 1000 pies",
+			"C": "2.5 °C por cada 1000 pies."
 		},
 		{
-			"Pregunta": "452.- (4125)UNA INVERSIÓN DE TEMPERATURA SE FORMARÁ NORMALMENTE SÓLO:",
+			"Pregunta": "452.- (4125) una inversión de temperatura se formará normalmente sólo:",
 			"RespuestaCorrecta": "1",
-			"A": "EN AIRE ESTABLE",
-			"B": "EN AIRE INESTABLE",
-			"C": "CUANDO UNA CAPA ESTRATIFORME SE MEZCLA CON UNA MASA CUMULIFORME."
+			"A": "en aire estable",
+			"B": "en aire inestable",
+			"C": "cuando una capa estratiforme se mezcla con una masa cumuliforme."
 		},
 		{
-			"Pregunta": "453.- (4126) QUÉ FENÓMENO DEL TIEMPO METEOROLÓGÍCO SEÑALA EL COMIENZO DE LA ETAPA DE MADUREZ DE UNA TORMENTA: ",
+			"Pregunta": "453.- (4126) qué fenómeno del tiempo meteorológico señala el comienzo de la etapa de madurez de una tormenta: ",
 			"RespuestaCorrecta": "1",
-			"A": "EL COMIENZO DE LLUVA EN LA SUPERFICIE",
-			"B": "EL RÉGIMEN DE CRECIMIENTO LLEGA AL MÁXIMO",
-			"C": "TURBULENCA SEVERA EN LA NUBE."
+			"A": "el comienzo de lleva en la superficie",
+			"B": "el régimen de crecimiento llega al máximo",
+			"C": "turbulencia severa en la nube."
 		},
 		{
-			"Pregunta": "454.- (4127) LAS ONDAS FRONTALES SE FORMAN NORMALMENTE EN: ",
+			"Pregunta": "454.- (4127) las ondas frontales se forman normalmente en: ",
 			"RespuestaCorrecta": "1",
-			"A": "FRENTES FRÍOS CON MOVIMIENTO LENTO O FRENTES ESTACIONARIOS",
-			"B": "FRENTES CALIENTES CON MOVIMIENTO LENTO Y FRENTES OCLUIDOS FUERTES",
-			"C": "FRENTES FRÍOS O CALIENTES CON MOVIMIENTO RÁPIDO."
+			"A": "frentes fríos con movimiento lento o frentes estacionarios",
+			"B": "frentes calientes con movimiento lento y frentes ocluidos fuertes",
+			"C": "frentes fríos o calientes con movimiento rápido."
 		},
 		{
-			"Pregunta": "455.- (4128) CUÁLES SON LAS CARACTERÍSTICAS DE UNA MASA DE AIRE FRÍA E INESTABLE MOVIÉNDOSE SOBRE UNA SUPERFICIE CALIENTE: ",
+			"Pregunta": "455.- (4128) cuáles son las características de una masa de aire fría e inestable moviéndose sobre una superficie caliente: ",
 			"RespuestaCorrecta": "2",
-			"A": "NUBES CUMULIFORMES, TURBULENCA Y POBRE VISIBILIDAD",
-			"B": "NUBES CUMULIFORMES,TURBULENCA Y BUENA VISIBILIDAD",
-			"C": "NUBES ESTRATIFORMES, AIRE TRANQUILO Y POBRE VISIBILIDAD."
+			"A": "nubes cumuliformes, turbulencia y pobre visibilidad",
+			"B": "nubes cumuliformes, turbulencia y buena visibilidad",
+			"C": "nubes estratiformes, aire tranquilo y pobre visibilidad."
 		},
 		{
-			"Pregunta": "456.- (4130) NUBES LENTICULARES VERTICALES, EN ÁREAS MONTAÑOSAS, INDICAN:",
+			"Pregunta": "456.- (4130) nubes lenticulares verticales, en áreas montañosas, indican:",
 			"RespuestaCorrecta": "3",
-			"A": "UNA INVERSIÓN",
-			"B": "AIRE INESTABLE",
-			"C": "TURBULENCA."
+			"A": "una inversión",
+			"B": "aire inestable",
+			"C": "turbulencia."
 		},
 		{
-			"Pregunta": "457.- (4131) EL SUBFIJO NIMBUS USADO PARA NOMBRAR NUBES, SIGNIFICA:",
+			"Pregunta": "457.- (4131) el sufijo nimbus usado para nombrar nubes, significa:",
 			"RespuestaCorrecta": "2",
-			"A": "NUBE CON EXTENSO DESARROLLO VERTICAL",
-			"B": "NUBE DE LLUVA",
-			"C": "NUBE MASIVA, OSCURA Y ENCUMBRADA."
+			"A": "nube con extenso desarrollo vertical",
+			"B": "nube de lleva",
+			"C": "nube masiva, oscura y encumbrada."
 		},
 		{
-			"Pregunta": "458.- (4132) LA PRESENCIA DE ALTOCÚMULOS LENTICULARES VERTICALES ES UNA BUENA INDICACIÓN DE: ",
+			"Pregunta": "458.- (4132) la presencia de altocúmulos lenticulares verticales es una buena indicación de: ",
 			"RespuestaCorrecta": "2",
-			"A": "UNA CORRIENTE DE CHORRO",
-			"B": "TURBULENCA SEVERA ",
-			"C": "CONDICIONES DE CONGEUMIENTO FUERTES."
+			"A": "una corriente de chorro",
+			"B": "turbulencia severa ",
+			"C": "condiciones de congelamiento fuertes."
 		},
 		{
-			"Pregunta": "459.- (4133) QUÉ FAMILIA DE NUBES ES LA MENOS PROBABLE A CONTRIBUIR AL CONGELAMIENTO ESTRUCTURAL EN LA AERONAVE: ",
+			"Pregunta": "459.- (4133) qué familia de nubes es la menos probable a contribuir al congelamiento estructural en la aeronave: ",
 			"RespuestaCorrecta": "2",
-			"A": "NUBES BAJAS",
-			"B": "NUBES ALTAS",
-			"C": "NUBES CON EXTENSO DESARROLLO VERTICAL"
+			"A": "nubes bajas",
+			"B": "nubes altas",
+			"C": "nubes con extenso desarrollo vertical"
 		},
 		{
-			"Pregunta": "460.- (4134) CUÁLES SON LAS 4 FAMILIAS DE NUBES:",
+			"Pregunta": "460.- (4134) cuáles son las 4 familias de nubes:",
 			"RespuestaCorrecta": "3",
-			"A": "ESTRATOS, CÚMULOS, NIMBUS Y CIRRUS",
-			"B": "NUBES FORMADAS POR CORRIENTES ASCENDENTES, FRENTES, CAPAS DE AIRE ENFRIÁNDOSE Y PRECIPITACIÓN EN AIRE CALENTE",
-			"C": "ALTAS, MEDAS, BAJAS Y AQUELLAS CON EXTENSO DESARROLLO VERTICAL"
+			"A": "estratos, cúmulos, nimbus y cirrus",
+			"B": "nubes formadas por corrientes ascendentes, frentes, capas de aire enfriándose y precipitación en aire caliente",
+			"C": "altas, medias, bajas y aquellas con extenso desarrollo vertical"
 		},
 		{
-			"Pregunta": "461.- (4135) CUANDO SE PUEDE ENCONTRAR WIND SHEAR ASOCIADO CON UNA TORMENTA ESCOJA LA RESPUESTA MÁS COMPLETA: ",
+			"Pregunta": "461.- (4135) cuando se puede encontrar wind shear asociado con una tormenta escoja la respuesta más completa: ",
 			"RespuestaCorrecta": "3",
-			"A": "EN FRENTE DE UNA TORMENTA (DEL LADO DEL YUNOUE) Y AL LADO DERECHO DE LA CÉLULA ",
-			"B": "EN FRENTE DE LA TORMENTA Y DIRECTAMENTE DEBAJO DE LA CÉLULA ",
-			"C": "EN TODOS LOS LADOS DE LA TORMENTA Y DIRECTAMENTE DEBAJO DE LA CÉLULA."
+			"A": "en frente de una tormenta (del lado del yunoue) y al lado derecho de la célula ",
+			"B": "en frente de la tormenta y directamente debajo de la célula ",
+			"C": "en todos los lados de la tormenta y directamente debajo de la célula."
 		}, {
-			"Pregunta": "462.- (4136) QUÉ FENÓMENO DEL TIEMPO METEOROLÓGICO ESTÁ SIEMPRE ASOCIADO CON EL PASO DE UN SISTEMA FRONTAL: ",
+			"Pregunta": "462.- (4136) qué fenómeno del tiempo meteorológico está siempre asociado con el paso de un sistema frontal: ",
 			"RespuestaCorrecta": "1",
-			"A": "UN CAMBIO EN EL VIENTO",
-			"B": "UNA DISMINUCIÓN ABRUPTA EN LA PRESIÓN",
-			"C": "NUBES,YA SEA ADELANTE O ATRÁS DEL FRENTE."
+			"A": "un cambio en el viento",
+			"B": "una disminución abrupta en la presión",
+			"C": "nubes, ya sea adelante o atrás del frente."
 		}, {
-			"Pregunta": "463.- (4113) DONDE OCURRE EL WIND SHEAR:",
+			"Pregunta": "463.- (4113) donde ocurre el wind shear:",
 			"RespuestaCorrecta": "3",
-			"A": "EXCLUSIVAMENTE EN TORMENTAS",
-			"B": "DONDE QUIERA QUE HAYA UNA DISMINUCIÓN ABRUPTA EN LA PRESIÓN Y/O TEMPERATURA",
-			"C": "YA SEA CON UN CAMBIO DE VIENTO O UNA GRADIENTE DE LA VELOCIDAD DEL VIENTO EN CUALQUIER NIVEL DE LA ATMOSFERA."
+			"A": "exclusivamente en tormentas",
+			"B": "donde quiera que haya una disminución abrupta en la presión y/o temperatura",
+			"C": "ya sea con un cambio de viento o una gradiente de la velocidad del viento en cualquier nivel de la atmosfera."
 		}, {
-			"Pregunta": "464.- (4139) CUÁL ES UNA CARACTERÍSTICA IMPORTANTE DEL WIND SHEAR:",
+			"Pregunta": "464.- (4139) cuál es una característica importante del wind shear:",
 			"RespuestaCorrecta": "3",
-			"A": "ESTÁ ASOCADA PRINCIPALMENTE CON LOS VÓRTICES LATERALES GENERADOS POR LAS TORMENTAS",
-			"B": "EXISTEN GENERALMENTE SÓLO EN LAS CERCANÍAS DE TORMENTAS, PERO PUEDEN SER ENCONTRADOS CERCA DE FUERTES INVERSIONES DE TEMPERATURA",
-			"C": "PUEDEN SER ASOCADOS YA SEA CON CAMBIOS DEL MENTO O UNA GRADIENTE DE VELOCIDAD DEL VIENTO EN CUALQUIER NIVEL DE LA ATMOSFERA."
+			"A": "está asociada principalmente con los vórtices laterales generados por las tormentas",
+			"B": "existen generalmente sólo en las cercanías de tormentas, pero pueden ser encontrados cerca de fuertes inversiones de temperatura",
+			"C": "pueden ser asociados ya sea con cambios del viento o una gradiente de velocidad del viento en cualquier nivel de la atmosfera."
 		}, {
-			"Pregunta": "465.- (4140) CUÁL ES UNA CARACTERÍSTICA DE WIND SHEAR A BAJO NIVEL Y SU RELACIÓN CON LA ACTIVIDAD FRONTAL: ",
+			"Pregunta": "465.- (4140) cuál es una característica de wind shear a bajo nivel y su relación con la actividad frontal: ",
 			"RespuestaCorrecta": "1",
-			"A": "CON UN FRENTE CALIENTE, EL PERIODO MÁS CRÍTICO ES ANTES DE QUE EL FRENTE PASE EL AEROPUERTO",
-			"B": "CON UN FRENTE FRÍO, EL PERIODO MÁS CRÍTICO ES JUSTO ANTES DE QUE EL FRENTE PASE EL AEROPUERTO",
-			"C": "TURBULENCIA EXISTIRÁ SIEMPRE EN CONDICIONES DE WIND SHEAR"
+			"A": "con un frente caliente, el periodo más crítico es antes de que el frente pase el aeropuerto",
+			"B": "con un frente frío, el periodo más crítico es justo antes de que el frente pase el aeropuerto",
+			"C": "turbulencia existirá siempre en condiciones de wind shear"
 		}, {
-			"Pregunta": "466.- (4141) QUÉ SE INDICA CON EL TÉRMINO 'TORMENTAS ESCONDIDAS: ",
+			"Pregunta": "466.- (4141) qué se indica con el término 'tormentas escondidas: ",
 			"RespuestaCorrecta": "3",
-			"A": "TORMENTAS SEVERAS ESCONDIDAS DENTRO DE UNA LÍNEA DE TURBONADA",
-			"B": "TORMENTAS PRONOSTICADAS A DESARROLLARSE EN UNA MASA DE AIRE ESTABLE",
-			"C": "TORMENTAS QUE ESTÁN OCULTAS POR UNA CAPA MASIVA DE NUBES Y NO SE PUEDEN VER."
+			"A": "tormentas severas escondidas dentro de una línea de turbonada",
+			"B": "tormentas pronosticadas a desarrollarse en una masa de aire estable",
+			"C": "tormentas que están ocultas por una capa masiva de nubes y no se pueden ver."
 		}, {
-			"Pregunta": "467.- (4142) SI SON REPORTADAS TURBONADAS EN SU DESTINO, QUÉ CONDICIONES DE VIENTO DEBERÁ USTED ANTICIPAR:",
+			"Pregunta": "467.- (4142) si son reportadas turbonadas en su destino, qué condiciones de viento deberá usted anticipar:",
 			"RespuestaCorrecta": "1",
-			"A": "AUMENTOS REPENTINOS DE LA VELOCIDAD DEL VIENTO DE AL MENOS 15 NUDOS A UN PUNTO MÁXIMO DE 20 NUDOS O MÁS, CON UNA DURACIÓN DE POR LO MENOS 1 MINUTO",
-			"B": "RÁFAGAS MÁXIMAS DE AL MENOS 35 NUDOS POR UN PERIODO CONTINUO DE 1 MINUTO O MÁS",
-			"C": "VARACIONES RÁPIDAS EN LA DIRECCIÓN DEL VIENTO DE AL MENOS 20° Y CAMBIOS EN LA VELOCIDAD DE AL MENOS 10 NUDOS ENTRE MÁXIMOS Y MÍNIMOS. "
+			"A": "aumentos repentinos de la velocidad del viento de al menos 15 nudos a un punto máximo de 20 nudos o más, con una duración de por lo menos 1 minuto",
+			"B": "ráfagas máximas de al menos 35 nudos por un periodo continuo de 1 minuto o más",
+			"C": "variaciones rápidas en la dirección del viento de al menos 20° y cambios en la velocidad de al menos 10 nudos entre máximos y mínimos. "
 		}, {
-			"Pregunta": "468.- (4143) DURANTE EL CICLO DE VIDA DE UNA TORMENTA, QUÉ ETAPA SE CARACTERIZA PRINCIPALMENTE POR RÁFAGAS DESCENDENTES:",
+			"Pregunta": "468.- (4143) durante el ciclo de vida de una tormenta, qué etapa se caracteriza principalmente por ráfagas descendentes:",
 			"RespuestaCorrecta": "2",
-			"A": "CÚMULOS",
-			"B": "DISIPACIÓN",
-			"C": "MADUREZ"
+			"A": "cúmulos",
+			"B": "disipación",
+			"C": "madurez"
 		}, {
-			"Pregunta": "469.- (4144) QUÉ FENÓMENO METEOROLÓGICO ESTÁ SIEMPRE ASOCIADO CON UNA TORMENTA:",
+			"Pregunta": "469.- (4144) qué fenómeno meteorológico está siempre asociado con una tormenta:",
 			"RespuestaCorrecta": "1",
-			"A": "RELÁMPAGOS",
-			"B": "CHUBASCOS FUERTES",
-			"C": "GOTAS DE LLUVIA SOBRE ENFRIADAS."
+			"A": "relámpagos",
+			"B": "chubascos fuertes",
+			"C": "gotas de lluvia sobre enfriadas."
 		}, {
-			"Pregunta": "470.- (4145) CUÁLES TORMENTAS GENERALMENTE PRODUCEN LAS MÁS SEVERAS CONDICIONES, TALES COMO FUERTE GRANIZO Y VIENTOS DESTRUCTIVOS: ",
+			"Pregunta": "470.- (4145) cuáles tormentas generalmente producen las más severas condiciones, tales como fuerte granizo y vientos destructivos: ",
 			"RespuestaCorrecta": "2",
-			"A": "FRENTE CALIENTE",
-			"B": "LÍNEA DE TURBONADA",
-			"C": "MASA DE AIRE."
+			"A": "frente caliente",
+			"B": "línea de turbonada",
+			"C": "masa de aire."
 		}, {
-			"Pregunta": "471.- (4146) QUÉ PROCEDIMIENTO ES RECOMENDADO SI UN PILOTO PENETRA EN UNA TORMENTA ESCONDIDA NO INTENCIONADAMENTE:",
+			"Pregunta": "471.- (4146) qué procedimiento es recomendado si un piloto penetra en una tormenta escondida no intencionadamente:",
 			"RespuestaCorrecta": "3",
-			"A": "INVERTIR EL RUMBO Y PROCEDER A UN ÁREA DE CONDICIONES VFR",
-			"B": "REDUCIR LA VELOCIDAD DE MANIOBRA Y MANTENER UNA ALTITUD CONSTANTE",
-			"C": "AJUSTAR A LA VELOCIDAD RECOMENDADA PARA PENETRAR TURBULENCA E INTENTAR MANTENER UNA ACTITUD DE VUELO NIVELADO."
+			"A": "invertir el rumbo y proceder a un área de condiciones VFR",
+			"B": "reducir la velocidad de maniobra y mantener una altitud constante",
+			"C": "ajustar a la velocidad recomendada para penetrar turbulencia e intentar mantener una actitud de vuelo nivelado."
 		}, {
-			"Pregunta": "472.-(4147) CUÁL ES LA INDICACIÓN DE QUE LAS RÁFAGAS DESCENDENTES SE HAN DESARROLLADO Y LA TORMENTA HA ENTRADO EN LA ETAPA DE MADUREZ:",
+			"Pregunta": "472.-(4147) cuál es la indicación de que las ráfagas descendentes se han desarrollado y la tormenta ha entrado en la etapa de madurez:",
 			"RespuestaCorrecta": "2",
-			"A": "EL YUNQUE HA COMPLETADO SU DESARROLLO",
-			"B": "EMPIEZA LA PRECIPÍTACIÓN DESDE LA BASE",
-			"C": "SE FORMA UN FRENTE DE RÁFAGAS. "
+			"A": "el yunque ha completado su desarrollo",
+			"B": "empieza la precipitación desde la base",
+			"C": "se forma un frente de ráfagas. "
 		}, {
-			"Pregunta": "473.- (4148) CUÁLES SON LOS REQUERIMIENTOS PARA LA FORMACIÓN DE UNA TORMENTA: ",
+			"Pregunta": "473.- (4148) cuáles son los requerimientos para la formación de una tormenta: ",
 			"RespuestaCorrecta": "3",
-			"A": "UNA NUBE CÚMULOS CON SUFICIENTE HUMEDAD",
-			"B": "UNA NUBE CÚMULOS CON SUFICIENTE HUMEDAD Y UNA GRADIENTE INVERTIDA",
-			"C": "SUFICIENTE HUMEDAD, UNA GRADIENTE INESTABLE Y ACCIÓN ASCENDENTE."
+			"A": "una nube cúmulos con suficiente humedad",
+			"B": "una nube cúmulos con suficiente humedad y una gradiente invertida",
+			"C": "suficiente humedad, una gradiente inestable y acción ascendente."
 		}, {
-			"Pregunta": "474.- (4149) NUBES CÚMULOS DE BUEN TIEMPO METEOROLÓGICO GENERALMENTE INDICAN: ",
+			"Pregunta": "474.- (4149) nubes cúmulos de buen tiempo meteorológico generalmente indican: ",
 			"RespuestaCorrecta": "1",
-			"A": "TURBULENCA EN Y POR DEBAJO DEL NIVEL DE J",
-			"B": "VISIBILIDAD POBRE",
-			"C": "CONDICIONES DE VUELO UNIFORME."
+			"A": "turbulencia en y por debajo del nivel de j",
+			"B": "visibilidad pobre",
+			"C": "condiciones de vuelo uniforme."
 		}, {
-			"Pregunta": "475.- (4150) CUÁL ES UNA CARACTERÍSTICA IMPORTANTE DEL WIND SHEAR: ",
+			"Pregunta": "475.- (4150) cuál es una característica importante del wind shear: ",
 			"RespuestaCorrecta": "3",
-			"A": "ES UNA CONDICIÓN ATMOSFÉRICA ASOCIADA CON ZONAS DE CONVERGENCA EXCLUSIVAMENTE",
-			"B": "EL FENÓMENO DE CORIOLIS EN NIVELES ALTOS Y BAJOS DE MASAS DE AIRE ES LA PRINCIPAL FUERZA GENERADORA",
-			"C": "ES UNA CONDICIÓN ATMOSFÉRICA QUE PUEDE ESTAR ASOCIADA CON UNA INVERSION DE TEMPERATURA A BAJO NIVEL Y CORRIENTE DE CHORRO FRONTAL"
+			"A": "es una condición atmosférica asociada con zonas de convergencia exclusivamente",
+			"B": "el fenómeno de coriolis en niveles altos y bajos de masas de aire es la principal fuerza generadora",
+			"C": "es una condición atmosférica que puede estar asociada con una inversión de temperatura a bajo nivel y corriente de chorro frontal"
 		}, {
-
-			"Pregunta": "477.- (4152) EN QUE CONDICIÓN METEOROLÓGICA ES MÁS PROBABLE QUE EL CONGELAMIENTO ESTRUCTURAL DE UNA AERONAVE TENGA EL MAYOR RÉGIMEN DE ACUMULACIÓN ",
+			"Pregunta": "477.- (4152) en que condición meteorológica es más probable que el congelamiento estructural de una aeronave tenga el mayor régimen de acumulación ",
 			"RespuestaCorrecta": "3",
-			"A": "NUBES CUMULONIMBUS",
-			"B": "ALTA HUMEDAD Y TEMPERATURA DE CONGELACIÓN",
-			"C": "LLUVIA HELADA"
+			"A": "nubes cumulonimbus",
+			"B": "alta humedad y temperatura de congelación",
+			"C": "lluvia helada"
 		}, {
-			"Pregunta": "478.- (4153) CUÁL ES UNA CONSIDERACIÓN OPERACIONAL SI USTED VUELA EN LLUVIA QUE SE CONGELA CON EL IMPACTO: ",
+			"Pregunta": "478.- (4153) cuál es una consideración operacional si usted vuela en lluvia que se congela con el impacto: ",
 			"RespuestaCorrecta": "2",
-			"A": "USTED HA VOLADO DENTRO DE UN ÁREA DE TORMENTAS",
-			"B": "LAS TEMPERATURAS ESTÁN SOBRE EL PUNTO DE CONGELACIÓN EN ALGUNAS  ALTITUDES MAYORES",
-			"C": "USTED HA VOLADO A TRAVÉS DE UN FRENTE FRÍO."
+			"A": "usted ha volado dentro de un área de tormentas",
+			"B": "las temperaturas están sobre el punto de congelación en algunas  altitudes mayores",
+			"C": "usted ha volado a través de un frente frío."
 		}, {
-			"Pregunta": "479.- (4154) LA ALTURA PROMEDIO DE LA TROPOSFERA ES:",
+			"Pregunta": "479.- (4154) la altura promedio de la troposfera es:",
 			"RespuestaCorrecta": "3",
-			"A": "20000 FT.",
-			"B": "25000 FT.",
-			"C": "37000 FT."
-
+			"A": "20000 ft.",
+			"B": "25000 ft.",
+			"C": "37000 ft."
 		}, {
-			"Pregunta": "480.- (4155) UNA CORRIENTE DE CHORRO SE DEFINE COMO VIENTOS DE:",
+			"Pregunta": "480.- (4155) una corriente de chorro se define como vientos de:",
 			"RespuestaCorrecta": "3",
-			"A": "30 NUDOS O MAYOR",
-			"B": "40 NUDOS O MAYOR",
-			"C": "50 NUDOS O MAYOR."
-
+			"A": "30 nudos o mayor",
+			"B": "40 nudos o mayor",
+			"C": "50 nudos o mayor."
 		}, {
-			"Pregunta": "481.- (4156) BAJO QUÉ CONDICIÓN SE FO RMA GENERALMENTE LA NIEBLA DE ADVECCION: ",
+			"Pregunta": "481.- (4156) bajo qué condición se forma generalmente la niebla de adveccion: ",
 			"RespuestaCorrecta": "1",
-			"A": "AIRE HUMEDO MOVIÉNDOSE SOBRE TIERRA O AGUA MÁS FRÍAS",
-			"B": "AIRE HUMEDO Y CALIENTE ASENTÁNDOSE SOBRE UNA SUPERFICIE MÁS FRÍA BAJO CONDICIONES SIN VIENTO",
-			"C": "UNA BRISA TERRESTRE SOPLANDO HACIA UNA MASA DE AIRE FRÍO SOBRE UNA CORRIENTE DE AGUA CALIENTE."
+			"A": "aire húmedo moviéndose sobre tierra o agua más frías",
+			"B": "aire húmedo y caliente asentándose sobre una superficie más fría bajo condiciones sin viento",
+			"C": "una brisa terrestre soplando hacia una masa de aire frío sobre una corriente de agua caliente."
 		}, {
-			"Pregunta": "482.- (4157) UNA NUBE ALTA ESTÁ COMPUESTA PRINCIPALMENTE DE:.",
+			"Pregunta": "482.- (4157) una nube alta está compuesta principalmente de:.",
 			"RespuestaCorrecta": "3",
-			"A": "OZONO",
-			"B": "NUCLEOS DE CONDENSACIÓN",
-			"C": "CRISTALES DE HIELO."
+			"A": "ozono",
+			"B": "núcleos de condensación",
+			"C": "cristales de hielo."
 		}, {
-			"Pregunta": "483.- (4158) UNA MASA DE AIRE ES UN CUERPO DE AIRE QUE:",
+			"Pregunta": "483.- (4158) una masa de aire es un cuerpo de aire que:",
 			"RespuestaCorrecta": "3",
-			"A": "TIENE FORMACIONES DE NUBES SIMILARES ASOCIADAS CON ÉSTA",
-			"B": "CREA UN CAMBIO DEL VIENTO, MIENTRAS SE MUEVE A TRAVÉS DE LA SUPERFICIE DE LA TIERRA  CUBRE UNA EXTENSA ÁREA Y TIENE PROPIEDADES BASTANTE UNIFORMES DE TEMPERATURA Y HUMEDAD,",
-			"C": "CUBRE UNA EXTENSA AREA Y TIENE PROPIEDADES BASTANTE UNIFORMES DE TEMPERATURA Y HUMEDAD"
+			"A": "tiene formaciones de nubes similares asociadas con ésta",
+			"B": "crea un cambio del viento, mientras se mueve a través de la superficie de la tierra  cubre una extensa área y tiene propiedades bastante uniformes de temperatura y humedad,",
+			"C": "cubre una extensa área y tiene propiedades bastante uniformes de temperatura y humedad"
 		}, {
-			"Pregunta": "484.- (4159) QUÉ AUMENTA EL CRECIMIENTO DEL RÉGIMEN DE PRECIPITACIÓN:",
+			"Pregunta": "484.- (4159) qué aumenta el crecimiento del régimen de precipitación:",
 			"RespuestaCorrecta": "2",
-			"A": "ACCIÓN ADVECTIVA",
-			"B": "CORRIENTES ASCENDENTES",
-			"C": "MOVIMIENTO CICLÓNICO."
+			"A": "acción advectiva",
+			"B": "corrientes ascendentes",
+			"C": "movimiento ciclónico."
 		}, {
-			"Pregunta": "485.- (4160) SI USTED VUELA DENTRO DE TURBULENCIA SEVERA, QUE CONDICIÓN DE VUELO DEBERÁ INTENTAR MANTENER: ",
+			"Pregunta": "485.- (4160) si usted vuela dentro de turbulencia severa, que condición de vuelo deberá intentar mantener: ",
 			"RespuestaCorrecta": "2",
-			"A": "VELOCIDAD CONSTANTE ",
-			"B": "ACTITUD DE VUELO NIVELADO",
-			"C": "ALTITUD CONSTANTE Y VELOCIDAD CONSTANTE."
+			"A": "velocidad constante ",
+			"B": "actitud de vuelo nivelado",
+			"C": "altitud constante y velocidad constante."
 		}, {
-			"Pregunta": "485.- (4161) QUÉ TIPO DE PRECIPITACIÓN NORMALMENTE INDICA LLUVIA CONGELANTE A GRANDES ALTITUDES: ",
+			"Pregunta": "485.- (4161) qué tipo de precipitación normalmente indica lluvia congelante a grandes altitudes: ",
 			"RespuestaCorrecta": "2",
-			"A": "NIEVE",
-			"B": "GRANIZO",
-			"C": "GRANIZO PEQUEÑO."
+			"A": "nieve",
+			"B": "granizo",
+			"C": "granizo pequeño."
 		}, {
-			"Pregunta": "487.- (4162) QUÉ CONDICIONES METEOROLÓGICAS PUEDEN ESPERARSE CUANDO UN AIRE HÚMEDO FLUYE DE UNA SUPERFICIE RELATIVAMENTE CALIENTE A UNA SUPERFICIE MÁS FRÍA:",
+			"Pregunta": "487.- (4162) qué condiciones meteorológicas pueden esperarse cuando un aire húmedo fluye de una superficie relativamente caliente a una superficie más fría:",
 			"RespuestaCorrecta": "3",
-			"A": "AUMENTO EN EJE",
-			"B": "TURBULENCA CONVECTIVA DEBIDO AL CALENTAMIENTO DE SUPERFICIE",
-			"C": "NIEBLA."
+			"A": "aumento en eje",
+			"B": "turbulencia convectiva debido al calentamiento de superficie",
+			"C": "niebla."
 		}, {
-			"Pregunta": "488.- (4153) LA NIEBLA ES USUALMENTE PREVALECIENTE EN ÁREAS INDUSTRIALES POR: ",
+			"Pregunta": "488.- (4153) la niebla es usualmente prevaleciente en áreas industriales por: ",
 			"RespuestaCorrecta": "2",
-			"A": "ESTABILIZACIÓN ATMOSFÉRICA ALREDEDOR DE CIUDADES",
-			"B": "ABUNDANTES NÚCLEOS DE CONDENSACIÓN DE PRODUCTOS DE COMBUSTIÓN",
-			"C": "TEMPERATURAS ALTAS DEBIDO AL CALENTAMIENTO INDUSTRIAL"
+			"A": "estabilización atmosférica alrededor de ciudades",
+			"B": "abundantes núcleos de condensación de productos de combustión",
+			"C": "temperaturas altas debido al calentamiento industrial"
 		}, {
-			"Pregunta": "489.- (4164) EN QUÉ SITUACIÓN ES MÁS PROBABLE QUE LA NIEBLA DE ADVECCION SE FORME:",
+			"Pregunta": "489.- (4164) en qué situación es más probable que la niebla de adveccion se forme:",
 			"RespuestaCorrecta": "1",
-			"A": "UNA MASA DE AIRE MOVIÉNDOSE DESDE LA COSTA TIERRA ADENTRO EN INVIERNO",
-			"B": "UNA BRISA LEVE SOPLANDO AIRE MÁS FRÍO HACA EL MAR",
-			"C": "AIRE CAUENTE Y HÚMEDO ASENTÁNDOSE SOBRE UNA SUPERFICIE MÁS CALIENTE BAJO CONDICIONES SIN VIENTO."
+			"A": "una masa de aire moviéndose desde la costa tierra adentro en invierno",
+			"B": "una brisa leve soplando aire más frío haca el mar",
+			"C": "aire caliente y húmedo asentándose sobre una superficie más caliente bajo condiciones sin viento."
 		}, {
-			"Pregunta": "490.- (4165) EN QUÉ LOCALIDADES ES MÁS PROBABLE QUE LA NIEBLA DE ADVECCION OCURRA: ",
+			"Pregunta": "490.- (4165) en qué localidades es más probable que la niebla de adveccion ocurra: ",
 			"RespuestaCorrecta": "1",
-			"A": "ÁREAS COSTERAS",
-			"B": "LADERAS DE MONTAÑAS",
-			"C": "ÁREAS PLANAS TIERRA ADENTRO."
+			"A": "áreas costeras",
+			"B": "laderas de montañas",
+			"C": "áreas planas tierra adentro."
 		}, {
-			"Pregunta": "491.- (4166) QUÉ TIPOS DE NIEBLA DEPENDEN DEL VIENTO PARA EXISTIR:",
+			"Pregunta": "491.- (4166) qué tipos de niebla dependen del viento para existir:",
 			"RespuestaCorrecta": "3",
-			"A": "NIEBLA VAPOR Y NIEBLA OROGRÁFICA",
-			"B": "NIEBLA INDUCIDA POR PRECIPITACIÓN Y NIEBLA A RAS DEL SUELO",
-			"C": "NIEBLA DE ADVECCION Y NEBLA OROGRÁFiCA."
+			"A": "niebla vapor y niebla orográfica",
+			"B": "niebla inducida por precipitación y niebla a ras del suelo",
+			"C": "niebla de adveccion y niebla orográfica."
 		}, {
-			"Pregunta": "492.- (4167) QUÉ SITUACIÓN ES LA MÁS PROPISIA PARA LA FORMACIÓN DE LA NIEBLA DE RADIACIÓN:",
+			"Pregunta": "492.- (4167) qué situación es la más propicia para la formación de la niebla de radiación:",
 			"RespuestaCorrecta": "1",
-			"A": "AIRE CALENTE Y HÚMEDO SOBRE ÁREAS BAJAS Y LLANAS EN NOCHES CLARAS Y CALMAS.",
-			"B": "AIRE TROPICAL Y HÚMEDO MOVIÉNDOSE SOBRE AGUA FRIA Y A CORTA DISTANCA DE LA COSTA",
-			"C": "EL MOVIMIENTO DE AIRE FRÍO SOBRE AGUA MUCHO MÁS CALIENTE."
+			"A": "aire caliente y húmedo sobre áreas bajas y llanas en noches claras y calmas.",
+			"B": "aire tropical y húmedo moviéndose sobre agua fría y a corta distancia de la costa",
+			"C": "el movimiento de aire frío sobre agua mucho más caliente."
 		}, {
-			"Pregunta": "493.- (4158) LA INTENSIDAD Y UBICACIÓN DE LA CORRIENTE DE CHORRO ES NORMALMENTE: ",
+			"Pregunta": "493.- (4158) la intensidad y ubicación de la corriente de chorro es normalmente: ",
 			"RespuestaCorrecta": "2",
-			"A": "MÁS FUERTE Y MÁS HACIA EL NORTE EN EL INVIERNO",
-			"B": "MÁS DÉBIL Y MÁS HACIA EL NORTE EN VERANÓ",
-			"C": "MÁS FUERTE Y MÁS HACIA EL NORTE EN VERANO."
+			"A": "más fuerte y más hacia el norte en el invierno",
+			"B": "más débil y más hacia el norte en verano",
+			"C": "más fuerte y más hacia el norte en verano."
 		}, {
-			"Pregunta": "493.- (4158) LA INTENSIDAD Y UBICACIÓN DE LA CORRIENTE DE CHORRO ES  QUÉ CONDICIONES SON FAVORABLES PARA LA FORMACIÓN DE NIEBLA DE RADIACIÓN:",
+			"Pregunta": "493.- (4158) la intensidad y ubicación de la corriente de chorro es qué condiciones son favorables para la formación de niebla de radiación:",
 			"RespuestaCorrecta": "2",
-			"A": "AIRE HÚMEDO MOVIÉNDOSE SOBRE TIERRA O AGUAS MAS FRÍA",
-			"B": "CIELO NUBOSO Y VIENTO LEVE MOVIENDO AIRE CALENTE / SATURADO SOBRE UNA SUPERFICE MÁS FRÍA.",
-			"C": "CIELO CLARO, POCO O NADA DE VENTO, PEQUEÑA SEPARACIÓN ENTRE LA TEMPERATURA Y EL PUNTO DE ROCÍO Y SOBRE UNA SUPERFICE TERRESTRE."
+			"A": "aire húmedo moviéndose sobre tierra o aguas más fría",
+			"B": "cielo nuboso y viento leve moviendo aire caliente saturado sobre una superficie más fría.",
+			"C": "cielo claro, poco o nada de viento, pequeña separación entre la temperatura y el punto de rocío y sobre una superficie terrestre."
 		}, {
-			"Pregunta": "495.- (4170) EL CUERPO DE UN TAFOR CUBRE UNA PROXIMIDAD GEOGRÁFICA DENTRO DE: ",
+			"Pregunta": "495.- (4170) el cuerpo de un tafor cubre una proximidad geográfica dentro de: ",
 			"RespuestaCorrecta": "1",
-			"A": "UN RADIO DE 5 MILIAS DEL CENTRO DE UNA PISTA COMPLEJA",
-			"B": "UN RADIO DE 25 MILLAS DEL CENTRO DE UN AEROPUERTO",
-			"C": "UN RADIO DE 10 MILLAS DELA ESTACIÓN DE ORIGEN DEL TAFOR."
+			"A": "un radio de 5 millas del centro de una pista compleja",
+			"B": "un radio de 25 millas del centro de un aeropuerto",
+			"C": "un radio de 10 millas de la estación de origen del tafor."
 		}, {
-			"Pregunta": "496.- (4171) INFORMACIÓN DE PRUEBA INDICA QUE EL HIELO, NIEVE O ESCARCHA QUE TIENEN UN ESPESOR Y ASPEREZA SIMILAR A UNA LIJA DE MEDIANO A MAYOR GROSOR EN EL BORDE DE ATAQUE Y SUPERFICIE SUPERIOR DEL A LA PUEDE:",
+			"Pregunta": "496.- (4171) información de prueba indica que el hielo, nieve o escarcha que tienen un espesor y aspereza similar a una lija de mediano a mayor grosor en el borde de ataque y superficie superior del ala puede:",
 			"RespuestaCorrecta": "3",
-			"A": "REDUCIR LA SUSTENTACIÓN HASTA UN 50% Y AUMENTAR UNA HASTA UN 50%",
-			"B": "AUMENTAR LA RESISTENCA Y REDUCIR LA SUSTENTACIÓN HASTA UN 25%",
-			"C": "REDUCIR UAN HASTA UN 30% Y AUMENTAR LA RESISTENCA HASTA UN 40%."
+			"A": "reducir la sustentación hasta un 50% y aumentar una hasta un 50%",
+			"B": "aumentar la resistencia y reducir la sustentación hasta un 25%",
+			"C": "reducir hasta un 30% y aumentar la resistencia hasta un 40%."
 		}, {
-			"Pregunta": "497.- QUÉ DIRECCIÓN Y VELOCIDAD DEL VIENTO ESTÁ REPRESENTADA POR LA ENTRADA 9900+00 PARA 9000 PIES, EN UN PRONÓSTICO DE VIENTOS Y TEMPERATURAS SUPERIORES DE: ",
+			"Pregunta": "497.- qué dirección y velocidad del viento está representada por la entrada 9900+00 para 9000 pies, en un pronóstico de vientos y temperaturas superiores de: ",
 			"RespuestaCorrecta": "1",
-			"A": "LEVE Y VARABLE, MENOR DE 5 NUDOS",
-			"B": "VIENTO DE REMOLINO EXCEDIENDO 200 NUDOS",
-			"C": "LEVE Y VARABLE, MENOS DE 10 NUDOS."
+			"A": "leve y variable, menor de 5 nudos",
+			"B": "viento de remolino excediendo 200 nudos",
+			"C": "leve y variable, menos de 10 nudos."
 		}, {
-			"Pregunta": "498.- (4173) QUÉ CONCLUSIONES SE PUEDEN OBTENER DE UNA CARTA DE PRESIÓN CONSTANTE DE 500 MILIBARES PARA UN VUELO PLANEADO PARA EL FL180: ",
+			"Pregunta": "498.- (4173) qué conclusiones se pueden obtener de una carta de presión constante de 500 milibares para un vuelo planeado para el fl180: ",
 			"RespuestaCorrecta": "2",
-			"A": "LOS VENTOS SUPERIORES EN EL FL180 GENERALMENTE FLUYEN A TRAVÉS DEL CONTORNO EN ALTURA",
-			"B": "UN VIENTO, TEMPERATURA-PUNTO DEL ROCÍO OBSERVADO A LO  LARGO DE LA RUTA PUEDEN SER APROXIMADOS",
-			"C": "ALTAS SUPERIORES, BAJAS, HONDONADAS, MÁXIMAS DE PRESIÓN SERÁN  REPRESENTADOS POR EL USO DE LÍNEAS DE IGUAL PRESIÓN."
+			"A": "los vientos superiores en el fl180 generalmente fluyen a través del contorno en altura",
+			"B": "un viento, temperatura-punto del rocío observado a lo  largo de la ruta pueden ser aproximados",
+			"C": "altas superiores, bajas, hondonadas, máximas de presión serán  representados por el uso de líneas de igual presión."
 		}, {
-			"Pregunta": "499.- (4174) QUÉ INFORMACIÓN IMPORTANTE ES SUMINISTRADA POR EL RADAR SUMMARY CHART QUE NO APARECE EN LAS CARTAS METEOROLÓGICAS:",
+			"Pregunta": "499.- (4174) qué información importante es suministrada por el radar summary chart que no aparece en las cartas meteorológicas:",
 			"RespuestaCorrecta": "1",
-			"A": "LÍNEAS Y CÉLULAS DE TORMENTAS PELIGROSAS",
-			"B": "TIPOS DE PRECIPITACIÓN ENTRE REPORTES DE ESTACIONES",
-			"C": "ÁREAS CUBIERTAS DE NUBES Y NIVELES DE CONGELAMIENTO DENTRO DE LAS NUBES."
+			"A": "líneas y células de tormentas peligrosas",
+			"B": "tipos de precipitación entre reportes de estaciones",
+			"C": "áreas cubiertas de nubes y niveles de congelamiento dentro de las nubes."
 		}, {
-			"Pregunta": "500.- (4176) QUÉ FUENTE PRIMARIA DEBERÁ SER UTILIZADA PARA OBTENER INFORMACIÓN DEL PRONÓSTICO METEOROLÓGICO EN SU DESTINO PARA LA HORA DE LLEGADA ESTIMADA ETA:",
+			"Pregunta": "500.- (4176) qué fuente primaria deberá ser utilizada para obtener información del pronóstico meteorológico en su destino para la hora de llegada estimada eta:",
 			"RespuestaCorrecta": "3",
-			"A": "PRONÓSTICO DE ÁREA",
-			"B": "PRESENTACIÓN RADAR Y CARTA DE INDICACIÓN DE CONDICIONES ATMOSFÉRICAS",
+			"A": "pronóstico de área",
+			"B": "presentación radar y carta de indicación de condiciones atmosféricas",
 			"C": "TAF."
 		}, {
-			"Pregunta": "501.- (4177) UNA ENTRADA DE VIENTO CALMA EN EL PRONÓSTICO TERMINAL DE AERÓDROMO (TAF), SERÁ INDICADA CUANDO EL VIENTO ES MENOS QUE:",
+			"Pregunta": "501.- (4177) una entrada de viento calma en el pronóstico terminal de aeródromo (TAF), será indicada cuando el viento es menos que:",
 			"RespuestaCorrecta": "2",
-			"A": "5 NUDOS",
-			"B": "6 NUDOS",
-			"C": "8 NUDOS."
+			"A": "5 nudos",
+			"B": "6 nudos",
+			"C": "8 nudos."
 		}, {
-			"Pregunta": "502.- (4181) LOS SIGMETS SON EMITIDOS COMO UNA ADVERTENCIA DE CONDICIONES METEOROLÓGICAS CON PELIGRO POTENCIAL: ",
+			"Pregunta": "502.- (4181) los sigmets son emitidos como una advertencia de condiciones meteorológicas con peligro potencial: ",
 			"RespuestaCorrecta": "2",
-			"A": "PARTICULARMENTE PARA AERONAVES LIVIANAS",
-			"B": "PARA TODAS LAS AERONAVES",
-			"C": "SÓLO PARA LA OPERACIÓN DE AERONAVES LIVIANAS."
+			"A": "particularmente para aeronaves livianas",
+			"B": "para todas las aeronaves",
+			"C": "sólo para la operación de aeronaves livianas."
 		}, {
-			"Pregunta": "503.- (4183) QUÉ CONDICIÓN METEOROLÓGICA ES EMITIDA EN FORMA DE UN SIGMET (WS): ",
+			"Pregunta": "503.- (4183) qué condición meteorológica es emitida en forma de un sigmet (WS): ",
 			"RespuestaCorrecta": "1",
-			"A": "ARENA DISPERSA O TORMENTA DE POLVO DISMINUYENDO LA VISIBILIDAD A MENOS DE 3 MILLAS",
-			"B": "CONGELAMIENTO MODERADO",
-			"C": "VIENTOS ININTERRUMPIDOS DE 30 NUDOS O MAYOR EN LA SUPERFICIE."
+			"A": "arena dispersa o tormenta de polvo disminuyendo la visibilidad a menos de 3 millas",
+			"B": "congelamiento moderado",
+			"C": "vientos ininterrumpidos de 30 nudos o mayor en la superficie."
 		}, {
-			"Pregunta": "504.- (4184) UN PILOTO PLANEA SALIR A LAS 1100Z EN VUELO IFR ESTÁ PARTICULARMENTE CONSCIENTE CON LOS PELIGROS DE CONGELAMIENTO. QUÉ FUENTES REFLEJAN LA INFORMACIÓN MÁS ACERTADA PARA CONDICIONES DE HIELO (ACTUAL Y PRONÓSTICO) EN EL MOMENTO DE LA SALIDA:",
+			"Pregunta": "504.- (4184) un piloto planea salir a las 1100z en vuelo IFR está particularmente consciente con los peligros de congelamiento. qué fuentes reflejan la información más acertada para condiciones de hielo (actual y pronóstico) en el momento de la salida:",
 			"RespuestaCorrecta": "3",
-			"A": "LOW-LEVEL SIGNIFICANT WEATHER PROGNOSTIC CHART Y EL PRONÓSTICO DE ÁREA",
-			"B": "EL PRONÓSTICO DE ÁREA Y EL FREEZING LEVEL CHART.",
-			"C": "PIREPS, AIRMETS Y SIGMETS."
+			"A": "low-level significant weather prognostic chart y el pronóstico de área",
+			"B": "el pronóstico de área y el freezing level chart.",
+			"C": "pireps, airmets y sigmets."
 		}, {
-			"Pregunta": "505.- (4185) QUÉ PRONÓSTICO SUMINISTRA INFORMACIÓN ESPECÍFICA CON RESPECTO A CIELO CUBIERTO ESPERADO, TECHO DE LAS NUBES, VISIBILIDAD, CONDICIONES METEOROLÓGICAS Y OBSTRUCCIONES A LA VISIBILIDAD EN UNA RUTA:",
+			"Pregunta": "505.- (4185) qué pronóstico suministra información específica con respecto a cielo cubierto esperado, techo de las nubes, visibilidad, condiciones meteorológicas y obstrucciones a la visibilidad en una ruta:",
 			"RespuestaCorrecta": "3",
 			"A": "DFW FA 131240",
 			"B": "MEM TAF 132222",
 			"C": "2491WEB252317."
 		}, {
-			"Pregunta": "506.- (4187) CUÁL ES EL PERIODO MÁXIMO DE PRONÓSTICO PARA AIRMETS:",
+			"Pregunta": "506.- (4187) cuál es el periodo máximo de pronóstico para airmets:",
 			"RespuestaCorrecta": "3",
-			"A": "2 HORAS",
-			"B": "4 HORAS",
-			"C": "6 HORAS."
+			"A": "2 horas",
+			"B": "4 horas",
+			"C": "6 horas."
 		}, {
-			"Pregunta": "507.- (4188) CUANDO ES OMITIDA LA TEMPERATURA EN UNO DE LOS PRONÓSTICOS DE ALTITUD EN UNA LOCALIDAD ESPECÍFICA O ESTACIÓN EN EL PRONOSTICO DE    VIENTOS Y TEMPERATURAS SUPERIORES ",
+			"Pregunta": "507.- (4188) cuando es omitida la temperatura en uno de los pronósticos de altitud en una localidad específica o estación en el pronóstico de vientos y temperaturas superiores ",
 			"RespuestaCorrecta": "2",
-			"A": "CUANDO LA TEMPERATURA ES ESTÁNDAR PARA ESA ALTÍTUD",
-			"B": "PARA UNA ALTFTUD DE 3000 PIES (NIVEL) O CUANDO EL NIVEL ESTÁ DENTRO DE 2500 PIES DE UN DEL CAMPO",
-			"C": "SÓLO CUANDO LOS VENTOS SON OMITIDOS PARA ESA ALTITUD (NIVEL)."
+			"A": "cuando la temperatura es estándar para esa altitud",
+			"B": "para una altitud de 3000 pies (nivel) o cuando el nivel está dentro de 2500 pies de un del campo",
+			"C": "sólo cuando los vientos son omitidos para esa altitud (nivel)."
 		}, {
-			"Pregunta": "508.- (4190) DESCODIFIQUE EL EXTRACTO DEL PRONÓSTICO DE VIENTOS Y TEMPERATURAS SUPERIORES (FD) PARA OKC A 39000 PIES: FT 3000 6000 39000, OKC 830558:",
+			"Pregunta": "508.- (4190) descodifique el extracto del pronóstico de vientos y temperaturas superiores (FD) para OKC a 39000 pies: FT 3000 6000 39000, OKC 830558:",
 			"RespuestaCorrecta": "2",
-			"A": "VIENTO 130° CON 50 NUDOS, TEMPERATURA-58°C",
-			"B": "VIENTO 330° CON 105 NUDOS, TEMPERATURA-58°C",
-			"C": "VIENTO 330° CON 205 NUDOS, TEMPERATURA-58°C."
+			"A": "viento 130° con 50 nudos, temperatura -58 °C",
+			"B": "viento 330° con 105 nudos, temperatura -58 °C",
+			"C": "viento 330° con 205 nudos, temperatura -58 °C."
 		}, {
-			"Pregunta": "509.- (4191) QUÉ VALORES SON UTILIZADOS PARA LOS PRONÓSTICOS DE VIENTOS SUPERIORES:    ' ",
+			"Pregunta": "509.- (4191) qué valores son utilizados para los pronósticos de vientos superiores:    ' ",
 			"RespuestaCorrecta": "3",
-			"A": "DIRECCIÓN MAGNÉTICA Y NUDOS",
-			"B": "DIRECCIÓN VERDADERA Y MILLAS",
-			"C": "DIRECCIÓN VERDADERA Y NUDOS."
+			"A": "dirección magnética y nudos",
+			"B": "dirección verdadera y millas",
+			"C": "dirección verdadera y nudos."
 		}, {
-			"Pregunta": "513.- (4195) OUÉ INFORMACIÓN PARA EL PLANEAMIENTO DE UN VUELO PODRÁ OBTENER UN PILOTO DE LAS CARTAS DE PRESIÓN CONSTANTE: ",
+			"Pregunta": "513.- (4195) qué información para el planeamiento de un vuelo podrá obtener un piloto de las cartas de presión constante: ",
 			"RespuestaCorrecta": "3",
-			"A": "TURBULENCIA EN AIRE CLARO Y CONDICIONESDE CONGELAMIENTO",
-			"B": "NIVELES DE CIELO CUBIERTO DISPERSO",
-			"*C": "VIENTOS Y TEMPSRATURASSUPERIORES."
+			"A": "turbulencia en aire claro y condiciones de congelamiento",
+			"B": "niveles de cielo cubierto disperso",
+			"C": "vientos y temperaturas superiores."
 		}, {
-			"Pregunta": "514.- (4199) UNA ESTACIÓN ESTÁ PRONOSTICANDO VENTOS Y TEMPERATURA SUPERIORES (ALOFT) EN EL FL 390 PARA ESTAR A 300° CON 200 NUDOS: TEMPERATURA -54°C. CÓMO DEBERÍA SER CODIFICADA ESTA INFORMACIÓN EN UN FD:",
+			"Pregunta": "514.- (4199) una estación está pronosticando vientos y temperatura superiores (ALOFT) en el FL 390 para estar a 300° con 200 nudos: temperatura -54 °C. cómo debería ser codificada esta información en un FD:",
 			"RespuestaCorrecta": "2",
 			"A": "300054",
 			"B": "809954",
 			"C": "309954. "
 		}, {
-			"Pregunta": "515.- (4200) CUALES CONDICIONES ATMOSFÉRICAS DEBERÁN SER ESPERADAS DEBAJO DE UNA CAPA DE INVERSIÓN DE TEMPERATURA A UN NIVEL BAJO, CUANDO LA HUMEDAD RELATIVA ES ALTA:",
+			"Pregunta": "515.- (4200) cuales condiciones atmosféricas deberán ser esperadas debajo de una capa de inversión de temperatura a un nivel bajo, cuando la humedad relativa es alta:",
 			"RespuestaCorrecta": "1",
-			"A": "AIRE CALMA Y VISIBILIDAD POBRE DEBIDO A NIEBLA, BRUMA O NUBES BAJAS",
-			"B": "LEVE WIND SHEAR Y VISIBILIDAD POBRE DEBIDO A BRUMA Y LLUVA LEVE",
-			"C": "AIRE TURBULENTO Y VISIBILIDAD POBRE DEBIDO A NIEBLA, NUBES DE TIPO ESTRATIFORME Y CHUBASCOS."
+			"A": "aire calma y visibilidad pobre debido a niebla, bruma o nubes bajas",
+			"B": "leve wind shear y visibilidad pobre debido a bruma y lleva leve",
+			"C": "aire turbulento y visibilidad pobre debido a niebla, nubes de tipo estratiforme y chubascos."
 		}, {
-			"Pregunta": "516.- (4202) EL TECHO ESTÁ DEFINIDO COMO LA ALTURA DE LA:  ",
+			"Pregunta": "516.- (4202) el techo está definido como la altura de la:  ",
 			"RespuestaCorrecta": "3",
-			"A": "CAPA MÁS ALTA DE NUBES O EL OSCURECIMIENTO ALOFT QUE CUBREN EL 6/10 DEL CIELO",
-			"B": "CAPA MÁS BAJA DE NUBES QUE CONTRIBUYEN AL CUBRIMIENTO TOTAL DEL CIELO",
-			"C": "CAPA MÁS BAJA DE NUBES O EL OSCURECIMIENTO ALOFT QUE SE REPORTA COMO QUEBRADO (BKN) O CUBIERTO (OV."
+			"A": "capa más alta de nubes o el oscurecimiento ALOFT que cubren el 6/10 del cielo",
+			"B": "capa más baja de nubes que contribuyen al cubrimiento total del cielo",
+			"C": "capa más baja de nubes o el oscurecimiento ALOFT que se reporta como quebrado (BKN) o cubierto (OV)."
 		}, {
-			"Pregunta": "517.- (4209) LA CARTA DE ANÁLISIS DE SUPERFICIE REPRESENTA:",
+			"Pregunta": "517.- (4209) la carta de análisis de superficie representa:",
 			"RespuestaCorrecta": "3",
-			"A": "UN SISTEMA DE PRESIÓN ACTUAL, UBICACIÓN DE FRENTES, TOPES DE LAS NUBES Y PRECIPLTACIÓN A LA HORA MOSTRADA EN LA CARTA",
-			"B": "UBICACIÓN DE FRENTES Y MOVIMIENTO ESPERADO, CENTROS DE PRESIÓN, NUBOSIDAD Y OBSTRUCCIONES DE ÍA VISIBILIDAD' EN EL MOMENTO DE ÍA TRANSMISIÓN DE LA CARTA",
-			"*C": "POSICIONES ACTUALES DE LOS FRENTES, PATRONES DE PRESIÓN, TEMPERATURA, PUNTO DE ROCÍO, VENTO, CONDICIONES METEOROLÓGICAS Y OBSTRUCCIONES DE LA VISIBILIDAD EN EL TIEMPO VÁLIDO DE LA CARTA."
+			"A": "un sistema de presión actual, ubicación de frentes, topes de las nubes y precipitación a la hora mostrada en la carta",
+			"B": "ubicación de frentes y movimiento esperado, centros de presión, nubosidad y obstrucciones de la visibilidad en el momento de la transmisión de la carta",
+			"C": "posiciones actuales de los frentes, patrones de presión, temperatura, punto de rocío, viento, condiciones meteorológicas y obstrucciones de la visibilidad en el tiempo válido de la carta."
 		}, {
-			"Pregunta": "518.- (4210) UN PILOTO REPORTA TURBULENCIA QUE MOMENTANEAMENTE CAUSA CAMBIOS LEVES E IRREGULARES EN LA ALTITUD Y/O LA ACTITUD, DEBERÁ REPORTARLA COMO: ",
+			"Pregunta": "518.- (4210) un piloto reporta turbulencia que momentáneamente causa cambios leves e irregulares en la altitud y/o la actitud, deberá reportarla como: ",
 			"RespuestaCorrecta": "1",
-			"A": "TURBULENCA LEVE",
-			"B": "TURBULENCA MODERADA",
-			"C": "GOLPES LEVES."
+			"A": "turbulencia leve",
+			"B": "turbulencia moderada",
+			"C": "golpes leves."
 		}, {
-			"Pregunta": "519.- (4211) EL LOW-LEVEL SIGNIFICANT WEATHER PROGNOSTIC CHART REPRESENTA CONDICIONES METEOROLÓGICAS:",
+			"Pregunta": "519.- (4211) el low-level significant weather prognostic chart representa condiciones meteorológicas:",
 			"RespuestaCorrecta": "1",
-			"A": "QUE SON PRONÓSTICOS QUE EXISTEN EN ELTIEMPO VÁLIDO MOSTRADO EN LA CARTA",
-			"B": "COMO EXISTIERON EN EL MOMENTO EN QUE FUE PREPARADA LA CARTA",
-			"C": "QUE EXISTIERON EN EL MOMENTO MOSTRADO EN LA CARTA QUE ES APROXIMADAMENTE 3 HORAS ANTES DE RECIBIDA LA CARTA. "
+			"A": "que son pronósticos que existen en el tiempo válido mostrado en la carta",
+			"B": "como existieron en el momento en que fue preparada la carta",
+			"C": "que existieron en el momento mostrado en la carta que es aproximadamente 3 horas antes de recibida la carta. "
 		}, {
-			"Pregunta": "520.- (4212).QUÉ CONDICIONES METEOREOLÓGICAS ESTÁN REPRESENTADAS POR UNA CARTA DE PRONÓSTICO:",
+			"Pregunta": "520.- (4212).qué condiciones meteorológicas están representadas por una carta de pronóstico:",
 			"RespuestaCorrecta": "3",
-			"A": "LAS CONDICIONES EXISTENTES EN EL MOMENTO DE LA OBSERVACIÓN",
-			"B": "LA INTERPRETACIÓN DE CONDICIONES METEOROLÓGICAS PARA ÁREAS GEOGRÁFICAS ENTRE LOS REPORTES DE LAS ESTACIONES",
-			"C": "CONDICIONES PRONOSTICADAS A EXISTIR EN UN TIEMPO ESPECÍFICO MOSTRADO EN LA CARTA."
+			"A": "las condiciones existentes en el momento de la observación",
+			"B": "la interpretación de condiciones meteorológicas para áreas geográficas entre los reportes de las estaciones",
+			"C": "condiciones pronosticadas a existir en un tiempo específico mostrado en la carta."
 		}, {
-			"Pregunta": "521.- (4214) UNA CARTA DE PRONÓSTICO REPRESENTA LAS CONDICIONES:",
+			"Pregunta": "521.- (4214) una carta de pronóstico representa las condiciones:",
 			"RespuestaCorrecta": "3",
-			"A": "EXISTENTES EN LA SUPERFICIE DURANTE LAS 6 HORAS PASADAS",
-			"B": "QUE ACTUALMENTE EXISTEN DESDE EL NIVEL DE 1000 MILIBARES HASTA 700 MILIBARES",
-			"*C": "PRONOSTICADAS A EXISTIR EN UN TIEMPO ESPECÍFICO EN EL FUTURO."
+			"A": "existentes en la superficie durante las 6 horas pasadas",
+			"B": "que actualmente existen desde el nivel de 1000 milibares hasta 700 milibares",
+			"C": "pronosticadas a existir en un tiempo específico en el futuro."
 		}, {
-			"Pregunta": "522.- (4215) QUÉ INFORMACIÓN ES SUMINISTRADA POR UN CONVECTIVE OUTLOOK AC:",
+			"Pregunta": "522.- (4215) qué información es suministrada por un convective outlook AC:",
 			"RespuestaCorrecta": "2",
-			"A": "DESCRIBE ÁREAS DE PROBABLE CONGELAMIENTO SEVERO Y TURBULENCA EXTREMA O SEVERA DURANTE LAS PRÓXIMAS 24 HORAS",
-			"B": "SUMINISTRA PERSPECTIVAS DE AMBAS ACTIVIDADES DE TORMENTA GENERAL Y SEVERA, DURANTE LAS PRÓXIMAS 24 HORAS",
-			"C": "INDICA ÁREAS DE PROBABLE TURBULENCA CONVECTIVA Y EL GRAD 3 DE INESTABILIDAD DE LA ATMÓSFERA SUPERIOR (SOBRE 500 M) "
+			"A": "describe áreas de probable congelamiento severo y turbulencia extrema o severa durante las próximas 24 horas",
+			"B": "suministra perspectivas de ambas actividades de tormenta general y severa, durante las próximas 24 horas",
+			"C": "indica áreas de probable turbulencia convectiva y el grado 3 de inestabilidad de la atmósfera superior (sobre 500 m) "
 		}, {
-			"Pregunta": "528.- (4226) CUÁL PRONÓSTICO METEOROLÓGICO DESCRIBE LAS PERSPECTIVAS PARA UNA EXTENSIÓN DE ÁREA DE AMBAS TORMENTAS, GENERAL Y SEVERA, DURANTE LAS SIGUIENTES 24 HORAS:",
+			"Pregunta": "528.- (4226) cuál pronóstico meteorológico describe las perspectivas para una extensión de área de ambas tormentas, general y severa, durante las siguientes 24 horas:",
 			"RespuestaCorrecta": "2",
-			"A": "PRONÓSTICO TERMINAL DE AERÓDROMO (TAF)",
-			"B": "CONVECTIVE OUTLOOK ",
-			"C": "SEVERE WEATHER WATCHBULLETIN."
+			"A": "pronóstico terminal de aeródromo (TAF)",
+			"B": "convective outlook ",
+			"C": "severe weather watchbulletin."
 		}, {
-			"Pregunta": "529.- (4227) QUÉ CARACTERÍSTICA ESTÁ ASOCIADA CON LA TROPOPAUSA:",
+			"Pregunta": "529.- (4227) qué característica está asociada con la tropopausa:",
 			"RespuestaCorrecta": "3",
-			"A": "AUSENCA DE VIENTOS Y CONDICIONES TURBULENTAS",
-			"B": "LÍMITE SUPERIOR ABSOLUTO DE LA FORMACIÓN DE NUBES",
-			"C": "CAMBIO ABRUPTO EN LA GRADIENTE TÉRMICA."
+			"A": "ausencia de vientos y condiciones turbulentas",
+			"B": "límite superior absoluto de la formación de nubes",
+			"C": "cambio abrupto en la gradiente térmica."
 		}, {
-			"Pregunta": "530.- (4228) DE CUÁL FUENTE PRIMARIA DEBERÁ USTED OBTENER INFORMACIÓN CON RESPECTO A LAS CONDICIONES METEOROLÓGICAS ESPERADAS EN SU DESTINO EN EL TIEMPO ESTIMADO DE LLEGADA: ",
+			"Pregunta": "530.- (4228) de cuál fuente primaria deberá usted obtener información con respecto a las condiciones meteorológicas esperadas en su destino en el tiempo estimado de llegada: ",
 			"RespuestaCorrecta": "3",
-			"A": "CARTA DE INDICACIÓN DE CONDICIONES ATMOSFÉRICAS",
-			"B": "PRESENTACIÓN RADAR Y CARTA DE INDICACIÓN DE CONDICIONES METEOROLÓGICAS",
-			"C": "REPORTE TERMINAL DE AERÓDROMO (TAF)."
+			"A": "carta de indicación de condiciones atmosféricas",
+			"B": "presentación radar y carta de indicación de condiciones meteorológicas",
+			"C": "reporte terminal de aeródromo (TAF)."
 		}, {
-			"Pregunta": "536.- (4235) PARA EL USO MÁS EFECTIVO DEL RADAR SUMMARY CHART DURANTE EL PLANEAMIENTO DE PRE VUELO, UN PILOTO DEBERÁ:",
+			"Pregunta": "536.- (4235) para el uso más efectivo del radar summary chart durante el planeamiento de pre vuelo, un piloto deberá:",
 			"RespuestaCorrecta": "2",
-			"A": "CONSULTAR LA CARTA PARA DETERMINAR MEDIDAS MÁS ACERTADAS DE NIVELES DE CONGEIAMIENTO, NUBOSIDAD Y CONDICIONES DEL VIENTO ENTRE ESTACIONES REPORTANDO",
-			"B": "COMPARARLO CON LAS CARTAS, REPORTES Y PRONÓSTICOS DE UNA REPRESENTACIÓN TRIDIMENSIONAL DE LAS NUBES Y PRECIPITACIÓN",
-			"C": "UTILIZAR LA CARTA COMO ÚNICA FUENTE DE INFORMACIÓN CON RESPECTO A TORMENTAS Y CONDICIONES PELIGROSAS ENTRE LOS REPORTES DE LAS ESTACIONES"
+			"A": "consultar la carta para determinar medidas más acertadas de niveles de congelamiento, nubosidad y condiciones del viento entre estaciones reportando",
+			"B": "compararlo con las cartas, reportes y pronósticos de una representación tridimensional de las nubes y precipitación",
+			"C": "utilizar la carta como única fuente de información con respecto a tormentas y condiciones peligrosas entre los reportes de las estaciones"
 		}, {
-			"Pregunta": "539.- (4238) WIND SHEAR PELIGROSO ES ENCONTRADO COMÚNMENTE CERCA DEL SUELO:",
+			"Pregunta": "539.- (4238) wind shear peligroso es encontrado comúnmente cerca del suelo:",
 			"RespuestaCorrecta": "3",
-			"A": "DURANTE PERIODOS CUANDO LA VELOCIDAD DEL VIENTO ES MÁS FUERTE QUE 35 NUDOS",
-			"B": "DURANTE PERIODOS CUANDO LA VELOCIDAD DEL VIENTO ES MÁS FUERTE QUE 35 NUDOS Y CERCA DE VALLES DE MONTAÑA",
-			"C": "DURANTE PERIODOS DE FUERTES INVERSIONES DE TEMPERATURA Y CERCA DE TORMENTAS."
+			"A": "durante periodos cuando la velocidad del viento es más fuerte que 35 nudos",
+			"B": "durante periodos cuando la velocidad del viento es más fuerte que 35 nudos y cerca de valles de montaña",
+			"C": "durante periodos de fuertes inversiones de temperatura y cerca de tormentas."
 		}, {
-			"Pregunta": "545.- (4251) CUÁL ES LA DURACIÓN ESPERADA DE UNA MICRO RÁFAGA INDIVIDUAL:",
+			"Pregunta": "545.- (4251) cuál es la duración esperada de una micro ráfaga individual:",
 			"RespuestaCorrecta": "3",
-			"A": "2 MINUTOS CON VIENTOS MÁXIMOS CON UNA DURACIÓN APROXIMADA DE 1 MINUTO",
-			"B": "UNA MICRO RÁFAGA PUEDE CONTINUAR CON UNA DURACIÓN DE 2 A 4 HORAS",
-			"*C": "RARAMENTE MÁS LARGA QUE 15 MINUTOS DESDE EL MOMENTO EN QUE LA RÁFAGA GOLPEA EL SUELO HASTA SU DISIPACIÓN.:"
+			"A": "2 minutos con vientos máximos con una duración aproximada de 1 minuto",
+			"B": "una micro ráfaga puede continuar con una duración de 2 a 4 horas",
+			"C": "raramente más larga que 15 minutos desde el momento en que la ráfaga golpea el suelo hasta su disipación.:"
 		}, {
-			"Pregunta": "546. (4252) LAS MÁXIMAS RÁFAGAS DESCENDENTES AL ENCONTRARSE COM UNA MICRO RÁFAGA PUEDEN SERIAN FUERTES COMO: ",
+			"Pregunta": "546. (4252) las máximas ráfagas descendentes al encontrarse com una micro ráfaga pueden serian fuertes como: ",
 			"RespuestaCorrecta": "3",
-			"A": "8000 PIES POR MINUTO",
-			"B": "7000 PIES POR MINUTO",
-			"C": "6000 PIES POR MINUTO. "
+			"A": "8000 pies por minuto",
+			"B": "7000 pies por minuto",
+			"C": "6000 pies por minuto. "
 		}, {
-			"Pregunta": "547.- (4253) UNA AERONAVE QUE ENCUENTRA UN VIENTO DE FRENTE DE 45 NUDOS, DENTRO DE UNA MICRO RÁFAGA, PODRÁ ESPERAR UNA RESISTENCIA TOTALA TRAVÉS DE UNA MICRO RÁFAGA DE",
+			"Pregunta": "547.- (4253) una aeronave que encuentra un viento de frente de 45 nudos, dentro de una micro ráfaga, podrá esperar una resistencia total a través de una micro ráfaga de",
 			"RespuestaCorrecta": "3",
-			"A": "40 NUDOS",
-			"B": "80 NUDOS",
-			"C": "90 NUDOS."
+			"A": "40 nudos",
+			"B": "80 nudos",
+			"C": "90 nudos."
 		}
-	]
+]

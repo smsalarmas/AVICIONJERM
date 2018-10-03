@@ -24,9 +24,17 @@
     <ion-input value="{{userData.WhatsApp | titlecase}}" name="Phone" placeholder="Phone:"  maxlength="70"  (change)="GuardarWhatsApp($event.target.value)"></ion-input> 
   </ion-item>
   <ion-item>
-    <ion-input value="{{userData.Serial | titlecase}}" name="serial" placeholder="Serial:" (change)="GuardarSerial($event.target.value)"  maxlength="15"></ion-input>           
+    <ion-input value="{{userData.SerialShow | titlecase}}" name="serial" placeholder="Serial:" (change)="GuardarSerial($event.target.value)"  maxlength="15"></ion-input>           
   </ion-item>
   </form>
-  <button ion-button round shape="round" fill="outline" color="primary" (click)="ChequeoSerial()">Registrar</button>
-  
+  <button *ngIf="!userData.SerialActivo" ion-button round shape="round" fill="outline" color="primary" (click)="ChequeoSerial()">Registrar</button>
+  <button  class="BgColor2" *ngIf="ValidarLic  === '1' || userData.SerialActivo" ion-button color="save">
+      Licencia Activa!
+  </button>
+  <button class="BgColor" color="danger" *ngIf="ValidarLic === '2'"  ion-button color="save">
+      ERROR: Violación de Licencia.
+  </button>
+  <button class="BgColor" color="danger" *ngIf="ValidarLic  === '0'"  ion-button color="save">
+      ERROR: Licencia en Uso.
+  </button>
 </ion-content>

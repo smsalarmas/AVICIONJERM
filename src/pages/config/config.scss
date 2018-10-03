@@ -2,4 +2,34 @@ page-config {
     .my-label {
         font-size: 12px !important;
       }
+      $colors: (
+      primary: #FA5858,
+    );
+    $colors2: (
+      primary: #A5DF00,
+    );
+    $colors3: (
+      primary: #0174DF,
+    );
+
+    .scroll-content { overflow-y: auto; }
+
+    .alignme{
+
+        position:relative;
+        right:10px;
+
+    }
+
+    .BgColor{
+        background-color: map-get($colors, primary);
+    }
+
+    .BgColor2{
+        background-color: map-get($colors2, primary);
+    }
+
+    .BgColor3{
+        background-color: map-get($colors3, primary);
+    }
 }

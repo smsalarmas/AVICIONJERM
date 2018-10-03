@@ -1,8 +1,12 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { HttpClient } from '../../../node_modules/@angular/common/http';
-import { Observable } from '../../../node_modules/rxjs/Observable';
+//import { Observable } from '../../../node_modules/rxjs/Observable';
 import { Storage } from '@ionic/storage';
+import { JermSoftProvider } from '../../providers/jerm-soft/jerm-soft';
+import { HomePage } from '../home/home';
+import { LoginPage } from '../login/login';
+ 
 
 /**
  * Generated class for the ConfigPage page.
@@ -19,25 +23,29 @@ import { Storage } from '@ionic/storage';
 export class ConfigPage {
 
 
-  userData = {
-    TimeByPreguntas: '',
-    CantPreguntas: ''
+  dataConfig = {
+    TimeByPreguntas:0,
+    CantPreguntas:0,
+    SerialActivo:false
   };
-  constructor(public navCtrl: NavController, 
-    public navParams: NavParams, private storage: Storage,
+  private CantPreguntasTemp:number=5;
+  private TimerTemp:number=60;
+  constructor(public navCtrl: NavController, public JermSoft: JermSoftProvider,
+    public navParams: NavParams, public storage: Storage,
     public http: HttpClient) {
-    let data:Observable<any>;
+    /*let data:Observable<any>;
     data = this.http.get('https://conduit.productionready.io/api/profiles/eric');
       data.subscribe(result => {        
         console.log(JSON.stringify(result));
-      })
+      })*/
 
     //Sino tiene licencia toca poner 5 preguntas max y 60Seg por pregunta
     //this.storage.set('TimeByPreguntas', 60);
     //this.storage.set('CantPreguntas', 5);
-
-    this.StorageGet('CantPreguntas', this.userData.CantPreguntas);
-    this.StorageGet('TimeByPreguntas', this.userData.TimeByPreguntas);
+      this.dataConfig.CantPreguntas = this.JermSoft.GetCantPreguntas();
+      this.dataConfig.TimeByPreguntas = this.JermSoft.GetTime();
+      this.dataConfig.SerialActivo = this.JermSoft.GetLicActiva();
+      console.log(`Serial en Config ${this.dataConfig.SerialActivo}`);
   }
 
   ionViewDidLoad() {
@@ -46,32 +54,27 @@ export class ConfigPage {
   }
 
   GuardarTime(data){
-    this.userData.TimeByPreguntas = data;
-    this.storage.set('TimeByPreguntas', this.userData.TimeByPreguntas);
+    this.TimerTemp = data;
   }
 
   change(data){
-    console.log(data);
-    //Si la licencia esta activa
-    this.userData.CantPreguntas = data;
-    this.storage.set('CantPreguntas', this.userData.CantPreguntas);
+    this.CantPreguntasTemp = data;
   }
 
-  StorageGet(Key: string, Default: any) {
+  GuardarCambios(){
+    this.JermSoft.SetCantPreguntas(this.CantPreguntasTemp);
+    this.dataConfig.CantPreguntas = this.CantPreguntasTemp;
 
-    return new Promise((resolve, reject) => {
-        this.storage.get(Key).then((data) => {
-            console.log(" Storage.get ", Key, data);
-            if (Key === 'TimeByPreguntas') this.userData.TimeByPreguntas = data.toString();
-            if (Key === 'CantPreguntas') this.userData.CantPreguntas = data.toString();
-             
-            resolve(data);
-        })
-            .catch(() => {
-                console.log(" Load DEFAULTS", Default);
-                resolve(Default);
-            });
-    });
+    this.JermSoft.SetTime(this.TimerTemp);
+    this.dataConfig.TimeByPreguntas = this.TimerTemp;
+
+    this.navCtrl.push(HomePage);
   }
+
+  AddLic(){
+   
+    this.navCtrl.push(LoginPage);
+  }
+   
 
 }

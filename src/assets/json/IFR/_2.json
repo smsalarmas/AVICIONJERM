@@ -1,182 +1,181 @@
-[		{
-			"Pregunta": "40.- SI EL ALTIMETRO SE AJUSTA EN 29.92 Y UNA ALTURA DE PRESION DE 10.000 FT. MIENTRAS ATRAVESAMOS UNA MASA DE AIRE CALIENTE LA ALTURA VERDADERA SERA MAYOR QUE LA INDICADA:",
+		[{
+			"Pregunta": "40.- si el altímetro se ajusta en 29.92 y una altura de presión de 10.000 ft. mientras atravesamos una masa de aire caliente la altura verdadera será mayor que la indicada:",
 			"RespuestaCorrecta": "1",
-			"A": "VERDADERO",
-			"B": "FALSO."
+			"A": "verdadero",
+			"B": "falso."
 		},
 		{
-			"Pregunta": "41.- LOS INDICADORES MACH MUESTRAN LA RELACION ENTRE LA VELOCIDAD DEL AVION A LA VELOCIDAD DEL SONIDO EN UN NIVEL DE VUELO Y UNA TEMPERATURA EXISTENTE:",
+			"Pregunta": "41.- los indicadores mach muestran la relación entre la velocidad del avión a la velocidad del sonido en un nivel de vuelo y una temperatura existente:",
 			"RespuestaCorrecta": "1",
-			"A": "VERDADERO",
-			"B": "FALSO."
+			"A": "verdadero",
+			"B": "falso."
 		},
 		{
-			"Pregunta": "42.- EL DME ES UN INSTRUMENTO CONSIDERADO DE NAVEGACION: ",
+			"Pregunta": "42.- el DME es un instrumento considerado de navegación: ",
 			"RespuestaCorrecta": "2",
-			"A": "VERDADERO",
-			"B": "FALSO"
+			"A": "verdadero",
+			"B": "falso"
 		},
 		{
-			"Pregunta": "43.- LA RIGIDEZ EN EL ESPACIO Y LA PRECESION, SON PROPIEDADES DE LA ACCION GIROSCOPICA:",
+			"Pregunta": "43.- la rigidez en el espacio y la precesión, son propiedades de la accion giroscópica:",
 			"RespuestaCorrecta": "1",
-			"A": "VERDADERO",
-			"B": "FALSO."
+			"A": "verdadero",
+			"B": "falso."
 		},
 		{
-			"Pregunta": "44.- ALTITUD ABSOLUTA, ES LA ALTURA DEL AVION SOBRE LA SUPERFICIE O TERRENO SOBRE LA CUAL SE ESTA VOLANDO:",
+			"Pregunta": "44.- altitud absoluta, es la altura del avión sobre la superficie o terreno sobre la cual se está volando:",
 			"RespuestaCorrecta": "1",
-			"A": "VERDADERO",
-			"B": "FALSO"
+			"A": "verdadero",
+			"B": "falso"
 		},
 		{
-			"Pregunta": "45.- LA ALTITUD LEIDA EN EL ALTIMETRO ES CONOCIDA COMO ALTITUD VERDADERA:",
+			"Pregunta": "45.- la altitud leída en el altímetro es conocida como altitud verdadera:",
 			"RespuestaCorrecta": "2",
-			"A": "VERDADERO",
-			"B": "FALSO."
+			"A": "verdadero",
+			"B": "falso."
 		},
 		{
-			"Pregunta": "46.- EL ERROR DEL ALTIMETRO QUE ACUMULA ERRORES AL AUMENTAR O DISMINUIR ALTITUTUD, SE LLAMA ERROR DE: ",
+			"Pregunta": "46.- el error del altímetro que acumula errores al aumentar o disminuir altitud, se llama error de: ",
 			"RespuestaCorrecta": "1",
-			"A": "ESCALA",
-			"B": "FRICCION",
-			"C": "HISTERESIS",
-			"D": "PARALAJE."
+			"A": "escala",
+			"B": "fricción",
+			"C": "histéresis",
+			"D": "paralaje."
 		},
 		{
-			"Pregunta": "47.- LA ALTITUD DE PRESION CORREGIDA POR TEMPERATURA CONOCE COMO ALTITUD DE DENSIDAD: ",
+			"Pregunta": "47.- la altitud de presión corregida por temperatura conoce como altitud de densidad: ",
 			"RespuestaCorrecta": "1",
-			"A": "VERDADERO",
-			"B": "FALSO."
+			"A": "verdadero",
+			"B": "falso."
 		},
 		{
-			"Pregunta": "48.- EN INTERCEPTACIONES VOR, NUNCA SE DEBERA USAR UN ANGULO DE INTERCEPTACION MAYOR DE 90°, YA QUE ESTE LE ALEJARA DE A ESTACION:",
+			"Pregunta": "48.- en interceptaciones VOR, nunca se deberá usar un ángulo de interceptación mayor de 90°, ya que este le alejara de la estación:",
 			"RespuestaCorrecta": "3",
-			"A": "VERDADERO",
-			"B": "FALSO"
+			"A": "verdadero",
+			"B": "falso"
 		},
 		{
-			"Pregunta": "49.- LOS INSTRUMENTOS GIROSCOPICOS PARA SU FUNCIONAMIENTO DEPENDEN DE LA ENERGIA:",
+			"Pregunta": "49.- los instrumentos giroscópicos para su funcionamiento dependen de la energía:",
 			"RespuestaCorrecta": "3",
-			"A": "ELECTRICA",
-			"B": "DESUCCION",
-			"C": "ELECTRICA O DE SUCCION",
-			"D": "MECANICA."
+			"A": "eléctrica",
+			"B": "de succión",
+			"C": "eléctrica o de succión",
+			"D": "mecánica."
 		},
 		{
-			"Pregunta": "50.- EL INDICADOR DE VIRAJE Y RESBALAMIENTO QUE TIENE UNA AGUJA DE VIRAJE DE 2 MINUTOS, ESTA GRADUADO DE TAL FORMA QUE UNA DESVIACION DE UN ANCHO DE AGUJA TENGA UNA EQUIVALENCIA DE:",
+			"Pregunta": "50.- el indicador de viraje y resbalamiento que tiene una aguja de viraje de 2 minutos, esta graduado de tal forma que una desviación de un ancho de aguja tenga una equivalencia de:",
 			"RespuestaCorrecta": "2",
-			"A": "1 GRADO POR SEGUNDO DE VIRAJE",
-			"B": "11/2 GRADOS POR SEGUNDO DE VIRAJE",
-			"C": "2 GRADOS POR SEGUNDO DE VIRAJE",
-			"D": "3 GRADOS POR SEGUNDO DE VIRAJE."
+			"A": "1 grado por segundo de viraje",
+			"B": "11/2 grados por segundo de viraje",
+			"C": "2 grados por segundo de viraje",
+			"D": "3 grados por segundo de viraje."
 		},
 		{
-			"Pregunta": "51.- EL TUBO PITOT CON RESPECTO AL EJE LONGITUDINAL DEL AVION DEBER UBICADO EN FORMA:",
+			"Pregunta": "51.- el tubo pitot con respecto al eje longitudinal del avión debe ser ubicado en forma:",
 			"RespuestaCorrecta": "2",
-			"A": "PERPENDICULAR",
-			"B": "PARALELA",
-			"C": "OBLICUA",
-			"D": "PARALELA Y EN DIRECCION DEL VIENTO RELATIVO."
+			"A": "perpendicular",
+			"B": "paralela",
+			"C": "oblicua",
+			"D": "paralela y en dirección del viento relativo."
 		},
 		{
-			"Pregunta": "52.- EL EQUIPO DE RADIONAVEGACION AEREA QUE UTILIZA UHF ES EL:",
+			"Pregunta": "52.- el equipo de radionavegación aérea que utiliza UHF es el:",
 			"RespuestaCorrecta": "3",
 			"A": "VOR",
 			"B": "ADF",
 			"C": "DME",
-			"D": "LOCALIZADOR."
+			"D": "Localizador."
 		},
 		{
-			"Pregunta": "53.- PARA ESTABLECER UN PLANO DE REFERENCIA LOS INDICADORES DIRECCIONALES USAN EN SU CONSTRUCCION, LA PROPIEDAD DE :",
+			"Pregunta": "53.- para establecer un plano de referencia los indicadores direccionales usan en su construcción, la propiedad de :",
 			"RespuestaCorrecta": "4",
-			"A": "PRECESION",
-			"B": "DEFLEXION",
-			"C": "FUERZA EXTERIOR",
-			"D": "RIGIDEZ EN EL ESPACIO."
+			"A": "precesión",
+			"B": "deflexión",
+			"C": "fuerza exterior",
+			"D": "rigidez en el espacio."
 		},
 		{
-			"Pregunta": "54.- LOS INSTRUMENTOS DE VUELO QUE FUNCIONAN EN BASE A PRESION DIFERENCIAL SON",
+			"Pregunta": "54.- los instrumentos de vuelo que funcionan en base a presión diferencial son",
 			"RespuestaCorrecta": "1",
-			"A": "ALTIMETRO, INDICADOR DE VELOCIDAD VERTICAL, INDICADOR DE VELOCIDAD ANEMOMETRICA, INDICADOR MACH",
-			"B": "INDICADOR DE POSICION, ALTIMETRO, INDICADOR DE VELOCIDAD VERTICAL, INDICADOR DE VELOCIDAD ANEMOMETRICA",
-			"C": "INDICADOR DE DIRECCION, INDICADOR DE POSICION, INDICADOR DE VELOCIDAD VERTICAL",
-			"D": "NINGUNA RESPUESTA ES CORRECTA."
+			"A": "altímetro, indicador de velocidad vertical, indicador de velocidad anemométrica, indicador mach",
+			"B": "indicador de posición, altímetro, indicador de velocidad vertical, indicador de velocidad anemométrica",
+			"C": "indicador de dirección, indicador de posición, indicador de velocidad vertical",
+			"D": "ninguna respuesta es correcta."
 		},
 		{
-			"Pregunta": "55.- LA FUENTE DE ENERGIA PARA EL FUNCIONAMIENTO DE LOS INSTRUMENTOS ACTUADOS POR PRESION DIFERENCIAL ES TOMADA DE:",
+			"Pregunta": "55.- la fuente de energía para el funcionamiento de los instrumentos actuados por presión diferencial es tomada de:",
 			"RespuestaCorrecta": "4",
-			"A": "EL SISTEMA ESTATICO",
-			"B": "LA PRESION ESTATICA",
-			"C": "ELTUBO PITOT",
-			"D": "EL SISTEMA PITOT-ESTATICO. "
+			"A": "el sistema estático",
+			"B": "la presión estática",
+			"C": "el tubo pitot",
+			"D": "el sistema pitot-estático. "
 		},
 		{
-			"Pregunta": "56.- EL AJUSTE ALTIMETRICO DADO POR LA TORRE DE CONTROL Y PUESTO EN LA VENTANILLA DE KOLLSMAN NO DEBERA INDICAR UN ERROR MAYOR DE:",
+			"Pregunta": "56.- el ajuste altimétrico dado por la torre de control y puesto en la ventanilla de kollsman no deberá indicar un error mayor de:",
 			"RespuestaCorrecta": "4",
-			"A": "5 FT",
-			"B": "20 FT",
-			"C": "50 FT",
-			"D": "75 FT."
+			"A": "5 ft",
+			"B": "20 ft",
+			"C": "50 ft",
+			"D": "75 ft."
 		},
 		{
-			"Pregunta": "57.- LA GAMA O TOLERANCIA PERMITIDA PARA LA VENTANILLA DE KOLSMAN VA DESDE: ",
+			"Pregunta": "57.- la gama o tolerancia permitida para la ventanilla de kolsman va desde: ",
 			"RespuestaCorrecta": "1",
-			"A": "28.10 HASTA 31.00 PULGADAS DE HG.",
-			"B": "28.00 HASTA 30.00 PULGADAS DE HG.",
-			"C": "29.92 HASrA 32.00 PULGADAS DE HG.",
-			"D": "29.97 HASTA 33.00 PULGADAS DE HG."
+			"A": "28.10 hasta 31.00 pulgadas de hg.",
+			"B": "28.00 hasta 30.00 pulgadas de hg.",
+			"C": "29.92 hasta 32.00 pulgadas de hg.",
+			"D": "29.97 hasta 33.00 pulgadas de hg."
 		},
 		{
-			"Pregunta": "58.- EL INDICADOR DE VELOCIDAD VERTICAL DA UNA MEDIDA PRECISA DEL:",
+			"Pregunta": "58.- el indicador de velocidad vertical da una medida precisa del:",
 			"RespuestaCorrecta": "2",
-			"A": "REGIMEN DE ASCENSO O DESCENSO",
-			"B": "REGIMEN DE ASCENSO O DESCENSO Y lA INDICACION DE VUELO NIVEMDO",
-			"C": "PORCENTAJE DE GRAVEDADES USADAS DURANTE EL VUELO",
-			"D": "PORCETAJE DE CABECEO USADO EN LOS ASCENSOS Y DESCENSOS."
+			"A": "régimen de ascenso o descenso",
+			"B": "régimen de ascenso o descenso y la indicación de vuelo nivelado",
+			"C": "porcentaje de gravedades usadas durante el vuelo",
+			"D": "porcentaje de cabeceo usado en los ascensos y descensos."
 		},
 		{
-			"Pregunta": "59.- LA INFORMACION DIRECCIONAL EN UN ILS LA PROPORCIONA EL TRANSMISOR DE:",
+			"Pregunta": "59.- la información direccional en un ILS la proporciona el transmisor de:",
 			"RespuestaCorrecta": "3",
-			"A": "GLIDE SLOPE",
+			"A": "glide slope",
 			"B": "DME",
-			"C": "LOCALIZADOR",
-			"D": "MARCADOR."
+			"C": "localizador",
+			"D": "marcador."
 		},
 		{
-			"Pregunta": "60.- EL TRANSMISOR DEL GLIDE SLOPE FUNCIONA EN LA BANDA DE FRECUENCIA:",
+			"Pregunta": "60.- el transmisor del glide slope funciona en la banda de frecuencia:",
 			"RespuestaCorrecta": "4",
-			"A": "328.1 A 136.6 MHZ",
-			"B": "333.8 A334.8 MHZ",
-			"C": "335 MHZ",
-			"D": "328.6 A 335.4 MHZ."
+			"A": "328.1 a 136.6 mhz",
+			"B": "333.8 a 334.8 mhz",
+			"C": "335 mhz",
+			"D": "328.6 a 335.4 mhz."
 		},
 		{
-			"Pregunta": "61.- LA INDICACION DEL LOCALIZADOR LA TENEMOS A BORDO POR MEDIO DE UNA BARRA:",
+			"Pregunta": "61.- la indicación del localizador la tenemos a bordo por medio de una barra:",
 			"RespuestaCorrecta": "3",
-			"A": "HORIZONTAL",
-			"B": "INCLINADA",
-			"C": "VERTICAL",
-			"D": "CURVA"
+			"A": "horizontal",
+			"B": "inclinada",
+			"C": "vertical",
+			"D": "curva"
 		},
 		{
-			"Pregunta": "62.- LOS MARCADORES ASOCIADOS A L ILS GENERALMENTE SON:",
+			"Pregunta": "62.- los marcadores asociados al ILS generalmente son:",
 			"RespuestaCorrecta": "2",
-			"A": "NDB Y LOM",
-			"B": "OM Y MM",
-			"C": "VOR Y DME",
-			"D": "LOM Y TACAN."
+			"A": "NDB y LOM",
+			"B": "OM y MM",
+			"C": "VOR y DME",
+			"D": "LOM y tacan."
 		},
 		{
-			"Pregunta": "63.- EL SISTEMA DE ATERRIZAJE POR INSTRUMENTOS ILS, CONSISTE DE LOS SIGUIENTES COMPONENTES ELECTRÓNICOS Y AYUDAS VISUALES:",
+			"Pregunta": "63.- el sistema de aterrizaje por instrumentos ILS, consiste de los siguientes componentes electrónicos y ayudas visuales:",
 			"RespuestaCorrecta": "1",
-			"A": "LOCALIZADOR, PENDIENTE DE PLANEO, MARCADOR EXTERIOR, MARCADOR MEDIO, LUCES DE APROXIMACIÓN",
-			"B": "LOCALIZADOR, PENDIENTE DE PLANEO Y LUCES DE APROXIMACIÓN",
-			"C": "MARCADORES Y LUCES DE APROXIMACIÓN",
-			"D": "PENDIENTE DE PLANEO, MARCADOR EXTERIOR, MARCADOR MEDIO Y LUCES DE APROXIMACIÓN."
-
+			"A": "localizador, pendiente de planeo, marcador exterior, marcador medio, luces de aproximación",
+			"B": "localizador, pendiente de planeo y luces de aproximación",
+			"C": "marcadores y luces de aproximación",
+			"D": "pendiente de planeo, marcador exterior, marcador medio y luces de aproximación."
 		},
 		{
-			"Pregunta": "65.- CON UNA RELECCION DE 340° EN EL OBS , EL NNIDICADOR DE DESVIACION (CDI) CENTRADO, LA BANDERA EN TO, ESTAREMOS EN EL RADIAL:",
+			"Pregunta": "65.- con una relección de 340° en el OBS, el indicador de desviación (cdi) centrado, la bandera en to, estaremos en el radial:",
 			"RespuestaCorrecta": "2",
 			"A": "340°",
 			"B": "160°",
@@ -184,7 +183,7 @@
 			"D": "070°."
 		},
 		{
-			"Pregunta": "66.- CON UNA SELECCION DE 130° EN EL OBS, EL INDICADOR DE DESVIACION (CDI) CENTRADO, LA BANDERA EN TO, ESTAREMOS EN EL RADIAL:",
+			"Pregunta": "66.- con una selección de 130° en el OBS, el indicador de desviación (cdi) centrado, la bandera en to, estaremos en el radial:",
 			"RespuestaCorrecta": "4",
 			"A": "220°",
 			"B": "130°",
@@ -192,54 +191,54 @@
 			"D": "310°."
 		},
 		{
-			"Pregunta": "67 .- LAS SIGLAS MRA SIGNIFICAN:",
+			"Pregunta": "67 .- las siglas MRA significan:",
 			"RespuestaCorrecta": "4",
-			"A": "MINIMA RADAR ALTÍTUD",
-			"B": "MAXIMUM RA DAR ALT FTUD",
-			"C": "MAXIMA RECEPCION DE ALTURA",
-			"D": "MINIMUM RECEPTION ALTÍTUD."
+			"A": "mínima radar altitud",
+			"B": "máximum radar altitud",
+			"C": "máxima recepción de altura",
+			"D": "mínimum recepción altitud."
 		},
 		{
-			"Pregunta": "68.- LOM SIGNIFICA:",
+			"Pregunta": "68.- lom significa:",
 			"RespuestaCorrecta": "3",
-			"A": "URGENCIA DE BAJA FRECUENCIA",
-			"B": "UNA ESTACION NDB INSTALADA EN EL MISMO SFIIO DEL MARCADOR EXTERIOR",
-			"C": "UNA ESTACION NDB YA SEA EN EL EXTERIOR O EN EL INTERIOR."
+			"A": "urgencia de baja frecuencia",
+			"B": "una estación NDB instalada en el mismo sitio del marcador exterior",
+			"C": "una estación NDB ya sea en el exterior o en el interior."
 		},
 		{
-			"Pregunta": "69.- EL DME OPERA:",
+			"Pregunta": "69.- el DME opera:",
 			"RespuestaCorrecta": "2",
-			"A": "BAJO EL PRINCIPIO DE INTERROGACION RESPUESTA EN VHF",
-			"B": "BAJO EL PRINCIPIO DE INTERROGACION RESPUESTA EN BANDA UHF",
-			"C": "BASADO EN EL MISMO PRINCIPIO DE ECO DEL RADAR",
-			"D": "JUNTO A UN RADAR PRIMARIO."
+			"A": "bajo el principio de interrogación respuesta en VHF",
+			"B": "bajo el principio de interrogación respuesta en banda UHF",
+			"C": "basado en el mismo principio de eco del radar",
+			"D": "junto a un radar primario."
 		},
 		{
-			"Pregunta": "70.- CON MARCACION RELATIVA DE 45° INDICADA EN EL ADF Y TODOS LOS DEMAS INSTRUMENTOS DE NAVEGACION TAPADOS, SE SABRA: ",
+			"Pregunta": "70.- con marcación relativa de 45° indicada en el ADF y todos los demás instrumentos de navegación tapados, se sabrá: ",
 			"RespuestaCorrecta": "3",
-			"A": "EN QUE DIRECCION O RUMBO SE PODRA ARRIBAR A LA ESTACION",
-			"B": "A QUE RUMBO VIRAR PARA ENFILARSE A LA ESTACION",
-			"C": "CUANDO HABRA QUE VIRAR PARA DIRIGIRSE A LA ESTACION",
-			"D": "EN QUE POSICION ESTAMOS EN EL CIRCULO DEL HORIZONTE CON RELACION A LA ESTACION TENIENDO EN CUENTA EL RUMBO."
+			"A": "en qué dirección o rumbo se podrá arribar a la estación",
+			"B": "a que rumbo virar para enfilarse a la estación",
+			"C": "cuando habrá que virar para dirigirse a la estación",
+			"D": "en qué posición estamos en el círculo del horizonte con relación a la estación teniendo en cuenta el rumbo."
 		},
 		{
-			"Pregunta": "71.- LAS ESTACIONES VOR DE BAJA POTENCIA DE EMISION (50 WATTS), TRANSMITEN EN UN RANGO DE FRECUENCIA DE:",
+			"Pregunta": "71.- las estaciones VOR de baja potencia de emisión (50 watts), transmiten en un rango de frecuencia de:",
 			"RespuestaCorrecta": "2",
-			"A": "108.1 A111.9 MHZ",
-			"B": "108 A 112 MHZ",
-			"C": "112 A 118 MHZ",
-			"D": "118 A 125 MHZ."
+			"A": "108.1 a 111.9 mhz",
+			"B": "108 a 112 mhz",
+			"C": "112 a 118 mhz",
+			"D": "118 a 125 mhz."
 		},
 		{
-			"Pregunta": "72.- LA ROSA QUE CORRESPONDE A UN VOR EN UNA CARTA ESTA ORIENTADA HACIA:",
+			"Pregunta": "72.- la rosa que corresponde a un VOR en una carta está orientada hacia:",
 			"RespuestaCorrecta": "2",
-			"A": "EL NORTE GEOGRAFICO",
-			"B": "EL NORTE MAGNETICO",
-			"C": "TODAS DIRECCIONES",
-			"D": "NINGUNA RESPUESTA ES CORRECTA."
+			"A": "el norte geográfico",
+			"B": "el norte magnético",
+			"C": "todas direcciones",
+			"D": "ninguna respuesta es correcta."
 		},
 		{
-			"Pregunta": "73.- EL DME ES UN SISTEMA DE NAVEGACION DE ALCANCE RELATIVAMENTE CORTO QUE TRABAJA EN FRECUENCIA:",
+			"Pregunta": "73.- el DME es un sistema de navegación de alcance relativamente corto que trabaja en frecuencia:",
 			"RespuestaCorrecta": "4",
 			"A": "HF",
 			"B": "MF",
@@ -247,78 +246,78 @@
 			"D": "UHF."
 		},
 		{
-			"Pregunta": "74.- EN UN AVION CUANDO SE APAGA EL MOTOR EN TIERRA LA PRESION DEL MANÍFOLD:",
+			"Pregunta": "74.- en un avión cuando se apaga el motor en tierra la presión del manífold:",
 			"RespuestaCorrecta": "3",
-			"A": "INDICA LA PRESION ATMOSFERICA DEL CAMPO",
-			"B": "INDICA LA PRESION ATMOSFERICA DEL NIVEL DEL MAR",
-			"C": "BAJA A LA PRESION ATMOSFERICA DEL CAMPO",
-			"D": "SUBE A LA PRESION ATMOSFERICA DEL CAMPO."
+			"A": "indica la presión atmosférica del campo",
+			"B": "indica la presión atmosférica del nivel del mar",
+			"C": "baja la presión atmosférica del campo",
+			"D": "sube la presión atmosférica del campo."
 		},
 		{
-			"Pregunta": "75.- EL INDICADOR DE PRESION DE ACEITE DE LECTURA DIRECTA MAS COMUN ES EL DE:",
+			"Pregunta": "75.- el indicador de presión de aceite de lectura directa más común es el de:",
 			"RespuestaCorrecta": "3",
-			"A": "DOBLE FUELLE",
-			"B": "FUELLES OPUESTOS",
-			"C": "TUBO BOURDON",
-			"D": "DIAFRAGMA SIMPLIFICADO."
+			"A": "doble fuelle",
+			"B": "fuelles opuestos",
+			"C": "tubo bourdon",
+			"D": "diafragma simplificado."
 		},
 		{
-			"Pregunta": "76.- EL INDICADOR DE TEMPERATURA DE ACEÍTE TOMA LA LECTURA DESDE : ",
+			"Pregunta": "76.- el indicador de temperatura de aceite toma la lectura desde: ",
 			"RespuestaCorrecta": "2",
-			"A": "EL ENFRIADOR DE ACEITE",
-			"B": "LA UNEA DE ENTRADA AL MOTOR",
-			"C": "LA LINEA DE RETORNO",
-			"D": "EL TANQUE DE ACEITE "
+			"A": "el enfriador de aceite",
+			"B": "la línea de entrada al motor",
+			"C": "la línea de retorno",
+			"D": "el tanque de aceite "
 		},
 		{
-			"Pregunta": "77.- EL TERMOCUPLE DEL INDICADOR DE TEMPERATURA DE LA CABEZA DE LOS CILINDROS OPERA CON CORRIENTE: ",
+			"Pregunta": "77.- el termocupla del indicador de temperatura de la cabeza de los cilindros opera con corriente: ",
 			"RespuestaCorrecta": "4",
-			"A": "ALTERNA",
-			"B": "DEBATERA",
-			"C": "DEL GENERADOR DEL AVION",
-			"D": "PROPA"
+			"A": "alterna",
+			"B": "de batería",
+			"C": "del generador del avión",
+			"D": "propia"
 		},
 		{
-			"Pregunta": "78.- EL INDICADOR DE VELOCIDAD (AIRSPEED INDICATOR TRABAJA POR DIFERENCIA DE PRESIONES ENTRE:",
+			"Pregunta": "78.- el indicador de velocidad airspeed indicator trabaja por diferencia de presiones entre:",
 			"RespuestaCorrecta": "2",
-			"A": "EL AIRE DE IMPACTO Y LA PRESION PITOT",
-			"B": "LA PRESION DINAMICA Y LA ESTATICA",
-			"C": "LA PRESION PITOT Y LA ESTATICA",
-			"D": "LA PRESION ESTATICA Y LA ATMOSTERA."
+			"A": "el aire de impacto y la presión pitot",
+			"B": "la presión dinámica y la estática",
+			"C": "la presión pitot y la estática",
+			"D": "la presión estática y la atmosfera."
 		},
 		{
-			"Pregunta": "79.- EL ALTIMETRO TRABAJA CON UNA CAPSULA SELLADA CUYA PRESION INTERIOR ES: ",
+			"Pregunta": "79.- el altímetro trabaja con una capsula sellada cuya presión interior es: ",
 			"RespuestaCorrecta": "1",
-			"A": "29.92 MB. O 1013.2 MB.",
-			"B": "LA PRESION A NIVEL DEL MAR",
-			"C": "LA PRESION (O) O AL VACIO",
-			"D": "LA PRESION ATMOSFERICA AL NIVEL DE VUELO."
+			"A": "29.92 mb. o 1013.2 mb.",
+			"B": "la presión a nivel del mar",
+			"C": "la presión o al vacío",
+			"D": "la presión atmosférica al nivel de vuelo."
 		},
 		{
-			"Pregunta": "80.- EL INDICADOR DE VELOCIDAD VERTICAL (VSI) OPERA CON PRESION ESTATICA Y SU FUNCIONAMIENTO SE DEBE A LA VELOCIDAD DE IGUALAMIENTO DE PRESIONES ENTRE:",
+			"Pregunta": "80.- el indicador de velocidad vertical (VSI) opera con presión estática y su funcionamiento se debe a la velocidad de igualamiento de presiones entre:",
 			"RespuestaCorrecta": "3",
-			"A": "LA CABINA.DEL AVION Y EL DAFRAGMA DEL INSTRUMENTO",
-			"B": "LA CAJA DEL INSTRUMENTO Y EL DAFRAGMA DEL MISMO",
-			"C": "LA PRESION ATMOSFERICA Y LA CAJA DEL INSTRUMENTO",
-			"D": "EL DAFRAGMA Y LA PRESION ATMOSFERICA."
+			"A": "la cabina del avión y el diafragma del instrumento",
+			"B": "la caja del instrumento y el diafragma del mismo",
+			"C": "la presión atmosférica y la caja del instrumento",
+			"D": "el diafragma y la presión atmosférica."
 		},
 		{
-			"Pregunta": "81 .- CUAND O UN AVION ASCIENDE , EL ANEROIDE DEL ALTIMETRO:",
+			"Pregunta": "81 .- cuando un avión asciende, el aneroide del altímetro:",
 			"RespuestaCorrecta": "2",
-			"A": "SE CONTRAE",
-			"B": "SE EXPANDE",
-			"C": "PERMANECE IGUAL"
+			"A": "se contrae",
+			"B": "se expande",
+			"C": "permanece igual"
 		},
 		{
-			"Pregunta": "82 .- LA CORRIENTE ELECTRICA GENERADA POR UNA BATERIA ES:",
+			"Pregunta": "82 .- la corriente eléctrica generada por una batería es:",
 			"RespuestaCorrecta": "2",
-			"A": "CORRIENTE ALTERNA",
-			"B": "CORRIENTE CONTINUA",
-			"C": "DE FRECUENCA VARABLE",
-			"D": "DE FRECUENCA CONSTANTE."
+			"A": "corriente alterna",
+			"B": "corriente continua",
+			"C": "de frecuencia variable",
+			"D": "de frecuencia constante."
 		},
 		{
-			"Pregunta": "83.- CUANDO SE TRANSMITE EN FRECUENCIA ENTRE 3-30 MHZ, ESTAREMOS UTILIZANDO",
+			"Pregunta": "83.- cuando se transmite en frecuencia entre 3-30 mhz, estaremos utilizando",
 			"RespuestaCorrecta": "3",
 			"A": "LF",
 			"B": "MF",
@@ -326,215 +325,215 @@
 			"D": "VHF"
 		},
 		{
-			"Pregunta": "84.- SI OPERAMOS EN VHF LA TRANSMISION SERA A TRAVES DE:",
+			"Pregunta": "84.- si operamos en VHF la transmisión será a través de:",
 			"RespuestaCorrecta": "4",
-			"A": "ONDA REFLEJADA EN LMONOSFERA",
-			"B": "ONDA TERRESTRE",
-			"C": "ONDA CORTA",
-			"D": "LINEA DE VISTA"
+			"A": "onda reflejada en la atmosfera",
+			"B": "onda terrestre",
+			"C": "onda corta",
+			"D": "línea de vista"
 		},
 		{
-			"Pregunta": "85.- EL RETARDO QUE SE PRODUCE EN EL INDICADOR DE VELOCIDAD VERTICAL ES DE:",
+			"Pregunta": "85.- el retardo que se produce en el indicador de velocidad vertical es de:",
 			"RespuestaCorrecta": "1",
-			"A": "6 O 9 SEGUNDOS",
-			"B": "3 O 7 SEGUNDOS",
-			"C": "2 O 6 SEGUNDOS",
-			"D": "NO TIENE RETARDO. "
+			"A": "6 o 9 segundos",
+			"B": "3 o 7 segundos",
+			"C": "2 o 6 segundos",
+			"D": "no tiene retardo. "
 		},
 		{
-			"Pregunta": "86.- si TRANSMITIMOS EN UNA ZONA DONDE LA NOCHE HA COMENZADO HACIA UN LUGAR DONDE AUN ES DE DIA, EL ALCANCE DE NUESTRA ONDA SERA:",
+			"Pregunta": "86.- si transmitimos en una zona donde la noche ha comenzado hacia un lugar donde aún es de día, el alcance de nuestra onda será:",
 			"RespuestaCorrecta": "3",
-			"A": "NORMAL",
-			"B": "AUMENTADA",
-			"C": "DISMINUIDA",
-			"D": "NO TIENE INFLUENCIA NINGUNA."
+			"A": "normal",
+			"B": "aumentada",
+			"C": "disminuida",
+			"D": "no tiene influencia ninguna."
 		},
 		{
-			"Pregunta": "87.- SI ESTAMOS VOLANDO A 25000 PIES Y ASCENDEMOS A 35000 PIES, NUESTRA TRANSMISION RECEPCION VHF:",
+			"Pregunta": "87.- si estamos volando a 25000 pies y ascendemos a 35000 pies, nuestra transmisión recepción VHF:",
 			"RespuestaCorrecta": "2",
-			"A": "DISMINUIRA EL ALCANCE",
-			"B": "AUMENTARA EL ALCANCE",
-			"C": "ES IGUAL",
-			"D": "NO TIENE NINGUNA INFLUENCIA."
+			"A": "disminuirá el alcance",
+			"B": "aumentara el alcance",
+			"C": "es igual",
+			"D": "no tiene ninguna influencia."
 		},
 		{
-			"Pregunta": "88.- EL ADF OPERA CON:",
+			"Pregunta": "88.- el ADF opera con:",
 			"RespuestaCorrecta": "2",
-			"A": "1 ANTENA",
-			"B": "2 ANTENAS",
-			"C": "3 ANTENAS",
-			"D": "4 ANTENAS."
+			"A": "1 antena",
+			"B": "2 antenas",
+			"C": "3 antenas",
+			"D": "4 antenas."
 		},
 		{
-			"Pregunta": "89.- EL RUMBO RELATIVO ES EL ANGULO FORMADO ENTRE:",
+			"Pregunta": "89.- el rumbo relativo es el ángulo formado entre:",
 			"RespuestaCorrecta": "3",
-			"A": "LA NARIZ DEL AVION Y EL NORTE VERDADERO",
-			"B": "LA NARIZ DEL AVION Y EL NORTE MAGNETICO",
-			"C": "lA NARIZ DEL AVION Y LA ESTACION",
-			"D": "LA LINEA DE LA ESTACION Y EL NORTE VERDADERO."
+			"A": "la nariz del avión y el norte verdadero",
+			"B": "la nariz del avión y el norte magnético",
+			"C": "la nariz del avión y la estación",
+			"D": "la línea de la estación y el norte verdadero."
 		},
 		{
-			"Pregunta": "90.- SI VOLAMOS (HOMING) A LA ESTACION CON VIENTO CRUZADO, EL RUMBO DEL AVION SERA:",
+			"Pregunta": "90.- si volamos (homing) a la estación con viento cruzado, el rumbo del avión será:",
 			"RespuestaCorrecta": "3",
-			"A": "CONSTANTE",
-			"B": "10° MENOR QUE SIN VIENTO",
-			"C": "VARARA DE ACUERDO AL VIENTO",
-			"D": "VARARA DE ACUERDO A LA VELOCIDAD DEL AVION."
+			"A": "constante",
+			"B": "10° menor que sin viento",
+			"C": "varara de acuerdo al viento",
+			"D": "varara de acuerdo a la velocidad del avión."
 		},
 		{
-			"Pregunta": "91.- PARA HACER UN (TIEMPO Y DISTANCIA) A LA ESTACION, SE DEBERA COMENZAR A TOMAR EL TIEMPO EN SEGUNDOS CUANDO EL RUMBO RELATIVO SEA:",
+			"Pregunta": "91.- para hacer un (tiempo y distancia) a la estación, se deberá comenzar a tomar el tiempo en segundos cuando el rumbo relativo sea:",
 			"RespuestaCorrecta": "2",
-			"A": "350° O 180°",
-			"B": "90° O 270°",
+			"A": "350° o 180°",
+			"B": "90° o 270°",
 			"C": "90°",
 			"D": "270°"
 		},
 		{
-			"Pregunta": "92.- EL VOR UTILIZA EL PRINCIPIO DE (DISTANCIA DE FASES) PARA SU FUNCIONAMIENTO:",
+			"Pregunta": "92.- el VOR utiliza el principio de (distancia de fases) para su funcionamiento:",
 			"RespuestaCorrecta": "1",
-			"A": "VERDADERO",
-			"B": "FALSO."
+			"A": "verdadero",
+			"B": "falso."
 		},
 		{
-			"Pregunta": "93.- SI ESTAMOS VOLANDO EN EL RADIAL 220° Y DIRIGIENDONOS A LA ESTACION, NUESTRO OBS ESTARA MOSTRANDO:",
+			"Pregunta": "93.- si estamos volando en el radial 220° y dirigiéndonos a la estación, nuestro OBS estará mostrando:",
 			"RespuestaCorrecta": "4",
-			"A": "220° Y LA BANDERA EN (TO)",
-			"B": "040° Y LA EN (FROM)",
-			"C": "220° Y LA BANDERA EN (FROM)",
-			"D": "040° Y LA BANDERA EN (TO)."
+			"A": "220° y la bandera en (to)",
+			"B": "040° y la en (from)",
+			"C": "220° y la bandera en (from)",
+			"D": "040° y la bandera en (to)."
 		},
 		{
-			"Pregunta": "94.- EL OUTER MARKER (OM) TRANSMITE:",
+			"Pregunta": "94.- el outer marker (om) transmite:",
 			"RespuestaCorrecta": "2",
-			"A": "PUNTOS RAYAS",
-			"C": "PUNTOS Y RAYAS",
-			"D": "PITO coNT¡:^uo. "
+			"A": "puntos rayas",
+			"C": "puntos y rayas",
+			"D": "puntos continuos"
 		},
 		{
-			"Pregunta": "95.- EL MIDDLE MARKER (MM) TRANSMITE:",
+			"Pregunta": "95.- el middle marker (mm) transmite:",
 			"RespuestaCorrecta": "3",
-			"A": "PUNTOS",
-			"B": "RAYAS",
-			"C": "PUNTOS Y RAYAS",
-			"D": "PITO CONTINUO."
+			"A": "puntos",
+			"B": "rayas",
+			"C": "puntos y rayas",
+			"D": " puntos continuos"
 		},
 		{
-			"Pregunta": "96 .- EL INNER MARKER-(IM) TRANSMITE: ",
+			"Pregunta": "96 .- el inner marker-(IM) transmite: ",
 			"RespuestaCorrecta": "1",
-			"A": "PUNTOS",
-			"B": "RAYAS",
-			"C": "PUNTOS Y RAYAS",
-			"D": "PrrO CONTINUO."
+			"A": "puntos",
+			"B": "rayas",
+			"C": "puntos y rayas",
+			"D": "puntos continuos"
 		},
 		{
-			"Pregunta": "97.- LOS COMPAS TIENEN UNA PORCION MAXIMA DE TRANSMISION DE:",
+			"Pregunta": "97.- los compas tienen una porción máxima de transmisión de:",
 			"RespuestaCorrecta": "4",
-			"A": "10 WATIOS",
-			"B": "50 WATIOS",
-			"C": "100 WATIOS",
-			"*D": "25 WATIOS"
+			"A": "10 vatios",
+			"B": "50 vatios",
+			"C": "100 vatios",
+			"D": "25 vatios"
 		},
 		{
-			"Pregunta": "98.- UN ILS TRANSMISOR DEL LOCALIZADOR ESTA CERCANO A:",
+			"Pregunta": "98.- un ILS transmisor del localizador está cercano a:",
 			"RespuestaCorrecta": "2",
-			"A": "COMIENZO DE LA PISTA",
-			"B": "FINAL DELA PISTA",
-			"C": "NO TIENE SITIO DEFINIDO"
+			"A": "comienzo de la pista",
+			"B": "final de la pista",
+			"C": "no tiene sitio definido"
 		},
 		{
-			"Pregunta": "99.- ENTRE LAS VARIAS CONDICIONES, LA ATMOSFERA Y EL PROPIO AViON PUEDEN PRODUCIR UNA INTERFERENCIA EN LA RADIO CONOCIDA COMO ESTATICA  LA MISMA QUE AFECTA A LAS TRANSMISIONES EN:",
+			"Pregunta": "99.- entre las varias condiciones, la atmosfera y el propio avión pueden producir una interferencia en la radio conocida como estática  la misma que afecta a las transmisiones en:",
 			"RespuestaCorrecta": "3",
 			"A": "UHF",
 			"B": "VHF",
 			"C": "HF",
-			"D": "NO AFECTA."
+			"D": "no afecta."
 		},
 		{
-			"Pregunta": "100.- SE CONOCE COMO VELOCIDAD ANEMOMETRICA CORREGIDA POR ERROR DE INSTALACION A LA VELOCIDAD ANEMOMETRICA: ",
+			"Pregunta": "100.- se conoce como velocidad anemométrica corregida por error de instalación a la velocidad anemométrica: ",
 			"RespuestaCorrecta": "2",
-			"A": "INDICADA",
-			"B": "CALIBRADA",
-			"C": "EQUIVALENTE",
-			"D": "VERDADERA."
+			"A": "indicada",
+			"B": "calibrada",
+			"C": "equivalente",
+			"D": "verdadera."
 		},
 		{
-			"Pregunta": "101.- VOLANDO EN UNA TORMENTA ELECTRICA EL EQUIPO DE NAVEGACION MENOS CONFIABLE SERA:",
+			"Pregunta": "101.- volando en una tormenta eléctrica el equipo de navegación menos confiable será:",
 			"RespuestaCorrecta": "1",
-			"A": "EL ADF",
-			"B": "EL VOR",
-			"C": "EL ILS",
-			"D": "TODOS SON CONFIABLES."
+			"A": "el ADF",
+			"B": "el VOR",
+			"C": "el ILS",
+			"D": "todos son confiables."
 		},
 		{
-			"Pregunta": "102.- SI ESTAMOS VOLANDO A 20000 PIES, CUAL SERA EL ALCANCEDE RECEPCION DE SU ADF: ",
+			"Pregunta": "102.- si estamos volando a 20000 pies, cuál será el alcance de recepción de su ADF: ",
 			"RespuestaCorrecta": "3",
-			"A": "194 MIL'uAS NAUTICAS",
-			"B": "172 MILLAS NAUTICAS",
-			"C": "NO ES POSIBLE DETERMINAR",
-			"D": "120 MILLAS NAUTICAS."
+			"A": "194 millas náuticas",
+			"B": "172 millas náuticas",
+			"C": "no es posible determinar",
+			"D": "120 millas náuticas."
 		},
 		{
-			"Pregunta": "103.- EL SISTEMA PITOT Y DE PRESION ESTATICA ESTA CONFORMADO POR DOS PARTES PRINCIPALES, UNA CAMARA DE PRESION: ",
+			"Pregunta": "103.- el sistema pitot y de presión estática está conformado por dos partes principales, una cámara de presión: ",
 			"RespuestaCorrecta": "1",
-			"A": "DE IMPACTO Y OTRA DE CAMARA DE PRESION DE ESTATICA",
-			"B": "GENERAL Y OTRA DE PRESION ESTATICA",
-			"C": "DE IMPACTO Y OTRA GENERAL",
-			"D": "NINGUNA RESPUESTA ES CORRECTA."
+			"A": "de impacto y otra de cámara de presión de estática",
+			"B": "general y otra de presión estática",
+			"C": "de impacto y otra general",
+			"D": "ninguna respuesta es correcta."
 		},
 		{
-			"Pregunta": "104.- LA CAMARA DE PRESION ESTATICA CONTIENE LA PRESION ATMOSFERICA CORESPONDIENTE A: ",
+			"Pregunta": "104.- la cámara de presión estática contiene la presión atmosférica correspondiente a: ",
 			"RespuestaCorrecta": "4",
-			"A": "LA ELEVACION",
-			"B": "AL QNE",
-			"C": "AL QNH",
-			"D": "LA ALTITUD DE VUELO."
+			"A": "la elevación",
+			"B": "al QNE",
+			"C": "al QNH",
+			"D": "la altitud de vuelo."
 		},
 		{
-			"Pregunta": "105.- LOS INSTRUMENTOS BASICOS QUE OPERAN EN EL SISTEMA PITOT Y DE PRESION ESTATICA SON: ",
+			"Pregunta": "105.- los instrumentos básicos que operan en el sistema pitot y de presión estática son: ",
 			"RespuestaCorrecta": "3",
-			"A": "ALTIMETRO, VELOCIMETRO Y HORIZONTE",
-			"B": "GIRO, BAROMETRO, VELOCIMETRO",
-			"C": "INDICADOR DE VELOCIDAD VERTICAL, INDICADOR MACH Y ALTIMETRO.",
-			"D": "ALTIMETRO, RADIOALTIMETRO E INDICADOR DE PRESION VERTICAL"
+			"A": "altímetro, velocímetro y horizonte",
+			"B": "giro, barómetro, velocímetro",
+			"C": "indicador de velocidad vertical, indicador mach y altímetro.",
+			"D": "altímetro, radio altímetro e indicador de presión vertical"
 		},
 		{
-			"Pregunta": "106.- DE 0 A 35000 PIES LA TEMPERATURA DISMINUYE  APROXIMADAMENTE:",
+			"Pregunta": "106.- de 0 a 35000 pies la temperatura disminuye  aproximadamente:",
 			"RespuestaCorrecta": "1",
-			"A": "2 GRADOS CADA 1.000 FT",
-			"B": "2°GRADOS CADA 500 FT:",
-			"C": "0.5°C CADA 1.000 FT",
-			"D": "1°C CADA 1.000 FT"
+			"A": "2º grados cada 1.000 ft",
+			"B": "2° grados cada 500 ft:",
+			"C": "0.5°c cada 1.000 ft",
+			"D": "1°c cada 1.000 ft"
 		},
 		{
-			"Pregunta": "107.- LA ALTITUD DE PRESION CORREGIDA POR TEMPERATURA ES LA ALTITUD:",
+			"Pregunta": "107.- la altitud de presión corregida por temperatura es la altitud:",
 			"RespuestaCorrecta": "2",
-			"A": "VERDADERA",
-			"B": "DE DENSIDAD",
-			"C": "INDICADA",
-			"D": "DE PRESION."
+			"A": "verdadera",
+			"B": "de densidad",
+			"C": "indicada",
+			"D": "de presión."
 		},
 		{
-			"Pregunta": "108.- EL TUBO PITOT ESTA MONTADO EN EL ALA O FUSELAJE Y ADEMAS DEBE UBICARSE PARALELO AL EJE: ",
+			"Pregunta": "108.- el tubo pitot está montado en el ala o fuselaje y además debe ubicarse paralelo al eje: ",
 			"RespuestaCorrecta": "3",
-			"A": "TRANSVERSAL DONDE LA TURBULENCIA SEA MÍNIMA",
-			"B": "VERTICAL DONDE LA TURBULENCIA SEA MINIMA",
-			"C": "LONGITUDINAL DONDE LA TURBULENCA SEA MINIMA",
-			"D": "NINGUNA RESPUESTA ES CORRECTA."
+			"A": "transversal donde la turbulencia sea mínima",
+			"B": "vertical donde la turbulencia sea mínima",
+			"C": "longitudinal donde la turbulencia sea mínima",
+			"D": "ninguna respuesta es correcta."
 		},
 		{
-			"Pregunta": "109.- AL VOLAR CON EL REGLAJE ALTIMETRICO AJUSTADO DE UNA MASA DE AIRE FRIO A UNA MASA DE AIRE CALIENTE, EL ALTIMETRO INDICARA UNA ALTITUD:",
+			"Pregunta": "109.- al volar con el reglaje altimétrico ajustado de una masa de aire frio a una masa de aire caliente, el altímetro indicara una altitud:",
 			"RespuestaCorrecta": "2",
-			"A": "MAYOR QUE LA VERDADERA",
-			"B": "MENOR QUE UNO",
-			"C": "PERMANECE CONSTANTE",
-			"D": "NINGUNA RESPUESTA ES CORRECTA."
+			"A": "mayor que la verdadera",
+			"B": "menor que uno",
+			"C": "permanece constante",
+			"D": "ninguna respuesta es correcta."
 		},
 		{
-			"Pregunta": "110.- PRINCIPALMENTE EL ALTIMETRO ESTA CONFORMADO POR UNA:",
+			"Pregunta": "110.- principalmente el altímetro está conformado por una:",
 			"RespuestaCorrecta": "1",
-			"A": "CAPSULA ANEROIDE",
-			"B": "DAFRAGMA",
-			"C": "CAPSULA RIGIDA",
-			"D": "NINGUNA RESPUESTA ES CORRECTA."
+			"A": "capsula aneroide",
+			"B": "diafragma",
+			"C": "capsula rígida",
+			"D": "ninguna respuesta es correcta."
 		}
-    ]
+]

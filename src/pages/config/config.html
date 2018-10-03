@@ -15,7 +15,7 @@
       <ion-item>
           <ion-label md-margin-end="$item-md-padding-end / 2">CONFIGURACIÓN</ion-label>    
       </ion-item>
-      <ion-item><ion-label>Cantidad de Preguntas: {{userData.CantPreguntas}}</ion-label></ion-item>
+      <ion-item><ion-label>Cantidad de Preguntas: {{dataConfig.CantPreguntas}}</ion-label></ion-item>
       <ion-item name="uno">
           
           <ion-range  (ionChange)="change(singleValue4)" name="uno" min="5" max="200" pin="true" step="5" snaps="true" [(ngModel)]="singleValue4">
@@ -25,16 +25,19 @@
         </ion-item>
         <ion-item><ion-label></ion-label></ion-item>
         <ion-item><ion-label>Tiempo por Pregunta:</ion-label>
-            <ion-input value="{{userData.TimeByPreguntas}}" (change)="GuardarTime($event.target.value)" type="number"  maxlength="3" value="60"></ion-input> 
+            <ion-input value="{{dataConfig.TimeByPreguntas}}" (change)="GuardarTime($event.target.value)" type="number"  maxlength="3"></ion-input> 
         </ion-item><br/><br/><br/>
-        <button ion-button round (click)="ionViewDidLoad()">Guardar</button>
-       
+        <button *ngIf="dataConfig.SerialActivo" ion-button round (click)="GuardarCambios()">Guardar</button>
+        <button  class="BgColor2" *ngIf="dataConfig.SerialActivo" ion-button color="save">
+          Licencia Activa!
+      </button>
+      <button class="BgColor" color="danger" *ngIf="!dataConfig.SerialActivo"  ion-button color="save" (click)="AddLic()">
+          Debe Activar Licencia!
+      </button>
+   
 </ion-content>
 
-
-
-<ion-footer>
-  <ion-toolbar>
-    <ion-label class="my-label" stacked>info@aviacionesav.com</ion-label>
-  </ion-toolbar>
+<ion-footer no-border class="BgColor3">      
+  <p style="text-align:center; font-size:75%;" ion-text color="light">023202220 / 0984243224 / 0987512657</p>
+  <p style="text-align:center; font-size:80%;" ion-text color="light">info@aviacionesav.com</p>
 </ion-footer>

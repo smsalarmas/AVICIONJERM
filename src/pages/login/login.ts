@@ -19,13 +19,15 @@ export class LoginPage {
 
   public Pregunta:any;
   public RespuestaCorrecta:any;
-
+  public ValidarLic:string;
   userData = {
     firstName: '',
     Email: '',
     Serial: '',
+    SerialShow: '',
     WhatsApp: '',
-    idEscuela: '1'
+    idEscuela: '1',
+    SerialActivo:false
   };
   constructor(public navCtrl: NavController, 
     public navParams: NavParams,
@@ -34,6 +36,9 @@ export class LoginPage {
     this.StorageGet('Email', this.userData.Email);
     this.StorageGet('WhatsApp', this.userData.WhatsApp);
     this.StorageGet('Serial', this.userData.Serial);
+    console.log(`Serial > ${this.userData.Serial}`);
+    
+    
     /*storage.get('NameAlumno').then((val) => {
       
     });*/
@@ -67,16 +72,44 @@ export class LoginPage {
   ChequeoSerial(){
     let data:Observable<any>;
     console.log(this.userData.Serial);    
-    this.storage.set('NameAlumno', this.userData.firstName);
-    this.storage.set('Email', this.userData.Email);
-    this.storage.set('WhatsApp', this.userData.WhatsApp);
-    this.storage.set('Serial', "********");
+
+    data = this.http.get('/assets/json/lic.json');    
+      data.subscribe(result => {        
+         
+        let items = result;
+         
+        this.ValidarLic = '0';
+        for (let serial of items)
+        {
+          if (serial.idseriales.indexOf(this.userData.Serial) >= 0)
+          {
+            console.log(JSON.stringify(result));
+            this.ValidarLic = '1';
+            this.storage.set('NameAlumno', this.userData.firstName);
+            this.storage.set('Email', this.userData.Email);
+            this.storage.set('WhatsApp', this.userData.WhatsApp);
+            this.storage.set('Serial', this.userData.Serial);
+          }
+        }
+        console.log(JSON.stringify(result));
+      })
+
+    /*let URL: string  = `https://gps.soluseguridad.com/ssl/CheckSerial3.php?nombre=${ this.userData.firstName }&email=${this.userData.Email}&whatsapp=${this.userData.WhatsApp}&serial=${this.userData.Serial}&idEscuela=1`;
     //https://gps.soluseguridad.com/avl/movil/CheckSerial.php?nombre=jhon&email=jhon&whatsapp=0&serial=469-f2288&idEscuela=1
-    data = this.http.get('https://gps.soluseguridad.com/avl/movil/CheckSerial.php?nombre=jhon&email=jhon&whatsapp=0&serial=469-f2288&idEscuela=1');    
+    console.log(URL);
+    data = this.http.get(URL);    
     data.subscribe(result => {        
 
       console.log(JSON.stringify(result));
-    })
+      this.ValidarLic = JSON.stringify(result);
+      if (this.ValidarLic === '1'){
+        console.log(JSON.stringify(result));
+        this.storage.set('NameAlumno', this.userData.firstName);
+        this.storage.set('Email', this.userData.Email);
+        this.storage.set('WhatsApp', this.userData.WhatsApp);
+        this.storage.set('Serial', this.userData.Serial);
+      }
+    })*/
   }
 
   StorageGet(Key: string, Default: any) {
@@ -87,7 +120,13 @@ export class LoginPage {
             if (Key === 'NameAlumno') this.userData.firstName = data.toString();
             if (Key === 'Email') this.userData.Email = data.toString();
             if (Key === 'WhatsApp') this.userData.WhatsApp = data.toString();
-            if (Key === 'Serial') this.userData.Serial = data.toString();
+            if (Key === 'Serial') {
+              this.userData.Serial = data.toString();
+              if ( this.userData.Serial) {
+                this.userData.SerialShow = "***-***";
+                this.userData.SerialActivo = true;
+              }              
+            }
             resolve(data);
         })
             .catch(() => {

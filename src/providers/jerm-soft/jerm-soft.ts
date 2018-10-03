@@ -1,5 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
+import { Storage } from '@ionic/storage';
 //import { SQLiteObject } from '@ionic-native/sqlite';
 
 /*
@@ -14,40 +15,105 @@ import { Injectable } from '@angular/core';
 */
 @Injectable()
 export class JermSoftProvider {
+ 
+  userData = {
+    TimeByPreguntas: 0,
+    CantPreguntas:0,
+    Serial:'',
+    SerialActivo:false
+    
+  };
+  private Respuestas:any;
 
-  //db: SQLiteObject = null;
-
-  constructor(public http: HttpClient) {
+  constructor(public http: HttpClient, private storage: Storage) {
     console.log('Hello JermSoftProvider Provider');
+    this.Load();
+
   }
 
-  /*setDatabase(db: SQLiteObject){
-    if(this.db === null){
-      this.db = db;
-    }
+  Load(){
+    this.GetRespuestas();
+    this.GetTime();
+    this.GetCantPreguntasLoad();
+    this.GetLicActiva();
   }
 
-  Insertar(Lic: any){
-    let sql = 'INSERT INTO Licencia(nombre, email, whatsapp, serial) VALUES(?,?,?,?)';
-    return this.db.executeSql(sql, [Lic.nombre, Lic.email, Lic.whatsapp, Lic.serial]);
+
+  GetLicActiva(){
+    this.StorageGet('Serial', this.userData.Serial);
+    return this.userData.SerialActivo;
   }
 
-  createTable(){
-    let sql = 'CREATE TABLE IF NOT EXISTS Licencia(id INTEGER PRIMARY KEY AUTOINCREMENT, nombre TEXT, email TEXT, whatsapp TEXT,serial TEXT)';
-    return this.db.executeSql(sql, []);
+  GetTime(){
+    //this.userData.TimeByPreguntas = 65;
+    this.StorageGet('TimeByPreguntas', this.userData.TimeByPreguntas);
+    console.log(this.userData.TimeByPreguntas);
+    return this.userData.TimeByPreguntas;
+    
   }
 
-  getAll(){
-    let sql = 'SELECT * FROM Licencia';
-    return this.db.executeSql(sql, [])
-    .then(response => {
-      let tasks = [];
-      for (let index = 0; index < response.rows.length; index++) {
-        tasks.push( response.rows.item(index) );
-      }
-      return Promise.resolve( tasks );
-    })
-    .catch(error => Promise.reject(error));
-  }*/
+  GetCantPreguntasLoad(){
+    //this.userData.CantPreguntas = 5;
+    this.StorageGet('CantPreguntas', this.userData.CantPreguntas);
+    console.log(this.userData.CantPreguntas);   
+  }
 
+  GetCantPreguntas(){
+    console.log(this.userData.CantPreguntas);
+    return this.userData.CantPreguntas;
+  }
+
+  GetRespuestas(){
+    this.StorageGet('CantPreguntas', this.Respuestas);
+    return this.Respuestas;
+  }
+
+  SetTime(data){
+    console.log(data);
+    this.userData.TimeByPreguntas = data;
+    this.storage.set('TimeByPreguntas', this.userData.TimeByPreguntas);
+  }
+
+  SetRespuestas(data)
+  {
+    this.Respuestas = data;
+    this.storage.set('Respuestas', this.Respuestas);
+  }
+
+  SetCantPreguntas(data){
+    console.log(data);
+    //Si la licencia esta activa
+    this.userData.CantPreguntas = data;
+    this.storage.set('CantPreguntas', this.userData.CantPreguntas);
+  }
+
+  
+
+  StorageGet(Key: string, Default: any) {
+
+    return new Promise((resolve, reject) => {
+        this.storage.get(Key).then((data) => {
+            console.log(" Storage.get ", Key, data);
+            if (Key === 'TimeByPreguntas') this.userData.TimeByPreguntas = data.toString();
+            if (Key === 'CantPreguntas') this.userData.CantPreguntas = data.toString();
+            if (Key === 'Serial') {
+              this.userData.Serial = data.toString();
+              if ( this.userData.Serial) {
+                this.userData.SerialActivo = true;
+              }
+            }
+
+            resolve(data);
+        })
+            .catch(() => {
+                if (Key === 'TimeByPreguntas') this.userData.TimeByPreguntas = Default;
+                if (Key === 'CantPreguntas') this.userData.CantPreguntas = Default;
+                console.log(" Load DEFAULTS", Default);
+                resolve(Default);
+            });
+    });
+  }
+  
+
+  
 }

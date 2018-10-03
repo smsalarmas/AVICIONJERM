@@ -1,301 +1,293 @@
-[	{
-		"Pregunta": "1.- LOS REQUERIMIENTOS PARA LA EMISION DE UN CERTIFICADO DE OPERACION DE ESCUELA DE PILOTOS, ESTAN CONTEMPLADOS EN LA RDAC:",
+	[{
+		"Pregunta": "1.- los requerimientos para la emisión de un certificado de operación de escuela de pilotos, están contemplados en la RDAC:",
 		"RespuestaCorrecta": "2",
 		"A": "121",
 		"B": "141",
 		"C": "135."
 	},
 	{
-		"Pregunta": "2.- LAS HABILITACIONES CON RESPECTO A CATEGORIA DE AERONAVES COMPRENDE:",
+		"Pregunta": "2.- las habilitaciones con respecto a categoría de aeronaves comprende:",
 		"RespuestaCorrecta": "2",
-		"A": "CATEGORIA, CLASE Y TIPO",
-		"B": "AVION, AERONAVE DE ROTOR, PLANEADOR Y MAS LIGERO QUE EL AIRE",
-		"C": "AVION, HELICOPTERO Y PLANEADOR",
-		"D": "TODAS LAS RESPUESTAS SON CORRECTAS."
+		"A": "categoría, clase y tipo",
+		"B": "avión, aeronave de rotor, planeador y más ligero que el aire",
+		"C": "avión, helicóptero y planeador",
+		"D": "todas las respuestas son correctas."
 	},
 	{
-		"Pregunta": "3.- LAS LICENCIAS DE INSTRUCTOR DE VUELO Y PILOTOS EN GENERAL ESTAN REGULADAS BAJO LA:",
+		"Pregunta": "3.- las licencias de instructor de vuelo y pilotos en general están reguladas bajo la:",
 		"RespuestaCorrecta": "1",
 		"A": "RDAC 61",
 		"B": "RDAC 063",
 		"C": "RDAC 065",
-		"D": "121 Y 135."
+		"D": "121 y 135."
 	},
 	{
-		"Pregunta": "4.- PARA LA APROBACION DEL EXAMÉN DE CONOCIMIENTOS, SE DEBE ALCANZAR UNA CALIFICACION MINIMA DE:",
+		"Pregunta": "4.- para la aprobación del examen de conocimientos, se debe alcanzar una calificación minima de:",
 		"RespuestaCorrecta": "3",
-		"A": "80 POR CIENTO PRIMER INTENTO",
-		"B": "90 POR CIENTO SEGUNDO INTENTO",
-		"C": "75 POR CIENTO",
-		"D": "70 POR CIENTO."
+		"A": "80 por ciento primer intento",
+		"B": "90 por ciento segundo intento",
+		"C": "75 por ciento",
+		"D": "70 por ciento."
 	},
 	{
-		"Pregunta": "5.- LAS LICENCIAS QUE SE OTORGAN BAJO LAS RDAC 061 SON:",
+		"Pregunta": "5.- las licencias que se otorgan bajo las RDAC 061 son:",
 		"RespuestaCorrecta": "4",
-		"A": "ALUMNO PILOTO, PILOTO PRIVADO Y PILOTO COMERCIAL",
-		"B": "PILOTO DE TRANSPORTE DE LINEA AEREA E INSTRUCTOR DE VUELO",
-		"C": "AUXILIAR DE CABINA, MECANICO DE VUELO Y NAVEGENTE",
-		"D": "RESPUESTAS A Y B SON CORRECTAS."
-
+		"A": "alumno piloto, piloto privado y piloto comercial",
+		"B": "piloto de transporte de línea aérea e instructor de vuelo",
+		"C": "auxiliar de cabina, mecánico de vuelo y navegante",
+		"D": "respuestas a y b son correctas."
 	},
 	{
-		"Pregunta": "6.- LAS CERTIFICACIONES MEDICAS SE CLASIFICAN:",
+		"Pregunta": "6.- las certificaciones medicas se clasifican:",
 		"RespuestaCorrecta": "3",
-		"A": "PARA PERSONAL DE VUELO Y PERSONAL DE TERRA",
-		"B": "EN PRIMERA REVISION, SEGUNDA REVISION Y TERCERA REVISION",
-		"C": "EN PRIMERA CLASE, SEGUNDA CIASE Y TERCERA CLASE",
-		"D": "EN PERSONAL DE PILOTOS Y PERSONAL DE MECANICOS."
-
+		"A": "para personal de vuelo y personal de tierra",
+		"B": "en primera revisión, segunda revisión y tercera revisión",
+		"C": "en primera clase, segunda clase y tercera clase",
+		"D": "en personal de pilotos y personal de mecánicos."
 	},
 	{
-		"Pregunta": "7.- LA VALIDEZ DE LOS EXAMENES DE CONOCIMIENTOS TEORICOS ES:",
+		"Pregunta": "7.- la validez de los exámenes de conocimientos teóricos es:",
 		"RespuestaCorrecta": "3",
-		"A": "SEIS MESES",
-		"B": "TRES MESES",
-		"C": "12 MESES",
-		"D": "24 MESES"
-
+		"A": "seis meses",
+		"B": "tres meses",
+		"C": "12 meses",
+		"D": "24 meses"
 	},
 	{
-		"Pregunta": "8.- LA EXPERIENCIA DE VUELO RECIENTE COMO PILOTO AL MANDO SE REFIERE AL CUMPLIMIENTO DE AL MENOS:",
+		"Pregunta": "8.- la experiencia de vuelo reciente como piloto al mando se refiere al cumplimiento de al menos:",
 		"RespuestaCorrecta": "2",
-		"A": "TRES DESPEGUES Y TRES ATERRIZAJES DENTRO DE LOS ULTIMOS 60 DIAS",
-		"B": "TRES DESPEGUES Y TRES ATERRIZAJES EN LOS ULTIMOS 90 DIAS",
-		"C": "TRES DESPEGUES Y TRES ATERRIZAJES IFR Y NOCTURNOS EN LOS ULTIMOS TRES MESES",
-		"D": "RESPUESTAS B Y C SON CORRECTAS."
-
+		"A": "tres despegues y tres aterrizajes dentro de los últimos 60 días",
+		"B": "tres despegues y tres aterrizajes en los últimos 90 días",
+		"C": "tres despegues y tres aterrizajes IFR y nocturnos en los últimos tres meses",
+		"D": "respuestas b y c son correctas."
 	},
 	{
-		"Pregunta": "9.- EN LAS EMPRESAS AEREAS ECUATORIANAS SOLO PODRAN DESARROLLAR ACTIVIDADES AERONAUTICAS EN VUELO Y EN TIERRA:",
+		"Pregunta": "9.- en las empresas aéreas ecuatorianas solo podrán desarrollar actividades aeronáuticas en vuelo y en tierra:",
 		"RespuestaCorrecta": "1",
-		"A": "PERSONAL TECNICO AERONAUTICO TITULAR DE LICENCIA",
-		"B": "PILOTOS Y MECANICOS TrrULARES DE LICENCA",
-		"C": "PILOTOS, INGENIEROS DE VUELO Y AUXILARES DE CABINA",
-		"D": "NINGUNA RESPUESTA ES CORRECTA."
-
+		"A": "personal técnico aeronáutico titular de licencia",
+		"B": "pilotos y mecánicos titulares de licencia",
+		"C": "pilotos, ingenieros de vuelo y auxiliarles de cabina",
+		"D": "ninguna respuesta es correcta."
 	},
 	{
-		"Pregunta": "10.- ES CONSIDERADA UNA AERONAVE GRANDE CUANDO SU PESO MAXIMO CERTIFICADO PARA EL DESPEGUE ES:",
+		"Pregunta": "10.- es considerada una aeronave grande cuando su peso máximo certificado para el despegue es:",
 		"RespuestaCorrecta": "2",
-		"A": "MAS DE 15000 LIBRAS",
-		"B": "MAS DE 12500 LIBRAS",
-		"C": "AERONAVE CON MAS DE DOS MOTORES",
-		"D": "MAS DE 12500 KILOS."
-
+		"A": "más de 15000 libras",
+		"B": "más de 12500 libras",
+		"C": "aeronave con más de dos motores",
+		"D": "más de 12500 kilos."
 	},
 	{
-		"Pregunta": "11.- UNA PERSONA EXTRANJERA PUEDE FORMAR PARTE DE LA TRIPULACION DE UNA AERONAVE DE MATRICULA ECUATORIANA, SIEMPRE QUE SEA POSEEDOR DE:",
+		"Pregunta": "11.- una persona extranjera puede formar parte de la tripulación de una aeronave de matrícula ecuatoriana, siempre que sea poseedor de:",
 		"RespuestaCorrecta": "1",
-		"A": "UNA LICENCA O UN CERTIFICADO DE CONVALIDACION ECUATORINOS, VIGENTES",
-		"B": "UNA LICENCA EXTRANJERA VIGENTE",
-		"C": "UN CONTRATO CON UN OPERADOR ECUATORIANO VIGENTE",
-		"D": "NINGUNA RESPUESTA ES CORRECTA."
-
+		"A": "una licencia o un certificado de convalidación ecuatorianos, vigentes",
+		"B": "una licencia extranjera vigente",
+		"C": "un contrato con un operador ecuatoriano vigente",
+		"D": "ninguna respuesta es correcta."
 	},
 	{
-		"Pregunta": "12.- LA LICENCIA AERONAUTICA ES UN DOCUMENTO DEFINITIVO, PERO LAS ATRIBUCIONES QUE LA MISMA LE CONFIERE A SU TITULAR, SE SUSPENDEN CUANDO:",
+		"Pregunta": "12.- la licencia aeronáutica es un documento definitivo, pero las atribuciones que la misma le confiere a su titular, se suspenden cuando:",
 		"RespuestaCorrecta": "4",
-		"A": "NO SE HA CUMPLIDO CON LA EXPERIENCA DE VUELO RECIENTE",
-		"B": "NO SE CUENTA CON EL CERTIFICADO MEDICO VIGENTE",
-		"C": "EL TITULAR HAYA SIDO INHABILITADO TEMPORAL O DEFINITIVAMENTE POR HABER SUFRIDO UN INCIDENTE O ACCIDENTE",
-		"D": "TODAS lAS RESPUESTAS SON CORRECTAS."
-
+		"A": "no se ha cumplido con la experiencia de vuelo reciente",
+		"B": "no se cuenta con el certificado médico vigente",
+		"C": "el titular haya sido inhabilitado temporal o definitivamente por haber sufrido un incidente o accidente",
+		"D": "todas las respuestas son correctas."
 	},
 	{
-		"Pregunta": "13.- ENTRENAMIENTO EN TIERRA SIGNIFICA: AQUEL ENTRENAMIENTO, OTRO QUE NO SEA ENTRENAMIENTO EN VUELO, RECIBIDO DE UN INSTRUCTOR AUTORIZADO:",
+		"Pregunta": "13.- entrenamiento en tierra significa: aquel entrenamiento, otro que no sea entrenamiento en vuelo, recibido de un instructor autorizado:",
 		"RespuestaCorrecta": "1",
-		"A": "VERDADERO",
-		"B": "FALSO."
+		"A": "verdadero",
+		"B": "falso."
 	},
 	{
-		"Pregunta": "14.- ENTRENAMIENTO DE VUELO SIGNIFICA: AQUEL ENTRENAMIENTO, OTRO QUE NO SEA ENTRENAMIENTO EN TIERRA, RECIBIDO DE UN INSTRUCTOR AUTORIZADO, EN VUELO EN UNA AERONAVE:",
+		"Pregunta": "14.- entrenamiento de vuelo significa: aquel entrenamiento, otro que no sea entrenamiento en tierra, recibido de un instructor autorizado, en vuelo en una aeronave:",
 		"RespuestaCorrecta": "3",
-		"A": "VERDADERO",
-		"B": "FALSO."
+		"A": "verdadero",
+		"B": "falso."
 	},
 	{
-		"Pregunta": "15.- LA PERSONA A QUIEN EL EXPLOTADOR ASIGNA OBLIGACIONES QUE HA DE CUMPLIR A BORDO, DURANTE EL TIEMPO DE VUELO, ES CONOCIDO COMO:",
+		"Pregunta": "15.- la persona a quien el explotador asigna obligaciones que ha de cumplir a bordo, durante el tiempo de vuelo, es conocido como:",
 		"RespuestaCorrecta": "3",
-		"A": "MIEMBRO DE LA TRIPULACION",
-		"B": "MIEMBRO DE LA TRIPULACION DE VUELO."
+		"A": "miembro de la tripulación",
+		"B": "miembro de la tripulación de vuelo."
 	},
 	{
-		"Pregunta": "16.- MIEMBRO DE LA TRIPULACION TITULAR DE LA CORRESPONDIENTE LICENCIA QUE SE LE ASIGNAN OBLIGACIONES ESENCIALES PARA LA OPERACION DE UNA AERONAVE DURANTE EL TIEMPO DE VUELO, ES CONOCIDO COMO:",
+		"Pregunta": "16.- miembro de la tripulación titular de la correspondiente licencia que se le asignan obligaciones esenciales para la operación de una aeronave durante el tiempo de vuelo, es conocido como:",
 		"RespuestaCorrecta": "3",
-		"A": "MIEMBRO DE LA TRIPULACION DE VUELO",
-		"B": "MIEMBRO DE LA TRIPULACION."
+		"A": "miembro de la tripulación de vuelo",
+		"B": "miembro de la tripulación."
 	},
 	{
-		"Pregunta": "17.- LA AUTORIDAD EJERCIDA CON RELACION A LA INICIACION, COMUNICACION, DESVIACION O TERMINACION DE UN VUELO EN INTERES DE LA SEGURIDAD DE LA AERONAVE Y DE LA REGULARIDAD Y EFICACIA DEL VUELO, ES CONOCIDA COMO:",
+		"Pregunta": "17.- la autoridad ejercida con relación a la iniciación, comunicación, desviación o terminación de un vuelo en interés de la seguridad de la aeronave y de la regularidad y eficacia del vuelo, es conocida como:",
 		"RespuestaCorrecta": "2",
-		"A": "PLAN OPERACiONAL DE VUELO",
-		"B": "CONTROL DE OPERACIONES",
-		"C": "PLAN DE VUELO",
-		"D": "TODAS LAS RESPUESTAS SON CORRECTAS."
+		"A": "plan operacional de vuelo",
+		"B": "control de operaciones",
+		"C": "plan de vuelo",
+		"D": "todas las respuestas son correctas."
 	},
 	{
-		"Pregunta": "18.- EL CERTIFICADO DE AERONAVEGABILIDAD ES UN DOCUMENTO PUBLICO EMITIDO POR:",
+		"Pregunta": "18.- el certificado de aeronavegabilidad es un documento público emitido por:",
 		"RespuestaCorrecta": "1",
-		"A": "LA DIRECCION GENERAL DE AVIACION CIVIL",
-		"B": "EL JEFE DE AEROPUERTO",
-		"C": "EL FABRICANTE",
-		"D": "UN INSPECTOR DE AERONAVEGABILIDAD."
+		"A": "la dirección general de aviación civil",
+		"B": "el jefe de aeropuerto",
+		"C": "el fabricante",
+		"D": "un inspector de aeronavegabilidad."
 	},
 	{
-		"Pregunta": "19.- CONFORME A LA PARTE 121 SUB PARTE N, PROGRAMAS DE ENTRENAMIENTO, LOS GRUPOS DE AERONAVES SE CLASIFICAN EN:",
+		"Pregunta": "19.- conforme a la parte 121 sub parte n, programas de entrenamiento, los grupos de aeronaves se clasifican en:",
 		"RespuestaCorrecta": "1",
-		"A": "PROPULSADOS POR HÉLICE Y TURBOHÉLICE Y PROPULSADOS POR TURBINA",
-		"B": "AERONAVES GRANDES Y PEQUEÑAS",
-		"C": "AERONAVES MÁS PESADAS QUE EL AIRE Y MÁS LIVIANAS QUE EL AIRE."
+		"A": "propulsados por hélice y turbohélice y propulsados por turbina",
+		"B": "aeronaves grandes y pequeñas",
+		"C": "aeronaves más pesadas que el aire y más livianas que el aire."
 	},
 	{
-		"Pregunta": "20.- LAS FASES CRITICAS DE VUELO SON AQUELLAS PORCIONES DE OPERACIONES CORRESPONDIENTES A:",
+		"Pregunta": "20.- las fases criticas de vuelo son aquellas porciones de operaciones correspondientes a:",
 		"RespuestaCorrecta": "1",
-		"A": "RODAJE, DESPEGUE, ATERRIZAJE Y OPERACIONES BAJO 10000 PIES, EXCEPTO VUELO DE CRUCERO",
-		"B": "ASCENSO, CRUCERO, DESCENSO Y ATERRIZAJE",
-		"C": "TAXEO, CARRERA Y DESPEGUE",
-		"D": "TODAS lAS RESPUESTAS SON CORRECTAS."
+		"A": "rodaje, despegue, aterrizaje y operaciones bajo 10000 pies, excepto vuelo de crucero",
+		"B": "ascenso, crucero, descenso y aterrizaje",
+		"C": "taxeo, carrera y despegue",
+		"D": "todas las respuestas son correctas."
 	},
 	{
-		"Pregunta": "21.- EL POSEEDOR DE UN CERTIFICADO DE OPERACION BAJO LA PARTE 121, ESTA AUTORIZADO A OPERAR UNA AERONAVE MONOMOTOR: ",
+		"Pregunta": "21.- el poseedor de un certificado de operación bajo la parte 121, está autorizado a operar una aeronave monomotor: ",
 		"RespuestaCorrecta": "2",
-		"A": "VERDADERO",
-		"B": "FALSO."
+		"A": "verdadero",
+		"B": "falso."
 	},
 	{
-		"Pregunta": "22.- PARA EJERCER LAS ATRIBUCIONES QUE LE CONFIERE UNA LICENCIA AERONAUTICA DE PILOTO, ES MANDATORIO QUE EL TITULAR: ",
+		"Pregunta": "22.- para ejercer las atribuciones que le confiere una licencia aeronáutica de piloto, es mandatorio que el titular: ",
 		"RespuestaCorrecta": "4",
-		"A": "MANTENGA SU CERTIFICADO MEDICO VIGENTE",
-		"B": "HAYA CUMPLIDO CON LA EXPERIENCA DE VUELO RECENTE",
-		"C": "HAYA CUMPLIDO CON LOS CHEQUEOS DE PROEFICENCA REQUERIDOS",
-		"D": "TODAS LA RESPUESTAS SON CORRECTAS."
+		"A": "mantenga su certificado médico vigente",
+		"B": "haya cumplido con la experiencia de vuelo reciente",
+		"C": "haya cumplido con los chequeos de proeficenca requeridos",
+		"D": "todas la respuestas son correctas."
 	},
 	{
-		"Pregunta": "23.- LA VIGENCIA DE LAS LICENCIAS Y HABILITACIONES DE PILOTOS, ESTARAN SUJETAS A:",
+		"Pregunta": "23.- la vigencia de las licencias y habilitaciones de pilotos, estarán sujetas a:",
 		"RespuestaCorrecta": "1",
-		"A": "LA CLASE DE CERTIFICADO MEDICO",
-		"B": "EL TIPO DE OPERACION",
-		"C": "A y B SON CORRECTOS",
-		"D": "LA CATEGORIA DE AERONAVE."
+		"A": "la clase de certificado médico",
+		"B": "el tipo de operación",
+		"C": "a y b son correctos",
+		"D": "la categoría de aeronave."
 	},
 	{
-		"Pregunta": "24.- LA OBLIGACION DE CUMPLIR Y HACER CUMPLIR TODAS LAS REGULACIONES DURANTE UN VUELO, CORRESPONDE:",
+		"Pregunta": "24.- la obligación de cumplir y hacer cumplir todas las regulaciones durante un vuelo, corresponde:",
 		"RespuestaCorrecta": "4",
-		"A": "A LA EMPRESA OPERADORA",
-		"B": "A LA DGAC",
-		"C": "AL CONTROLADOR DE LA TORRE DE CONTROL",
-		"D": "AL PILOTO AL MANDO."
+		"A": "a la empresa operadora",
+		"B": "a la DGAC",
+		"C": "al controlador de la torre de control",
+		"D": "al piloto al mando."
 	},
 	{
-		"Pregunta": "25.- LA PARTE 061 FACULTA LA EMISION DE UNA LICENCIA DE PILOTO COMERCIAL SIN HABILITACION DE VUELO IFR.",
+		"Pregunta": "25.- la parte 061 faculta la emisión de una licencia de piloto comercial sin habilitación de vuelo IFR.",
 		"RespuestaCorrecta": "1",
-		"A": "VERDADERO",
-		"B": "FALSO."
+		"A": "verdadero",
+		"B": "falso."
 	},
 	{
-		"Pregunta": "26.- PREVIO AL CUMPLIMIENTO DE UN CHEQUEO PRACTICO DE VUELO, EL POSTULANTE DEBE:",
+		"Pregunta": "26.- previo al cumplimiento de un chequeo practico de vuelo, el postulante debe:",
 		"RespuestaCorrecta": "4",
-		"A": "HABER APROBADO SATISFACTORAMENTE LOS EXAMENES TEORICOS DE CONOCIMIENTOS",
-		"B": "CONTAR CON EL ENDOSO DE UN INSTRUCTOR AUTORIZADO, DE HABER RECIBIDO ENTRENAMIENTO EN PREPARACION PARA EL CHEQUEO PRACTICO, DENTRO DE LOS 30 DAS PRECEDENTES",
-		"C": "CONTAR CON EL CERTIFICADO MEDICO ACTUALIZADO",
-		"D": "TODAS LAS RESPUESTAS SON CORRECTAS."
+		"A": "haber aprobado satisfactoriamente los exámenes teóricos de conocimientos",
+		"B": "contar con el endoso de un instructor autorizado, de haber recibido entrenamiento en preparación para el chequeo practico, dentro de los 30 días precedentes",
+		"C": "contar con el certificado médico actualizado",
+		"D": "todas las respuestas son correctas."
 	},
 	{
-		"Pregunta": "27.- EL LIMITE DE EDAD PERMITIDO PARA DESEMPEÑAR FUNCIONES COMO PILOTO DE UNA AERONAVE CON MATRICULA ECUATORIANA, ES: ",
+		"Pregunta": "27.- el límite de edad permitido para desempeñar funciones como piloto de una aeronave con matricula ecuatoriana, es: ",
 		"RespuestaCorrecta": "2",
-		"A": "60 AÑOS",
-		"B": "65 AÑOS",
-		"C": "70 AÑOS."
+		"A": "60 años",
+		"B": "65 años",
+		"C": "70 años."
 	},
 	{
-		"Pregunta": "28.- UNA LICENCIA TEMPORAL PUEDE SER EMITIDA MAXIMO POR:",
+		"Pregunta": "28.- una licencia temporal puede ser emitida máximo por:",
 		"RespuestaCorrecta": "4",
-		"A": "45 DAS",
-		"B": "60 DAS",
-		"C": "90 DAS",
-		"D": "120 DAS"
+		"A": "45 días",
+		"B": "60 días",
+		"C": "90 días",
+		"D": "120 días"
 	},
 	{
-		"Pregunta": "29.- LA AUTORIDAD AERONAUTICA ES:",
+		"Pregunta": "29.- la autoridad aeronáutica es:",
 		"RespuestaCorrecta": "4",
-		"A": "EL DIRECTOR GENERAL DE AVACION CIVIL",
-		"B": "UN INSPECTOR DE LA DGAC",
-		"C": "EL JEFE DE AEROPUERTO",
-		"D": "LA DIRECCION GENERAL DE AVACION CIVIL"
+		"A": "el director general de aviación civil",
+		"B": "un inspector de la DGAC",
+		"C": "el jefe de aeropuerto",
+		"D": "la dirección general de aviación civil"
 	},
 	{
-		"Pregunta": "30.- LA DGAC PUEDE CONCEDER AUTORIZACIONES PARA EL EMPLEO DE PERSONAL TECNICO EXTRANJERO EN LAS COMPAÑIAS ECUATORIANAS HASTA POR UN PERIODO DE TIEMPO MAXIMO DE:",
+		"Pregunta": "30.- la DGAC puede conceder autorizaciones para el empleo de personal técnico extranjero en las compañías ecuatorianas hasta por un periodo de tiempo máximo de:",
 		"RespuestaCorrecta": "2",
-		"A": "TRES MESES",
-		"B": "SEIS MESES",
-		"C": "EL TEMPO QUE REQUIERAN LAS EMPRESAS",
-		"D": "TODAS LAS RESPUESTAS SON CORRECTAS . "
+		"A": "tres meses",
+		"B": "seis meses",
+		"C": "el tempo que requieran las empresas",
+		"D": "todas las respuestas son correctas . "
 	},
 	{
-		"Pregunta": "31.- LOS CHEQUEOS DE PROFSCIENCSA INSTRUMENTAL REQUERIDOS CUANDO NO SE HA CUMPLIDO CON LA EXPERIENCIA RECIENTE EN INSTRUMENTOS COMO PILOTO AL MANDO BAJO IFR, DEBEN CUMPLIRSE:",
+		"Pregunta": "31.- los chequeos de proeficiencia instrumental requeridos cuando no se ha cumplido con la experiencia reciente en instrumentos como piloto al mando bajo IFR, deben cumplirse:",
 		"RespuestaCorrecta": "1",
-		"A": "DESPUES DE 6 MESES DEL TIEMPO PRESCRITO",
-		"B": "DESPUES DE 1 2 MESES DEL TIEMPO PRESCRITO",
-		"C": "DESPUES DE 3 MESES DE NO HABER VOLADO BAJO IFR",
-		"D": "NINGUNA RESPUESTA ES CORRECTA."
+		"A": "después de 6 meses del tiempo prescrito",
+		"B": "después de 1 2 meses del tiempo prescrito",
+		"C": "después de 3 meses de no haber volado bajo IFR",
+		"D": "ninguna respuesta es correcta."
 	},
 	{
-		"Pregunta": "32.- LA EXPERIENCIA DE HORAS DE VUELO IFR REQUERIDA PARA UNA HABILITACION DE VUELO POR INSTRUMENTOS ES:",
+		"Pregunta": "32.- la experiencia de horas de vuelo IFR requerida para una habilitación de vuelo por instrumentos es:",
 		"RespuestaCorrecta": "3",
-		"A": "50 HORAS DE VUELO DE TRAVESIA AL MANDO DE LAS CUALES AL MENOS 10 HORAS DEBEN SER EN LA CATEGORIA DE AERONAVE REQUERIDA",
-		"B": "40 HORAS DE VUELO POR INSTRUMENTOS, DE LAS CUALES UN MAXiMO DE 20 HORAS EN DISPOSITIVOS DE INSTRUCCION PARA SIMULACION DE VUELO POR INSTRUMENTOS",
-		"C": "A y B SON CORRECTAS",
-		"D": "NINGUNA RESPUESTA ES CORRECTA."
+		"A": "50 horas de vuelo de travesía al mando de las cuales al menos 10 horas deben ser en la categoría de aeronave requerida",
+		"B": "40 horas de vuelo por instrumentos, de las cuales un máximo de 20 horas en dispositivos de instrucción para simulación de vuelo por instrumentos",
+		"C": "a y b son correctas",
+		"D": "ninguna respuesta es correcta."
 	},
 	{
-		"Pregunta": "33.- EL CERTIFICADO EMITIDO POR LA DGAC QUE AUTORIZA A UN EXPLOTADOR PARA  REALIZAR DETERMINADAS OPERACIONES DE TRANSPORTE AEREO COMERCIAL, ES: ",
+		"Pregunta": "33.- el certificado emitido por la DGAC que autoriza a un explotador para realizar determinadas operaciones de transporte aéreo comercial, es: ",
 		"RespuestaCorrecta": "2",
 		"A": "MGO",
 		"B": "AFM ",
 		"C": "AOC",
-		"D": "NINGUNA RESPUESTA ES CORRECTA."
+		"D": "ninguna respuesta es correcta."
 	},
 	{
-		"Pregunta": "34.- LAS CONTRAVENCIONES DE TERCERA CLASE COMETIDAS POR EL COMANDANTE DE UNA AERONAVE, SERAN SANCIONADAS CON LA SUSPENSION DE LA LICENCIA DE SEIS A DOCE MESES:",
+		"Pregunta": "34.- las contravenciones de tercera clase cometidas por el comandante de una aeronave, serán sancionadas con la suspensión de la licencia de seis a doce meses:",
 		"RespuestaCorrecta": "1",
-		"A": "VERDADERO",
-		"B": "FALSO."
+		"A": "verdadero",
+		"B": "falso."
 	},
 	{
-		"Pregunta": "35.- EXPERIENCIA AERONAUTICA ES:",
+		"Pregunta": "35.- experiencia aeronáutica es:",
 		"RespuestaCorrecta": "1",
-		"A": "EL TIEMPO COMO PILOTO OBTENIDO EN UNA AERONAVE, SIMULADOR DE VUELO O DISPOSITIVO DE ENTRENAMIENTO AUTORIZADO",
-		"B": "EL TIEMPO DE ENTRENAMIENTO DE VUELO RECIBIDO DE UN INSTRUCTOR",
-		"C": "EL TIEMPO DE VUELO REALIZADO EN TODA AERONAVE",
-		"D": "NINGUNA RESPUESTA ES CORRECTA."
+		"A": "el tiempo como piloto obtenido en una aeronave, simulador de vuelo o dispositivo de entrenamiento autorizado",
+		"B": "el tiempo de entrenamiento de vuelo recibido de un instructor",
+		"C": "el tiempo de vuelo realizado en toda aeronave",
+		"D": "ninguna respuesta es correcta."
 	},
 	{
-		"Pregunta": "36.- CONFORME A LA LEY DE AVIACION CIVIL LAS CONTRAVENCIONES QUE SE APLICARAN AL COMANDANTE DE UNA AERONAVE SON:",
+		"Pregunta": "36.- conforme a la ley de aviación civil las contravenciones que se aplicaran al comandante de una aeronave son:",
 		"RespuestaCorrecta": "2",
-		"A": "AMONESTACION ESCRITA",
-		"B": "DE PRIMERA, DE SEGUNDA Y DE TERCERA CLASE",
-		"C": "SUSPENSION DE LA LICENCA",
-		"D": "NINGUNA RESPUESTA ES CORRECTA. "
+		"A": "amonestación escrita",
+		"B": "de primera, de segunda y de tercera clase",
+		"C": "suspensión de la licencia",
+		"D": "ninguna respuesta es correcta. "
 	},
 	{
-		"Pregunta": "37.- CUANDO EL COMANDANTE DE UNA AERONAVE NO PORTA LA LICENCIA, HABILITACIONES O CERTIFICADO MEDICO, O ESTOS SE ENCUENTREN CADUCADOS, ES CONSIDERADA UNA.CONTRAVENCION DE:  ",
+		"Pregunta": "37.- cuando el comandante de una aeronave no porta la licencia, habilitaciones o certificado médico, o estos se encuentren caducados, es considerada una contravención de:  ",
 		"RespuestaCorrecta": "1",
-		"A": "PRIMERA CLASE",
-		"B": "SEGUNDA CLASE",
-		"C": "TERCERA CLASE",
-		"D": "NINGUNA RESPUESTA ES CORRECTA."
+		"A": "primera clase",
+		"B": "segunda clase",
+		"C": "tercera clase",
+		"D": "ninguna respuesta es correcta."
 	},
 	{
-		"Pregunta": "38.- DE ACUERDO A LA LEY DE AVIACION CIVIL LAS CONTRAVENCIONES DE SEGUNDA CLASE PARA UN COMANDANTE DE AERONAVE SERAN SANCIONADAS CON MULTAS DE 250 A 1000 0 DOLARES USA. O LA SUSPENSION DE LA LICENCIA HASTA POR SEIS MESES:",
+		"Pregunta": "38.- de acuerdo a la ley de aviación civil las contravenciones de segunda clase para un comandante de aeronave serán sancionadas con multas de 250 a 1000 0 dólares usa o la suspensión de la licencia hasta por seis meses:",
 		"RespuestaCorrecta": "1",
-		"A": "VERDADERO",
-		"B": "FALSO."
+		"A": "verdadero",
+		"B": "falso."
 	},
 	{
-		"Pregunta": "39.- EL IRRESPETO VERBAL O FISICO A LA AUTORIDAD AERONAUTICA POR PARTE DEL COMANDANTE DE UNA AERONAVE, ES CONSIDERADA UNA CONTRAVENCION DE: ",
+		"Pregunta": "39.- el irrespeto verbal o físico a la autoridad aeronáutica por parte del comandante de una aeronave, es considerada una contravención de: ",
 		"RespuestaCorrecta": "2",
-		"A": "PRIMERA CLASE",
-		"B": "SEGUNDA CLASE",
-		"C": "TERCERA CLASE."
+		"A": "primera clase",
+		"B": "segunda clase",
+		"C": "tercera clase."
 	}
-    ]
+ ]

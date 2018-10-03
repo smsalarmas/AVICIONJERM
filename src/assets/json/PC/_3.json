@@ -1,239 +1,240 @@
 [		{
-			"Pregunta": "687. - (3 301) QUE FUERZA HACE QUE UN AVIÓN VIRE: ",
-			"RespuestaCorrecta": "1",
-			"A": "LA COMPONENTE HORIZONTAL DE LEVANTAMIENTO.",
-			"B": "LA COMPONENTE VERTICAL DE LEVANTAMIENTO.",
-			"C": "LA FUERZA CENTRÍFUGA. "
+			"Pregunta": "687. - (3 301) que fuerza hace que un avión vire: ",
+			"RespuestaCorrecta": "1",			
+			"A": "la componente horizontal de levantamiento.",
+			"B": "la componente vertical de levantamiento.",
+			"C": "la fuerza centrífuga. "
 		},
 		{
-			"Pregunta": "688. - (3 309) EN QUÉ CONDICIÓN DE VUELO DEBE ESTAR UNA AERONAVE PARA QUE ENTRE EN BARRENA:",
+			"Pregunta": "688. - (3 309) en qué condición de vuelo debe estar una aeronave para que entre en barrena:",
 			"RespuestaCorrecta": "3",
-			"A": "PARCIALMENTE EN STALL CON UN ALA BAJA.",
-			"B": "EN UNA ESPIRAL DE CLAVADO PRONUNCIADO. ",
-			"C": "EN CONDICIÓN DE STALL(STOLLEADA). "
+			"A": "parcialmente en stall con un ala baja.",
+			"B": "en una espiral de clavado pronunciado. ",
+			"C": "en condición de stall (stolleada). "
 		},
 		{
-			"Pregunta": "689. - (3 311) EL ÁNGULO DE ATAQUE AL CUAL UN ALA DE UNA AERONAVE ENTRA EN PÉRDIDA (STALL):",
+			"Pregunta": "689. - (3 311) el ángulo de ataque al cual un ala de una aeronave entra en pérdida (stall):",
 			"RespuestaCorrecta": "3",
-			"A": "AUMENTARÁ SI EL C. G. SE MUEVE HACIA DELANTE.",
-			"B": "CAMBIARÁ CON UN AUMENTO EN EL PESO BRUTO. ",
-			"C": "PERMANECERÁ IGUAL SIN IMPORTAR EL PESO BRUTO. "
+			"A": "aumentará si el c. g. se mueve hacia delante.",
+			"B": "cambiará con un aumento en el peso bruto. ",
+			"C": "permanecerá igual sin importar el peso bruto. "
 		},
 		{
-			"Pregunta": "690. - (3 312) QUÉ ES EL EFECTO DE TIERRA: ",
+			"Pregunta": "690. - (3 312) qué es el efecto de tierra: ",
 			"RespuestaCorrecta": "1",
-			"A": "EL RESULTADO DE LA INTERFERENCIA DE LA SUPERFICIE DE LA TIERRA CON LOS PATRONES DE FLUJO DE AIRE DE UNAAERONAVE.",
-			"B": "EL RESULTADO DE UNA ALTERACIÓN EN LOS PATRONES DE FLUJO DE AIRE AUMENTANDO LA RESISTENCIA INDUCIDA EN LAS ALAS DE UNA AERONAVE.",
-			"C": "EL RESULTADO DE RUPTURA DE LOS PATRONES DE FLUJO DE AIRE EN LAS ALAS DE UNA AERONAVE HASTA EL PUNTO EN QUE LAS ALAS YA NO PUEDAN SOPORTAR MÁS AL AVIÓN EN VUELO. "
+			"A": "el resultado de la interferencia de la superficie de la tierra con los patrones de flujo de aire de una aeronave.",
+			"B": "el resultado de una alteración en los patrones de flujo de aire aumentando la resistencia inducida en las alas de una aeronave.",
+			"C": "el resultado de ruptura de los patrones de flujo de aire en las alas de una aeronave hasta el punto en que las alas ya no puedan soportar más al avión en vuelo. "
 		},
 		{
-			"Pregunta": "691 - (3 313) LA FLOTACIÓN CAUSADA POR EL FENÓMENO DEL EFECTO DE TIERRA SERÁ MÁS NOTABLE DURANTE UNA APROXIMACIÓN PARA EL ATERRIZAJE CUANDO ES: ",
+			"Pregunta": "691 - (3 313) la flotación causada por el fenómeno del efecto de tierra será más notable durante una aproximación para el aterrizaje cuando es: ",
 			"RespuestaCorrecta": "1",
-			"A": "MENOR QUE EL LARGO DE LA ENVERGADURA DEL ALA SOBRE LA SUPERFICIE.",
-			"B": "DOS VECES EL LARGO DE LA ENVERGADURA DEL ALA SOBRE LA SUPERFICIE.",
-			"C": "A UN ÁNGULO DE ATAQUE MAYOR QUE LO NORMAL "
+			"A": "menor que el largo de la envergadura del ala sobre la superficie.",
+			"B": "dos veces el largo de la envergadura del ala sobre la superficie.",
+			"C": "a un ángulo de ataque mayor que lo normal "
 		},
 		{
-			"Pregunta": "692. - (3 381) TODO PROCESO FÍSICO METEOROLÓGICO ES ACOMPAÑADO POR, O ES EL RESULTADO DE:",
+			"Pregunta": "692. - (3 381) todo proceso físico meteorológico es acompañado por, o es el resultado de:",
 			"RespuestaCorrecta": "3",
-			"A": "MOVIMIENTO DELAIRE.",
-			"B": "DIFERENCIAL DE PRESIÓN. ",
-			"C": "INTERCAMBIO DE CALOR. "
+			"A": "movimiento del aire.",
+			"B": "diferencial de presión. ",
+			"C": "intercambio de calor. "
         },
         {
-			"Pregunta": "716. - (3 598) CUANDO LA AGUJA DEL INDICADOR DE DESVIACIÓN DEL CURSO (CDI) ESTÁ CENTRADA DURANTE UN CHEQUEO OIVÜIRECEPTOR USANDO UNA SEÑAL DE PRUEBA VOR (VOT), EL OBS Y EL INDICADOR TO/FROM DEBERÍA DE LEER:",
+			"Pregunta": "716. - (3 598) cuando la aguja del indicador de desviación del curso (CDI) está centrada durante un chequeo omnireceptor usando una señal de prueba vor (VOT), el OBS y el indicador TO/FROM debería de leer:",
 			"RespuestaCorrecta": "3",
-			"A": "180 GRADOS FROM, SOLO SI EL PILOTO DEBE DE ESTAR AL NORTE DEL VOT.",
-			"B": "O GRADOS TO O 180 GRADOS FROM. SIN IMPORTAR LA POSICIÓN DEL PILOTO DEL VOT",
-			"C": "O GRADOS FROM O 180 GRADOS TO. SIN IMPORTAR LA POSICIÓN DEL PILOTO DEL VOT. "
+			"A": "180 grados from, solo si el piloto debe de estar al norte del VOT.",
+			"B": "0 grados to o 180 grados from, sin importar la posición del piloto del VOT",
+			"C": "0 grados from o 180 grados to, sin importar la posición del piloto del VOT. "
 		},
 		{
-			"Pregunta": "717. - (3 614) EL MÉTODO CORRECTO DE IVENCIONAR 4500 PIES MSL AL ATC ES: ",
+			"Pregunta": "717. - (3 614) el método correcto de mencionar 4500 pies MSL al ATC es: ",
 			"RespuestaCorrecta": "3",
-			"A": "CUATRO MIL QUINIENTOS.",
-			"B": "CUATRO PUNTO CINCO.",
-			"C": "CUARENTA Y CINCO CIEN PIES MSL "
+			"A": "cuatro mil quinientos.",
+			"B": "cuatro punto cinco.",
+			"C": "cuarenta y cinco cien pies MSL "
 		},
 		{
-			"Pregunta": "718. - (3 651) QUÉ ACCIÓN PUEDE TOMAR UN PILOTO PARA AYUDAR A ENFRIAR UN MOTOR QUE SE ESTÁ SOBRECALENTANDO DURANTE EL ASCENSO: ",
+			"Pregunta": "718. - (3 651) qué acción puede tomar un piloto para ayudar a enfriar un motor que se está sobrecalentando durante el ascenso: ",
 			"RespuestaCorrecta": "1",
-			"A": "REDUCIR EL RÉGIMEN DE ASCENSO E INCREMENTAR LA VELOCIDAD.",
-			"B": "REDUCIR LA VELOCIDAD DE ASCENSO E INCREMENTAR LAS RPM.",
-			"C": "INCREMENTAR LA VELOCIDAD DE ASCENSO E INCREMENTAR LAS RPM. "
+			"A": "reducir el régimen de ascenso e incrementar la velocidad.",
+			"B": "reducir la velocidad de ascenso e incrementar las rpm.",
+			"C": "incrementar la velocidad de ascenso e incrementar las rpm. "
 		},
 		{
-			"Pregunta": "719. - (3 652) CUÁL SERÍA UN PROCEDIMIENTO PARA AYUDAR AL ENFRIAMIENTO DE UN MOTOR QUE SE ESTÁ SOBRECALENTANDO: ",
+			"Pregunta": "719. - (3 652) cuál sería un procedimiento para ayudar al enfriamiento de un motor que se está sobrecalentando: ",
 			"RespuestaCorrecta": "1",
-			"A": "ENRIQUECER LA MEZCLA DEL COMBUSTIBLE.",
-			"B": "AUMENTAR LAS R. P. M.",
-			"C": "REDUCIR LA VELOCIDAD. "
+			"A": "enriquecer la mezcla del combustible.",
+			"B": "aumentar las r. p. m.",
+			"C": "reducir la velocidad. "
 		},
 		{
-			"Pregunta": "720. - (3 653) CÓMO SE CONTROLA LA OPERACIÓN DE UN MOTOR EQUIPADO CON UNA HÉLICE DE VELOCIDAD CONSTANTE: ",
+			"Pregunta": "720. - (3 653) cómo se controla la operación de un motor equipado con una hélice de velocidad constante: ",
 			"RespuestaCorrecta": "1",
-			"A": "EL ACELERADOR CONTROLA LA SALIDA DE POTENCIA COMO LO REGISTRA EL INDICADOR DE LA PRESIÓN MANIFOLD Y EL CONTROL DE LA HÉLICE REGULA LAS RPM DEL MOTOR.",
-			"B": "EL ACELERADOR CONTROLA LA SALIDA DE POTENCIA COMO LO REGISTRA EL INDICADOR DE LA PRESIÓN MANIFOLD Y EL CONTROL DE LA HÉLICE REGULA ELÁNGULO DE PALA CONSTANTE.",
-			"C": "EL ACELERADOR CONTROLALAS RPM DEL MOTOR COMO LO REGISTRA EL TACÓMETRO Y EL CONTROL DE MEZCLA REGULA LA SAUDA DE POTENCIA. "
+			"A": "el acelerador controla la salida de potencia como lo registra el indicador de la presión manifold y el control de la hélice regula las rpm del motor.",
+			"B": "el acelerador controla la salida de potencia como lo registra el indicador de la presión manifold y el control de la hélice regula el ángulo de pala constante.",
+			"C": "el acelerador controla las rpm del motor como lo registra el tacómetro y el control de mezcla regula la salida de potencia. "
 		},
 		{
-			"Pregunta": "721. - (3 654) CUÁL ES LA VENTAJA DE UNA HÉLICE DE VELOCIDAD CONSTANTE:",
+			"Pregunta": "721. - (3 654) cuál es la ventaja de una hélice de velocidad constante:",
 			"RespuestaCorrecta": "2",
-			"A": "PERMITE AL PILOTO SELECCIONAR Y MANTENER LA VELOCIDAD DE CRUCERO DESEADA. ",
-			"B": "PERMITE AL PILOTO SELECCIONAR ELÁNGULO DE LA PALA PARA UN RENDIMIENTO MÁS EFICIENTE.",
-			"C": "PERMITE UNA OPERACIÓN MÁS SUAVE CON LAS RPM ESTABLES Y EUMINA LAS VIBRACIONES. "
+			"A": "permite al piloto seleccionar y mantener la velocidad de crucero deseada. ",
+			"B": "permite al piloto seleccionar el ángulo de la pala para un rendimiento más eficiente.",
+			"C": "permite una operación más suave con las rpm estables y elimina las vibraciones. "
 		},
 		{
-			"Pregunta": "722. - (3 655) UNA PRECAUCIÓN PARA LA OPERACIÓN DE UN MOTOR EQUIPADO CON UNA HÉLICE DE PASO FIJO ES:",
+			"Pregunta": "722. - (3 655) una precaución para la operación de un motor equipado con una hélice de paso fijo es:",
 			"RespuestaCorrecta": "2",
-			"A": "EVITAR LOS AJUSTES ALTOS DE LAS RPM CON PRESIÓN MÚLTIPLE ALTA. ",
-			"B": "EVITAR LOS AJUSTES ALTOS DE PRESIÓN MÚLTIPLE CON RPM BAJAS.",
-			"C": "SIEMPRE USAR UNA MEZCLA RICA CON AJUSTES DE RPM ALTOS. "
+			"A": "evitar los ajustes altos de las rpm con presión múltiple alta. ",
+			"B": "evitar los ajustes altos de presión múltiple con rpm bajas.",
+			"C": "siempre usar una mezcla rica con ajustes de rpm altos. "
 		},
 		{
-			"Pregunta": "723. - (3 656) CUÁL DEBERÍA DE SER LA PRIMERA ACCIÓN DESPUÉS DE ENCENDER EL MOTOR DE UNAAERONAVE: ",
+			"Pregunta": "723. - (3 656) cuál debería de ser la primera acción después de encender el motor de una aeronave: ",
 			"RespuestaCorrecta": "1",
-			"A": "AJUSTAR LAS RPM CORRECTAMENTE Y REVISAR QUE LOS PARÁMETROS DEL MOTOR SEAN LAS INDICACIONES DESEADAS.",
-			"B": "COLOCAR EL MAGNETO O SWITCH DE LA IGNICIÓN MOMENTÁNEAMENTE EN LA POSICIÓN OFF PARA CHEQUEAR LA CONEXIÓN EN TIERRA.",
-			"C": "PROBAR CADA FRENO Y LOS FRENOS DE PARQUEO. "
+			"A": "ajustar las rpm correctamente y revisar que los parámetros del motor sean las indicaciones deseadas.",
+			"B": "colocar el magneto o switch de la ignición momentáneamente en la posición off para chequear la conexión en tierra.",
+			"C": "probar cada freno y los frenos de parqueo. "
 		},
 		{
-			"Pregunta": "724- (3 657) SI FUERA NECESARIO ENCENDER MANUALIVENTE EL MOTOR DE UN AVIÓN, ES EXTREMADAIVENTE IlVPORTANTE QUE UN PILOTO COlVPETENTE:",
+			"Pregunta": "724- (3 657) si fuera necesario encender manualmente el motor de un avión, es extremadamente importante que un piloto competente:",
 			"RespuestaCorrecta": "2",
-			"A": "DIGA CONTACTO ANTES DE TOCAR HELICE",
-			"B": "ESTÉ EN LOS CONTROLES DE LA CABINA DE MANDO.",
-			"C": "ESTÉ EN LA CABINA DE MANDO Y DIGA TODOS LOS COMANDOS. "
+			"A": "diga contacto antes de tocar hélice",
+			"B": "esté en los controles de la cabina de mando.",
+			"C": "esté en la cabina de mando y diga todos los comandos. "
 		},
 		{
-			"Pregunta": "725. - (3 658) CON RESPECTO AL PRE-VUELO DE UNA AERONAVE, QUÉ ES LO IVINIMO QUE SE ESPERA DE UN PILOTO ANTES DE CADA VUELO:",
+			"Pregunta": "725. - (3 658) con respecto al pre-vuelo de una aeronave, qué es lo mínimo que se espera de un piloto antes de cada vuelo:",
 			"RespuestaCorrecta": "2",
-			"A": "DRENAR COMBUSTIBLE DE CADA DRENAJE RÁPIDO. ",
-			"B": "REALIZAR UNA INSPECCIÓN DE LAAERONAVE MEDIANTE UN WALK-AROUND.",
-			"C": "CHEQUEAR LOS DOCUMENTOS REQUERIDOS A BORDO DE LAAERONAVE. "
+			"A": "drenar combustible de cada drenaje rápido. ",
+			"B": "realizar una inspección de la aeronave mediante un walk-around.",
+			"C": "chequear los documentos requeridos a bordo de la aeronave. "
 		},
 		{
-			"Pregunta": "726. - (3 659) POR QUÉ SE RECOMIENDA EL USO DE UNA LISTA DE CHEQUEO POR ESCRITO PARA LA INSPECCIÓN DE PRE-VUELO Y EL ENCENDIDO DE MOTORES: ",
+			"Pregunta": "726. - (3 659) por qué se recomienda el uso de una lista de chequeo por escrito para la inspección de pre-vuelo y el encendido de motores: ",
 			"RespuestaCorrecta": "1",
-			"A": "PARA ASEGURARSE QUE TODOS LOS ITEMS NECESARIOS SEAN CHEQUEADOS EN UNA SECUENCIA LÓGICA.",
-			"B": "PARA MEMORIZARSE LOS PROCEDIMIENTOS EN UNA SECUENCIA ORDENADA.",
-			"C": "PARA INFUNDIR CONFIANZA EN LOS PASAJEROS. "
+			"A": "para asegurarse que todos los ítems necesarios sean chequeados en una secuencia lógica.",
+			"B": "para memorizarse los procedimientos en una secuencia ordenada.",
+			"C": "para infundir confianza en los pasajeros. "
 		},
 		{
-			"Pregunta": "727. - (3 660) QUÉ CHEQUEO ESPECIAL DEBERÍA DE REALIZARSE EN UNA AERONAVE DURANTE EL PRE-VUELO, DESPUÉS DE QUE HA ESTADO FUERA DE SERVICIO POR UN PERÍODO DE TIEMPO EXTENDIDO:",
+			"Pregunta": "727. - (3 660) qué chequeo especial debería de realizarse en una aeronave durante el pre-vuelo, después de que ha estado fuera de servicio por un período de tiempo extendido:",
 			"RespuestaCorrecta": "3",
-			"A": "LAS BATERÍAS DEL ELT Y SU FUNCIONAMIENTO.",
-			"B": "CONDENSACIÓN EN LOS TANQUES DE COMBUSTIBLE. ",
-			"C": "DAÑO U OBSTRUCCIONES CAUSADAS POR ANIMALES. PÁJAROS. O fNSECTOS. "
+			"A": "las baterías del ELT y su funcionamiento.",
+			"B": "condensación en los tanques de combustible. ",
+			"C": "daño u obstrucciones causadas por animales pájaros o insectos. "
 		},
 		{
-			"Pregunta": "728. - (3 661) CUÁLES ÍTEMS ESTÁN INCLUIDOS EN EL PESO VACÍO DE UNA AERONAVE: •",
+			"Pregunta": "728. - (3 661) cuáles ítems están incluidos en el peso vacío de una aeronave:",
 			"RespuestaCorrecta": "3",
-			"A": "COMBUSTIBLE NO UTILIZABLE Y ACEITE RESIDUAL",
-			"B": "SOLAMENTE LA ESTRUCTURA. MOTOR Y EQUIPO OPCIONAL",
-			"C": "TANQUES DE COMBUSTIBLE LLENOS Y TODA LA CAPACIDAD DE ACEITE DEL MOTOR. "
+			"A": "combustible no utilizable y aceite residual",
+			"B": "solamente la estructura, motor y equipo opcional",
+			"C": "tanques de combustible llenos y toda la capacidad de aceite del motor. "
 		},
 		{
-			"Pregunta": "729. - (3 711) LA REGLA MÁS ilVPORTANTE QUE SE DEBE RECORDAR EN CASO DE UNA FALLA DE MOTOR DESPUÉS DE HABER DESPEGADO, ES: ",
+			"Pregunta": "729. - (3 711) la regla más importante que se debe recordar en caso de una falla de motor después de haber despegado, es: ",
 			"RespuestaCorrecta": "1",
-			"A": "ESTABLECER INMEDIATAMENTE LA ACTITUD YVELOCIDAD DE PLANEO APROPIADAS.",
-			"B": "CHEQUEAR RÁPIDAMENTE EL SUMINISTRO DE COMBUSTIBLE PARA UN POSIBLE ESCAPE DEL MISMO.",
-			"C": "DETERMINAR LA DIRECCIÓN DEL VIENTO PARA PLANEAR UN ATERRIZAJE FORZOSO. "
+			"A": "establecer inmediatamente la actitud y velocidad de planeo apropiadas.",
+			"B": "chequear rápidamente el suministro de combustible para un posible escape del mismo.",
+			"C": "determinar la dirección del viento para planear un aterrizaje forzoso. "
 		},
 		{
-			"Pregunta": "730. - (3 715) DURANTE UN VUELO DE NOCHE, USTED OBSERVA UNA LUZ ROJA FIJA Y UNA LUZ ROJA INTERMITENTE DE FRENTE A LA IVISMA ALTITUD. CUÁL SERÍA LA DIRECCIÓN GENERAL DE MOVIIVIENTO DE LA OTRA AERONAVE: ",
+			"Pregunta": "730. - (3 715) durante un vuelo de noche, usted observa una luz roja fija y una luz roja intermitente de frente a la misma altitud. cuál sería la dirección general de movimiento de la otra aeronave: ",
 			"RespuestaCorrecta": "1",
-			"A": "LA OTRA AERONAVE ESTÁ CRUZANDO A LA IZQUIERDA.",
-			"B": "LA OTRA AERONAVE ESTÁ CRUZANDO A LA DERECHA.",
-			"C": "LA OTRA AERONAVE SE ESTÁ APROXIMANDO DE FRENTE. "
+			"A": "la otra aeronave está cruzando a la izquierda.",
+			"B": "la otra aeronave está cruzando a la derecha.",
+			"C": "la otra aeronave se está aproximando de frente. "
 		},
 		{
-			"Pregunta": "731. - (3 716) DURANTE UN VUELO DE NOCHE, USTED OBSERVA UNA LUZ BLANCA FIJA Y UNA LUZ ROJA INTERNENTE DE FRENTE A LA MISMA ALTITUD. CUÁL SERÍA LA DIRECCIÓN GENERAL DE MOViMENTO DE LA OTRA AERONAVE: ",
+			"Pregunta": "731. - (3 716) durante un vuelo de noche, usted observa una luz blanca fija y una luz roja intermitente de frente a la misma altitud. cuál sería la dirección general de movimiento de la otra aeronave: ",
 			"RespuestaCorrecta": "1",
-			"A": "LA OTRAAERONAVE SE ESTÁ ALEJANDO DE USTED.",
-			"B": "LA OTRA AERONAVE ESTÁ CRUZANDO A LA IZQUIERDA.",
-			"C": "LA OTRAAERONAVE ESTÁ CRUZANDO A LA DERECHA. "
+			"A": "la otra aeronave se está alejando de usted.",
+			"B": "la otra aeronave está cruzando a la izquierda.",
+			"C": "la otra aeronave está cruzando a la derecha. "
 		},
 		{
-			"Pregunta": "732. - (3 717) DURANTE UN VUELO DE NOCHE, USTED OBSERVA LUCES ROJAS Y VERDES FIJAS DE FRENTE Y A LA MISMA ALTITUD. CUAL SERIA LA DIRECCIÓN GENERAL DE MOVIIVIENTO DE LA OTRA AERONAVE:",
+			"Pregunta": "732. - (3 717) durante un vuelo de noche, usted observa luces rojas y verdes fijas de frente y a la misma altitud. cuál sería la dirección general de movimiento de la otra aeronave:",
 			"RespuestaCorrecta": "3",
-			"A": "LA OTRAAERONAVE ESTÁ CRUZANDO A LA IZQUIERDA.",
-			"B": "LA OTRAAERONAVE SE ESTÁ ALEJAN DO DE USTED. ",
-			"C": "LA OTRAAERONAVE SE ESTÁ APROXIMANDO DE FRENTE."
+			"A": "la otra aeronave está cruzando a la izquierda.",
+			"B": "la otra aeronave se está alejando de usted. ",
+			"C": "la otra aeronave se está aproximando de frente."
 		},
 		{
-			"Pregunta": "733.- (3 718) LAS LUCES AL BORDE DE LA PISTA DE RODAJE SON IDENTIFICADAS DE NOCHE POR:",
+			"Pregunta": "733.- (3 718) las luces al borde de la pista de rodaje son identificadas de noche por:",
 			"RespuestaCorrecta": "2",
-			"A": "LUCES DIRECCIONALES BLANCAS. ",
-			"B": "LUCES OMNIDIRECCIONALES AZULES.",
-			"C": "LUCES VERDES Y ROJAS ALTERNAS. "
+			"A": "luces direccionales blancas. ",
+			"B": "luces omnidireccionales azules.",
+			"C": "luces verdes y rojas alternas. "
 		},
 		{
-			"Pregunta": "734- (3 761) UNA INDICACIÓN DEBAJO DE LA SENDA DE PLANEO DESDE UN VASI TRICOLOR ES UNA: ",
+			"Pregunta": "734- (3 761) una indicación debajo de la senda de planeo desde un VASI tricolor es una: ",
 			"RespuestaCorrecta": "1",
-			"A": "SEÑAL DE LUZ ROJA.",
-			"B": "SEÑAL DE LUZ ROSADA.",
-			"C": "SEÑALDE LUZ VERDE. "
+			"A": "señal de luz roja.",
+			"B": "señal de luz rosada.",
+			"C": "señal de luz verde. "
 		},
 		{
-			"Pregunta": "735. - (3 763) UNA INDICACIÓN DE ESTAR EN LA SENDA DE PLANEO DESDE UN VASI TRI-COLOR ES:",
+			"Pregunta": "735. - (3 763) una indicación de estar en la senda de planeo desde un VASI tri-color es:",
 			"RespuestaCorrecta": "2",
-			"A": "UNA SEÑAL DE LUZ BLANCA. ",
-			"B": "UNA SEÑAL DE LUZ VERDE.",
-			"C": "UNA SEÑAL DE LUZ ÁMBAR. "
+			"A": "una señal de luz blanca. ",
+			"B": "una señal de luz verde.",
+			"C": "una señal de luz ámbar. "
 		},
 		{
-			"Pregunta": "736. - (3 769) EL FARO ROTATIVO DEL AEROPUERTO OPERANDO DURANTE HORAS DIURNAS INDICA QUE:",
+			"Pregunta": "736. - (3 769) el faro rotativo del aeropuerto operando durante horas diurnas indica que:",
 			"RespuestaCorrecta": "2",
-			"A": "HAY OBSTRUCCIONES EN EL AEROPUERTO ",
-			"B": "ELTIEMPO METEOROLÓGICO EN EL AEROPUERTO UBICADO EN EL ESPACIO AÉREO DE CLASE D ESTÁ POR DEBAJO DE LOS MÍNIMOS METEOROLÓGICOS VFR.",
-			"C": "LA TORRE DE CONTROL DE TRÁFICO AÉREO NO ESTÁ EN OPERACIÓN. "
+			"A": "hay obstrucciones en el aeropuerto ",
+			"B": "el tiempo meteorológico en el aeropuerto ubicado en el espacio aéreo de clase d está por debajo de los mínimos meteorológicos VFR.",
+			"C": "la torre de control de tráfico aéreo no está en operación. "
 		},
 		{
-			"Pregunta": "737. - (3 824) LOS VÓRTICES DE LAS PUNTAS DE LAS ALAS SE CREAN SOLAMENTE CUANDO UNA AERONAVE ESTÁ:",
+			"Pregunta": "737. - (3 824) los vórtices de las puntas de las alas se crean solamente cuando una aeronave está:",
 			"RespuestaCorrecta": "3",
-			"A": "OPERANDO A ALTAS VELOCIDADES.",
-			"B": "CARGADA PESADAMENTE. ",
-			"C": "DESARROLLANDO SUSTENTACIÓN. "
+			"A": "operando a altas velocidades.",
+			"B": "cargada pesadamente. ",
+			"C": "desarrollando sustentación. "
 		},
 		{
-			"Pregunta": "738. - (3 825) LA MAYOR FUERZA DEL VÓRTICE OCURRE CUANDO EL AVIÓN QUE LA GENERA ES:",
+			"Pregunta": "738. - (3 825) la mayor fuerza del vórtice ocurre cuando el avión que la genera es:",
 			"RespuestaCorrecta": "3",
-			"A": "LIVIANO, SUCIO Y RÁPIDO.",
-			"B": "PESADO, SUCIO Y RÁPIDO. ",
-			"C": "PESADO, LIMPIO Y LENTO. "
+			"A": "liviano, sucio y rápido.",
+			"B": "pesado, sucio y rápido. ",
+			"C": "pesado, limpio y lento. "
 		},
 		{
-			"Pregunta": "739. - (3 826) LOS VÓRTICES DE PUNTA DEL ALA CREADOS POR AERONAVES GRANDES TIENDEN A: ",
+			"Pregunta": "739. - (3 826) los vórtices de punta del ala creados por aeronaves grandes tienden a: ",
 			"RespuestaCorrecta": "1",
-			"A": "HUNDIRSE DEBAJO DE LAAERONAVE GENERANDO TURBULENCIA.",
-			"B": "ELEVARSE AL PATRÓN DE TRÁFICO.",
-			"C": "ELEVARSE HACIA LA TRAYECTORIA DE DESPEGUE O ATERRIZAJE DE UNA PISTA CRUZADA. "
+			"A": "hundirse debajo de la aeronave generando turbulencia.",
+			"B": "elevarse al patrón de tráfico.",
+			"C": "elevarse hacia la trayectoria de despegue o aterrizaje de una pista cruzada. "
 		},
 		{
-			"Pregunta": "740. - (3 827) CUANDO SE DESPEGA O SE ATERRIZA EN UN AEROPUERTO DONDE ESTÁN OPERANDO AERONAVES PESADAS, SE DEBE ESTAR PARTICULARMENTE ALERTADO DEL PELIGRO DE LOS VÓRTICES DE LAS PUNTAS DEL ALA PORQUE ESTA TURBULENCIA TIENDE A:",
+			"Pregunta": "740. - (3 827) cuando se despega o se aterriza en un aeropuerto donde están operando aeronaves pesadas, se debe estar particularmente alertado del peligro de los vórtices de las puntas del ala porque esta turbulencia tiende a:",
 			"RespuestaCorrecta": "3",
-			"A": "ASCENDER DE UNA PISTA CRUZADA HACIA LA TRAYECTORIA DE DESPEGUE O ATERRIZAJE.",
-			"B": "ASCENDER HACIA ELÁREA DEL PATRÓN DE TRÁFICO ALREDEDOR DEL AEROPUERTO. ",
-			"C": "HUNDIRSE EN LA TRAYECTORIA DE VUELO DE LAAERONAVE OPERANDO BAJO LAAERONAVE GENERANDO LA TURBULENCIA."
+			"A": "ascender de una pista cruzada hacia la trayectoria de despegue o aterrizaje.",
+			"B": "ascender hacia el área del patrón de tráfico alrededor del aeropuerto. ",
+			"C": "hundirse en la trayectoria de vuelo de la aeronave operando bajo la aeronave generando la turbulencia."
 		},
 		{
-			"Pregunta": "741. - (3 828) LA CONDICIÓN DE VIENTO QUE REQUIERE LA MÁXIMA PRECAUCIÓN CUANDO SE ESTÁ EVADIENDO LA ESTELA DE TURBULENCIA EN EL ATERRIZAJE ES UN:",
+			"Pregunta": "741. - (3 828) la condición de viento que requiere la máxima precaución cuando se está evadiendo la estela de turbulencia en el aterrizaje es un:",
 			"RespuestaCorrecta": "2",
-			"A": "VIENTO DE FRENTE CRUZADO, LIVIANO. ",
-			"B": "VIENTO DE COLA CRUZADO, LIVIANO.",
-			"C": "VIENTO DE FRENTE FUERTE. "
+			"A": "viento de frente cruzado, liviano. ",
+			"B": "viento de cola cruzado, liviano.",
+			"C": "viento de frente fuerte. "
 		},
 		{
-			"Pregunta": "742. - (3 829) CUANDO SE ATERRIZA DETRÁS DE UNAAERONAVE GRANDE, EL PILOTO DEBERÍA DE EVITAR LA ESTELA DE TURBULENCIA PERMANECIENDO ",
+			"Pregunta": "742. - (3 829) cuando se aterriza detrás de una aeronave grande, el piloto debería de evitar la estela de turbulencia permaneciendo ",
 			"RespuestaCorrecta": "1",
-			"A": "POR ENCIMA DE LA TRAYECTORIA DE APROXIMACIÓN FINAL DE LAAERONAVE GRANDE Y ATERRIZAR DESPUÉS DEL PUNTO DE CONTACTO DE LAAERONAVE GRANDE.",
-			"B": "POR DEBAJO DE LA TRAYECTORIA DE APROXIMACIÓN FINAL DE LAAERONAVE GRANDE Y ATERRIZAR ANTES DEL PUNTO DE CONTACTO DE LAAERONAVE GRANDE.",
-			"C": "POR ENCIMA DE LA TRAYECTORIA DE APROXIMACIÓN FINAL DE LAAERONAVE GRANDE Y ATERRIZAR ANTES DEL PUNTO DE CONTACTO DE LAAERONAVE GRANDE. "
+			"A": "por encima de la trayectoria de aproximación final de la aeronave grande y aterrizar después del punto de contacto de la aeronave grande.",
+			"B": "por debajo de la trayectoria de aproximación final de la aeronave grande y aterrizar antes del punto de contacto de la aeronave grande.",
+			"C": "por encima de la trayectoria de aproximación final de la aeronave grande y aterrizar antes del punto de contacto de la aeronave grande. "
 		},
 		{
-			"Pregunta": "743.- (3 830) DURANTE LA SALIDA DETRÁS DE UNA AERONAVE PESADA, EL PILOTO DEBERÍA EVITAR LA ESTELA DE TURBULENCIA MANIOBRANDO LA AERONAVE:",
+			"Pregunta": "743.- (3 830) durante la salida detrás de una aeronave pesada, el piloto debería evitar la estela de turbulencia maniobrando la aeronave:",
 			"RespuestaCorrecta": "2",
-			"A": "POR DEBAJO Y VIENTO HACIA ABAJO DE LAAERONAVE PESADA. ",
-			"B": "POR ARf{IBA Y VIENTO HACIA ARRIBA DE LAAERONAVE PESADA.",
-			"C": "POR DEBAJO Y VIENTO HACIA ARRIBA DE LAAERONAVE PESADA. "
+			"A": "por debajo y viento hacia abajo de la aeronave pesada. ",
+			"B": "por arriba y viento hacia arriba de la aeronave pesada.",
+			"C": "por debajo y viento hacia arriba de la aeronave pesada. "
 		}
     ]
+

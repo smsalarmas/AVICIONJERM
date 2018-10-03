@@ -1,273 +1,274 @@
 [		{
-			"Pregunta": "161. - LA HIPOXIA ES PARTICULARMENTE PELIGROSA DURANTE EL VUELO PARA EL PILOTO, PORQUE:",
+			"Pregunta": "161. - la hipoxia es particularmente peligrosa durante el vuelo para el piloto, porque:",
 			"RespuestaCorrecta": "2",
-			"A": "Afecta la vision nocturna, el piloto no puede observar otros aviones",
-			"B": " Los sintomas de la hipoxia son dificiles de reconocer, y pueden ya haber afectado las reacciones del piloto",
-			"C": "El piloto es habil para controlar elavion, aun utilizando oxigeno"
+			"A": "afecta la visión nocturna, el piloto no puede observar otros aviones",
+			"B": " los síntomas de la hipoxia son difíciles de reconocer, y pueden ya haber afectado las reacciones del piloto",
+			"C": "el piloto es hábil para controlar el avión, aun utilizando oxígeno"
 		},
 		{
-			"Pregunta": "162. - QUE ACCION DEBE SER TOMADA SI SOSPECHA O SIENTE HIPERVENTILACION:",
+			"Pregunta": "162. - que accion debe ser tomada si sospecha o siente hiperventilacion:",
 			"RespuestaCorrecta": "2",
-			"A": "Respirar lentamente, enviando profundamente elaire a los pulmones",
-			"B": "Respirar concientemente a una velocidad menor que la normal",
-			"C": "Respirar con fuerza, profundamente mas rapido que lo normal"
+			"A": "respirar lentamente, enviando profundamente el aire a los pulmones",
+			"B": "respirar conscientemente a una velocidad menor que la normal",
+			"C": "respirar con fuerza, profundamente más rápido que lo normal"
 		},
 		{
-			"Pregunta": "163. - UN PILOTO ESTA SUJETO A DESORIENTACION ESPACIAL, CUANDO:",
+			"Pregunta": "163. - un piloto está sujeto a desorientación espacial, cuando:",
 			"RespuestaCorrecta": "3",
-			"A": "La sensibilidad de sus sentidos es ignorada",
-			"B": "Los ojos son movidos a menudo en su chequeo de instrumentos",
-			"C": "Las sensaciones de los sentidos del cuerpo son usados para interpretar la actitud de vuelo"
+			"A": "la sensibilidad de sus sentidos es ignorada",
+			"B": "los ojos son movidos a menudo en su chequeo de instrumentos",
+			"C": "las sensaciones de los sentidos del cuerpo son usados para interpretar la actitud de vuelo"
 		},
 		{
-			"Pregunta": "164- QUE PROCEDIMENTO ES RECOlVENDADO PARA PREVENIR O SUPERAR UNA DESORIENTACION ESPACIAL:",
+			"Pregunta": "164- que procedimiento es recomendado para prevenir o superar una desorientación espacial:",
 			"RespuestaCorrecta": "3",
-			"A": "Reducir el movimiento de la cabeza y ojos. lo maximo posible",
-			"B": "Confiar en la sensibiudad de sus sentidos",
-			"C": "Conf-lar en las indicaciones de los instrumentos de vuelo"
+			"A": "reducir el movimiento de la cabeza y ojos, lo máximo posible",
+			"B": "confiar en la sensibilidad de sus sentidos",
+			"C": "confiar en las indicaciones de los instrumentos de vuelo"
 		},
 		{
-			"Pregunta": "165. - LAS SENSACIONES QUE CONDUCEN A UNA DESORIENTACION ESPACIAL, DURANTE CONDICIONES DE VUELO POR INSTRUMENTOS:",
+			"Pregunta": "165. - las sensaciones que conducen a una desorientación espacial, durante condiciones de vuelo por instrumentos:",
 			"RespuestaCorrecta": "3",
-			"A": "Son frecuentemente encontradas en pilotos de poca exeriencia en vuelo ifr y no en pilotos con experiencia moderada en este tipo de vuelo",
-			"B": "Ocurre con mas frecuencia durante la transicion de un vuelo visual a instrumental",
-			"C": "Deben ser superadas y confiar responsablemente en las indicaciones de los instrumentos de vuelo"
+			"A": "son frecuentemente encontradas en pilotos de poca experiencia en vuelo IFR y no en pilotos con experiencia moderada en este tipo de vuelo",
+			"B": "ocurre con más frecuencia durante la transición de un vuelo visual a instrumental",
+			"C": "deben ser superadas y confiar responsablemente en las indicaciones de los instrumentos de vuelo"
 		},
 		{
-			"Pregunta": "166.- COMO PUEDE UN PILOTO SUPERAR DE MEJOR MANERA LA DESORIENTACION ESPACIAL:",
+			"Pregunta": "166.- cómo puede un piloto superar de mejor manera la desorientación espacial:",
 			"RespuestaCorrecta": "3",
-			"A": "Creer en la sensibiudad de sus sentidos",
-			"B": "Hacer un rapido chequeo cruzado de instrumentos",
-			"C": "Leer e interpretar los instrumentos de vuelo yactuar en conformidad"
+			"A": "creer en la sensibilidad de sus sentidos",
+			"B": "hacer un rápido chequeo cruzado de instrumentos",
+			"C": "leer e interpretar los instrumentos de vuelo y actuar en conformidad"
 		},
 		{
-			"Pregunta": "167. - SIN AYUDA VISUAL, UN PILOTO A MENUDO INTERPRETA LA FUERZA CENTRIFUGA COMO UNA SENSACION DE:",
+			"Pregunta": "167. - sin ayuda visual, un piloto a menudo interpreta la fuerza centrífuga como una sensación de:",
 			"RespuestaCorrecta": "3",
-			"A": "Asceso y descenso",
-			"B": "Viraje",
-			"C": "Movimiento inverso"
+			"A": "ascenso y descenso",
+			"B": "viraje",
+			"C": "movimiento inverso"
 		},
 		{
-			"Pregunta": "168. - UN MOVIMIENTO BRUSCO DE LA CABEZA DURANTE UN VIRAJE PROLONGADO A RATA CONSTANTE EN IMC O CONDICIONES SIMULADAS DE INSTRUMENTOS PUEDEN CAUSAR:",
+			"Pregunta": "168. - un movimiento brusco de la cabeza durante un viraje prolongado a rata constante en IMC o condiciones simuladas de instrumentos pueden causar:",
 			"RespuestaCorrecta": "1",
-			"A": "Desorientacion al piloto",
-			"B": "Horizonte falso",
-			"C": "Ilusion de ascenso"
+			"A": "desorientación al piloto",
+			"B": "horizonte falso",
+			"C": "ilusión de ascenso"
 		},
 		{
-			"Pregunta": "169. - CUANDO BRUSCAMENTE SE CAMBIA DE UN ASCENSO A VUELO RECTO Y NIVELADO, PUEDE CREARSE UNA ILISION DE:",
+			"Pregunta": "169. - cuando bruscamente se cambia de un ascenso a vuelo recto y nivelado, puede crearse una ilusión de:",
 			"RespuestaCorrecta": "1",
-			"A": "Caida hacia atras",
-			"B": "Una actitud de nariz alta",
-			"C": "Un descenso con las alas a nivel"
+			"A": "caída hacia atrás",
+			"B": "una actitud de nariz alta",
+			"C": "un descenso con las alas a nivel"
 		},
 		{
-			"Pregunta": "170. - UNA RAPIDA ACELERACION DURANTE EL DESPEGUE, PUEDE CREAR LA ILUSION DE:",
+			"Pregunta": "170. - una rápida aceleración durante el despegue, puede crear la ilusión de:",
 			"RespuestaCorrecta": "2",
-			"A": "Espiral en la direccion opuesta",
-			"B": "Existenciadenarizarriba",
-			"C": "Desvio en la pista"
+			"A": "espiral en la dirección opuesta",
+			"B": "existencia de nariz arriba",
+			"C": "desvío en la pista"
 		},
 		{
-			"Pregunta": "171. - LA FORMACION DE UNA CAPA DE NUBES INCLINADAS, UN OBSCURO HORIZONTE Y UNA PROPAGACION DE LA OBSCURIDAD CON LAS LUCES DE TIERRA Y LAS ESTRELLAS PUEDE CREAR LA ILUSION QUE CONOCEMOS COMO:",
+			"Pregunta": "171. - la formación de una capa de nubes inclinadas, un obscuro horizonte y una propagación de la obscuridad con las luces de tierra y las estrellas puede crear la ilusión que conocemos como:",
 			"RespuestaCorrecta": "3",
-			"A": "lusion de ascenso",
-			"B": "Sensaciones falsas",
-			"C": "Falso horizonte"
+			"A": "ilusión de ascenso",
+			"B": "sensaciones falsas",
+			"C": "falso horizonte"
 		},
 		{
-			"Pregunta": "172. - COMO PUEDE UN PILOTO EN VUELO POR INSTRUMENTOS SOBREPONERSE A UNA DESORIENTACION ESPACIAL:",
+			"Pregunta": "172. - cómo puede un piloto en vuelo por instrumentos sobreponerse a una desorientación espacial:",
 			"RespuestaCorrecta": "2",
-			"A": "Usar rapidamente un chequeo cruzado",
-			"B": "Interpretar apropiadamente el vuelo por instrumentos y actuar en conformidad",
-			"C": "Evitar banqueos mayores de 30 grados"
+			"A": "usar rápidamente un chequeo cruzado",
+			"B": "interpretar apropiadamente el vuelo por instrumentos y actuar en conformidad",
+			"C": "evitar banqueos mayores de 30 grados"
 		},
 		{
-			"Pregunta": "173.- CUAL ES EL USO CORRECTO DE LAS LUCES DE CABINA PARA EL ---AJELO NOCTURNO",
+			"Pregunta": "173.- cual es el uso correcto de las luces de cabina para el vuelo nocturno",
 			"RespuestaCorrecta": "2",
-			"A": "Reducir la intensidad de la luz a un minimo. eliminando los puntos ciegos",
-			"B": "El uso regular de la luz blanca, evitar los rayos de luz porque perjudica la adaptacion a la obscuridad",
-			"C": "La coloracion de los mapas es menos afectada por el uso directo de la luz roja"
+			"A": "reducir la intensidad de la luz a un mínimo, eliminando los puntos ciegos",
+			"B": "el uso regular de la luz blanca, evitar los rayos de luz porque perjudica la adaptación a la obscuridad",
+			"C": "la coloración de los mapas es menos afectada por el uso directo de la luz roja"
 		},
 		{
-			"Pregunta": "174- QUE TECNICA DEBERIA USAR EL PILOTO PARA CLAREAR POR TRAFICO A LA DERECHA O IZQUIERDA, DURANTE UN VUELO RECTO Y NIVELADO;",
+			"Pregunta": "174- que técnica debería usar el piloto para clarear por tráfico a la derecha o izquierda, durante un vuelo recto y nivelado;",
 			"RespuestaCorrecta": "1",
-			"A": "Sistematicamente mirar en diferentes segmentos en el cielo por intervalos cortos",
-			"B": "Concentrarse en el movimiento relativo detectado en area de la vision periferica",
-			"C": "Barredura continua en la brujula de izquierda a derecha"
+			"A": "sistemáticamente mirar en diferentes segmentos en el cielo por intervalos cortos",
+			"B": "concentrarse en el movimiento relativo detectado en área de la visión periférica",
+			"C": "barredura continua en la brújula de izquierda a derecha"
 		},
 		{
-			"Pregunta": "175. - DEBIDO A LA ILUSION VISUAL CUANDO EN EL ATERRIZAJE LA PISTA ESTA MAS ANGOSTA QUE LO USUAL, EL AVION PARECERA ESTAR:",
+			"Pregunta": "175. - debido a la ilusión visual cuando en el aterrizaje la pista está más angosta que lo usual, el avión parecerá estar:",
 			"RespuestaCorrecta": "1",
-			"A": "Mas alto que lo real caracteristico. o mas bajo que en la aproximacion normal",
-			"B": "Mas bajo que lo real caracteristico. o mas alto que en la aproximacion normal",
-			"C": "Mas bajo que lo real caracteristico, mas alto que en la aproximacion normal"
+			"A": "más alto que lo real característico o más bajo que en la aproximación normal",
+			"B": "más bajo que lo real característico o más alto que en la aproximación normal",
+			"C": "más bajo que lo real característico, más alto que en la aproximación normal"
 		},
 		{
-			"Pregunta": "176. - QUE ILUSION VISUAL CREA EL MISMO EFECTO QUE LA PISTA ESTA MAS ANGOSTA QUE LO USUAL:",
+			"Pregunta": "176. - que ilusión visual crea el mismo efecto que la pista está más angosta que lo usual:",
 			"RespuestaCorrecta": "1",
-			"A": "Alto  e inclinado a la pista",
-			"B": "Mas ancha que lo usual",
-			"C": "Bajo e incunado a la pista"
+			"A": "alto e inclinado a la pista",
+			"B": "más ancha que lo usual",
+			"C": "bajo e inclinado a la pista"
 		},
 		{
-			"Pregunta": "177. - COMO AFECTA LA BRUMA EN LA HABILIDAD DE VISUALIZAR TRAFICOS Y PARTE DEL TERRENO DURANTE EL VUELO:",
+			"Pregunta": "177. - cómo afecta la bruma en la habilidad de visualizar tráficos y parte del terreno durante el vuelo:",
 			"RespuestaCorrecta": "3",
-			"A": "La bruma causa en los ojos un enfoque al infinito haciendo partes del terreno dificiles de visualizar",
-			"B": "Los ojos tienden a cansarse en la bruma y no detectar los movimientos relativos facilmente",
-			"C": "La bruma crea una ilusion de estar a mayor distancia que la actual de la pista y causa que el piloto realce una aproximacion baja"
+			"A": "la bruma causa en los ojos un enfoque al infinito haciendo partes del terreno difíciles de visualizar",
+			"B": "los ojos tienden a cansarse en la bruma y no detectar los movimientos relativos fácilmente",
+			"C": "la bruma crea una ilusión de estar a mayor distancia que la actual de la pista y causa que el piloto realce una aproximación baja"
 		},
 		{
-			"Pregunta": "178. - QUE PREPARACION DEBERIA HACER UN PILOTO PARA ADAPTAR SUS OJOS AL VUELO NOCTURNO:",
+			"Pregunta": "178. - que preparación debería hacer un piloto para adaptar sus ojos al vuelo nocturno:",
 			"RespuestaCorrecta": "3",
-			"A": "Usar gafas despues de la puesta del sol hasta iniciar el vuelo",
-			"B": "Evitar luces rojas al menos 30 minutos antes del vuelo",
-			"C": "Evitar la luz blanca brillante al menos 30 minutos antes del vuelo"
+			"A": "usar gafas después de la puesta del sol hasta iniciar el vuelo",
+			"B": "evitar luces rojas al menos 30 minutos antes del vuelo",
+			"C": "evitar la luz blanca brillante al menos 30 minutos antes del vuelo"
 		},
 		{
-			"Pregunta": "179. - CUAL ES LA FORMA MAS EFECTIVA DE USAR LOS OJOS DURANTE EL VUELO NOCTURNO:",
+			"Pregunta": "179. - cuál es la forma más efectiva de usar los ojos durante el vuelo nocturno:",
 			"RespuestaCorrecta": "2",
-			"A": "Mirar a lo lejos. obscuro o borroso",
-			"B": "Examinar lentamente permitiendo mirar a distancia",
-			"C": "Concentrarse directamente en cada objeto por pocos segundos"
+			"A": "mirar a lo lejos, obscuro o borroso",
+			"B": "examinar lentamente permitiendo mirar a distancia",
+			"C": "concentrarse directamente en cada objeto por pocos segundos"
 		},
 		{
-			"Pregunta": "180. - EL METODO APROPIADO CUANDO MIRAMOS HACIA OTRO TRAFICO EN LA NOCHE ES:",
+			"Pregunta": "180. - el método apropiado cuando miramos hacia otro tráfico en la noche es:",
 			"RespuestaCorrecta": "1",
-			"A": "Mirar al lado del objeto y examinar lentamente",
-			"B": "Muy rapidamente examinar visualmente el campo",
-			"C": "Mirar al lado del objeto y examinar rapidamente"
+			"A": "mirar al lado del objeto y examinar lentamente",
+			"B": "muy rápidamente examinar visualmente el campo",
+			"C": "mirar al lado del objeto y examinar rápidamente"
 		},
 		{
-			"Pregunta": "181. - GRANDES ACUMULACIONES DE MONOXIDO DE CARBONO EN EL CUERPO HUMANO CAUSA:",
+			"Pregunta": "181. - grandes acumulaciones de monóxido de carbono en el cuerpo humano causa:",
 			"RespuestaCorrecta": "2",
-			"A": "Una presion alrededor de la frente",
-			"B": "Perdida de la fuerza muscular",
-			"C": "Una sensacion de sentirse vigoroso y euforico"
+			"A": "una presión alrededor de la frente",
+			"B": "perdida de la fuerza muscular",
+			"C": "una sensación de sentirse vigoroso y eufórico"
 		},
 		{
-			"Pregunta": "182. - LA SUCEPTIBILIDAD AL VENENO DEL MONOXIDO DE CARBONO ES AUMENTADA CON:",
+			"Pregunta": "182. - la susceptibilidad al veneno del monóxido de carbono es aumentada con:",
 			"RespuestaCorrecta": "1",
-			"A": "El aumento de altitud",
-			"B": "La disminucion de altitud",
-			"C": "El aumento en la presion del aire"
+			"A": "el aumento de altitud",
+			"B": "la disminución de altitud",
+			"C": "el aumento en la presión del aire"
 		},
 		{
-			"Pregunta": "183.- UN ESTADO DE CONFUSION TEIVPORAL, RESULTADO DE INFORMACIONES DE APARIENCIAS FALSAS ENVIADAS POR EL CEREBRO A VARIOS ORGANOS DE LOS SENTIDOS SE DEFINE COMO:",
+			"Pregunta": "183.- un estado de confusión temporal, resultado de informaciones de apariencias falsas enviadas por el cerebro a varios órganos de los sentidos se define como:",
 			"RespuestaCorrecta": "1",
-			"A": "Desorientacion espacial",
-			"B": "Hiperventilacion",
-			"C": "Hipoxia"
+			"A": "desorientación espacial",
+			"B": "hiperventilacion",
+			"C": "hipoxia"
 		},
 		{
-			"Pregunta": "184- RAPIDAS Y EXTRAPROFUNDAS RESPIRACIONES MIENTRAS USA OXIGENO PUEDE SER CAUSA DE UNA CONDICION CONOCIDA COMO: ",
+			"Pregunta": "184- rápidas y extraprofundas respiraciones mientras usa oxigeno puede ser causa de una condición conocida como: ",
 			"RespuestaCorrecta": "2",
-			"A": "Aerosinisitis",
-			"B": "Hiperventilacion",
-			"C": "Aerotitis"
+			"A": "aerosinusitis",
+			"B": "hiperventilacion",
+			"C": "aerotitis"
 		},
 		{
-			"Pregunta": "185. - CUAL ES EL MAS PROBABLE RESULTADO EN LA HIPERVENTILACION:",
-			"RespuestaCorrecta": "2",
-			"A": "Tension emosional, ansiedad o miedo",
-			"B": "El excesivo consumo de alcohol",
-			"C": "Una extremada lentitud al repirar y oxigeno insuficiente"
-		},
-		{
-			"Pregunta": "186. - QUE ENUNCIADO DEFINE LA HIPOXIA:",
+			"Pregunta": "185. - cuál es el más probable resultado en la hiperventilacion:",
 			"RespuestaCorrecta": "1",
-			"A": "Un estado de deficiencia de oxigeno en el cuerpo",
-			"B": "Un anormal aumento en el volumen de aire en los pulmones",
-			"C": "Una condicion de burbujas de gas alrededor de las articulaciones o musculos"
+			"A": "tensión emocional, ansiedad o miedo",
+			"B": "el excesivo consumo de alcohol",
+			"C": "una extremada lentitud al respirar y oxigeno insuficiente"
 		},
 		{
-			"Pregunta": "187. - DURANTE UN ASCENSO HASTA 18000 PIES, EL PORCENTAJE DE OXIGENO EN LA ATMOSFERA:",
+			"Pregunta": "186. - que enunciado define la hipoxia:",
+			"RespuestaCorrecta": "1",
+			"A": "un estado de deficiencia de oxígeno en el cuerpo",
+			"B": "un anormal aumento en el volumen de aire en los pulmones",
+			"C": "una condición de burbujas de gas alrededor de las articulaciones o músculos"
+		},
+		{
+			"Pregunta": "187. - durante un ascenso hasta 18000 pies, el porcentaje de oxígeno en la atmosfera:",
 			"RespuestaCorrecta": "3",
-			"A": "Aumenta",
-			"B": "Disminuye",
-			"C": "Permanece estable"
+			"A": "aumenta",
+			"B": "disminuye",
+			"C": "permanece estable"
 		},
 		{
-			"Pregunta": "188. - QUE SUCEDE CUANDO ASCENDEMOS PASADOS LOS 18000 PIES EN UN AVION SIN PRESURIZACION Y SIN OXIGENO SUPLEMENTARIO:",
+			"Pregunta": "188. - que sucede cuando ascendemos pasados los 18000 pies en un avión sin presurización y sin oxígeno suplementario:",
 			"RespuestaCorrecta": "3",
-			"A": "Los gases atrapad os en el cuerpo se contraen y previenen que el nitrogeno se escape al flujo sanguineo",
-			"B": "La presion en el oido medio pasa a ser menor que la presion atmosferica en la cabina",
-			"C": "La presion de oxigeno dentro de los pulmones no puede ser mantenida sin un aumento en la presion de oxigeno al inhalar"
+			"A": "los gases atrapados en el cuerpo se contraen y previenen que el nitrógeno se escape al flujo sanguíneo",
+			"B": "la presión en el oído medio pasa a ser menor que la presión atmosférica en la cabina",
+			"C": "la presión de oxigeno dentro de los pulmones no puede ser mantenida sin un aumento en la presión de oxígeno al inhalar"
 		},
 		{
-			"Pregunta": "189. - LA VENTAJA DE EXPERIMENTAR HIPOXIA EN UNA CAMARA DE ALTURA ES:",
+			"Pregunta": "189. - la ventaja de experimentar hipoxia en una cámara de altura es:",
 			"RespuestaCorrecta": "1",
-			"A": "Ayudar a los pilotos a instruirse en reconocer sus propios sintomas en un ambiente controlado",
-			"B": "Una persona debe ser capaz de observar muchos sintomas de hipoxia en varias personas al mismo tiempo",
-			"C": "Cuando una persona pasa la hipoxia. elaire puede rapidamente ser admitido en la camara y revisar a la persona"
+			"A": "ayudar a los pilotos a instruirse en reconocer sus propios síntomas en un ambiente controlado",
+			"B": "una persona debe ser capaz de observar muchos síntomas de hipoxia en varias personas al mismo tiempo",
+			"C": "cuando una persona pasa la hipoxia, el aire puede rápidamente ser admitido en la cámara y revisar a la persona"
 		},
 		{
-			"Pregunta": "190. - QUE AFIRMACION ES VERDADERA RESPECTO AL ALCOHOL EN EL SISTEMA HUMANO:",
+			"Pregunta": "190. - que afirmación es verdadera respecto al alcohol en el sistema humano:",
 			"RespuestaCorrecta": "1",
-			"A": "El alcohol le vuelve al piloto mas suceptible a la hipoxia",
-			"B": "Pequeñas cantidades de alcohol no deterioran la habiudad de vuelo",
-			"C": "El cafe ayuda ametabolizar el alcohol y auvia algo que queda"
+			"A": "el alcohol le vuelve al piloto más susceptible a la hipoxia",
+			"B": "pequeñas cantidades de alcohol no deterioran la habilidad de vuelo",
+			"C": "el café ayuda a metabolizar el alcohol y alivia algo que queda"
 		},
 		{
-			"Pregunta": "191. - CUAL ES EL EFECTO QUE TIENE UN PILOTO POR FUMAR:",
+			"Pregunta": "191. - cuál es el efecto que tiene un piloto por fumar:",
 			"RespuestaCorrecta": "2",
-			"A": "Dismunuye su vision nocturna en un 50%",
-			"B": "Aumento de calor en el cuerpo en viraje. creando una demanda mayor de oxigeno",
-			"C": "Creaadicionalmente gases de dioxido de carbono en el cuerpo. lo cual a menudo conduce a la hipoxia"
+			"A": "disminuye su visión nocturna en un 50%",
+			"B": "aumento de calor en el cuerpo en viraje creando una demanda mayor de oxígeno",
+			"C": "crea adicionalmente gases de dióxido de carbono en el cuerpo, lo cual a menudo conduce a la hipoxia"
 		},
 		{
-			"Pregunta": "192. - SI BIEN NO SE REQUIERE EL OXIGENO SUPLE IVE NTARIO, ES RECOlVENDADO SU USO CUANDO SE ESTA EN VUELO NOCTURNO POR ARRIBA DE:",
+			"Pregunta": "192. - si bien no se requiere el oxígeno suplementario, es recomendado su uso cuando se está en vuelo nocturno por arriba de:",
 			"RespuestaCorrecta": "1",
-			"A": " 5000 pies",
+			"A": "5000 pies",
 			"B": "10000 pies",
 			"C": "12500 pies"
 		},
 		{
-			"Pregunta": "193. - LA ADAPTACION A LA OBSCURIDAD ES DETERIORADA POR EXPONERSE A:",
+			"Pregunta": "193. - la adaptación a la obscuridad es deteriorada por exponerse a:",
 			"RespuestaCorrecta": "3",
-			"A": "Dioxido de carbono",
-			"B": "Vitamina a en la dieta",
-			"C": "La cabjna a una altitud de presion por arriba de 5000 pies"
+			"A": "dióxido de carbono",
+			"B": "vitamina a en la dieta",
+			"C": "la cabina a una altitud de presión por arriba de 5000 pies"
 		},
 		{
-			"Pregunta": "194- LA PRACTICA DE BUCEO CON AIRE COMPRIMIDO A PRESIONES SUPERIORES A LA ATMIOSFERA ESTANDAR, IMPIDE VOLAR A UN PILOTO DURANTE LAS SIGUIENTES 24 HORAS",
+			"Pregunta": "194- la práctica de buceo con aire comprimido a presiones superiores a la atmosfera estándar, impide volar a un piloto durante las siguientes 24 horas",
 			"RespuestaCorrecta": "1",
-			"A": "Verdadero",
-			"B": "Falso"
+			"A": "verdadero",
+			"B": "falso"
 		},
 		{
-			"Pregunta": "195. - EL TIEMPO DE CONCIENCIA UTIL SIN OXIGENO DE EMERGENCIA DESPUES DE QUE SE PRODUCE UNA DESCOMPRESION EXPLOSIVA A 35000 PIES, ES DE:",
+			"Pregunta": "195. - el tiempo de conciencia útil sin oxígeno de emergencia después de que se produce una descompresión explosiva a 35000 pies, es de:",
 			"RespuestaCorrecta": "1",
-			"A": "15 A25 Segundos",
-			"B": "30 A60 Segundos",
-			"C": "1A2 Minutos",
-			"D": "3 A5 Minutos"
+			"A": "15 a 25 segundos",
+			"B": "30 a 60 segundos",
+			"C": "1 a 2 minutos",
+			"D": "3 a 5 minutos"
 		},{
-			"Pregunta": "746. - (3 846) QUÉ DE LO SIGUIENTE TIENE MAYORES PROBABILIDADES PARA PRODUCIR HIPERVENTILACIÓN: ",
+			"Pregunta": "746. - (3 846) qué de lo siguiente tiene mayores probabilidades para producir hiperventilación: ",
 			"RespuestaCorrecta": "1",
-			"*A": "TENSIÓN EMOCIONAL ANSIEDAD, O TEMOR.",
-			"B": "EXCESIVO CONSUMO DE ALCOHOL",
-			"C": "UNA FRECUENCIA DE RESPIRACIÓN EXTREMADAMENTE LENTA E INSUFICIENCIA DE OXIGENO. "
+			"A": "tensión emocional ansiedad, o temor.",
+			"B": "excesivo consumo de alcohol",
+			"C": "una frecuencia de respiración extremadamente lenta e insuficiencia de oxígeno. "
 		},
 		{
-			"Pregunta": "747. - (3 847) UN PILOTO DEBERÍA SER CAPAZ DE SOBREPASAR LOS SÍNTOMAS O PREVENIR FUTURAS OCURRENCIAS DE HIPERVENTILACIÓN:",
+			"Pregunta": "747. - (3 847) un piloto debería ser capaz de sobrepasar los síntomas o prevenir futuras ocurrencias de hiperventilación:",
 			"RespuestaCorrecta": "2",
-			"A": "MONITOREANDO CUIDADOSAMENTE LOS INSTRUMENTOS DE VUELO PARA CONTROLAR LA AERONAVE.;",
-			"*B": "RESPIRANDO MÁS LENTO, RESPIRANDO DENTRO DE UNA BOLSA, O HABLANDO FUERTEMENTE.;",
-			"C": "RESPIRANDO MÁS RÁPIDO PARA AUMENTAR LA VENTILACIÓN DE LOS PULMONES. "
+			"A": "monitoreando cuidadosamente los instrumentos de vuelo para controlar la aeronave.;",
+			"B": "respirando más lento, respirando dentro de una bolsa, o hablando fuertemente.;",
+			"C": "respirando más rápido para aumentar la ventilación de los pulmones. "
 		},
 		{
-			"Pregunta": "748. - (3 850) EL PELIGRO DE LA DESORIENTACIÓN ESPACIAL DURANTE EL VUELO EN CONDICIONES VISUALES POBRES SE PUEDE REDUCIR:",
+			"Pregunta": "748. - (3 850) el peligro de la desorientación espacial durante el vuelo en condiciones visuales pobres se puede reducir:",
 			"RespuestaCorrecta": "2",
-			"A": "CAMBIANDO LA VISTA LIGERAMENTE DESDE EL CAMPO VISUAL EXTERIOR HACIA EL PANEL DE INSTRUMENTOS. ;",
-			"*B": "CONFIANDO EN LOS INSTRUMENTOS EN VEZ DE ARRIESGARSE CON LOS ÓRGANOS SENSORIALES.;",
-			"C": "INCLINANDO EL CUERPO EN LA DIRECCIÓN OPUESTA DEL MOVIMIENTO DELAVIÓN. "
+			"A": "cambiando la vista ligeramente desde el campo visual exterior hacia el panel de instrumentos",
+			"B": "confiando en los instrumentos en vez de arriesgarse con los órganos sensoriales.;",
+			"C": "inclinando el cuerpo en la dirección opuesta del movimiento del avión. "
 		},
 		{
-			"Pregunta": "749. - (3 853) SI UN PILOTO EXPERIMENTA LA DESORIENTACIÓN ESPACIAL DURANTE UN VUELO EN CONDICIONES DE VISIBILIDAD RESTRINGIDA, LA MEJOR FORMA DE COMBATIR EL EFECTO ES:",
+			"Pregunta": "749. - (3 853) si un piloto experimenta la desorientación espacial durante un vuelo en condiciones de visibilidad restringida, la mejor forma de combatir el efecto es:",
 			"RespuestaCorrecta": "1",
-			"*A": "CONFIAR EN LAS INDICACIONES DE LOS INSTRUMENTOS DE LAAERONAVE.;",
-			"B": "CONCENTRARSE EN LAS SENSACIONES DE GUIÑADA, CABECEO Y BALANCEO.;",
-			"C": "A CONCIENCIA DISMINUIR EL RÉGIMEN DE RESPIRACIÓN HASTA QUE LOS SÍNTOMAS DESAPAREZCAN Y LUEGO CONTINUAR RESPIRANDO NORMALMENTE"
+			"A": "confiar en las indicaciones de los instrumentos de la aeronave.;",
+			"B": "concentrarse en las sensaciones de guiñada, cabeceo y balanceo.;",
+			"C": "a conciencia disminuir el régimen de respiración hasta que los síntomas desaparezcan y luego continuar respirando normalmente"
 		}
     ]
+

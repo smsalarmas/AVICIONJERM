@@ -1,540 +1,540 @@
-[		{
-			"Pregunta": "210.- QUE SE DEBE HACER PARA RECOBRARSE DE UNA ACTITUD INCORRECTA, CUANDO SE TIENE UNA INDICACION DE VELOCIDAD EXCESIVA, VELOCIDAD VERTICAL DE 1200 PIES/MIN. Y BANQUEO DE +30 GRADOS DERECHA Y 6200 PIES DE ALTITUD:",
+		[{
+			"Pregunta": "210.- que se debe hacer para recobrarse de una actitud incorrecta, cuando se tiene una indicación de velocidad excesiva, velocidad vertical de 1200 pies/min. y banqueo de +30 grados derecha y 6200 pies de altitud:",
 			"RespuestaCorrecta": "2",
-			"A": "REDUCIR'POTENCA, INCREMENTAR PRESION EN LOS ELEVADORES Y NIVELAR LAS ALAS",
-			"B": "REDUCIR POTENCA, NIVELAR LAS ALAS Y RECOBRAR LA ACTITUD AL NIVEL DE VUELO",
-			"C": "NIVELAR LAS ALAS, RECOBRAR POSICION DE LA NARIZ A NIVEL Y OBTENER UNA VELOCIDAD ADECUADA."
+			"A": "reducir potencia, incrementar presión en los elevadores y nivelar las alas",
+			"B": "reducir potencia, nivelar las alas y recobrar la actitud al nivel de vuelo",
+			"C": "nivelar las alas, recobrar posición de la nariz a nivel y obtener una velocidad adecuada."
 		},
 		{
-			"Pregunta": "211.- (4873) SI UN AVION ESTA UNA ACTITUD DE VUELO INUSUAL Y EL INDICADOR DE ACTITUD HA EXCEDIDO LOS LIMITES, QUE INSTRUMENTOS SE DEBERAN SER OBSERVADOS PARA DETERMINAR LA ACTITUD DE CABECEO ANTES DE INICIAR LA  RECOBRADA:",
+			"Pregunta": "211.- (4873) si un avión esta una actitud de vuelo inusual y el indicador de actitud ha excedido los limites, que instrumentos se deberán ser observados para determinar la actitud de cabeceo antes de iniciar la  recobrada:",
 			"RespuestaCorrecta": "2",
-			"A": "EL INDICADOR DE VIRAJE Y EL INDICADOR DE VELOCIDAD VERTICAL (VSI)",
-			"B": "EL VELOCIMETRO Y ALTIMETRO",
-			"C": "EL INDICADOR DE VELOCIDAD VERTICAL Y VELOCIMETRO PARA DETECTAR SI NOS APROXIMAMOS A VSO O A LA VMO."
+			"A": "el indicador de viraje y el indicador de velocidad vertical (VSI)",
+			"B": "el velocímetro y altímetro",
+			"C": "el indicador de velocidad vertical y velocímetro para detectar si nos aproximamos a VSO o a la VMO."
 		},
 		{
-			"Pregunta": "212.- (4875 ) CUAL ES LA SECUENCIA CORRECTA PARA RECOBRARSE DE UNA ESPIRAL NARIZ ABAJO, VELOCIDAD INCREMENTANDOSE Y ACTITUD INUSUAL DE VUELO: ",
+			"Pregunta": "212.- (4875) cual es la secuencia correcta para recobrarse de una espiral nariz abajo, velocidad incrementándose y actitud inusual de vuelo: ",
 			"RespuestaCorrecta": "2",
-			"A": "INCREMENTAR LA ACTITUD DE CABECEO, REDUCIR POTENCA Y NIVELAR ALAS",
-			"B": "REDUCIR POTENCIA, CORREGIR ACTITUD DE BANQUEO Y ELEVAR LA NARIZ A UNA ACTITUD NIVELADA",
-			"C": "REDUCIR POTENCA, ELEVAR LA NARIZ A ACTITUD DE NIVEL Y CORREGIR LA ACTITUD DE BANQUEO."
+			"A": "incrementar la actitud de cabeceo, reducir potencia y nivelar alas",
+			"B": "reducir potencia, corregir actitud de banqueo y elevar la nariz a una actitud nivelada",
+			"C": "reducir potencia, elevar la nariz a actitud de nivel y corregir la actitud de banqueo."
 		},
 		{
-			"Pregunta": "213.- (4927 ) DURANTE UNA RECOBRADA DE UNA ACTITUD INUSUAL, EL NIVEL DE VUELO ES REESTABLECIDO EN EL INSTANTE QUE:",
+			"Pregunta": "213.- (4927) durante una recobrada de una actitud inusual, el nivel de vuelo es reestablecido en el instante que:",
 			"RespuestaCorrecta": "3",
-			"A": "LA BARRA DEL HORIZONTE EN EL INDICADOR DE ACTITUD ESTA SUPERPUESTA CON EL AVION MINATURA",
-			"B": "EL INDICADOR DE VELOCIDAD VERTICAL VSI INDICA CERO",
-			"C": "LAS AGUJAS DEL ALTÍMETRO Y VELOCIMETRO SE PARAN PREVIO A CAMBAR SU DIRECCION DE MOVIMIENTO."
+			"A": "la barra del horizonte en el indicador de actitud esta superpuesta con el avión miniatura",
+			"B": "el indicador de velocidad vertical VSI indica cero",
+			"C": "las agujas del altímetro y velocímetro se paran previo a cambar su dirección de movimiento."
 		},
 		{
-			"Pregunta": "220.- SI SE MANTIENE UN VIRAJE MEDIO ESTANDAR, QUE TIEMPO SERA REQUERIDO PARA VIRAR DEL RUMBO 230 GRADOS AL RUMBO 050 GRADOS POR LA DERECHA:",
+			"Pregunta": "220.- si se mantiene un viraje medio estándar, que tiempo será requerido para virar del rumbo 230 grados al rumbo 050 grados por la derecha:",
 			"RespuestaCorrecta": "1",
-			"*A": "2 MINUTOS",
-			"B": "1 MINUTO Y MEDIO",
-			"C": "1 MINUTO."
+			"a": "2 minutos",
+			"B": "1 minuto y medio",
+			"C": "1 minuto."
 		},
 		{
-			"Pregunta": "221.- (4703) CUAL ES LA DIFERENCIA ENTRE UNA AYUDA DIRECCIONAL TIPO LOCALIZADOR LD Y EL LOCALIZADOR ILS:",
+			"Pregunta": "221.- (4703) cual es la diferencia entre una ayuda direccional tipo localizador LDA y el localizador ILS:",
 			"RespuestaCorrecta": "1",
-			"A": "EL LDA NO ESTA ALINEADO CON LA PISTA",
-			"B": "EL LDA USA UN CURSO DE ANCHO DE 6 GRADOS O 12 GRADOS MIENTRAS EL ILS USA SOLAMENTE 5 GRADOS",
-			"C": "LA SEÑAL LDA ES GENERADA DESDE UN VOR TIPO FACILIDAD Y NO TIENE SENDA DE PLANEO."
+			"A": "el LDA no está alineado con la pista",
+			"B": "el LDA usa un curso de ancho de 6 grados o 12 grados mientras el ILS usa solamente 5 grados",
+			"C": "la señal LDA es generada desde un vor tipo facilidad y no tiene senda de planeo."
 		},
 		{
-			"Pregunta": "222.- CUAL ES EL VALOR DEL RANGO VISUAL DE PISTA (RVR) DESCRITO EN UNA CARTA DE APROXIMACION DIRECTA:",
+			"Pregunta": "222.- cual es el valor del rango visual de pista (RVR) descrito en una carta de aproximación directa:",
 			"RespuestaCorrecta": "2",
-			"A": "lA DISTANCIA OBLICUA EN lA QUE EL PILOTO PUEDE VER LA PISTA MIENTRAS CRUZA LA CABECERA CON EL GLIDE SLOPE",
-			"B": "UNA DISTANCIA HORIZONTAL EN LA QUE EL PILOTO PUEDE VER LA PISTA EN LA APROXIMACION FINAL",
-			"C": "LA DISTANCA OBLICUA EN LA QUE EL PILOTO PUEDE VER LA PISTA EN LA APROXIMACION FINAL DURANTE EL ATERRIZAJE."
+			"A": "la distancia oblicua en la que el piloto puede ver la pista mientras cruza la cabecera con el glide slope",
+			"B": "una distancia horizontal en la que el piloto puede ver la pista en la aproximación final",
+			"C": "la distancia oblicua en la que el piloto puede ver la pista en la aproximación final durante el aterrizaje."
 		},
 		{
-			"Pregunta": "223.- (46S7) SI UNA APROXIMACION FRUSTRADA FALLIDA ES INICIADA ANTES DE ALCANZAR EL MAP, EL SIGUIENTE PROCEDIMIENTO DEBE SER USADO A NO SER QUE DE OTRA MANERA ESTE AUTORIZADO POR EL ATC: ",
+			"Pregunta": "223.- (46s7) si una aproximación frustrada fallida es iniciada antes de alcanzar el map, el siguiente procedimiento debe ser usado a no ser que de otra manera este autorizado por el ATC: ",
 			"RespuestaCorrecta": "1",
-			"A": "PROCEDER AL PUNTO DE APROXIMACION FRUSTRADA EN O SOBRE EL MDA O EL DH. ANTES DE EJECUTAR UNA MANIOBRA DE VIRAJE",
-			"B": "COMENZAR UN VIRAJE EN ASCENSO INMEDATAMENTE Y SEGUIR LOS PROCEDIMIENTOS DE APROXIMACION FRUSTRADA",
-			"C": "MANTENER LA ALTITUD Y CONTINUAR PASANDO EL MAP POR UN MINUTO O UNA MILLA LO QUE OCURRA PRIMERO."
+			"A": "proceder al punto de aproximación frustrada en o sobre el MDA o el DH antes de ejecutar una maniobra de viraje",
+			"B": "comenzar un viraje en ascenso inmediatamente y seguir los procedimientos de aproximación frustrada",
+			"C": "mantener la altitud y continuar pasando el map por un minuto o una milla lo que ocurra primero."
 		},
 		{
-			"Pregunta": "224.- (4631) SI UN PILOTO PIERDE LA REFERENCIA VISUAL MIENTRAS CIRCULA PARA ATERRIZAR DESDE UNA APROXIMACION INSTRUMENTAL Y EL SERVICIO DE RADAR ATC  NO ESTA DISPONIBLE, LA ACCION DE APROXIMACION FRUSTRADA SERA:",
+			"Pregunta": "224.- (4631) si un piloto pierde la referencia visual mientras circula para aterrizar desde una aproximación instrumental y el servicio de radar ATC no está disponible, la accion de aproximación frustrada será:",
 			"RespuestaCorrecta": "3",
-			"A": "EJECUTAR UN ASCENSO EN VIRAJE PARALELO AL CURSO DE APROXIMACION FINAL PUBLICADO Y ASCENDER A LA ALTITUD DE APROXIMACION INICAL",
-			"B": "ASCENDER AL CIRCUITO MINIMO PUBLICADO Y ENTONCES PROCEDER DIRECTAMENTE AL FIX DE LA APROXIMACION FINAL",
-			"C": "REALIZAR ASCENSO EN VIRAJE ALREDEDOR DE LA PISTA DE ATERRIZAJE Y CONTINUAR EL VIRAJE HASTA ESTABLECERSE SOBRE EL CURSO DE APROXIMACION FRÜSTRADA."
+			"A": "ejecutar un ascenso en viraje paralelo al curso de aproximación final publicado y ascender a la altitud de aproximación inicial",
+			"B": "ascender al circuito mínimo publicado y entonces proceder directamente al FIX de la aproximación final",
+			"C": "realizar ascenso en viraje alrededor de la pista de aterrizaje y continuar el viraje hasta establecerse sobre el curso de aproximación frustrada."
 		},
 		{
-			"Pregunta": "225.- (4744) SI TODOS LOS COMPONE^JTES DEL ILS ESTAN OPEFiATIVOS Y LAS REFERENCIAS VISUALES REQUERIDAS NO ESTAN ESTABLECIDAS, LA APROXIMACION FRUSTRADA (FALLID DEBERIA SER INICIADA SOBRE: ",
+			"Pregunta": "225.- (4744) si todos los componentes del ILS están operativos y las referencias visuales requeridas no están establecidas, la aproximación frustrada (fallid debería ser iniciada sobre: ",
 			"RespuestaCorrecta": "1",
-			"A": "AL ARRIBO A LD DE DECLSION SOBRE EL GLIDE SLOPE",
-			"B": "AL ARRIBO AL MARCADOR MEDIO",
-			"C": "ALTERMINO DELTIEMPO REGISTRADO EN LA CARTA DE APROXIMACION PARA APROXIMACION FRUSTRADA."
+			"A": "al arribo a LD de decisión sobre el glide slope",
+			"B": "al arribo al marcador medio",
+			"C": "al termino del tiempo registrado en la carta de aproximación para aproximación frustrada."
 		},
 		{
-			"Pregunta": "226.- (4763) SI DURANTE UNA APROXIMACION ILS EN CONDICIONES IFR, LAS LUCES DE APROXIMACION NO SON VISIBLES ARRIBANDO A LA ALTITUD DE DECISION, AL PILOTO  LEES: ",
+			"Pregunta": "226.- (4763) si durante una aproximación ILS en condiciones IFR, las luces de aproximación no son visibles arribando a la altitud de decisión, al piloto  lees: ",
 			"RespuestaCorrecta": "1",
-			"A": "REQUERIDO EJECUTAR INMEDATAMENTE LOS PROCEDIMIENTOS DE APROXIMACION FRUSTRADA",
-			"B": "PER.MrriDO CONTINUAR LA APROXIMACION Y DESCENDER AL LOCALIZADOR MDA",
-			"C": "PERMITIDO CONTINUAR LA APROXIMACION HASTA EL UMBRAL DE APROXIMACION PARA UA DEL ILS"
+			"A": "requerido ejecutar inmediatamente los procedimientos de aproximación frustrada",
+			"B": "permitido continuar la aproximación y descender al localizador MDA",
+			"C": "permitido continuar la aproximación hasta el umbral de aproximación para UA del ILS"
 		},
 		{
-			"Pregunta": "227.- (4659) COPO UN PILOTO DETERMINA SI EL DME ESTA DISPONIBLE SOBRE UN ILS/LOC: ",
+			"Pregunta": "227.- (4659) copo un piloto determina si el dme está disponible sobre un ILS/LOC: ",
 			"RespuestaCorrecta": "1",
-			"A": "LOS PROCEDIMIEÍ'TOS DE APROXIMACION INSTRUMENTAL INDICAN EL CANAL DME/TACAN EN LA CAJA DE FRECUENCAS LOC",
-			"B": "EL LOC/DME ESTAN INDICADOS EN LA CAJA DE FRECUENCIA DE UNA RUTA DE BAJA ALTITUD",
-			"C": "LA.S FRECUENCAS LOC/DME ESTAN DISPONIBLES EN EL MANUAL DE INFORMACION AERONAUTICA (AlP)."
+			"A": "los procedimientos de aproximación instrumental indican el canal dme/tacan en la caja de frecuencias LOC",
+			"B": "el LOC/DME están indicados en la caja de frecuencia de una ruta de baja altitud",
+			"C": "las frecuencias LOC/DME están disponibles en el manual de información aeronáutica (AIP)."
 		},
 		{
-			"Pregunta": "228.- (4753) A QUE ALTURA APROXIMADAMENTE ESTA LA LINEA CENTRAL DEL GLIDE SLOPE EN EL MM DE UN ILS TIPICO: ",
+			"Pregunta": "228.- (4753) a que altura aproximadamente esta la línea central del glide slope en el mm de un ILS típico: ",
 			"RespuestaCorrecta": "2",
-			"A": "100 PIES",
-			"B": "200 PIES",
-			"C": "300 PIES."
+			"A": "100 pies",
+			"B": "200 pies",
+			"C": "300 pies."
 		},
 		{
-			"Pregunta": "230.- ***(4747) QUE INDICACION RECIBIRA UN PILOTO DONDE ESTA INSTALADO UN M SOBRE UN CURSO FRONTAL DE UNA APROXIMACION ILS: ",
+			"Pregunta": "230.- (4747) que indicación recibirá un piloto donde está instalado un m sobre un curso frontal de una aproximación ILS: ",
 			"RespuestaCorrecta": "2",
-			"A": "UN PUNTO POR SEGUNDO Y UNA LUZ FUA AMBAR",
-			"B": "SEIS PUNTOS POR SEGUNDO Y UNA LUZ BLANCA INTERMÍTENTE",
-			"C": "RAYAS ALTERNAS Y UNA LUZ AZUL"
+			"A": "un punto por segundo y una luz fija ámbar",
+			"B": "seis puntos por segundo y una luz blanca intermitente",
+			"C": "rayas alternas y una luz azul"
 		},
 		{
-			"Pregunta": "232.- (4731) QUE ACCION DEL PILOTO ES APROPIADA SI MAS DE UN COMPONENTE DE UN ILS ESTA INOPERATIVO:",
+			"Pregunta": "232.- (4731) que accion del piloto es apropiada si más de un componente de un ILS esta inoperativo:",
 			"RespuestaCorrecta": "1",
-			"A": "USAR EL MINIMO MAS ALTO REQUERIDO POR CUALQUIER UNICO COMPONENTE QUE ESTE INOPERATIVO",
-			"B": "REQUERIR OT RA APROXIMACION ARROPADA PARA EL EQUIPO QUE ESTA OPERATIVO",
-			"C": "ALCANZAR LOS MINIMOS DE CADA UNO DE LOS COMPONENTES QUE ESTEN INOPERATIVOS."
+			"A": "usar el mínimo más alto requerido por cualquier único componente que este inoperativo",
+			"B": "requerir otra aproximación arropada para el equipo que está operativo",
+			"C": "alcanzar los mínimos de cada uno de los componentes que estén inoperativos."
 		},
 		{
-			"Pregunta": "233.- (4732) QUE CAMBIO ES PERMITIDO CUANDO UN COMPONENTE DE UN ILS ÉSTA INOPERATIVO:",
+			"Pregunta": "233.- (4732) que cambio es permitido cuando un componente de un ILS esta inoperativo:",
 			"RespuestaCorrecta": "1",
-			"A": "UN LOCALIZADOR COMPAS O UN RADAR DE PRECISION PUEDEN SER SUSTITUIDOS POR EL MARCADOR EXTERNO Y MEDIO",
-			"B": "EL ADF O RADAL DE VOR QUE CRUZAN YA SEA EL MARCADOR MEDIO Y EXTERNO PUEDEN SER SUSTrrUIDOS POR ESTOS MARCADORES",
-			"C": "EL DME, CUANDO ESTA LOCALIZADO EN SÍTUACION DE ANTENA DEBRA SER SUSTITUIDO POR EL MARCADOR EXTERNO Y MEDIO."
+			"A": "un localizador compas o un radar de precisión pueden ser sustituidos por el marcador externo y medio",
+			"B": "el ADF o radal de vor que cruzan ya sea el marcador medio y externo pueden ser sustituidos por estos marcadores",
+			"C": "el dme, cuando está localizado en situación de antena deberá ser sustituido por el marcador externo y medio."
 		},
 		{
-			"Pregunta": "234.- (4733) QUE FACILIDADES SI EXISTE ALGUNA PUEDEN SER SUSTITUIDAS POR UN MM INOPERATIVO DURANTE UNA APROXIMACION INSTRUMENTAL ILS, SIN AFECTAR LOS MINIMOS DE APROXIMACION DIRECTA:",
+			"Pregunta": "234.- (4733) que facilidades si existe alguna pueden ser sustituidas por un mm inoperativo durante una aproximación instrumental ILS, sin afectar los mínimos de aproximación directa:",
 			"RespuestaCorrecta": "2",
-			"A": "EL RADAR DE PRESICION Y VIGILANCA (ASR)",
-			"B": "LA SUSTITUCION NO ES NECESARA, LOS MINIMOS NO CAMBAN",
-			"C": "EL COMPAZ LOCALIZADOR, PAR, Y RADAR DE PRECISION (ASR)"
+			"A": "el radar de precisión y vigilancia (ASR)",
+			"B": "la sustitución no es necesaria, los mínimos no cambian",
+			"C": "el compás localizador, par, y radar de precisión (ASR)"
 		},
 		{
-			"Pregunta": "235.-*** (4770) QUE SUSTITUCION ES APROPIADA DURANTE UNA APROXIMACION ILS: ",
+			"Pregunta": "235.-(4770) que sustitución es apropiada durante una aproximación ILS: ",
 			"RespuestaCorrecta": "2",
-			"A": "UN RADAL DEL VOR CRUZANDO EL SITIO DE UN MARCADOR EXTERNO PUEDE SER SUSTITUIDO POR EL MARCADOR EXTERNO",
-			"B": "LOS ..MÍNIMOS DEL LOC POD.RIAN SER SUSTrrUIDOS POR LOS MINIP'OS DEL ILS SIEMPRE QUE EL GLDE SLOPE ESTE INOPERATIVO",
-			"C": "EL DME, CUANDO ESTE LOCALIZADO EN EL LUGAR DE LA ANTEN/ DEL LOCALIZADOR PODRA SER SUSTÍTUIDO YA SEA POR EL MARCADOR EXTERNO, O M/iRCADOR MEDIO."
+			"A": "un radal del vor cruzando el sitio de un marcador externo puede ser sustituido por el marcador externo",
+			"B": "los mínimos del LOC podrían ser sustituidos por los mínimos del ILS siempre que el glide slope este inoperativo",
+			"C": "el dme, cuando este localizado en el lugar de la antena del localizador podrá ser sustituido ya sea por el marcador externo, o marcador medio."
 		},
 		{
-			"Pregunta": "236.- (4764 ) ENi^/íEDSATAMENTE DESPUES DE PASAR LA SEÑAL (FS'i) DE APROXIMACION FINAL DURANTE UNA APROXIMACION SLS EN CONDICIONES IFR, AlARECE LA BANDERA DE AVISO DEL GLIDE SLOPE. EL PILOTO ESTA:",
+			"Pregunta": "236.- (4764) inmediatamente después de pasar la señal (FSI) de aproximación final durante una aproximación SLS en condiciones IFR, aparece la bandera de aviso del glide slope. el piloto esta:",
 			"RespuestaCorrecta": "2",
-			"A": "PERMITIDO CONTINUAR LA APROXIMACION Y DESCENDER HAST LA DH",
-			"B": "FERMmDO CONTINUAR LA APROXIMACION Y DESCENDER HAST/. EL LOCALIZADOR MOA",
-			"C": "REQUERIDO INMEDATAMENTE INICAR LOS PROCEDIMIENTOS DE APROXIMACION FRUSTRADA PRESCRLTOS."
+			"A": "permitido continuar la aproximación y descender hasta la DH",
+			"B": "permitido continuar la aproximación y descender hasta el localizador MOA",
+			"C": "requerido inmediatamente iniciar los procedimientos de aproximación frustrada prescritos."
 		},
 		{
-			"Pregunta": "237.- (4706 ) UN PILOTO ESTA REALIZANDO UNA APROXIMACION I S Y ESTA PASANDO EL OM HACIA LA PISTA QUE TIENE UN VASL Q UE ACCION DEBER!, TOMAR EL PILOTO SI OCURRE UN MAL FUNCIONAMIENTO DEL GLIDE SLOPE ELECTRO! ICO YTÍENE EL VASi' A LA VISTA:",
+			"Pregunta": "237.- (4706) un piloto está realizando una aproximación ILS y está pasando el om hacia la pista que tiene un VASI que accion deber tomar el piloto si ocurre un mal funcionamiento del glide slope electrónico y tiene el VASI a la vista:",
 			"RespuestaCorrecta": "2",
-			"A": "EL PILOTO DEBERA INFORMAR AL ATC DEL MAL FUNCIONAMIENTO Y ENTONCES DESCENDER INMEDATAMENTE AL LOCALIZADOR DEL DH Y REALIZAR L'NA APROXIMACION CON LOCALIZADOR",
-			"B": "EL PILOTO PUEDE CONTINUAR LA APROXiMACION Y USAR EL GLIDE SLOPE DEL VASI EN LUGAR DEL GLIDE SLOPE ELECTRONICO",
-			"C": "EL PILOTO DEBE REQUERIR UNA APROXIMACION LOC, Y PUEDE DESCENDER BAJO EL  VAS! A DISCRECION."
+			"A": "el piloto deberá informar al ATC del mal funcionamiento y entonces descender inmediatamente al localizador del DH y realizar la aproximación con localizador",
+			"B": "el piloto puede continuar la aproximación y usar el glide slope del VASI en lugar del glide slope electrónico",
+			"C": "el piloto debe requerir una aproximación LOC, y puede descender bajo el  VASI a discreción."
 		},
 		{
-			"Pregunta": "238.- (47B2) LA RATA DE DESCENSO SOBRE UN GLIDE SLOPE DEPENDE DE:",
+			"Pregunta": "238.- (47b2) la rata de descenso sobre un glide slope depende de:",
 			"RespuestaCorrecta": "3",
-			"A": "LA VELOCIDAD VERDADERA",
-			"B": "LA VELOCIDAD CALIBRADA",
-			"C": "LA VELOCIDAD ABSOLUTA (GS)"
+			"A": "la velocidad verdadera",
+			"B": "la velocidad calibrada",
+			"C": "la velocidad absoluta (gs)"
 		},
 		{
-			"Pregunta": "239.- (4748) PAR/MANTENERSE SOBRE EL GLIDE PATH DEL ILS, LA RATA DE DESCENSO DEBERIA SER:",
+			"Pregunta": "239.- (4748) para mantenerse sobre el glide path del ILS, la rata de descenso debería ser:",
 			"RespuestaCorrecta": "3",
-			"A": "DISMINUIDA SI LA VELOCIDAD ES INCREMENTADA",
-			"B": "DISMINUIDA SI LA VELOCIDAD EN TIERRA (GS) ES INCREMENTADA",
-			"C": "INCREMENTADA SI lA VELOCIDAD EN TIERR.A (GS) ES INCREMENTADA."
+			"A": "disminuida si la velocidad es incrementada",
+			"B": "disminuida si la velocidad en tierra (gs) es incrementada",
+			"C": "incrementada si la velocidad en tierra (gs) es incrementada."
 		},
 		{
-			"Pregunta": "240.- (4720 ) CUANDO PASAMOS A TRAVES DE UNA ABRUPTA CORTANTE DE VIENTO (WIND SHEAR) QUE INVOLUCRA UN CAMBIO DE VIENTO DE COLA A VIENTO DE FRENTE, QUE POTENCIA PODRIA SER REQUERIDA NORMALMENTE PARA MANTENER UNA VELOCIDAD INDICADA CONSTAÍSTTE Y EL GLIDE SLOPE: ",
+			"Pregunta": "240.- (4720 ) cuando pasamos a través de una abrupta cortante de viento (wind shear) que involucra un cambio de viento de cola a viento de frente, que potencia podría ser requerida normalmente para mantener una velocidad indicada constante y el glide slope: ",
 			"RespuestaCorrecta": "2",
-			"A": "LA POTENCA INICAL MAS ALTA QUE I A NO RMAL, SEGL.ÍIDA DE UN MAYOR INCREMENTO SEGUN LA CORTANTE DE VIENTO SE ENCUENTRE, LUEGO UN DECRECIMIENTO",
-			"B": "LA POTENCIA INICAL MAS B.AJA QUE LA NORMAL, SEGUIDA DE UN MAYOR DECRECIMIENTO SEGUN LA CORTANTE DE VIENTO SE ENCUENTRE, LUEGO UN INCREMENTO",
-			"C": "LA POTENCA INICIAL MAS ALTA QUE LA NORMAL, SEGUIDA POR UN DECRECIMIENTO SEGUN LA CORTANTE DE VENTO SE ENCUENTRE, LUEGO UN INCREMENTO."
+			"A": "la potencia inicial más alta que la normal, seguida de un mayor incremento según la cortante de viento se encuentre, luego un decrecimiento",
+			"B": "la potencia inicial más baja que la normal, seguida de un mayor decrecimiento según la cortante de viento se encuentre, luego un incremento",
+			"C": "la potencia inicial más alta que la normal, seguida por un decrecimiento según la cortante de viento se encuentre, luego un incremento."
 		},
 		{
-			"Pregunta": "241.- (4756 ) LA SENDA DE PLANEO Y EL LOCALIZADOR ESTAN CENTRADOS PERO LA VELOCIDAD ESTA DEMASIADO RAPIDA, QUE DEBERIA SER AJUSTADO INÍCIALMENTE: ",
+			"Pregunta": "241.- (4756 ) la senda de planeo y el localizador están centrados pero la velocidad está demasiado rápida, que debería ser ajustado inicialmente: ",
 			"RespuestaCorrecta": "2",
-			"A": "CABÉCEO Y POTENCIA",
-			"B": "POTENCIA SOLAMENTE",
-			"C": "CABECEO SOLAMENTE."
+			"A": "cabeceo y potencia",
+			"B": "potencia solamente",
+			"C": "cabeceo solamente."
 		},
 		{
-			"Pregunta": "242.- (4757) MIENTRAS SE ESTA SIENDO VECJOREADO, SI SE ESTA CRUZANDO EL CURSO DE APROXIMACION FINAL DEL ILS Y NO SE TIENE EMITIDA UNA AUTORIZACION PARA LA APROXIMACION, QUE ACCION DEBERIA SER TOMADA POR EL PILOTO:",
+			"Pregunta": "242.- (4757) mientras se está siendo vectoreado, si se está cruzando el curso de aproximación final del ILS y no se tiene emitida una autorización para la aproximación, que accion debería ser tomada por el piloto:",
 			"RespuestaCorrecta": "3",
-			"A": "VIRAR AL CURSO DE SALIDA EN LA APROXIMACION FINAL, EJECUTAR UN VIRAJE DE PROCEDIMIENTO, E INFORMAR AL ATO",
-			"B": "VIRAR AL CURSO DE ENTRADA Y EJECUTAR EL PROCEDIMIENTO DE APROXIMACION FRUSTRADA EN EL MARCADOR EXTERNO SI NO HA SIDO RECIBIDA LA AUTORIZACION PARA LA APROXIMACION",
-			"C": "MANTENER EL ULTIMO RUMBO ASIGNADO Y PREGUNTAR AL ATC."
+			"A": "virar al curso de salida en la aproximación final, ejecutar un viraje de procedimiento, e informar al ato",
+			"B": "virar al curso de entrada y ejecutar el procedimiento de aproximación frustrada en el marcador externo si no ha sido recibida la autorización para la aproximación",
+			"C": "mantener el ultimo rumbo asignado y preguntar al ATC."
 		},
 		{
-			"Pregunta": "243.- (4727) MIENTRAS SE VUELA EN UNA SENDA DE PLANEO DE 3 GRADOS, UNA CORTANTE DE VIENTO DE COLA CONSTANTE CAMBIA A VIENTO CALMA, QUE CONDICIONES DEBERA ESPERAR EL PILOTO: ",
+			"Pregunta": "243.- (4727) mientras se vuela en una senda de planeo de 3 grados, una cortante de viento de cola constante cambia a viento calma, que condiciones deberá esperar el piloto: ",
 			"RespuestaCorrecta": "3",
-			"A": "LA VELOCIDAD Y LA ACTITUD DE CABECEO DISMINUYE CON UNA TENDENCA A IR ABAJO DE LA SENDA DE PLANEO",
-			"B": "LA VELOCIDAD Y LA ACTITUD DE CABECEO SE INCREMENTA CON UNA TENDENCA A IR ABAJO DE lA SENDA DE PLANEO",
-			"C": "LA VELOCIDAD Y LA ACTITUD DE CABECEO SE INCREMENTA CON UNA TENDENCA A IR SOBRE LA SENDA DE PLANEO."
+			"A": "la velocidad y la actitud de cabeceo disminuye con una tendencia a ir abajo de la senda de planeo",
+			"B": "la velocidad y la actitud de cabeceo se incrementa con una tendencia a ir abajo de la senda de planeo",
+			"C": "la velocidad y la actitud de cabeceo se incrementa con una tendencia a ir sobre la senda de planeo."
 		},
 		{
-			"Pregunta": "244.- ***EN UN VUELO CON ADF EL ATC INFORMA ESPERA IZQUIERDA CON RUMBO DE INGRESO A 040 GRADOS, SI TENEMOS UN RUMBO 035 GRADOS Y UNA MARCACION DE IO GRADOS. CUAL ES EL PROCEDIMIENTO RECOMENDADO PARA EL INGRESO A ESPERA:",
+			"Pregunta": "244.-en un vuelo con ADF el ATC informa espera izquierda con rumbo de ingreso a 040 grados, si tenemos un rumbo 035 grados y una marcación de 1o grados. cuál es el procedimiento recomendado para el ingreso a espera:",
 			"RespuestaCorrecta": "3",
-			"A": "DIRECTO SOLAMENTE",
-			"B": "EN GOTA SOLAMENTE",
-			"C": "EN PARALELO SOLAMENTE."
+			"A": "directo solamente",
+			"B": "en gota solamente",
+			"C": "en paralelo solamente."
 		},
 		{
-			"Pregunta": "245.- EN UN VUELO CON ADF EL ATC INFORMA ESPERA CON RUMBO DE INGRESO 230 GRADOS. SI TENEMOS UN RUMBO DE 030 GRADOS Y UNA MARCACION DE 110 GRADOS. CUAL ES EL PROCEDIMIENTO RECOMENDADO PARA EL INGRESO A ESPERA: ",
+			"Pregunta": "245.- en un vuelo con ADF el ATC informa espera con rumbo de ingreso 230 grados. si tenemos un rumbo de 030 grados y una marcación de 110 grados. cuál es el procedimiento recomendado para el ingreso a espera: ",
 			"RespuestaCorrecta": "1",
-			"A": "DIRECTO",
-			"B": "EN GOTA",
-			"C": "EN PARALELO."
+			"A": "directo",
+			"B": "en gota",
+			"C": "en paralelo."
 		},
 		{
-			"Pregunta": "246.- (4625) CUANDO SE REALIZA UN HOLDING EN UN NDB, EN QUE PUNTO DEBERIA INICIAR EL TIEMPO PARA LA SEGUNDA PIERNA OUTBOUND: ",
+			"Pregunta": "246.- (4625) cuando se realiza un holding en un NDB, en qué punto debería iniciar el tiempo para la segunda pierna outbound: ",
 			"RespuestaCorrecta": "3",
-			"A": "CUANDO LAS ALAS ESTAN NIVELADAS Y EL ANGULO DE CORRECCION DE DERIVA ESTA ESTABLECIDO DESPUES DE COMPLETAR EL VIRAJE AL RUMBO OUTBOUND",
-			"B": "CUANDO LAS ALAS ESTAN NIVELADAS DESPUES DE COMPLETAR EL VIRAJE AL RUMBO OUTBOUND, O A TRAVES DEL PUNTO O LO QUE OCURRA PRIMERO",
-			"C": "CUANDO SE ESTA A TRAVES DEL PUNTO."
+			"A": "cuando las alas están niveladas y el ángulo de corrección de deriva está establecido después de completar el viraje al rumbo outbound",
+			"B": "cuando las alas están niveladas después de completar el viraje al rumbo outbound, o a través del punto o lo que ocurra primero",
+			"C": "cuando se está a través del punto."
 		},
 		{
-			"Pregunta": "247.- CUANDO UN PATRON DE ESPERA ESTA ESPECIFICADO EN LUGAR DE UN VIRAJE DE PROCEDIMIENTO, LAS MANIOBRAS DE ESPERA DEBEN SER EJECUTADAS DENTRO DE: ",
+			"Pregunta": "247.- cuando un patrón de espera está especificado en lugar de un viraje de procedimiento, las maniobras de espera deben ser ejecutadas dentro de: ",
 			"RespuestaCorrecta": "1",
-			"A": "LA LIMITACION DEL VIENTO O LA PERMITIDA MAS LARGA PUBLICADA",
-			"B": "UN RADIO DE 5 MILLAS DESDE EL PUNTO DE ESPERA",
-			"C": "A 10 NUDOS DE LA VELOCIDAD DE ESPERA ESPECIFICADA."
+			"A": "la limitación del viento o la permitida más larga publicada",
+			"B": "un radio de 5 millas desde el punto de espera",
+			"C": "a 10 nudos de la velocidad de espera especificada."
 		},
 		{
-			"Pregunta": "248.- (4668) CUANDO MAS DE UN CIRCUITO DE PATRON DE ESPERA ES NECESARIO PARA PERDER ALTITUD, O TOMAR UN MEJOR CURSO ESTABLECIDO, LOS CIRCUITOS ADICIONALES PUEDEN SER REALIZADOS:",
+			"Pregunta": "248.- (4668) cuando más de un circuito de patrón de espera es necesario para perder altitud, o tomar un mejor curso establecido, los circuitos adicionales pueden ser realizados:",
 			"RespuestaCorrecta": "3",
-			"A": "A DISCRECION DEL PILOTO",
-			"B": "SOLAMENTE EN CASO DE EMERGENCA",
-			"C": "SOLAMENTE SI EL PILOTO NOTIFICA AL ATC Y EL ATC AUTORIZA."
+			"A": "a discreción del piloto",
+			"B": "solamente en caso de emergencia",
+			"C": "solamente si el piloto notifica al ATC y el ATC autoriza."
 		},
 		{
-			"Pregunta": "249.- (4455) QUE PROCEDIMIENTO USTED DEBERIA SEGUIR SI DURANTE UN VUELO IFR EN CONDICIONES VFR, USTED TIENE FALLA DE LOS EQUIPOS DE RADIOCOMUNICACION EN LAS DOS VIAS:",
+			"Pregunta": "249.- (4455) que procedimiento usted debería seguir si durante un vuelo IFR en condiciones VFR, usted tiene falla de los equipos de radiocomunicación en las dos vías:",
 			"RespuestaCorrecta": "1",
-			"A": "CONTINUAR EL VUELO BAJO CONDICIONES VFR Y ATERRIZAR TAN PRONTO COM O SEA POSIBLE",
-			"B": "CONTINUAR EL VUELO EN LA ALTITUD Y RUTA ASIGNADA, COMENZAR APROXIMACION A SU ETA, O SI SE ATRAZA INICAR lA APROXIMACION A SU DESTINO",
-			"C": "ATERRIZAR EN EL AEROPUERTO MAS CERCANO QUE TENGA CONDICIONES VFR."
+			"A": "continuar el vuelo bajo condiciones VFR y aterrizar tan pronto como sea posible",
+			"B": "continuar el vuelo en la altitud y ruta asignada, comenzar aproximación a su eta, o si se atrasa iniciar la aproximación a su destino",
+			"C": "aterrizar en el aeropuerto más cercano que tenga condiciones VFR."
 		},
 		{
-			"Pregunta": "250.- (4462) USTED INGRESA A PATRON DE ESPERA EN UN PUNTO (EFC) EN ESE  MISMO PUNTO DE APROXIMACION Y RECIBE UNA AUTORIZACION PARA INICIAR PROCEDIMIENTO CON UN TIEMPO DE 15:30 A LAS 15:20 EXPERIMENTA UNA FALLA DE RADIOCOMUNICACION DE DOBLE VIA QUE PROCEDIMIENTO USTED DEBERIA SEGUIR PARA EJECUTAR LA APROXIMACION Y UN ATERRIZAJE:",
+			"Pregunta": "250.- (4462) usted ingresa a patrón de espera en un punto (EFC) en ese mismo punto de aproximación y recibe una autorización para iniciar procedimiento con un tiempo de 15:30 a las 15:20 experimenta una falla de radiocomunicación de doble vía que procedimiento usted debería seguir para ejecutar la aproximación y un aterrizaje:",
 			"RespuestaCorrecta": "2",
-			"A": "SALIR DEL PUNTO DE ESPERA PARA ARRIBAR AL PUNTO DE APROXIMACION COMO SEA POSIBLE AL TIEMPO AUTORIZADO Y COMPLETAR LA APROXIMACION",
-			"B": "SALIR DEL PUNTO DE ESPERA EN ELTIEMPO AUTORIZADO (EFC) Y COMPLETAR LA APROXIMACION",
-			"C": "SALIR DEL PUNTO DE ESPERA EN ELTIEMPO AUTORIZADO (EFC) O ANTES, SI SU ETA HA SIDO ANTES DEL AUTORIZADO."
+			"A": "salir del punto de espera para arribar al punto de aproximación como sea posible al tiempo autorizado y completar la aproximación",
+			"B": "salir del punto de espera en el tiempo autorizado (EFC) y completar la aproximación",
+			"C": "salir del punto de espera en el tiempo autorizado (EFC) o antes, si su eta ha sido antes del autorizado."
 		},
 		{
-			"Pregunta": "251.- (4775) CUAL DE LAS SIGUIENTES INDICACIONES UN PILOTO OBSERVARIA MIENTRAS REALIZA LA APROXIMACION PARA ATERRIZAR EN UNA PISTA SERVIDA CON 2 BARRAS DEL VASI:",
+			"Pregunta": "251.- (4775) cuál de las siguientes indicaciones un piloto observaría mientras realiza la aproximación para aterrizar en una pista servida con 2 barras del VASI:",
 			"RespuestaCorrecta": "2",
-			"A": "SI SE MANTIENE SOBRE EL GLIDE PATH, LAS BARRAS CERCANAS APARECERAN ROJAS Y LAS DISTANTES BLANCAS",
-			"B": "SI SE SALE HACA EL LADO ALTO DEL GLIDE SLOPE, LAS BARRAS LEJANAS CAMBIARAN DE ROJAS A BLANCAS",
-			"C": "SI SE MANTIENE SOBRE EL GLIDE PATH, AMBAS LAS BARRAS CERCANAS Y LAS BARRAS LEJANAS APARECERAN BLANCAS."
+			"A": "si se mantiene sobre el glide path, las barras cercanas aparecerán rojas y las distantes blancas",
+			"B": "si se sale hacia el lado alto del glide slope, las barras lejanas cambiaran de rojas a blancas",
+			"C": "si se mantiene sobre el glide path, ambas las barras cercanas y las barras lejanas aparecerán blancas."
 		},
 		{
-			"Pregunta": "252.- (4778) CUANDO SE ESTA EN EL GLIDE PATH ADECUADO DEL VASI DE 2 BARRAS, EL PILOTO VERA LA BARRA CERCANA: ",
+			"Pregunta": "252.- (4778) cuando se está en el glide path adecuado del VASI de 2 barras, el piloto vera la barra cercana: ",
 			"RespuestaCorrecta": "1",
-			"A": "BLANCA Y LA BARRA LEJANA ROJA",
-			"B": "ROJA Y LA BARRA LEJANA BLANCA",
-			"C": "BLANCA Y LA BARRA LEJANA BLANCA."
+			"A": "blanca y la barra lejana roja",
+			"B": "roja y la barra lejana blanca",
+			"C": "blanca y la barra lejana blanca."
 		},
 		{
-			"Pregunta": "253.- (4779) EN UNA APROXIMACION HACIA UNA PISTA QUE TIENE UN VASI CON 3 BARRAS OPERANDO Y TODAS LAS LUCES DEL VASI APARECEN ROJAS.CONFORME LA AERONAVE ALCANZA EL MDA, EL PILOTO  DEBERÍA:",
+			"Pregunta": "253.- (4779) en una aproximación hacia una pista que tiene un VASI con 3 barras operando y todas las luces del VASI aparecen rojas. conforme la aeronave alcanza el MDA, el piloto  debería:",
 			"RespuestaCorrecta": "3",
-			"A": "INICIAR UN ASCENSO HASTA ALCANZAR EL GLIDE PATH ARROPADO",
-			"B": "CONTINUAR EN LA MISMA RATA DE DESCENSO SI LA' PISTA ESTA A LA VISTA",
-			"C": "MANTENER EL NIVEL HASTA INTERCEPTAR LA SENDA DE APROXIMACION ARROPADA"
+			"A": "iniciar un ascenso hasta alcanzar el glide path arropado",
+			"B": "continuar en la misma rata de descenso si la pista está a la vista",
+			"C": "mantener el nivel hasta interceptar la senda de aproximación arropada"
 		},
 		{
-			"Pregunta": "254.- (4420) DURANTE UN DESPEGUE EN CONDICIONES IFR CON TECHOS BAJOS, CUANDO DEBERIA EL PILOTO CONTACTARSE EL CONTROL DE SALIDA:",
+			"Pregunta": "254.- (4420) durante un despegue en condiciones IFR con techos bajos, cuando debería el piloto contactarse el control de salida:",
 			"RespuestaCorrecta": "2",
-			"A": "ANTES DE PENETRAR EN NUBES",
-			"B": "CUANDO SEA REQUERIDO POR LA TORRE",
-			"C": "EN EL MOMENTO DE COMPLETAR EL PRIMER VIRAJE DESPUES DEL DESPEGUE O EN EL MOMENTO DE ESTABLECER EL ASCENSO A CRUCERO EN UNA SALIDA DIRECTA."
+			"A": "antes de penetrar en nubes",
+			"B": "cuando sea requerido por la torre",
+			"C": "en el momento de completar el primer viraje después del despegue o en el momento de establecer el ascenso a crucero en una salida directa."
 		},
 		{
-			"Pregunta": "255.- (4393) CUAL ES EL PROCEDIMIENTO DE ASCENSO RECOMENDADO GLSANDO LAS INSTRUCCIONES DEL CONTROL PARA SALIR SIN RADAR INDICAN AL PILOTO UN ASCENSO A UNA ALTÍTUD ASIGNADA:",
+			"Pregunta": "255.- (4393) cual es el procedimiento de ascenso recomendado cuando las instrucciones del control para salir sin radar indican al piloto un ascenso a una altitud asignada:",
 			"RespuestaCorrecta": "3",
-			"A": "MANTENER UN ASCENSO OPTIMO CONTINUO HASTA ALCANZAR LA ALTITUD ASIGNADA Y REPORTAR PASANDO CADA NIVEL DE 1000 PIES",
-			"B": "ASCENDER A UN MAXIMO ANGULO DE ASCENSO DENTRO DE LOS 1000 PIES DE ALTITUD ASIGNADA, LUEGO ASCENDER A 500 PIES POR MINUTO LOS ULTIMOS lOQO PIES",
-			"C": "MANTENER UN OPTIMO ASCENSO SOBRE LA LINEA CENTRAL DE LA AEROVIA SIN NIVELADAS INTERMEDIAS HASTA LOS 1000 PIES POR ABAJO DE LA ALTFTUD ASIGNADA, LUEGO ASCENDER A 500 PIES POR MINUTO."
+			"A": "mantener un ascenso optimo continuo hasta alcanzar la altitud asignada y reportar pasando cada nivel de 1000 pies",
+			"B": "ascender a un máximo ángulo de ascenso dentro de los 1000 pies de altitud asignada, luego ascender a 500 pies por minuto los últimos 1000 pies",
+			"C": "mantener un óptimo ascenso sobre la línea central de la aerovía sin niveladas intermedias hasta los 1000 pies por abajo de la altitud asignada, luego ascender a 500 pies por minuto."
 		},
 		{
-			"Pregunta": "256.- (4776) LAS BARRAS INTERMEDIAS Y LEJANAS DE UN VASI DE 3 BARRRAS DEBERAN:",
+			"Pregunta": "256.- (4776) las barras intermedias y lejanas de un VASI de 3 barras deberán:",
 			"RespuestaCorrecta": "3",
-			"A": "AMBAS APARECER BLANCAS AL PILOTO CUANDO SE ESTA POR ARRIBA DE LA TRAYECTORA DE PLANEO",
-			"B": "CONSTITUIR UN VASI DE 2 BARRAS PARA LA UTILIZACION DE LA TRAYECTORA DE PLANEO INFERIOR",
-			"C": "CONSTITUIR UN VASI DE 2 BARRAS PARA LA UTILIZACION DE LA TRAYECTORA DE PLANEO SUPERIOR."
+			"A": "ambas aparecer blancas al piloto cuando se está por arriba de la trayectoria de planeo",
+			"B": "constituir un VASI de 2 barras para la utilización de la trayectoria de planeo inferior",
+			"C": "constituir un VASI de 2 barras para la utilización de la trayectoria de planeo superior."
 		},
 		{
-			"Pregunta": "257.- PARA CUMPLIR CON LAS INSTRUCCIONES DEL ATC EN UN CAMBIO DE ALTITUD DE MAS DE 1000 PIES, QUE RATA DE ASCENSO O DESCENSO SE DEBERIA USAR:",
+			"Pregunta": "257.- para cumplir con las instrucciones del ATC en un cambio de altitud de más de 1000 pies, que rata de ascenso o descenso se debería usar:",
 			"RespuestaCorrecta": "3",
-			"A": "SE PUEDE APLICAR RAPIDAMENTE 500 PIES SOBRE O BAJO LA ALTLTUD ASIGNADA Y LUEGO SE REQUERIRA 500 PIES/MIN. DENTRO DE LA ALTITUD ASIGNADA",
-			"B": "1000 PIES POR MINUTO DURANTE EL ASCENSO Y 500 PIES POR MINUTO DURANTE EL DESCENSO DENTRO DE LA ALTÍTUD ASIGNADA",
-			"C": "TAN PRONTO COMO SE PUEDA APLICAR 1000 PIES SOBRE O BAJO LA ALTITUD ASIGNADA, ASCENDER O DESCENDER ENTRE 500 Y 1500 PIES POR MINUTO."
+			"A": "se puede aplicar rápidamente 500 pies sobre o bajo la altitud asignada y luego se requerirá 500 pies/min. dentro de la altitud asignada",
+			"B": "1000 pies por minuto durante el ascenso y 500 pies por minuto durante el descenso dentro de la altitud asignada",
+			"C": "tan pronto como se pueda aplicar 1000 pies sobre o bajo la altitud asignada, ascender o descender entre 500 y 1500 pies por minuto."
 		},
 		{
-			"Pregunta": "258.- (4380) CUANDO EL ATC NO HA IMPUESTO NINGUNA RESTRICCION PARA EL ASCENSO O DESCENSO Y LA AERONAVE ESTA DENTRO DE LOS 1000 PIES DE LA ALTITUD ASIGNADA, LOS PILOTOS DEBERAN INTENTAR ASCENDER O DESCENDER A UNA RATA ENTRE: ",
+			"Pregunta": "258.- (4380) cuando el ATC no ha impuesto ninguna restricción para el ascenso o descenso y la aeronave está dentro de los 1000 pies de la altitud asignada, los pilotos deberán intentar ascender o descender a una rata entre: ",
 			"RespuestaCorrecta": "2",
-			"A": "500 Y 1000 PIES POR MINUTO",
-			"B": "500 Y 1500 PIES POR MINUTO",
-			"C": "1000 Y 2000 PIES POR MINUTO. "
+			"A": "500 y 1000 pies por minuto",
+			"B": "500 y 1500 pies por minuto",
+			"C": "1000 y 2000 pies por minuto. "
 		},
 		{
-			"Pregunta": "259.- QUE REPORTE UN PILOTO DEBERIA HACER AL ATC SIN SER REQUERIDO CUANDO NO TIENE CONTACTO RADAR: ",
+			"Pregunta": "259.- que reporte un piloto debería hacer al ATC sin ser requerido cuando no tiene contacto radar: ",
 			"RespuestaCorrecta": "2",
-			"A": "CUANDO SALGA DE UN PUNTO ASIGNADO PARA HOLDING",
-			"B": "CUANDO SALGA DE UN PUNTO RJ O EN UNA APROXIMACION FINAL:",
-			"C": "EL TIEMPO, ALTITUD O NIVEL DE VUELO REQUERIDO PARA HACER HOLDNG EN UN PUNO FIJO O PUNTO ELEVADO."
+			"A": "cuando salga de un punto asignado para holding",
+			"B": "cuando salga de un punto RJ o en una aproximación final:",
+			"C": "el tiempo, altitud o nivel de vuelo requerido para hacer holding en un puno fijo o punto elevado."
 		},
 		{
-			"Pregunta": "260.- DONDE ESTAN LOS PUNTOS DE REPORTE SI LOS HAY, EN VUELOS DIRECTOS NO SEÑALADOS CON RADIALES, O CURSOS EN RUTA, O EN AEROVIAS ESTABLECIDAS:",
+			"Pregunta": "260.- donde están los puntos de reporte si los hay, en vuelos directos no señalados con radiales, o cursos en ruta, o en aerovías establecidas:",
 			"RespuestaCorrecta": "1",
-			"A": "SOBRE PUNTOS FIJOS SELECCIONADOS PARA DEFINIR LA RUTA",
-			"B": "NO EXISTEN PUNTOS DE REPORTE PARA NOTIFICACION AL ATC",
-			"C": "SOBRE PUNTOS CONFABLES."
+			"A": "sobre puntos fijos seleccionados para definir la ruta",
+			"B": "no existen puntos de reporte para notificación al ATC",
+			"C": "sobre puntos confiables."
 		},
 		{
-			"Pregunta": "261.- (4390) CUANDO DEBERIA ESTAR SU TRANSPONDER EN MODO C MIENTRAS SE VUELA EN IFR: ",
+			"Pregunta": "261.- (4390) cuando debería estar su transponder en modo c mientras se vuela en IFR: ",
 			"RespuestaCorrecta": "2",
-			"A": "SOLAMENTE CUANDO EL ATC REQUIERA EN MODO C",
-			"B": "TODO EL TIEMPO, SI EL EQUIPO HA SIDO BIEN CALIBRADO A MENOS QUE N0 REQUIERA DE OTRO MODO EL ATC",
-			"C": "CUANDO SE PASE 12500 PIES DEL MSL"
+			"A": "solamente cuando el ATC requiera en modo c",
+			"B": "todo el tiempo, si el equipo ha sido bien calibrado a menos que n0 requiera de otro modo el ATC",
+			"C": "cuando se pase 12500 pies del MSL"
 		},
 		{
-			"Pregunta": "262.-(4421 ) DURANTE UN VUELO EL ATC NOTIFICA: TRAFICO A LAS 2 EN PUNTO, 5 MILLAS ENTRADA SUR EL PILOTO ESTA MANTENIENDO 20 GRADOS DE CORRECCION PARA UN VIENTO CRUZADO DESDE LA DERECHA. HACIA DONDE MOSTARA EL PILOTO EL TRAFICO:",
+			"Pregunta": "262.-(4421 ) durante un vuelo el ATC notifica: tráfico a las 2 en punto, 5 millas entrada sur el piloto está manteniendo 20 grados de corrección para un viento cruzado desde la derecha. hacia donde mostrara el piloto el trafico:",
 			"RespuestaCorrecta": "1",
-			"A": "40 GRADOS A LA DERECHA DE LA NARIZ DEL AVION",
-			"B": "20 GRADOS A LA DERECHA DE LA NARIZ DEL AVION",
-			"C": "HACIA EL FRENTE"
+			"A": "40 grados a la derecha de la nariz del avión",
+			"B": "20 grados a la derecha de la nariz del avión",
+			"C": "hacia el frente"
 		},
 		{
-			"Pregunta": "263.- CUAL  SERVICIO ES PROPORCIONADO POR EL CONTROL DE TRANSITO AEREO PARA EL DESPEGUE EN CONDICIONES IFR, CUANDO OPERA EN UN AEROPUERTO CON SERVICIO DE CONTROL DE AREA RADAR:",
+			"Pregunta": "263.- cual  servicio es proporcionado por el control de tránsito aéreo para el despegue en condiciones IFR, cuando opera en un aeropuerto con servicio de control de AREA radar:",
 			"RespuestaCorrecta": "3",
-			"A": "SEPARACION DE TODAS LAS AERONAVES QUE OPERAN EN EL TMA",
-			"B": "POSICION Y ALTITUD DE TODO EL TRAFICO DENTRO DE 2 MILLAS DE LA LINEA DE VUELO",
-			"C": "SEPARACION DE TODAS LAS AERONAVES EN CONDICIONES IFR, Y LAS QUE ESTAN PARTIENDO EN CONDICIONES VFR."
+			"A": "separación de todas las aeronaves que operan en el TMA",
+			"B": "posición y altitud de todo el tráfico dentro de 2 millas de la línea de vuelo",
+			"C": "separación de todas las aeronaves en condiciones IFR, y las que están partiendo en condiciones VFR."
 		},
 		{
-			"Pregunta": "264.- (4424 ) AL INTERCEPTAR EL RADIAL ASIGNADO, EL CONTROLADOR NOTIFICARA QUE ESTA EN LA AEROVIA Y QUE REASUMA SU NAVEGACION, ESTA FRASE SIGNIFICARA QUE:",
+			"Pregunta": "264.- (4424 ) al interceptar el radial asignado, el controlador notificara que está en la aerovía y que reasuma su navegación, esta frase significara que:",
 			"RespuestaCorrecta": "3",
-			"A": "ESTA EN CONTACTO RADAR, PERO DEBE HACER SU REPORTE DE POSICION",
-			"B": "EL SERVICIO DE RADAR HA TERMINADO Y SERA RESPONSABLE POR LOS REPORTES DE POSICION",
-			"C": "USTED ASUMA TODAS LAS RESPONSABILIDADES PARA SU PROPIA NAVEGACION."
+			"A": "está en contacto radar, pero debe hacer su reporte de posición",
+			"B": "el servicio de radar ha terminado y será responsable por los reportes de posición",
+			"C": "usted asuma todas las responsabilidades para su propia navegación."
 		},
 		{
-			"Pregunta": "265.- (4758) SI DURANTE UNA PRACTICA DE APROXIMACION INSTRUMENTAL EN VFR, EL CONTROL DE APROXIMACIÓN RADAR LE ASIGNA UNA ALTITUD O RUMBO QUE CAUSARIA QUE USTED ENTRE EN NUBES, QUE ACCION DEBERIA SER TOMADA :",
+			"Pregunta": "265.- (4758) si durante una práctica de aproximación instrumental en VFR, el control de aproximación radar le asigna una altitud o rumbo que causaría que usted entre en nubes, que accion debería ser tomada :",
 			"RespuestaCorrecta": "3",
-			"A": "ENTRAR EN NUBES, YA QUE LA AUTORIZACION ATC, PARA PRACTICA DE APROXIMACIONES ES CONSIDERADA UNA AUTORIZACION IFR",
-			"B": "EVITAR LAS NUBES E INFORMAR AL ATC QUE EL RUMBO Y lA ALTITUD NO LE PERMITE EN VFR",
-			"C": "ABANDONAR LA APROXIMACION. "
+			"A": "entrar en nubes, ya que la autorización ATC, para practica de aproximaciones es considerada una autorización IFR",
+			"B": "evitar las nubes e informar al ATC que el rumbo y la altitud no le permite en VFR",
+			"C": "abandonar la aproximación. "
 		},
 		{
-			"Pregunta": "266.- (4726) USTED ESTA SIENDO VECTOREADO HACIA EL CURSO DE APROXIMACION ILS, PERO NO HA SIDO AUTORIZADO PARA LA APROXIMACION. ESTO HACE EVIDENTE QUE USTED PASARA Á TRAVES DEL CURSO DEL LOCALIZADOR. QUE ACCION DEBERIA SER TOMADA:",
+			"Pregunta": "266.- (4726) usted está siendo vectoreado hacia el curso de aproximación ILS, pero no ha sido autorizado para la aproximación. esto hace evidente que usted pasara a través del curso del localizador. que accion debería ser tomada:",
 			"RespuestaCorrecta": "2",
-			"A": "VIRAR OUTBOUND Y REALIZAR UN VIRAJE DE PROCEDIMEINTO.",
-			"B": "CONTINUAR SOBRE EL RUMBO ASIGNADO Y VERIFICAR CON EL ATC",
-			"C": "INICIAR UN VIRAJE HACIA EL RUMBO DE ENTRADA Y VERIFICAR SI ESTA AUTORIZADO PARA LA APROXIMACION."
+			"A": "virar outbound y realizar un viraje de procedimiento.",
+			"B": "continuar sobre el rumbo asignado y verificar con el ATC",
+			"C": "iniciar un viraje hacia el rumbo de entrada y verificar si está autorizado para la aproximación."
 		},
 		{
-			"Pregunta": "267.- QUE VARIACION DE VELOCIDAD DEBE SER NOTIFICADA AL ATC:",
+			"Pregunta": "267.- que variación de velocidad debe ser notificada al ATC:",
 			"RespuestaCorrecta": "3",
-			"A": "CUANDO LA VELOCIDAD CAMBIA EN MAS DE 5 NUDOS",
-			"B": "CUANDO LA VELOCIDAD VERDADERA CAMBIA EN MAS DEL 5% O 10 NUDOS",
-			"C": "CUALQUIER MOMENTO EN QUE LA VELOCIDAD DE TIERRA (GS) CAMBA EN 10 NUDOS."
+			"A": "cuando la velocidad cambia en más de 5 nudos",
+			"B": "cuando la velocidad verdadera cambia en más del 5% o 10 nudos",
+			"C": "cualquier momento en que la velocidad de tierra (gs) cambia en 10 nudos."
 		},
 		{
-			"Pregunta": "268.- (4379) QUE IMPLICA PARA EL ATC LA DECLARACION COMBUSTIBLE MINIMO",
+			"Pregunta": "268.- (4379) que implica para el ATC la declaración combustible mínimo",
 			"RespuestaCorrecta": "3",
-			"A": "ES NECESARA LA PRIORIDAD DE TRAFICO HACA EL AEROPUERTO DE DESTINO",
-			"B": "LA EMERGENCA REQUIERE DE UN AEROPUERTO CERCANO DISPONIBLE",
-			"C": "ES UN AVISO QUE INDICA UNA POSIBLE SITUACION DE EMERGENCA SI ES QUE OCURRE ALGUN RETRASO INESPERADO."
+			"A": "es necesaria la prioridad de tráfico hacia el aeropuerto de destino",
+			"B": "la emergencia requiere de un aeropuerto cercano disponible",
+			"C": "es un aviso que indica una posible situación de emergencia si es que ocurre algún retraso inesperado."
 		},
 		{
-			"Pregunta": "269.- (4443) QUE ACCION USTED TOMARIA SI SU DME FALLA EN EL NIVEL DE VUELO 240:",
+			"Pregunta": "269.- (4443) que accion usted tomaría si su dme falla en el nivel de vuelo 240:",
 			"RespuestaCorrecta": "3",
-			"A": "AVISAR DE lA FALLA AL ATC Y ATERRIZAR EN EL AEROPUERTO MAS CERCANO DISPONIBLE DONDE PUEDEN REALIZARSE LAS REPARACIONES",
-			"B": "NOTIFICAR AL ATC QUE SERA NECESARIO PARA USTED IR A UNA ALTITUD MENOR, PUESTO QUE SU DME HA FALLADO",
-			"C": "NOTIFICAR AL ATC DE LA FALLA Y CONTINUAR AL PROXIMO AEROPUERTO DE ATERRIZAJE PREVISTO DONDE PUEDEN REALIZARSE LAS REPARACIONES."
+			"A": "avisar de la falla al ATC y aterrizar en el aeropuerto más cercano disponible donde pueden realizarse las reparaciones",
+			"B": "notificar al ATC que será necesario para usted ir a una altitud menor, puesto que su dme ha fallado",
+			"C": "notificar al ATC de la falla y continuar al próximo aeropuerto de aterrizaje previsto donde pueden realizarse las reparaciones."
 		},
 		{
-			"Pregunta": "270.- (4460) QUE ACCION USTED REALIZARA SI SU RECEPTOR DE VOR NUMERO 1 FALLA MIENTRAS OPERA EN ESPACIO AEREO CONTROLADO BAJO IFR Y SU AERONAVE ESTA EQUIPADA CON DOS RECEPTORES DE VOR. EL RECEPTOR NO. 1 TIENE CAPACIDAD PARA OMNI/LOCALIZADOR Y GLIDE SLOPE, Y EL NO. 2 TIENE SOLO OMNI:",
+			"Pregunta": "270.- (4460) que accion usted realizara si su receptor de vor número 1 falla mientras opera en espacio aéreo controlado bajo IFR y su aeronave está equipada con dos receptores de vor. el receptor no. 1 tiene capacidad para omni/localizador y glide slope, y el no. 2 tiene solo omni:",
 			"RespuestaCorrecta": "1",
-			"A": "REPORTAR INMEDATAMENTE LA FALLA AL ATC",
-			"B": "CONTINUAR EL VUELO COMO ESTA AUTORIZADO, NO ES REQUERIDO REPORTAR",
-			"C": "CONTINUAR LA APROXIMACION Y SOLICITAR UNA APROXIMACION VOR O NDB."
+			"A": "reportar inmediatamente la falla al ATC",
+			"B": "continuar el vuelo como está autorizado, no es requerido reportar",
+			"C": "continuar la aproximación y solicitar una aproximación vor o NDB."
 		},
 		{
-			"Pregunta": "271.- (4429) CUAL ES LA DEFINICION DE MEA:",
+			"Pregunta": "271.- (4429) cual es la definición de mea:",
 			"RespuestaCorrecta": "1",
-			"A": "LA ALTITUD MAS BAJA PUBLICADA LA CUAL CUMPLE CON LOS REQUERIMIENTOS DE LIBRE DE OBSTACULOS Y ASEGURA UNA SEÑAL DE COBERTURA NAVEGACIONAL ACEPTABLE",
-			"B": "LA ALTITUD MAS BAJA PUBLICADA LA CUAL CUMPLE CON LOS LOS REQUERIMIENTOS DE OBSTACULOS Y ASEGURA UNA COBERTURA NAVEGACIONAL ACEPTABLE, CON RADIOCOMUNICACION EN DOS VIAS, Y PROVEE DE UNA COBERTURA DE RADAR ADECUADA",
-			"C": "UNA ALTITUD QUE CUMPLE CON LOS REQUERIMIENTOS DE LIBRE DE OBSTACULOS, ASEGURA UNA SEÑAL DE COBERTURA NAVEGACIONAL ACEPTABLE, RADIOCOMUNICACION EN DOS VIAS, COBERTURA DE RADAR ADECUADA Y UNA DISTANCA PRECISA DME. "
+			"A": "la altitud más baja publicada la cual cumple con los requerimientos de libre de obstáculos y asegura una señal de cobertura navegacional aceptable",
+			"B": "la altitud más baja publicada la cual cumple con los requerimientos de obstáculos y asegura una cobertura navegacional aceptable, con radiocomunicación en dos vías, y provee de una cobertura de radar adecuada",
+			"C": "una altitud que cumple con los requerimientos de libre de obstáculos, asegura una señal de cobertura navegacional aceptable, radiocomunicación en dos vías, cobertura de radar adecuada y una distancia precisa dme. "
 		},
 		{
-			"Pregunta": "272. (4437) SI NO ESTA ESPECIFICADO UN MCA, CUÁL ES LA ALTITUD MAS BAJA PARA CRUZAR UN PUNTO FIJO DE RADIO, MAS ALLA DE UNA ALTURA MINIMA APLIC KDA:",
+			"Pregunta": "272. (4437) si no está especificado un MCA, cuál es la altitud más baja para cruzar un punto fijo de radio, mas allá de una altura minima aplicada:",
 			"RespuestaCorrecta": "1",
-			"A": "EL MEA AL CUAL EL PUNTO FUO ESTA PRÓXIMO",
-			"B": "EL MRA AL CUAL EL PUNTO FIJO ESTA PROXIMO",
-			"C": "EL MOCA PARA EL SEGMENTO DE LA RUTA MAS ALIA DEL PUNTO"
+			"A": "el mea al cual el punto fijo esta próximo",
+			"B": "el MRA al cual el punto fijo esta próximo",
+			"C": "el moca para el segmento de la ruta más allá del punto"
 		},
 		{
-			"Pregunta": "273.- (4432) EL MEA ASEGURA UNA SEÑAL DE COBERTURA NAVEGACIONAL ACEPTABLE Y:",
+			"Pregunta": "273.- (4432) el mea asegura una señal de cobertura navegacional aceptable y:",
 			"RespuestaCorrecta": "3",
-			"A": "RESPUESTA DME",
-			"B": "COBERTURA RADAR",
-			"C": "CUMPLE CON LOS REQUERIMIENTOS DE LIBRE DE OBSTACULOS."
+			"A": "respuesta dme",
+			"B": "cobertura radar",
+			"C": "cumple con los requerimientos de libre de obstáculos."
 		},
 		{
-			"Pregunta": "274.- (4435) QUE CONDICION ES GARANTIZADA PARA TODOS LOS LIMITES DE LAS SIGUIENTES ALTITUDES: MAA, MCA, MRA, MOCA, Y MEA (AREAS NO MONT/ ÑOSAS).",
+			"Pregunta": "274.- (4435) que condición es garantizada para todos los límites de las siguientes altitudes: MAA, MCA, MRA, MOCA, y MEA (áreas no montañosas).",
 			"RespuestaCorrecta": "3",
-			"A": "SEÑALES DE NAVEGACION ADECUADA",
-			"B": "COMUNICACIONES ADECUADAS",
-			"C": "1000 PIES LIBRE DE OBSTACULOS."
+			"A": "señales de navegación adecuada",
+			"B": "comunicaciones adecuadas",
+			"C": "1000 pies libre de obstáculos."
 		},
 		{
-			"Pregunta": "275.- (4765) EN CASO DE OPERACIONES DENTRO DE UN AREA DESIGNADA COMO AREA MONTAÑOSA, NINGUNA PERSONA PUEDE OPERAR UNA AERONAVE BAJO C ONDICIONES IFR POR DEBAJO DE 2000 PIES SOBRE EL OBSTACULO MAS ALTO DENTRO DE UNA DISTANCIA HORIZONTAL DE:",
+			"Pregunta": "275.- (4765) en caso de operaciones dentro de un área designada como área montañosa, ninguna persona puede operar una aeronave bajo condiciones IFR por debajo de 2000 pies sobre el obstáculo mas alto dentro de una distancia horizontal de:",
 			"RespuestaCorrecta": "3",
-			"A": "3 SM DESDE EL CURSO VOLADO",
-			"B": "4 SM DESDE EL CURSO VOLADO",
-			"C": "4 NM DESDE EL CURSO VOLADO."
+			"A": "3 SM desde el curso volado",
+			"B": "4 SM desde el curso volado",
+			"C": "4 NM desde el curso volado."
 		},
 		{
-			"Pregunta": "276.- (4542) EL MEA ES UNA ALTITUD QUE ASEGURA:",
+			"Pregunta": "276.- (4542) el mea es una altitud que asegura:",
 			"RespuestaCorrecta": "3",
-			"A": "AREA LIBRE DE OBSTACULOS, SEÑALES PRECISAS DE NAVEGACION POR MAS DE UN VORTAC Y UN MILLAJE PRECISO PARA EL DME",
-			"B": "AREA LIBRE DE OBSTACULOS A 1000 PIES, DENTRO DE DOS MILLAS DE UNA AEROVIA Y UN MILIAJE PRECISO DEL DME",
-			"C": "SEÑAL DE COBERTURA NAVEGACIONAL ACEPTABLE Y CUMPLE CON LOS REQUERIMIENTOS DE AREA UBRE DE OBSTACULOS."
+			"A": "área libre de obstáculos, señales precisas de navegación por más de un vortac y un millaje preciso para el dme",
+			"B": "área libre de obstáculos a 1000 pies, dentro de dos millas de una aerovía y un miliaje preciso del dme",
+			"C": "señal de cobertura navegacional aceptable y cumple con los requerimientos de área libre de obstáculos."
 		},
 		{
-			"Pregunta": "277.- (4485) A MENOS QUE ESTE ESPECIFICADO DE OTRA FORMA EN UNA CARTA, LA ALTITUD MINIMA EN RUTA A LO LARGO DE UNA RUTA JET ES: ",
+			"Pregunta": "277.- (4485) a menos que este especificado de otra forma en una carta, la altitud minima en ruta a lo largo de una ruta jet es: ",
 			"RespuestaCorrecta": "1",
-			"A": "18000 PIES MSL",
-			"B": "24000 PIES MSL",
-			"C": "10000 PIES MSL"
+			"A": "18000 pies MSL",
+			"B": "24000 pies MSL",
+			"C": "10000 pies MSL"
 		},
 		{
-			"Pregunta": "278.- LAS CATEGORIAS DE AVIONES CONSIDERADAS PARA LAS APROXIMACIONES ESTAN BASADAS EN:",
+			"Pregunta": "278.- las categorías de aviones consideradas para las aproximaciones están basadas en:",
 			"RespuestaCorrecta": "1",
-			"*A": "LA VELOCIDAD DE APROXIMACION CERTIFICADA PARA SU MAXIMO PESO BRUTO",
-			"B": "1.3 LA VELOCIDAD DE PERDIDA CON CONFIGURACION DE ATERRIZAJE, CON SU MAXIMO PESO BRUTO DE ATERRIZAJE",
-			"C": "1.3 LA VELOCIDAD DE PERDIDA CON SU MAXIMO PESO BRUTO."
+			"a": "la velocidad de aproximación certificada para su máximo peso bruto",
+			"B": "1.3 la velocidad de perdida con configuración de aterrizaje, con su máximo peso bruto de aterrizaje",
+			"C": "1.3 la velocidad de perdida con su máximo peso bruto."
 		},
 		{
-			"Pregunta": "279.- (4571) DURANTE UNA APROXIMACION INSTRUMENTAL, BAJO QUE CONDICIONES, SI EXISTE ALGUNA, EL RUMBO DE INVERSION DEL PATRON DE ESPERA NO ES  REQUERIDO:",
+			"Pregunta": "279.- (4571) durante una aproximación instrumental, bajo qué condiciones, si existe alguna, el rumbo de inversión del patrón de espera no es  requerido:",
 			"RespuestaCorrecta": "1",
-			"A": "CUANDO SE ESTA GUIADO POR VECTORES RADAR",
-			"B": "CUANDO SE ESTA AUTORIZADO PARA LA APROXIMACION",
-			"C": "NINGUNA, EN VISTA QUE SIEMPRE ES MANDATORIO."
+			"A": "cuando se está guiado por vectores radar",
+			"B": "cuando se está autorizado para la aproximación",
+			"C": "ninguna, en vista que siempre es mandatorio."
 		},
 		{
-			"Pregunta": "280.- (4734) CUANDO ESTA SIENDO VECTOREADO PARA UNA APROXIMACION ILS, EN QUE PUNTO PUEDE USTED INICIAR EL DESCENSO DESDE SU ULTIMA ALTITUD ASIGNADA HACIA UNA MINIMA ALTITUD BAJA, SI HA SIDO AUTORIZADA LA APROXIMACION:",
+			"Pregunta": "280.- (4734) cuando está siendo vectoreado para una aproximación ILS, en qué punto puede usted iniciar el descenso desde su última altitud asignada hacia una minima altitud baja, si ha sido autorizada la aproximación:",
 			"RespuestaCorrecta": "1",
-			"A": "CUANDO SE HA ESTABLECIDO EN UN SEGMENTO DE UNA RUTA PUBLICADA O EN EL PROCEDIMIENTO DE APROXIMACION INSTRUMENTAL",
-			"B": "USTED PUEDE DESCENDER INMEDATAMENTE PARA LA ALTITUD DE INTERCEPCION DEL GLIDE SLOPE PUBLICADA",
-			"C": "SOLAMENTE DESPUES QUE USTED ESTA ESTABLECIDO EN LA APROXIMACION FINAL, A MENOS QUE DE OTRA FORMA SEA INFORMADO POR EL ATC."
+			"A": "cuando se ha establecido en un segmento de una ruta publicada o en el procedimiento de aproximación instrumental",
+			"B": "usted puede descender inmediatamente para la altitud de intercepción del glide slope publicada",
+			"C": "solamente después que usted está establecido en la aproximación final, a menos que de otra forma sea informado por el ATC."
 		},
 		{
-			"Pregunta": "281.- (4714) QUE PROCEDIMIENTOS DEBERIAN SER SEGUIDO POR UN PILOTO QUIEN ESTA CIRCULANDO P ARA ATERRIZAR CON UN AVION DE CATEGORIA B, PERO ESTA MANTENIENDO UNA VELOCIDAD DE 5 NUDOS MAYOR QUE LA MAXIMA ESPECIFICADA PARA ESA CATEGOIRIA:",
+			"Pregunta": "281.- (4714) que procedimientos deberían ser seguido por un piloto quien está circulando para aterrizar con un avión de categoría b, pero está manteniendo una velocidad de 5 nudos mayor que la máxima especificada para esa categoría:",
 			"RespuestaCorrecta": "1",
-			"A": "USAR LOS MINIMOS APROPIADOS PARA LA APROXIMACIÓN DE CATEGORA C",
-			"B": "USAR LOS MINIMOS DE LA CATEGORA B",
-			"C": "USAR LOS MINIMOS DE LA CATEGORA D, YA QUE ELLOS SE LOS APLICA A TODAS LAS APROXIMACIONES CIRCULARES."
+			"A": "usar los mínimos apropiados para la aproximación de categoría c",
+			"B": "usar los mínimos de la categoría b",
+			"C": "usar los mínimos de la categoría d, ya que ellos se los aplica a todas las aproximaciones circulares."
 		},
 		{
-			"Pregunta": "282.- (4418) UNA PARTICULAR SID REQUIERE DE UNA MINIMA RATA DE ASCENSO DE 210 PIES POR NM A 8000 PIES. SI SU ASCENSO CON UNA VELOCIDAD RESPECTO A TIERRA (GS) ES DE 140 NUDOS, CUAL ES LA RATA DE ASCENSO REQUERIDA EN PIES POR MINUTO: (USE LEGEND 18).",
+			"Pregunta": "282.- (4418) una particular SID requiere de una minima rata de ascenso de 210 pies por NM a 8000 pies. si su ascenso con una velocidad respecto a tierra (gs) es de 140 nudos, cual es la rata de ascenso requerida en pies por minuto: (use legend 18).",
 			"RespuestaCorrecta": "2",
 			"A": "210",
 			"B": "450",
 			"C": "490"
 		},
 		{
-			"Pregunta": "373.- BAJO QUE CIRCUNSTANCIAS EL ATC PUEDE DAR POR TERMINADO UN VUELO IFR Y AUTORIZAR UN VUELO VFR:",
+			"Pregunta": "373.- bajo qué circunstancias el ATC puede dar por terminado un vuelo IFR y autorizar un vuelo VFR:",
 			"RespuestaCorrecta": "3",
-			"A": "SIEMPRE QUE EL PILOTO REPORTE UNA PERDIDA DE ALGUNA RADIOAYUDA",
-			"B": "CUANDO ES NECESARIO PROPORCIONAR SEPARACION ENTRE UN TRAFICO IFR Y UN ESPECIAL VFR",
-			"C": "CUANDO SOLICITA EL PILOTO."
+			"A": "siempre que el piloto reporte una pérdida de alguna radioayuda",
+			"B": "cuando es necesario proporcionar separación entre un tráfico IFR y un especial VFR",
+			"C": "cuando solicita el piloto."
 		},
 		{
-			"Pregunta": "374.- (4430) QUE ALTITUD PUEDE SELECTAR UN PILOTO CUANDO RECIBE UNA AUTORIZACION PARA UN VUELO VFR ON TOP:",
+			"Pregunta": "374.- (4430) que altitud puede selectar un piloto cuando recibe una autorización para un vuelo VFR ON TOP:",
 			"RespuestaCorrecta": "3",
-			"A": "CUALQUIER ALTITUD AL MENOS 1000 PIES POR ARRIBA DE LAS CONDICIONES METEOROLOGICAS",
-			"B": "CUALQUIER ALTITUD VFR APROPADA A, O SOBRE EL MEA EN CONDICIONES METEOROLOGICAS VFR",
-			"C": "CUALQUIER ALTITUD VFR APROPADA PARA LA DIRECCION DEL VUELO, AL MENOS 1000 PIES SOBRE LAS CONDICIONES METEOROLOGICAS"
+			"A": "cualquier altitud al menos 1000 pies por arriba de las condiciones meteorológicas",
+			"B": "cualquier altitud VFR apropiada, o sobre el mea en condiciones meteorológicas VFR",
+			"C": "cualquier altitud VFR apropiada para la dirección del vuelo, al menos 1000 pies sobre las condiciones meteorológicas"
 		},
 		{
-			"Pregunta": "375.- (4449 ) QUE REGLAS APLICAN PARA UN PILOTO AL MANDO CUANDO ESTA OPERANDO CON UNA AUTORIZACION VFR ON-TOP: ",
+			"Pregunta": "375.- (4449) que reglas aplican para un piloto al mando cuando está operando con una autorización VFR ON-TOP: ",
 			"RespuestaCorrecta": "2",
-			"A": "VFR SOLAMENTE",
-			"B": "VFR E IFR ",
-			"C": "VFR CUANDO ESTA DESPEJADO E IFR DENTRO DE NUBES."
+			"A": "VFR solamente",
+			"B": "VFR e IFR ",
+			"C": "VFR cuando está despejado e IFR dentro de nubes."
 		},
 		{
-			"Pregunta": "376.- (4450 ) CUANDO PUEDE SER ASIGNADA UNA AUTORIZACION VFR ON-TOP POR EL ATC:",
+			"Pregunta": "376.- (4450) cuando puede ser asignada una autorización VFR ON-TOP por el ATC:",
 			"RespuestaCorrecta": "1",
-			"A": "SOLAMENTE A SOLICITUD DEL PILOTO, CUANDO LAS CONDICIONES INDICAN ESTAR APROPIADAS",
-			"B": "CUANDO LAS CONDICIONES SON APROPIADAS Y EL ATC DESEA APRESURAR EL FLUJO DEL TRAFICO",
-			"C": "CUANDO EXISTEN CONDICIONES VFR, PERO EXISTE UNA CAPA DE NUBES ABAJO DEL MEA."
+			"A": "solamente a solicitud del piloto, cuando las condiciones indican estar apropiadas",
+			"B": "cuando las condiciones son apropiadas y el ATC desea apresurar el flujo del tráfico",
+			"C": "cuando existen condiciones VFR, pero existe una capa de nubes abajo del mea."
 		},
 		{
-			"Pregunta": "377.- CUANDO SE ESTA AUTORIZADO VFR ON TOP, LA ALTITUD DE CRUCERO ESTA BASADA EN:",
+			"Pregunta": "377.- cuando se está autorizado VFR ON TOP, la altitud de crucero está basada en:",
 			"RespuestaCorrecta": "2",
-			"A": "CURSO VERDADERO",
-			"B": "CURSO MAGNETICO",
-			"C": "RUMBO MAGNETICO."
+			"A": "curso verdadero",
+			"B": "curso magnético",
+			"C": "rumbo magnético."
 		},
 		{
-			"Pregunta": "378.- (4447 ) DONDE ESTAN PROHIBIDAS LAS OPERACIONES VFR ON TOP:",
+			"Pregunta": "378.- (4447) donde están prohibidas las operaciones VFR ON TOP:",
 			"RespuestaCorrecta": "1",
-			"*A": "EN ESPACIO AEREO CLASE A",
-			"B": "DURANTE VUELOS DIRECTOS FUERA DE AEROVIAS",
-			"C": "CUANDO SEVUELA, EN ESPACIO AEREO CLASE B"
+			"a": "en espacio aéreo clase a",
+			"B": "durante vuelos directos fuera de aerovías",
+			"C": "cuando se vuela, en espacio aéreo clase b"
 		},
 		{
-			"Pregunta": "379.- (4441 ) QUE PROCEDIMIENTO ES RECOMENDADO MIENTRAS SE ASCIENDE A UNA ALTITUD ASIGNADA EN LA AEROVIA:",
+			"Pregunta": "379.- (4441) que procedimiento es recomendado mientras se asciende a una altitud asignada en la aerovía:",
 			"RespuestaCorrecta": "1",
-			"A": "ASCENDER SOBRE LA LINEA CENTRAL DE LA AEROVIA EXCEPTO CUANDO SE MANIOBRE PARA EVITAR OTRO TRAFICO EN CONDICIONES VFR",
-			"B": "ASCENDER LIGERAMENTE SOBRE EL LADO DERECHO DE LA AEROVIA CUANDO EXISTAN CONDICIONES VFR",
-			"C": "ASCENDER LO SUFICIENTE ALEJADO DEL LADO DERECHO DE LA AEROVIA PARA EVITAR OTRO TRAFICO EN ASCENSO O DESCENSO EN SENTIDO CONTRARIO EN CONDICIONES VFR."
+			"A": "ascender sobre la línea central de la aerovía excepto cuando se maniobre para evitar otro tráfico en condiciones VFR",
+			"B": "ascender ligeramente sobre el lado derecho de la aerovía cuando existan condiciones VFR",
+			"C": "ascender lo suficiente alejado del lado derecho de la aerovía para evitar otro tráfico en ascenso o descenso en sentido contrario en condiciones VFR."
 		},
 		{
-			"Pregunta": "380.- (4634 ) QUE ES ESPERADO POR USTED COMO PILOTO CON PLAN DE VUELO IFR, SI USTED ESTA DESCENDIENDO O ASCENDIENDO EN CONDICIONES VFR:",
+			"Pregunta": "380.- (4634) que es esperado por usted como piloto con plan de vuelo IFR, si usted está descendiendo o ascendiendo en condiciones VFR:",
 			"RespuestaCorrecta": "3",
-			"A": "SI ESTA EN AEROVIA, ASCENDER O DESCENDER A LA DERECHA DE LA UNEA CENTRAL",
-			"B": "NOTIFICAR AL ATC QUE ESTA EN CONDICIONES VISUALES Y MANTENDRA UNA CORTA DISTANCA A LA DE LA LINEA CENTRAL MIENTRAS ASCIENDE",
-			"C": "EJECUTAR BANQUEOS SUAVES A LA DERECHA E IZQUIERDA A UNA FRECUENCIA QUE PERMITA CONTINUARAR EN CONDICIONES VISUALES TODO EL ESPACIO ALRREDEDOR MIO."
+			"A": "si esta en aerovía, ascender o descender a la derecha de la línea central",
+			"B": "notificar al ATC que está en condiciones visuales y mantendrá una corta distancia a la de la línea central mientras asciende",
+			"C": "ejecutar banqueos suaves a la derecha e izquierda a una frecuencia que permita continuara en condiciones visuales todo el espacio alrededor mío."
 		},
 		{
-			"Pregunta": "381.- (4373) CUANDO UN PILOTO CON PLAN DE VUELO IFR ES RESPONSABLE DE EVITAR OTRA AERONAVE:",
+			"Pregunta": "381.- (4373) cuando un piloto con plan de vuelo IFR es responsable de evitar otra aeronave:",
 			"RespuestaCorrecta": "2",
-			"A": "TODO ELTIEMPO CUANDO NO ESTA EN CONTACTO RADAR CON EL ATC",
-			"B": "CUANDO LAS CONDICIONES METEOROLOGICAS PERMITAN. INDEPENDIENTEMENTE QUE OPERE BAJO VFR O IFR",
-			"C": "SOLAMENTE CUANDO ES ADVERTIDO POR EL ATC."
+			"A": "todo el tiempo cuando no está en contacto radar con el ATC",
+			"B": "cuando las condiciones meteorológicas permitan. independientemente que opere bajo VFR o IFR",
+			"C": "solamente cuando es advertido por el ATC."
 		},
 		{
-			"Pregunta": "382.- (4471) QUE RESPONSABILIDAD  ASUME UN PILOTO AL MANDO DE UN VUELO IFR,CUANDO ENTRA EN CONDICIONES VFR:",
+			"Pregunta": "382.- (4471) que responsabilidad  asume un piloto al mando de un vuelo IFR, cuando entra en condiciones VFR:",
 			"RespuestaCorrecta": "3",
-			"A": "REPORTAR LAS CONDICIONES VFR AL ATC PARA QUE PUEDA SER EMITIDA UNA AUTORIZACION ENMENDADA",
-			"B": "USAR PROCEDIMIENTOS DE OPERACION VFR",
-			"C": "VER Y EVITAR OTROS TRAFICOS."
+			"A": "reportar las condiciones VFR al ATC para que pueda ser emitida una autorización enmendada",
+			"B": "usar procedimientos de operación VFR",
+			"C": "ver y evitar otros tráficos."
 		},
 		{
-			"Pregunta": "383.- (4772) DURANTE UNA APROXIMACION CON RADAR DE PRECISION O ILS, LA RATA DE DESCENSO REQUERIDA PARA MANTENER LA PENDIENTE DE PLANEO DEBE:",
+			"Pregunta": "383.- (4772) durante una aproximación con radar de precisión o ILS, la rata de descenso requerida para mantener la pendiente de planeo debe:",
 			"RespuestaCorrecta": "2",
-			"A": "MANTENERSE LA MISMA SIN IMPORTAR LA VELOCIDAD TIERRA (GS)",
-			"B": "AUMENTAR CONFORME LA VELOCIDAD DE TIERRA (GS) AUMENTA",
-			"C": "DISMINUIR CONFORME LA VELOCIDAD DE TIERRA (GS) AUMENTA."
+			"A": "mantenerse la misma sin importar la velocidad tierra (gs)",
+			"B": "aumentar conforme la velocidad de tierra (gs) aumenta",
+			"C": "disminuir conforme la velocidad de tierra (gs) aumenta."
 		},
 		{
-			"Pregunta": "384.- (4629) CUANDO SE REALIZA UNA APROXIMACION CON TIEMPO DESDE EL PUNTO DE ESPERA AL MARCADOR EXTERNO, EL PILOTO DEBERIA AJUSTAR: ",
+			"Pregunta": "384.- (4629) cuando se realiza una aproximación con tiempo desde el punto de espera al marcador externo, el piloto debería ajustar: ",
 			"RespuestaCorrecta": "3",
-			"A": "EL PATRON DE ESPERA PARA INICIAR EL VIRAJE DE PROCEDIMIENTOS EN EL TIEMPO ASIGNADO",
-			"B": "LA VELOCIDAD EN EL PUNTO DE APROXIMACION FINAL PARA LLEGAR AL PUNTO DE APROXIMACION FRUSTRADA EN ELTIEMPO ASIGNADO",
-			"C": "EL PATRON DE ESPERA PARA DEJAR EL PUNTO DE APROXIMACION FINAL DE INGRESO EN EL TIEMPO ASIGNADO."
+			"A": "el patrón de espera para iniciar el viraje de procedimientos en el tiempo asignado",
+			"B": "la velocidad en el punto de aproximación final para llegar al punto de aproximación frustrada en el tiempo asignado",
+			"C": "el patrón de espera para dejar el punto de aproximación final de ingreso en el tiempo asignado."
 		}
-	]
+]

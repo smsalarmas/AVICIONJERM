@@ -18,7 +18,7 @@
       <ion-list-header>
         Seleccione:
       </ion-list-header>
-    
+      <!--Aqui debo hacer un Json que cargue las Carreras-->
       <ion-item>            
           <ion-radio value="PP" (ionSelect)="openMateriasPage('PP')"></ion-radio>
           <ion-label  text-wrap>PILOTO PRIVADO</ion-label>         
@@ -30,9 +30,16 @@
 
       <ion-item>
           <ion-radio value="IFR" (ionSelect)="openMateriasPage('IFR')"></ion-radio><ion-label text-wrap>HABT. DE VUELO INSTRUMENTAL</ion-label>
-        
+      </ion-item>
+
+      <ion-item>
+        <ion-radio value="MT" (ionSelect)="openMateriasPage('MT')"></ion-radio><ion-label text-wrap>HABT. MULTIMOTOR</ion-label>
       </ion-item>
     
     </ion-list>
-    
+    <ion-footer no-border class="BgColor">      
+        <p style="text-align:center; font-size:75%;" ion-text color="light">023202220 / 0984243224 / 0987512657</p>
+        <p style="text-align:center; font-size:80%;" ion-text color="light">info@aviacionesav.com</p>
+      </ion-footer>
 </ion-content>
+

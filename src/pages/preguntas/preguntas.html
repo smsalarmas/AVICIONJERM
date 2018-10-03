@@ -17,34 +17,34 @@
   <ion-content padding > 
       <img width="350" height="91" src="assets/imgs/logo_aviacionesav.png"/>
       <ion-list *ngFor="let item of items ; let i = index">
-        <ion-list-header *ngIf="StatusMostrar[i]">
-          <ion-item text-wrap>
-            {{ item.Pregunta.charAt(0).toUpperCase() + item.Pregunta.substr(1).toLowerCase() }}
+        <ion-list-header *ngIf="StatusMostrar[i]"  class="BgColor3">
+          <ion-item text-wrap class="BgColor3">
+                <h4 style="text-align:center; font-size:140%;" ion-text color="light">{{ item.Pregunta.charAt(0).toUpperCase() + item.Pregunta.substr(1).toLowerCase() }}</h4>
           </ion-item>
         </ion-list-header>
         <ion-list  *ngIf="StatusMostrar[i] && item.FIGURA">
-            <img width="350" src="assets/json/PP/{{item.FIGURA}}"/>
+            <img width="350" src="assets/json/{{Mat}}/{{item.FIGURA}}"/>
         </ion-list>
         <div *ngIf="StatusMostrar[i]">
          <input type="hidden" ng-model="myRespuestaCorrecta" ng-init="myRespuestaCorrecta = item.RespuestaCorrecta">
           <ion-list radio-group [(ngModel)]="radio">
-              <ion-item>
-                  <ion-label  text-wrap>A.- {{item.A | titlecase}}</ion-label>
+              <ion-item >
+                  <ion-label  class="{{mColor.A}}" text-wrap>A.- {{item.A | titlecase}}</ion-label>
                   <ion-radio [disabled]="!SiguenteActive" [value]="'A,' + i" (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
-              <ion-item>
-                  <ion-label text-wrap>B.- {{item.B | titlecase}}</ion-label>
+              <ion-item  >
+                  <ion-label class="{{mColor.B}}" text-wrap>B.- {{item.B | titlecase}}</ion-label>
                   <ion-radio [disabled]="!SiguenteActive" [value]="'B,' + i" (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
               <ion-item *ngIf="item.C">
-                  <ion-label text-wrap>C.- {{item.C | titlecase}}</ion-label>
+                  <ion-label class="{{mColor.C}}" text-wrap>C.- {{item.C | titlecase}}</ion-label>
                   <ion-radio [disabled]="!SiguenteActive" [value]="'C,' + i" (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
-              <ion-item *ngIf="item.D">
+              <ion-item *ngIf="item.D"  class="{{mColor.D}}">
                   <ion-label text-wrap>D.- {{item.D | titlecase}}</ion-label>
                   <ion-radio [disabled]="!SiguenteActive" [value]="'D,' + i"  (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
-              <ion-item *ngIf="item.E">
+              <ion-item *ngIf="item.E"  class="{{mColor.E}}">
                   <ion-label text-wrap>E.- {{item.E | titlecase}}</ion-label>
                   <ion-radio [disabled]="!SiguenteActive" [value]="'E,' + i"  (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
@@ -54,16 +54,26 @@
     </ion-list>
   </ion-content>
 
-  <ion-footer  no-border color="secondary">
-      <ion-toolbar>
-          <ion-buttons left>
-            <button ion-button [disabled]="SiguenteActive" round shape="round" fill="outline" color="primary" (click)="SiguentePregunta()">Siguente</button>
-        </ion-buttons>
-          <ion-buttons right  >
-              <button color="secondary" *ngIf="BoolRespCorrecta && !SiguenteActive" ion-button color="save">
+  <ion-footer no-border > 
+        <ion-toolbar>
+          <ion-buttons right>
+            <button ion-button [disabled]="SiguenteActive" round shape="round" fill="outline" color="primary" (click)="SiguentePregunta()">Siguente</button>                
+            </ion-buttons>
+            
+            <div *ngIf="SiguenteActive" class="circle_container">
+                    <div class="{{ColorTime}}">
+                        <div class="circle_text_container">
+                            <div class = "circle_text">
+                                    {{maxTime}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            <ion-buttons  left>
+              <button  class="BgColor2" *ngIf="BoolRespCorrecta && !SiguenteActive" ion-button color="save">
                   CORRECTO
               </button>
-              <button color="danger" *ngIf="!BoolRespCorrecta && !SiguenteActive"  ion-button color="save">
+              <button class="BgColor" color="danger" *ngIf="!BoolRespCorrecta && !SiguenteActive"  ion-button color="save">
                   INCORRECTO
               </button>
           </ion-buttons>

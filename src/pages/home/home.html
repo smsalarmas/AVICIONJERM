@@ -1,14 +1,15 @@
 <ion-header>
   <ion-navbar  class="ios-header">
     <button ion-button menuToggle><ion-icon name="menu"></ion-icon></button>   
+    <ion-title pre-wrap><img height="10" src="assets/imgs/topIOS.png"/></ion-title>
     <ion-title pre-wrap><img width="300" height="77" src="assets/imgs/logo_aviacionesav.png"/></ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content width="100%">
   
-  <ion-item >
-    <ion-label text-center label-md-text-color="#ffffff">VUELA SIN PENSAR EN LAS BARRERAS...</ion-label>    
+  <ion-item class="BgColor">        
+    <h4 style="text-align:center" ion-text color="light">VUELA SIN PENSAR EN LAS BARRERAS...</h4>
   </ion-item>
   
   <ion-grid>
@@ -19,7 +20,10 @@
         </button>
       </ion-col>
       <ion-col align-self-center>
-          <button menuClose (click)="openCarrerasPage()">PRACTICAR</button>
+          <button menuClose (click)="openCarrerasPage()" class="BgColorBlanco">
+          <p style="text-align:center; font-size:145%;" ion-text color="dark">
+            PRACTICAR</p>
+          </button>
       </ion-col>
     </ion-row>
     <ion-row  align-items-center>
@@ -29,8 +33,16 @@
         </button>
       </ion-col>
       <ion-col align-self-center>
-          <button menuClose  (click)="openConfigPage()">CONFIGURAR</button>
+          <button menuClose  (click)="openConfigPage()" class="BgColorBlanco">
+            <p style="text-align:center; font-size:145%;" ion-text color="dark">
+            CONFIGURAR</p></button>
       </ion-col>      
     </ion-row>
   </ion-grid>
+  <ion-footer no-border class="BgColor">      
+      <p style="text-align:center; font-size:85%;" ion-text color="light">Quito: Av. 10 de Agosto N31-147 y Mariana de Jesús.</p>
+      <p style="text-align:center; font-size:70%;" ion-text color="light">Salinas: Aeropuerto General Ulpiano Páez.</p>
+      <p style="text-align:center; font-size:75%;" ion-text color="light">023202220 / 0984243224 / 0987512657</p>
+      <p style="text-align:center; font-size:80%;" ion-text color="light">info@aviacionesav.com</p>
+    </ion-footer>
 </ion-content>

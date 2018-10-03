@@ -30,27 +30,15 @@ export class MateriasPage {
   
   loadData(){
     let data:Observable<any>;
-    if (this.Paramter == 'PP'){
-      this.Materia = 'Privado';
-      data = this.http.get('/assets/json/PP.json');
+    if (this.Paramter == 'PP') { this.Materia = 'Piloto Privado'; }
+    if (this.Paramter == 'PC') { this.Materia = 'Piloto Comercial'; }
+    if (this.Paramter == 'IFR') { this.Materia = 'HABT. IFR';  }
+    if (this.Paramter == 'MT') { this.Materia = 'HABT. Multimotor';  }
+
+    data = this.http.get(`/assets/json/${this.Paramter}.json`);
       data.subscribe(result => {
         this.items = result;
       })
-    }
-    if (this.Paramter == 'PC'){
-      this.Materia = 'Comercial';
-      data = this.http.get('/assets/json/PC.json');
-      data.subscribe(result => {
-        this.items = result;
-      })
-    }
-    if (this.Paramter == 'IFR'){
-      this.Materia = 'IFR';
-      data = this.http.get('/assets/json/IFR.json');
-      data.subscribe(result => {
-        this.items = result;
-      })
-    }
     
     
   }

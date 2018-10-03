@@ -11,9 +11,28 @@
   </ion-navbar>
 
 </ion-header>
-
-
-<ion-content padding>
-    <img width="400" height="91" src="assets/imgs/logo_aviacionesav.png"/>
+ 
+<ion-content>
+  <ion-item class="BgColor">        
+      <h4 style="text-align:center" ion-text color="light">{{Materia}}</h4>
+    </ion-item>
+  <ion-refresher on-refresh="doRefresh()" pulling-icon="ion-load-d" spinner="ios-small"></ion-refresher>
+  <div class="divider-title">Resultado </div>
+  <ul class="timeline" *ngFor="let item of items ; let i = index">
+    <li *ngIf="StatusMostrar[i]">
+      <div  class="timeline-thumb {{ColorRespuesta(RespuestasCorrecta[i])}} timeline-icon">
+        <i class="ion-heart"></i>
+      </div>
+      <div  class="timeline-item">
+        <h6>{{ item.Pregunta.charAt(0).toUpperCase() + item.Pregunta.substr(1).toLowerCase() }}</h6>
+        <p>{{RespuestaStr[i] | titlecase}}</p>
+        <div class="timeline-stats">
+          <i *ngIf="!RespuestasCorrecta[i]" class="ion-heart">INCORRECTO</i> {{RespuestasCorrecta[i]}} 
+          <span *ngIf="RespuestasCorrecta[i]" class="pos-absolute-right"><i class="ion-ios-clock">CORRECTA</i> </span>
+        </div>
+      </div>
+    </li>        
+  
+   </ul>
 
 </ion-content>

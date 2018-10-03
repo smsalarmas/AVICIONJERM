@@ -1,287 +1,275 @@
-[		{
-			"Pregunta": "1.- AL APROXIMARSE A UN AEROPUERTO NO CONTROLADO, QUÉ TIPO DE MANIOBRA DEBERÁ DE REALIZARSE:",
+[
+		{
+			"Pregunta": "1.- al aproximarse a un aeropuerto no controlado, qué tipo de maniobra deberá de realizarse:",
 			"RespuestaCorrecta": "2",
-			"A": "Ninguna porque no es controlado",
-			"B": "Ingresar a un circuito de tránsito normal, y verificar la ubicación de posibles tránsitos",
-			"C": "Ingresar a un básico derecho"
+			"A": "ninguna porque no es controlado",
+			"B": "ingresar a un circuito de tránsito normal, y verificar la ubicación de posibles tránsitos",
+			"C": "ingresar a un básico derecho"
 		},{
-			"Pregunta": "133.- (3653) COMO SE CONTROLA LA OPERACIÓN DE UN MOTOR EQUIPADO CON UNA HELICE DE VELOCIDAD CONSTANTE:",
+			"Pregunta": "133.- (3653) como se controla la operación de un motor equipado con una hélice de velocidad constante:",
 			"RespuestaCorrecta": "1",
-			"A": "El acelerador controla la salida de potencia como lo registra el indicador de la presión manifold y el control de la hélice regula las rpm del motor",
-			"B": "El acelerador controla la salida de potencia como lo registra el indicador de la presión manifold y el control de la hélice regula el ángulo de pala constante",
-			"C": "El acelerador controla las rpm del motor como lo registra el tacómetro y el control de mezcla regula la salida de potencia"
+			"A": "el acelerador controla la salida de potencia como lo registra el indicador de la presión manifold y el control de la hélice regula las rpm del motor",
+			"B": "el acelerador controla la salida de potencia como lo registra el indicador de la presión manifold y el control de la hélice regula el ángulo de pala constante",
+			"C": "el acelerador controla las rpm del motor como lo registra el tacómetro y el control de mezcla regula la salida de potencia"
 		},
 		{
-			"Pregunta": "134.- (3654) CUAL ES LA VENTAJA DE UNA HÉLICE DE VELOCIDAD CONSTANTE:",
+			"Pregunta": "134.- (3654) cual es la ventaja de una hélice de velocidad constante:",
 			"RespuestaCorrecta": "2",
-			"A": "Permite al piloto seleccionar y mantener la velocidad de crucero deseada",
-			"B": "Permite al piloto seleccionar el ángulo de la pala para un rendimiento más eficiente",
-			"C": "Permite una operación más suave con las rpm estables y elimina las vibraciones"
-
+			"A": "permite al piloto seleccionar y mantener la velocidad de crucero deseada",
+			"B": "permite al piloto seleccionar el ángulo de la pala para un rendimiento más eficiente",
+			"C": "permite una operación más suave con las rpm estables y elimina las vibraciones"
 		},
 		{
-			"Pregunta": "135.- (3655) UNA PRECAUCIÓN PARA LA OPERACIÓN DE UN MOTOR EQUIPADO CON UNA HÉLICE DE PASO FIJO ES:",
+			"Pregunta": "135.- (3655) una precaución para la operación de un motor equipado con una hélice de paso fijo es:",
 			"RespuestaCorrecta": "2",
-			"A": "Evitar los ajustes altos de las rpm con presión múltiple alta",
-			"B": "Evitar los ajustes altos de presión múltiple con rpm bajas",
-			"C": "Siempre usar una mezcla rica con ajustes de rpm altos"
-
+			"A": "evitar los ajustes altos de las rpm con presión múltiple alta",
+			"B": "evitar los ajustes altos de presión múltiple con rpm bajas",
+			"C": "siempre usar una mezcla rica con ajustes de rpm altos"
 		},
 		{
-			"Pregunta": "136.- (3655) CUAL DEBERÍA DE SER LA PRIMERA ACCIÓN DESPUÉS DE ENCENDER EL MOTOR DE UNA AERONAVE:",
+			"Pregunta": "136.- (3655) cual debería de ser la primera acción después de encender el motor de una aeronave:",
 			"RespuestaCorrecta": "1",
-			"A": "Ajustar las rpm correctamente y revisar que los parámetros del motor sean las indicaciones deseadas",
-			"B": "Colocar el magneto o switch de la ignición momentáneamente en la posición OFF para chequear la conexión en tierra",
-			"C": "Probar cada freno y los frenos de parqueo"
-
+			"A": "ajustar las rpm correctamente y revisar que los parámetros del motor sean las indicaciones deseadas",
+			"B": "colocar el magneto o switch de la ignición momentáneamente en la posición off para chequear la conexión en tierra",
+			"C": "probar cada freno y los frenos de parqueo"
 		},
 		{
-			"Pregunta": "137.- (3657) SI FUERA NECESARIO ENCENDER MANUALMENTE EL MOTOR DE UN AVIÓN, ES EXTREMADAMENTE IMPORTANTE QUE UN PILOTO COMPETENTE:",
+			"Pregunta": "137.- (3657) si fuera necesario encender manualmente el motor de un avión, es extremadamente importante que un piloto competente:",
 			"RespuestaCorrecta": "2",
-			"A": "Diga contacto antes de tocar la hélice",
-			"B": "Esté en los controles de la cabina de mando",
-			"C": "Este en la cabina de mando y diga todos los comandos"
-
+			"A": "diga contacto antes de tocar la hélice",
+			"B": "esté en los controles de la cabina de mando",
+			"C": "este en la cabina de mando y diga todos los comandos"
 		},
 		{
-			"Pregunta": "138.- (3658) CON RESPECTO AL PRE-VUELO DE UNA AERONAVE, QUE ES LO MÍNIMO QUE SE ESPERA DE UN PILOTO ANTES DE CADA VUELO:",
+			"Pregunta": "138.- (3658) con respecto al pre-vuelo de una aeronave, que es lo mínimo que se espera de un piloto antes de cada vuelo:",
 			"RespuestaCorrecta": "2",
-			"A": "Drenar combustible de cada drenaje rápido",
-			"B": "Realizar una inspección de la aeronave mediante un walk-around",
-			"C": "Chequear los documentos requeridos a bordo de la aeronave"
-
+			"A": "drenar combustible de cada drenaje rápido",
+			"B": "realizar una inspección de la aeronave mediante un walk-around",
+			"C": "chequear los documentos requeridos a bordo de la aeronave"
 		},
 		{
-			"Pregunta": "139.- (3659) PORQUE SE RECOMIENDA EL USO DE UNA LISTA DE CHEQUEO POR ESCRITO PARA LA INSPECCIÓN DE PRE-VUELO Y EL ENCENDIDO DE MOTORES:",
+			"Pregunta": "139.- (3659) porque se recomienda el uso de una lista de chequeo por escrito para la inspección de pre-vuelo y el encendido de motores:",
 			"RespuestaCorrecta": "1",
-			"A": "Para asegurarse que todos los ítems necesarios sean chequeados en una secuencia lógica",
-			"B": "Para memorizarse los procedimientos en una secuencia ordenada",
-			"C": "Para infundir confianza en los pasajeros"
-
+			"A": "para asegurarse que todos los ítems necesarios sean chequeados en una secuencia lógica",
+			"B": "para memorizarse los procedimientos en una secuencia ordenada",
+			"C": "para infundir confianza en los pasajeros"
 		},
 		{
-			"Pregunta": "140.- (3559) QUE CHEQUEO ESPECIAL DEBERÍA DE REALIZARSE EN UNA AERONAVE DURANTE EL PRE-VUELO, DESPUÉS DE QUE HA ESTADO FUERA DE SERVICIO POR UN PERÍODO DE TIEMPO EXTENDIDO:",
+			"Pregunta": "140.- (3559) que chequeo especial debería de realizarse en una aeronave durante el pre-vuelo, después de que ha estado fuera de servicio por un período de tiempo extendido:",
 			"RespuestaCorrecta": "3",
-			"A": "Las baterías del ELT y su funcionamiento",
-			"B": "Condensación en los tanques de combustible",
-			"C": "Daño u obstrucciones causadas por animales, pájaros, o insectos"
-
+			"A": "las baterías del ELT y su funcionamiento",
+			"B": "condensación en los tanques de combustible",
+			"C": "daño u obstrucciones causadas por animales, pájaros, o insectos"
 		},
 		{
-			"Pregunta": "141.- (3661) CUALES ITEMS ESTÁN INCLUIDOS EN EL PESO VACIO DE UNA AERONAVE:",
+			"Pregunta": "141.- (3661) cuales ítems están incluidos en el peso vacío de una aeronave:",
 			"RespuestaCorrecta": "1",
-			"A": "Combustible no utilizable y aceite residual",
-			"B": "Solamente la estructura, motor y equipo opcional",
-			"C": "Tanques de combustible llenos y toda la capacidad de aceite del motor"
-
+			"A": "combustible no utilizable y aceite residual",
+			"B": "solamente la estructura, motor y equipo opcional",
+			"C": "tanques de combustible llenos y toda la capacidad de aceite del motor"
 		},
 		{
-			"Pregunta": "142.- (3711) LA REGLA MAS IMPORTANTE QUE SE DEBE RECORDAR EN CASO DE UNA FALLA DE MOTOR DESPUÉS DE HABER DESPEGADO, ES:",
+			"Pregunta": "142.- (3711) la regla más importante que se debe recordar en caso de una falla de motor después de haber despegado, es:",
 			"RespuestaCorrecta": "1",
-			"A": "Establecer inmediatamente la actitud y velocidad de planeo apropiadas",
-			"B": "Chequear rápidamente el suministro de combustible para un posible escape del mismo",
-			"C": "Determinar la dirección del viento para planear un aterrizaje forzoso"
-
+			"A": "establecer inmediatamente la actitud y velocidad de planeo apropiadas",
+			"B": "chequear rápidamente el suministro de combustible para un posible escape del mismo",
+			"C": "determinar la dirección del viento para planear un aterrizaje forzoso"
 		},
 		{
-			"Pregunta": "143.- (3715) DURANTE UN VUELO DE NOCHE, USTED OBSERVA UNA LUZ ROJA FIJA Y UNA LUZ ROJA INTERMITENTE DE FRENTE A LA MISMA ALTITUD. CUAL SERIA LA DIRECCIÓN GENERAL DE MOVIMIENTO DE LA OTRA AERONAVE:",
+			"Pregunta": "143.- (3715) durante un vuelo de noche, usted observa una luz roja fija y una luz roja intermitente de frente a la misma altitud. cuál sería la dirección general de movimiento de la otra aeronave:",
 			"RespuestaCorrecta": "1",
-			"A": "La otra aeronave está cruzando a la izquierda",
-			"B": "La otra aeronave está cruzando a la derecha",
-			"C": "La otra aeronave se está aproximando de frente"
-
+			"A": "la otra aeronave está cruzando a la izquierda",
+			"B": "la otra aeronave está cruzando a la derecha",
+			"C": "la otra aeronave se está aproximando de frente"
 		},
 		{
-			"Pregunta": "144.- (3716) DURANTE UN VUELO DE NOCHE, USTED OBSERVA UNA LUZ BLANCA FIJA Y UNA LUZ ROJA INTERMITENTE DE FRENTE A LA MISMA ALTITUD. CUAL SERIA LA DIRECCIÓN GENERAL DEL MOVIMIENTO DE LA OTRA AERONAVE:",
+			"Pregunta": "144.- (3716) durante un vuelo de noche, usted observa una luz blanca fija y una luz roja intermitente de frente a la misma altitud. cuál sería la dirección general del movimiento de la otra aeronave:",
 			"RespuestaCorrecta": "1",
-			"A": "La otra aeronave se está alejando de usted",
-			"B": "La otra aeronave está cruzando a la izquierda",
-			"C": "La otra aeronave está cruzando a la derecha"
-
+			"A": "la otra aeronave se está alejando de usted",
+			"B": "la otra aeronave está cruzando a la izquierda",
+			"C": "la otra aeronave está cruzando a la derecha"
 		},
 		{
-			"Pregunta": "145.- (3717) DURANTE UN VUELO DE NOCHE, USTED OBSERVA LUCES ROJAS Y VERDES FIJAS DE FRENTE Y A LA MISMA ALTITUD. CUÁL SERIA LA DIRECCIÓN GENERAL DEL MOVIMIENTO DE LA OTRA AERONAVE:",
+			"Pregunta": "145.- (3717) durante un vuelo de noche, usted observa luces rojas y verdes fijas de frente y a la misma altitud. cuál sería la dirección general del movimiento de la otra aeronave:",
 			"RespuestaCorrecta": "3",
-			"A": "La otra aeronave está cruzando a la izquierda",
-			"B": "La otra aeronave se está alejando de usted",
-			"C": "La otra aeronave se está aproximando de frente"
-
+			"A": "la otra aeronave está cruzando a la izquierda",
+			"B": "la otra aeronave se está alejando de usted",
+			"C": "la otra aeronave se está aproximando de frente"
 		},
 		{
-			"Pregunta": "149.- (3769) EL FARO ROTATIVO DEL AEROPUERTO OPERANDO DURANTE HORAS DIURNAS INDICA QUE:",
+			"Pregunta": "149.- (3769) el faro rotativo del aeropuerto operando durante horas diurnas indica que:",
 			"RespuestaCorrecta": "2",
-			"A": "Hay obstrucciones en el aeropuerto",
-			"B": "El tiempo meteorológico en el aeropuerto ubicado en el espacio aéreo de clase d está por debajo de los mínimos meteorológicos VFR",
-			"C": "La torre de control de tráfico aéreo no está en operación"
-
+			"A": "hay obstrucciones en el aeropuerto",
+			"B": "el tiempo meteorológico en el aeropuerto ubicado en el espacio aéreo de clase d está por debajo de los mínimos meteorológicos VFR",
+			"C": "la torre de control de tráfico aéreo no está en operación"
 		}, {
-			"Pregunta": "725.- EL PESO CON EL CUÁL SE INICIA LA CARRERA DE DESPEGUE, DEBE SER EL MENOR DE LOS PESOS LIMITADOS POR:",
+			"Pregunta": "725.- el peso con el cuál se inicia la carrera de despegue, debe ser el menor de los pesos limitados por:",
 			"RespuestaCorrecta": "2",
-			"A": "Peso cero combustibles, de aterrizaje y máximo de despegue",
-			"B": "Velocidad de neumáticos y energía de frenado",
-			"C": "Ninguna respuesta es correcta"
-
+			"A": "peso cero combustibles, de aterrizaje y máximo de despegue",
+			"B": "velocidad de neumáticos y energía de frenado",
+			"C": "ninguna respuesta es correcta"
 		}, {
-			"Pregunta": "438.- DE FORMA PRIORITARIA ANTES DE CADA VUELO EL PILOTO DEBERIA COMO MINIMO:",
+			"Pregunta": "438.- de forma prioritaria antes de cada vuelo el piloto debería como mínimo:",
 			"RespuestaCorrecta": "3",
-			"A": "Chequear la operación del ELT",
-			"B": "Drenar el combustible de cada punto de drenaje",
-			"C": "Realizar una inspección caminando alrededor de la aeronave"
+			"A": "chequear la operación del ELT",
+			"B": "drenar el combustible de cada punto de drenaje",
+			"C": "realizar una inspección caminando alrededor de la aeronave"
 		}, {
-			"Pregunta": "439.- EL USO DE LA LISTA DE CHEQUEO PARA LA INSPECCIÓN DE PREVUELO Y ENCENDIDO DEL MOTOR ES RECOMENDADO:",
+			"Pregunta": "439.- el uso de la lista de chequeo para la inspección de prevuelo y encendido del motor es recomendado:",
 			"RespuestaCorrecta": "3",
-			"A": "Como un excelente respaldo para pilotos con una falta de memoria",
-			"B": "Para memo rizar los procedimientos en una secuencia ordenada",
-			"C": "Para asegurar que to dos los puntos necesarios sean chequeados en una lógica secuencia"
+			"A": "como un excelente respaldo para pilotos con una falta de memoria",
+			"B": "para memorizar los procedimientos en una secuencia ordenada",
+			"C": "para asegurar que todos los puntos necesarios sean chequeados en una lógica secuencia"
 		}, {
-			"Pregunta": "440.- EL CONTROL DE LA OPERACIÓN DE UN MOTOR ENCENDIDO, EQUIPADO CON HÉLICE DE VELOCIDAD CONSTANTE SE LO REALIZA MEDIANTE LA PALANCA DE CONTROL DE:",
+			"Pregunta": "440.- el control de la operación de un motor encendido, equipado con hélice de velocidad constante se lo realiza mediante la palanca de control de:",
 			"RespuestaCorrecta": "2",
-			"A": "Rpm del motor, registro del tacómetro y el control de la mezcla que regula la potencia de salida",
-			"B": "Potencia de salida que tiene un indicador de presión de admisión y el control de hélice que regula las rpm del motor",
-			"C": "RPM del motor que tiene un tacómetro y el control de la hélice que regula la potencia de salida"
+			"A": "rpm del motor, registro del tacómetro y el control de la mezcla que regula la potencia de salida",
+			"B": "potencia de salida que tiene un indicador de presión de admisión y el control de hélice que regula las rpm del motor",
+			"C": "rpm del motor que tiene un tacómetro y el control de la hélice que regula la potencia de salida"
 		}, {
-			"Pregunta": "475.- (3661) CUÁLES DE LOS SIGUIENTES ITEMS ESTÁN INCLUIDOS EN EL PESO VACIO DE UNA AERONAVE:",
+			"Pregunta": "475.- (3661) cuáles de los siguientes ítems están incluidos en el peso vacío de una aeronave:",
 			"RespuestaCorrecta": "1",
-			"A": "Combustible no utilizable y aceite no drenable",
-			"B": "Solamente el fuselaje, motor y equipo opcional",
-			"C": "Los tanques de combustible llenos y la capacidad de aceite del motor"
+			"A": "combustible no utilizable y aceite no drenable",
+			"B": "solamente el fuselaje, motor y equipo opcional",
+			"C": "los tanques de combustible llenos y la capacidad de aceite del motor"
 		}, {
-			"Pregunta": "476.- (3552) UNA AERONAVE ESTÁ CARGADA 11O LIBRAS SOBRE SU PESO MAXIMO CERTIFICADO. SI SE DRENA COMBUSTIBLE PARA LOGRAR QUE EL PESO DE LA AERONAVE ESTÉ DENTRO DE LOS LÍMITES. QUÉ CANTIDAD DE COMBUSTIBLE DEBE SER DRENADA:",
+			"Pregunta": "476.- (3552) una aeronave está cargada 11o libras sobre su peso máximo certificado. si se drena combustible para lograr que el peso de la aeronave esté dentro de los límites. qué cantidad de combustible debe ser drenada:",
 			"RespuestaCorrecta": "2",
-			"A": "15.2 GALONES",
-			"B": "18.4 GALONES",
-			"C": "17.1 GALONES"
+			"A": "15.2 galones",
+			"B": "18.4 galones",
+			"C": "17.1 galones"
 		}, {
-			"Pregunta": "477.- (3553) S! UNA AERONAVE ESTÁ CARGADA 9O LIBRAS SOBRE SU PESO MAXIMO CERTIFICADO. SI SE DRENA COMBUSTIBLE PARA LOGRAR QUE EL PESO DE LA  AERONAVE ESTÉ DENTRO DE LOS LÍMITES. QUÉ CANTIDAD DE COMBUSTIBLE DEBERÁ SER DRENADA:",
+			"Pregunta": "477.- (3553) si una aeronave está cargada 9o libras sobre su peso máximo certificado, si se drena combustible para lograr que el peso de la  aeronave esté dentro de los límites. qué cantidad de combustible deberá ser drenada:",
 			"RespuestaCorrecta": "3",
-			"A": "1O GALONES",
-			"B": "12 GALONES",
-			"C": "15 GALONES"
+			"A": "1o galones",
+			"B": "12 galones",
+			"C": "15 galones"
 		}, {
-			"Pregunta": "478.- (3554) DADOS: PESO VAC|O 1495 LIBRAS, BRAZO 101.4 PULGADAS Y MOMENTO 151593 LBS./PLG., PILOTO Y PASAJEROS 380 LBS., BRAZO 64 PLG., COMBUSTIBLE UTIL 30 GLS., BRAZO 96 PLG., DETERMINAR A QUÉ DISTANCIA HACIA ATRÁS DEL DATUM ESTÁ UBICADO EL CG:",
+			"Pregunta": "478.- (3554) dados: peso vacío 1495 libras, brazo 101.4 pulgadas y momento 151593 lbs./plg., piloto y pasajeros 380 lbs., brazo 64 plg., combustible útil 30 gls., brazo 96 plg., determinar a qué distancia hacia atrás del datum está ubicado el cg:",
 			"RespuestaCorrecta": "2",
 			"A": "92.44",
 			"B": "94,01",
 			"C": "119"
 		}, {
-			"Pregunta": "479.- (3559) (REF. FIG. 35) CUAL ES LA MÁXIMA CANTIDAD DE EQUIPAJE QUE PUEDE SER CARGADA ABORDO DE UN AVIÓN PARA QUE EL CENTRO DE GRAVEDAD PERMANEZCA DENTRO DE SUS LIMITES: PESO VACÍO 1350 LIBRAS, (MOM/1000) 51.5 LBS/PULG., PILOTO Y PASAJERO DELANTERO 250 LIBRAS, PASAJEROS POSTERIORES 400 LIBRAS, COMBUSTIBLE (30 GLS.), ACEITE (8 CUARTOS) 15 LBS., (MOM/1000)-O.2 LBS/PULG.",
+			"Pregunta": "479.- (3559) (ref. fig. 35) cual es la máxima cantidad de equipaje que puede ser cargada abordo de un avión para que el centro de gravedad permanezca dentro de sus límites: peso vacío 1350 libras, (mom/1000) 51.5 lbs/pulg., piloto y pasajero delantero 250 libras, pasajeros posteriores 400 libras, combustible (30 gls.), aceite (8 cuartos) 15 lbs., (mom/1000)-o.2 lbs/pulg.",
 			"RespuestaCorrecta": "1",
-			"A": "105 LIBRAS",
-			"B": "110 LIBRAS",
-			"C": "120 LIBRAS"
+			"A": "105 libras",
+			"B": "110 libras",
+			"C": "120 libras"
 		}, {
-			"Pregunta": "480.- (3670) (REF. FIG .35) CALCULAR EL MOMENTO DE UN AVIÓN (MOM/1000), DETERMINE LA CATEGORIA APLICABLE: PESO VACIO 135O LIBRAS, (MOM/1000) 51.5 LBS/PULG. PILOTO Y PASAJERO DELANTERO 310 LIBRAS, PASAJERO POSTERIOR 96 LIBRAS, COMBUSTIBLE 38 GLS. 228 LIBRAS, ACEITE 8 CUARTOS 15 LIBRAS, (MOM/1000) -O.2 LBS/PULG:",
+			"Pregunta": "480.- (3670) (ref. fig. .35) calcular el momento de un avión (mom/1000), determine la categoría aplicable: peso vacío 135o libras, (mom/1000) 51.5 lbs/pulg. piloto y pasajero delantero 310 libras, pasajero posterior 96 libras, combustible 38 gls. 228 libras, aceite 8 cuartos 15 libras, (mom/1000) -o.2 lbs/pulg:",
 			"RespuestaCorrecta": "2",
-			"A": "79.2 CATEGORIA UTILITARIA",
-			"B": "80.8 CATEGORIA UTILITARIA",
-			"C": "81.2 CATEGORIA NORMAL"
+			"A": "79.2 categoría utilitaria",
+			"B": "80.8 categoría utilitaria",
+			"C": "81.2 categoría normal"
 		}, {
-			"Pregunta": "481.- (3671) (REF. FIG .35) CUÁL ES LA MÁXIMA CANTIDAD DE COMBUSTIBLE QUE PUEDE SER CARGADA EN UN AVION PARA EL DESPEGUE, SI ESTA CARGADO COMO SIGUE: PESO VACIO 1350 LIBRAS, (MOM/1000) 51.5 LBS/PULG., PILOTO Y PASAJERO DELANTERO 340 LBS., PASAJEROS POSTERIORES 310 LBS., EQUIPAJE 45 LBS., ACEITE 8 CUARTOS, 15 LBS.(MOM/1000)-0.2 LBS/PULG.:",
+			"Pregunta": "481.- (3671) (ref. fig. .35) cuál es la máxima cantidad de combustible que puede ser cargada en un avión para el despegue, si está cargado como sigue: peso vacío 1350 libras, (mom/1000) 51.5 lbs/pulg., piloto y pasajero delantero 340 lbs., pasajeros posteriores 310 lbs., equipaje 45 lbs., aceite 8 cuartos, 15 lbs.(mom/1000)-0.2 lbs/pulg.:",
 			"RespuestaCorrecta": "3",
-			"A": "24 GALONES",
-			"B": "32 GALONES",
-			"C": "40 GALONES"
+			"A": "24 galones",
+			"B": "32 galones",
+			"C": "40 galones"
 		}, {
-			"Pregunta": "482.- (3672) (REF. FIG .35) DETERMINE EL MOMENTO CON LOS SIGUIENTES DATOS: PESO VACIO 1350 LIBRAS, (MOM/1000) 51.5 LBS.IPULG., PILOTO Y PASAJERO DELANTERO 340 LBS., COMBUSTIBLE (TANQUE STANDAR D 228 LBS., ACEITE 8 CUARTOS, 15 LBS., (MOM / 1000) - 0.2 LBS / PULG.: ",
+			"Pregunta": "482.- (3672) (ref. fig. .35) determine el momento con los siguientes datos: peso vacío 1350 libras, (mom/1000) 51.5 lbs/pulg., piloto y pasajero delantero 340 lbs., combustible (tanque estándar d 228 lbs., aceite 8 cuartos, 15 lbs., (mom / 1000) - 0.2 lbs / pulg.: ",
 			"RespuestaCorrecta": "2",
-			"A": "69.9 LBS/PULG",
-			"B": "74.9 LBS/PULG",
-			"C": "77.0 LBS/PULG"
+			"A": "69.9 lbs/pulg",
+			"B": "74.9 lbs/pulg",
+			"C": "77.0 lbs/pulg"
 		}, {
-			"Pregunta": "483.- (3673) (REF. FIG .35) DETERMINE EL MOMENTO DEL PESO Y LA CATEGORÍA DE LA AERONAVE: PESO VACIO 1350 LIBRAS, (MOM/1000)51.5 LBS/PULG. PILOTO Y PASAJERO DELANTERO 380 LBS., COMBUSTIBLE 48 GLNS. 288 LBS., ACEITE 8 CUARTOS 15 LBS., (MOM/1000)- 0.2 LBS/PULG:",
+			"Pregunta": "483.- (3673) (ref. fig. .35) determine el momento del peso y la categoría de la aeronave: peso vacío 1350 libras, (mom/1000)51.5 lbs/pulg. piloto y pasajero delantero 380 lbs., combustible 48 glns. 288 lbs., aceite 8 cuartos 15 lbs., (mom/1000)- 0.2 lbs/pulg:",
 			"RespuestaCorrecta": "2",
-			"A": "78.2 CATEGORIA NORMAL",
-			"B": "79.2 CATEGORIA NORMAL",
-			"C": "80.4 CATEGORIA UTILITARIA"
+			"A": "78.2 categoría normal",
+			"B": "79.2 categoría normal",
+			"C": "80.4 categoría utilitaria"
 		}, {
-			"Pregunta": "484.- (3565) (REF. FIG .33 Y 34) DETERMINE SI EL PESO Y BALANCE DEL AVIÓN SE ENCUENTRA DENTRO DE LOS LÍMITES: PASAJEROS DELANTEROS 340 LBS., PASAJEROS POSTERIORES 295 LBS., COMBUSTIBLE 44 GLNS., EQUIPAJE 56 LBS:",
+			"Pregunta": "484.- (3565) (ref. fig. .33 y 34) determine si el peso y balance del avión se encuentra dentro de los límites: pasajeros delanteros 340 lbs., pasajeros posteriores 295 lbs., combustible 44 glns., equipaje 56 lbs:",
 			"RespuestaCorrecta": "2",
-			"A": "20 lbs. De sobrepeso, cg fuera del límite posterior",
-			"B": "20 lbs. De sobrepeso, cg dentro de límites",
-			"C": "20 lbs. De sobrepeso, cg fuera del límite delantero"
+			"A": "20 lb de sobrepeso, cg fuera del límite posterior",
+			"B": "20 lb de sobrepeso, cg dentro de límites",
+			"C": "20 lb de sobrepeso, cg fuera del límite delantero"
 		}, {
-			"Pregunta": "485.- (3666) (REF. FIG .33 Y 34) CUAL ES LA MÁXIMA CANTIDAD DE EQUIPAJE QUE PUEDE SER TRANSPORTADA, CUANDO UN AVION ES CARGADO COMO SIGUE PASAJEROS DELANTEROS 387 LBS., PASAJEROS POSTERIORES 293 LBS. COMBUSTIBLE 35 GLSZ",
+			"Pregunta": "485.- (3666) (ref. fig. .33 y 34) cual es la máxima cantidad de equipaje que puede ser transportada, cuando un avión es cargado como sigue pasajeros delanteros 387 lbs., pasajeros posteriores 293 lbs. combustible 35 glsz",
 			"RespuestaCorrecta": "1",
-			"A": "45 LIBRAS",
-			"B": "63 LIBRAS",
-			"C": "220 LIBRAS"
+			"A": "45 libras",
+			"B": "63 libras",
+			"C": "220 libras"
 		}, {
-			"Pregunta": "486.- (3667) (REF. FIG .33 Y 34) CALCULAR EL PESO Y BALANCE Y DETERMINAR SI EL CG Y EL PESO DEL AVIÓN ESTÁN DENTRO DE LOS LIMITES! PASAJEROS DELANTEROS 350 LBS., PASAJEROS POSTERIORES 325 LBS., EQUIPAJE 27 LBS., COMBUSTIBLE 35 GALONES:",
+			"Pregunta": "486.- (3667) (ref. fig. .33 y 34) calcular el peso y balance y determinar si el cg y el peso del avión están dentro de los limites, pasajeros delanteros 350 lbs., pasajeros posteriores 325 lbs., equipaje 27 lbs., combustible 35 galones:",
 			"RespuestaCorrecta": "2",
-			"A": "CG 81.7 FUERA DEL LIMITE DELANTERO",
-			"B": "CG 83.4 DENTRO DE LIMITES",
-			"C": "CG 84.1 DENTRO DE LÍMITES"
+			"A": "cg 81.7 fuera del límite delantero",
+			"B": "cg 83.4 dentro de límites",
+			"C": "cg 84.1 dentro de límites"
 		}, {
-			"Pregunta": "487.- (3574) (REF. FIG .33 Y 34) EN UN ATERRIZAJE UN PASAJERO DELANTERO CON UN PESO DE 180 LIBRAS SE BAJA DEL AVION, UN PASAJERO POSTERIOR CON UN PESO DE 204 LIBRAS SE MUEVE A LA POSICION DELANTERA. QUE EFECTO TIENE EL CG, SI EL AVIÓN PESABA 2690 LIBRAS Y EL MOMENTO 0/100 FUE 2260, JUSTO ANTES QUE ELPASAJERO SE TRANSFIERA:",
+			"Pregunta": "487.- (3574) (ref. fig. .33 y 34) en un aterrizaje un pasajero delantero con un peso de 180 libras se baja del avión, un pasajero posterior con un peso de 204 libras se mueve a la posición delantera. que efecto tiene el cg, si el avión pesaba 2690 libras y el momento 0/100 fue 2260, justo antes que el pasajero se transfiera:",
 			"RespuestaCorrecta": "1",
-			"A": "El cg se mueve hacia adelante 3 pulgadas aproximadamente",
-			"B": "El peso cambia pero el cg no es afectado",
-			"C": "El cg se mueve hacia adelante l pulgada aproximadamente"
+			"A": "el cg se mueve hacia adelante 3 pulgadas aproximadamente",
+			"B": "el peso cambia pero el cg no es afectado",
+			"C": "el cg se mueve hacia adelante 1 pulgada aproximadamente"
 		}, {
-			"Pregunta": "488.- (3668) (REF. FIG .33 Y 34) DETERMINAR SI EL PESO Y BALANCE DE UN AVION ESTA DENTRO DE LOS LÍMITESI PASAJEROS DELANTEROS 415 LBS., PASAJEROS POSTERIORES 110 LBS., COMBUSTIBLE TANQUE PRINCIPAL 44 GLS., TANQUE AUXILIAR 19 GLS., EQUIPAJE 32 LBS:",
+			"Pregunta": "488.- (3668) (ref. fig. .33 y 34) determinar si el peso y balance de un avión está dentro de los límites: pasajeros delanteros 415 lbs., pasajeros posteriores 110 lbs., combustible tanque principal 44 gls., tanque auxiliar 19 gls., equipaje 32 lbs:",
 			"RespuestaCorrecta": "3",
-			"A": "19 lb. De sobrepeso, c.g. dentro de límites",
-			"B": "19 lb. De sobrepeso, c.g. fuera de límites",
-			"C": "Peso dentro de límites, c.g. fuera de límites"
+			"A": "19 lb. de sobrepeso, cg dentro de límites",
+			"B": "19 lb. de sobrepeso, cg fuera de límites",
+			"C": "peso dentro de límites, cg fuera de límites"
 		}, {
-			"Pregunta": "489.- (3675) (REF. FIG .33 Y34) QUE ACCIÓN PUEDE TOMARSE EN EL PESO DEL AVION, PARA QUE EL PESO BRUTO MÁXIMO Y EL CG ESTÉN DENTRO DE LOS LÍMITES PARA EL DESPEGUEI PASAJEROS DELANTEROS 425 LIBRAS, PASAJEROS POSTERIORES  300 LIBRAS, COMBUSTIBLE TANQUE PRINCIPAL) 44 GALONES:",
+			"Pregunta": "489.- (3675) (ref. fig. .33 y34) que acción puede tomarse en el peso del avión, para que el peso bruto máximo y el cg estén dentro de los límites para el despegue pasajeros delanteros 425 libras, pasajeros posteriores  300 libras, combustible tanque principal) 44 galones:",
 			"RespuestaCorrecta": "2",
-			"A": "Drenar 12 galones de combustible",
-			"B": "Drenar q galones de combustible",
-			"C": "Transferir 12 galones de combustible de los tanques principales a los auxiliares"
+			"A": "drenar 12 galones de combustible",
+			"B": "drenar q galones de combustible",
+			"C": "transferir 12 galones de combustible de los tanques principales a los auxiliares"
 		}, {
-			"Pregunta": "490.- (3677) (REF. FIG .33 Y 34) CON EL AVIÓN CARGADO COMO SIGUE, QUE ACCIÓN DEBE TOMARSE PARA BALANCEAR EL AVIÓN! PASAJEROS DELANTEROS 411 LIBRAS, PASAJEROS POSTERIORES 100 LIBRAS, TANQUES PRINCIPALES DEL ALA 44 GALONESZ",
+			"Pregunta": "490.- (3677) (ref. fig. .33 y 34) con el avión cargado como sigue, que acción debe tomarse para balancear el avión: pasajeros delanteros 411 libras, pasajeros posteriores 100 libras, tanques principales del ala 44 galones",
 			"RespuestaCorrecta": "2",
-			"A": "Llenar los tanques auxiliares de las alas",
-			"B": "Aumentar 10o libras de peso en el compartimento de equipaje",
-			"C": "Transferir 10 galones de combustible de los tanques principales a los auxiliares"
+			"A": "llenar los tanques auxiliares de las alas",
+			"B": "aumentar 100 libras de peso en el compartimento de equipaje",
+			"C": "transferir 10 galones de combustible de los tanques principales a los auxiliares"
 		}, {
-			"Pregunta": "491.- (3676) (REF. FIG .33 Y 34) QUÉ EFECTO PRODUCEN 35 GALONES DE COMBUSTIBLE CONSUMIDO EN EL PESO Y BALANCE DE UN AVIÓN, SI EL AVIÓN PESÓ 2890 LB. Y EL (MOMENTO/100) FUE 2452 EN EL DESPEGUE:",
+			"Pregunta": "491.- (3676) (ref. fig. .33 y 34) qué efecto producen 35 galones de combustible consumido en el peso y balance de un avión, si el avión pesó 2890 lb. y el (momento/100) fue 2452 en el despegue:",
 			"RespuestaCorrecta": "1",
-			"A": "El peso se reduce en 210 lb. y el cg está atrás de los límites",
-			"B": "El peso se reduce en 210 lb. y el cg no es afectado",
-			"C": "El peso se reduce a 2680 lb. y el cg se mueve hacia adelante"
+			"A": "el peso se reduce en 210 lb y el cg está atrás de los límites",
+			"B": "el peso se reduce en 210 lb y el cg no es afectado",
+			"C": "el peso se reduce a 2680 lb y el cg se mueve hacia adelante"
 		}, {
-			"Pregunta": "401.- (3245) UNA INDICACION ANORMAL DE ALTA TEMPERATURA DEL ACEITE EN EL MOTOR PUEDE SER CAUSADA POR:",
+			"Pregunta": "401.- (3245) una indicación anormal de alta temperatura del aceite en el motor puede ser causada por:",
 			"RespuestaCorrecta": "1",
-			"A": "Que el nivel de aceite esté demasiado bajo",
-			"B": "Operación con un aceite de alta viscosidad",
-			"C": "Operación con una excesiva mezcla rica"
+			"A": "que el nivel de aceite esté demasiado bajo",
+			"B": "operación con un aceite de alta viscosidad",
+			"C": "operación con una excesiva mezcla rica"
 		}, {
-			"Pregunta": "402.- (3221) UNA EXCESIVAMENTE ALTA TEMPERATURA EN EL MOTOR CAUSARÍA:",
+			"Pregunta": "402.- (3221) una excesivamente alta temperatura en el motor causaría:",
 			"RespuestaCorrecta": "2",
-			"A": "Daños por calor en los conductos medios y a la vez de los cilindros de enfriamiento de aletas",
-			"B": "Perdida de potencia, excesiva consumo de aceite y un posible daño permanente en el interior del motor",
-			"C": "Un efecto no apreciable en el motor de la aeronave"
+			"A": "daños por calor en los conductos medios y a la vez de los cilindros de enfriamiento de aletas",
+			"B": "perdida de potencia, excesiva consumo de aceite y un posible daño permanente en el interior del motor",
+			"C": "un efecto no apreciable en el motor de la aeronave"
 		}, {
-			"Pregunta": "403.- (3244) PARA UN ENPRIAMIENTO INTERNO DE LOS MOTORES RECÍPROCOS DE LAS AERONAVES, DEPENDE ESPECIFICAMENTE DE:",
+			"Pregunta": "403.- (3244) para un enfriamiento interno de los motores recíprocos de las aeronaves, depende específicamente de:",
 			"RespuestaCorrecta": "3",
-			"A": "El funcionamiento propio del termostato",
-			"B": "El flujo del aire sobre el escape del múltiple",
+			"A": "el funcionamiento propio del termostato",
+			"B": "el flujo del aire sobre el escape del múltiple",
 			"C": "la circulación del aceite lubricante"
 		}, {
-			"Pregunta": "404.- (3651) QUÉ ACCIÓN PUEDE TOMAR UN PILOTO PARA AYUDAR EN EL ENFRIAMIENTO DEL MOTOR QUE ESTÁ CON SOBRECALAENTAMIENTO DURANTE UN ASCENSO:",
+			"Pregunta": "404.- (3651) qué acción puede tomar un piloto para ayudar en el enfriamiento del motor que está con sobrecalentamiento durante un ascenso:",
 			"RespuestaCorrecta": "1",
-			"A": "Reducir la rata del ascenso e incrementar la velocidad",
-			"B": "Reducir la velocidad de ascenso e incrementar las rpm",
-			"C": "Incrementar la velocidad de ascenso e incrementar las rpm"
+			"A": "reducir la rata del ascenso e incrementar la velocidad",
+			"B": "reducir la velocidad de ascenso e incrementar las rpm",
+			"C": "incrementar la velocidad de ascenso e incrementar las rpm"
 		}, {
-			"Pregunta": "405.- (3652) CUÁL ES UN PROCED|M|ENTO PARA AYUDAR EN EL ENFRIAMIENTO DE UN MOTOR QUE ESTÁ SOBRECALENTADO:",
+			"Pregunta": "405.- (3652) cuál es un procedimiento para ayudar en el enfriamiento de un motor que está sobrecalentado:",
 			"RespuestaCorrecta": "1",
-			"A": "Enriquecer la mezcla del combustible",
-			"B": "Incrementar las rpm",
-			"C": "Reducir la velocidad"
+			"A": "enriquecer la mezcla del combustible",
+			"B": "incrementar las rpm",
+			"C": "reducir la velocidad"
 		}, {
-			"Pregunta": "406.- (3655) UNA PRECAUCIÓN PARA LA OPERACIÓN DE UN MOTOR EQUIPADO CON UNA HÉLICE DE VELOCIDAD CONSTANTE ES:",
+			"Pregunta": "406.- (3655) una precaución para la operación de un motor equipado con una hélice de velocidad constante es:",
 			"RespuestaCorrecta": "2",
-			"A": "Evitar selectar altas rpm con alta presión de admisión",
+			"A": "evitar selectar altas rpm con alta presión de admisión",
 			"B": "evitar selectar alta presión de admisión con bajas rpm",
-			"C": "Siempre usar mezcla rica con selección de altas rpm"
+			"C": "siempre usar mezcla rica con selección de altas rpm"
 		}, {
-			"Pregunta": "442.- (3711) LA REGLA MÁS IMPORTANTE QUE SE DEBE RECORDAR EN UNA FALLA DE MOTOR LUEGO DEL DESPEGUE ES:",
+			"Pregunta": "442.- (3711) la regla más importante que se debe recordar en una falla de motor luego del despegue es:",
 			"RespuestaCorrecta": "1",
-			"A": "Establecer inmediatamente una actitud apropiada de planeo y velocidad",
-			"B": "Chequear rápidamente el suministro de combustible y posible fuga de combustible",
+			"A": "establecer inmediatamente una actitud apropiada de planeo y velocidad",
+			"B": "chequear rápidamente el suministro de combustible y posible fuga de combustible",
 			"C": "determinar la dirección del viento para planear hacia un aterrizaje forzoso"
 		}
-    ]
+]
+

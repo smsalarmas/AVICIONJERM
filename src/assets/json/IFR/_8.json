@@ -1,125 +1,125 @@
-[	{
-		"Pregunta": "387.- (4624) QUE PROCEDIMIENTO DE CRONOMETRAJE DEBERIA SER USADO CUANDO REALIZAMOS UN PATRON DE ESPERA EN UN VOR:",
+	[{
+		"Pregunta": "387.- (4624) que procedimiento de cronometraje debería ser usado cuando realizamos un patrón de espera en un vor:",
 		"RespuestaCorrecta": "1",
-		"*A": "CRONOMETRAMOS EN LA PIERNA OUTBUOND INICANDO SOBRE O, A TRAVEZ DEL VOR, LO QUE OCURRA MAS TARDE",
-		"B": "CRONOMETRAMOS EN lA PIERNA INBOUND CUANDO INICA EL VIRAJE INBOUND",
-		"C": "EL AJUSTE DEL TIEMPO EN CADA PATRON DEBERIA SER REALIZADO EN LA PIERNA INBOUND."
+		"A": "cronometramos en la pierna outbuond iniciando sobre 0, a través del vor, lo que ocurra más tarde",
+		"B": "cronometramos en la pierna inbound cuando inicia el viraje inbound",
+		"C": "el ajuste del tiempo en cada patrón debería ser realizado en la pierna inbound."
 	},
 	{
-		"Pregunta": "395.- EN UN PLAN DE VUELO QUE SIGLA DEBERIA SER ESCRITA EN EL CASILLERO  8 REGLAS DE VUELO, SI VA HA REALIZARSE UN PLAN DE VUELO IFR Y VFR: ",
+		"Pregunta": "395.- en un plan de vuelo que sigla debería ser escrita en el casillero 8 reglas de vuelo, si va a realizarse un plan de vuelo IFR y VFR: ",
 		"RespuestaCorrecta": "3",
-		"A": "I Y V",
+		"A": "I y V",
 		"B": "Z",
 		"C": "Y."
 	},
 	{
-		"Pregunta": "396.- QUE EQUIPO ES CONSIDERADO COMO EQUIPO NORMALIZADO COM, PARA AYUDAS EN LA NAVEGACION Y LA APROXIMACION PARA UNA RUTA. (SIGLAS EN LA CASILLA 10 EQUIPO DEL PLAN DE VUELO): ",
+		"Pregunta": "396.- que equipo es considerado como equipo normalizado com, para ayudas en la navegación y la aproximación para una ruta. (siglas en la casilla 10 equipo del plan de vuelo): ",
 		"RespuestaCorrecta": "2",
 		"A": "LORAN, DME, TACAN, VHF Y RTF",
-		"B": "VHF, RTF, ADF, VOR E ILS",
+		"B": "VHF, RTF, ADF, VOR e ILS",
 		"C": "HF, RTF, ILS, DME, OMEGA, GPS."
 	},
 	{
-		"Pregunta": "397.- QUE INFORMACION DEBERIA SER LLENADA EN LA CASILLA DE NIVEL EN UN PLAN DE VUELO IFR, SI EL VUELO TIENE 3 PIERNAS, CONSIDERAR UNA CON DIFERENTE ALTITUD: ",
+		"Pregunta": "397.- que información debería ser llenada en la casilla de nivel en un plan de vuelo IFR, si el vuelo tiene 3 piernas, considerar una con diferente altitud: ",
 		"RespuestaCorrecta": "3",
-		"A": "LA MAYOR ALTITUD",
-		"B": "LA ALTITUD DE LA PRIMERA PIERNA Y LA MAYOR ALTITUD",
-		"C": "LA ALTITUD DE LA PRIMERA PIERNA."
+		"A": "la mayor altitud",
+		"B": "la altitud de la primera pierna y la mayor altitud",
+		"C": "la altitud de la primera pierna."
 	},
 	{
-		"Pregunta": "398.- (4395) QUE RESPUESTA ES ESPERADA CUANDO EL ATC EMITE UNA AUTORIZACION IFR A UN PILOTO PARA UNA AERONAVE EN VUELO:",
+		"Pregunta": "398.- (4395) que respuesta es esperada cuando el ATC emite una autorización IFR a un piloto para una aeronave en vuelo:",
 		"RespuestaCorrecta": "2",
-		"A": "REPETIR LA AUTORIZACION COMPLETA COMO ES REQUERIDO POR LA REGULACION",
-		"B": "REPETIR AQUELLAS PARTES QUE CONTIENEN LA ALTITUD ASIGNADA, VECTORES Y ALGUNA PARTE QUE REQUIERA VERIFICACION",
-		"C": "LA REPETICION DEBERA SER A SOLICITUD Y ESPONTANEA PARA CONFIRMAR QUE EL PILOTO ENTENDIO TODAS LAS INSTRUCCIONES."
+		"A": "repetir la autorización completa como es requerido por la regulación",
+		"B": "repetir aquellas partes que contienen la altitud asignada, vectores y alguna parte que requiera verificación",
+		"C": "la repetición deberá ser a solicitud y espontanea para confirmar que el piloto entendió todas las instrucciones."
 	},
 	{
-		"Pregunta": "399.- (4396) QUE PARRAFOS DE UNA AUTORIZACION SON SIEMPRE DADOS EN UNA AUTORIZACION DE SALIDA ABREVIADA IFR: (SUPONER ENTORNO DE CONTROL RADAR).",
+		"Pregunta": "399.- (4396) que párrafos de una autorización son siempre dados en una autorización de salida abreviada IFR: (suponer entorno de control radar).",
 		"RespuestaCorrecta": "2",
-		"A": "ALTITUD, AEROPUERTO DE DESTINO, Y UNO O MAS PUNTOS LOS CUALES IDENTIFICAN LA RUTA INICAL DEL VUELO",
-		"B": "AEROPUERTO DE DESTINO, ALTITUD Y SID NOMBRE, NUMERO-TRANSICION SI ES ARROPADO",
-		"C": "AUTORIZACION LIMITE, Y SID NOMBRE, NUMERO Y/O TRANSICION, SI ES ARROPADO."
+		"A": "altitud, aeropuerto de destino, y uno o más puntos los cuales identifican la ruta inicial del vuelo",
+		"B": "aeropuerto de destino, altitud y SID nombre, numero-transición si es arropado",
+		"C": "autorización limite, y SID nombre, número y/o transición, si es arropado."
 	},
 	{
-		"Pregunta": "400.- DURANTE UN DESPEGUE EN CONDICIONES IFR CON UN TECHO BAJO, CUANDO DEBERIA EL PILOTO CONTACTAR CON APROXIMACION:",
+		"Pregunta": "400.- durante un despegue en condiciones IFR con un techo bajo, cuando debería el piloto contactar con aproximación:",
 		"RespuestaCorrecta": "2",
-		"A": "ANTES DE INGRESAR A NUBES",
-		"B": "CUANDO SEA NOTIFICADO POR LA TORRE",
-		"C": "SE PREFIERE COMPLETAR PRIMERO EL VIRAJE DESPUES DEL DESPEGUE O ES PREFERIBLE YA ESTABILIZADO EN EL CRUCERO DE ASCENSO RECTO, REALIZANDO LA SID."
+		"A": "antes de ingresar a nubes",
+		"B": "cuando sea notificado por la torre",
+		"C": "se prefiere completar primero el viraje después del despegue o es preferible ya estabilizado en el crucero de ascenso recto, realizando la SID."
 	},
 	{
-		"Pregunta": "401.- DONDE SON OBLIGATORIOS LOS PUNTOS DE NOTIFICACION EN UN VUELO DIRECTO SIN VALOR EN RADIALES O CURSOS ESTABLECIDOS EN AEROVIAS:",
+		"Pregunta": "401.- donde son obligatorios los puntos de notificación en un vuelo directo sin valor en radiales o cursos establecidos en aerovías:",
 		"RespuestaCorrecta": "1",
-		"A": "EN PUNTOS SELECCIONADOS EN UNA RUTA DEFINIDA",
-		"B": "NO HAY PUNTOS DE NOTIFICACION OBLIGATORIOS A MENOS QUE EL ATC NOTIFIQUE",
-		"C": "EN LOS PUNTOS DE CAMBIO DE FRECUENCA."
+		"A": "en puntos seleccionados en una ruta definida",
+		"B": "no hay puntos de notificación obligatorios a menos que el ATC notifique",
+		"C": "en los puntos de cambio de frecuencia."
 	},
 	{
-		"Pregunta": "402.- (4725) CUAL ES LA RESPONSABILIDAD DE UN PILOTO AL MANDO CUANDO VUELA UNA AERONAVE PROPULSADA POR HELICE DENTRO DE 20 MILLAS DEL AEROPUERTO PROPUESTO PARA ATERRIZAR Y EL ATC REQUIERE QUE EL PILOTO REDUZCA LA VELOCIDAD A 160: EL PILOTO CUMPLE CON EL AJUSTE DE VELOCIDAD: ",
+		"Pregunta": "402.- (4725) cual es la responsabilidad de un piloto al mando cuando vuela una aeronave propulsada por hélice dentro de 20 millas del aeropuerto propuesto para aterrizar y el ATC requiere que el piloto reduzca la velocidad a 160: el piloto cumple con el ajuste de velocidad: ",
 		"RespuestaCorrecta": "3",
-		"A": "REDUCIR LA TAS A 160 NUDOS Y MANTENER HASTA QUE SEA NOTIFICADO POR EL ATC",
-		"B": "REDUCIR LA AS A 160 MPH Y MANTENER HASTA QUE SEA NOTIFICADO POR EL ATC",
-		"C": "REDUCIR LA IAS A 150 NUDOS Y MANTENER ESA VELOCiDAD DENTRO DE 10 NUDOS."
+		"A": "reducir la TAS a 160 nudos y mantener hasta que sea notificado por el ATC",
+		"B": "reducir la TAS a 160 mph y mantener hasta que sea notificado por el ATC",
+		"C": "reducir la TAS a 150 nudos y mantener esa velocidad dentro de 10 nudos."
 	},
 	{
-		"Pregunta": "403.- (4464) USTED ESTA EN IMC Y TIENE FALLA DE RADIOCOMUNICACION EN DOBLE VIA SI USTED NO EJERCE LA AUTORIDAD DE EMERGENCIA, QUE PROCEDIMIENTO USTED ESPERA SEGUIR:",
+		"Pregunta": "403.- (4464) usted está en IMC y tiene falla de radiocomunicación en doble vía si usted no ejerce la autoridad de emergencia, que procedimiento usted espera seguir:",
 		"RespuestaCorrecta": "1",
-		"A": "SELECTAR EN EL TRANSPONDER EL CODIGO 7600, CONTINUAR EL VUELO EN LA RUTA ASIGNADA Y VOLAR EN LA ULTIMA ALTITUD ASIGNADA O EL MEA LO QUE SEA MAYOR",
-		"B": "SELECTAR EN EL TRANSPONDER EL CODIGO 7700 POR UN MINUTO, LUEGO A 7600 Y VOLAR A UNA AREA EN CONDICIONES METEOROLOGICAS VFR",
-		"C": "SELECTAR EN EL TRANSPONDER EL CODIGO 7700 Y VOLAR A UNA AREA DONDE USTED PUEDA BAJAR EN CONDICIONES VFR."
+		"A": "selectar en el transponder el código 7600, continuar el vuelo en la ruta asignada y volar en la última altitud asignada o el mea lo que sea mayor",
+		"B": "selectar en el transponder el código 7700 por un minuto, luego a 7600 y volar a una área en condiciones meteorológicas VFR",
+		"C": "selectar en el transponder el código 7700 y volar a una área donde usted pueda bajar en condiciones VFR."
 	},
 	{
-		"Pregunta": "404.- (4466) QUE ALTITUD Y RUTA DEBERIAN SER USADAS SI USTED ESTA VOLANDO EN IMC Y TIENE FALLA DE RADIOCOMUNICACION EN DOBLE VIA:",
+		"Pregunta": "404.- (4466) que altitud y ruta deberían ser usadas si usted está volando en IMC y tiene falla de radiocomunicación en doble vía:",
 		"RespuestaCorrecta": "1",
-		"A": "CONTINUAR EN LA RUTA ESPECIFICADA EN SU AUTORIZACION, VOLAR A UNA ALTITUD QUE SEA MAYOR A LA ULTIMA ALTITUD ASIGNADA, LA ALTITUD QUE USTED ESPERA QUE EL ATC LE INFORME EL MEA",
-		"B": "VOLAR DIRECTO A UNA AREA QUE HAYA SIDO PRONOSTICADA TENER CONDICIONES VFR, VOLAR A UNA ALTITUD QUE ESTE AL MENOS 1000 PIES SOBRE EL OBSTACULO MAS ALTO A LO LARGO DE LA RUTA",
-		"C": "DESCENDER AL MEA Y SI ESTA LIBRE DE NUBES, PROCEDER AL AEROPUERTO MAS CERCANO, SI NO ESTA LIBRE DE NUBES MANTENER UNA ALTITUD MAYOR AL MEA A LO LARGO DE LA AUTORIZADA "
+		"A": "continuar en la ruta especificada en su autorización, volar a una altitud que sea mayor a la última altitud asignada, la altitud que usted espera que el ATC le informe el mea",
+		"B": "volar directo a una área que haya sido pronosticada tener condiciones VFR, volar a una altitud que este al menos 1000 pies sobre el obstáculo mas alto a lo largo de la ruta",
+		"C": "descender al mea y si está libre de nubes, proceder al aeropuerto más cercano, si no está libre de nubes mantener una altitud mayor al mea a lo largo de la autorizada "
 	},
 	{
-		"Pregunta": "405.- (4011) LA MINIMA CALIFICACION PARA QUE UNA PERSONA PUEDA OCUPAR EL OTRO ASIENTO COMO PILOTO DE SEGURIDAD DURANTEL  VUELO SIMULADO POR INSTRUMENTOS, ES POSEER:",
+		"Pregunta": "405.- (4011) la minima calificación para que una persona pueda ocupar el otro asiento como piloto de seguridad durante el  vuelo simulado por instrumentos, es poseer:",
 		"RespuestaCorrecta": "1",
-		"A": "LA HABILITACION ARROPADA PARA EL AVION",
-		"B": "LICENCA DE PILOTO PRIVADO",
-		"C": "LICENCA DE PILOTO PRIVADO CON HABILITACION PARA VUELO POR INSTRUMENTOS."
+		"A": "la habilitación arropada para el avión",
+		"B": "licencia de piloto privado",
+		"C": "licencia de piloto privado con habilitación para vuelo por instrumentos."
 	},
 	{
-		"Pregunta": "406.- (4461) MIENTRAS SE REALIZA UN VUELO IFR UN PILOTO TIENE UNA EMERGENCIA LA MISMA QUE CAUSA UNA DESVIACION DE LA AUTORIZACION DEL ATC, QUE ACCION DEBERIA SER TOMADA:",
+		"Pregunta": "406.- (4461) mientras se realiza un vuelo IFR un piloto tiene una emergencia la misma que causa una desviación de la autorización del ATC, que accion debería ser tomada:",
 		"RespuestaCorrecta": "1",
-		"A": "NOTIFICAR DE LA DESVACION AL ATC TAN PRONTO COMO SEA POSIBLE",
-		"B": "SELECCIONAR EN EL TRANSPONDER 7700 DURANTE LA EMERGENCA",
-		"C": "PRESENTAR UN REPORTE DETALLADO AL ATC DENTRO DE LAS PROXIMAS 48 HORAS."
+		"A": "notificar de la desviación al ATC tan pronto como sea posible",
+		"B": "seleccionar en el transponder 7700 durante la emergencia",
+		"C": "presentar un reporte detallado al ATC dentro de las próximas 48 horas."
 	},
 	{
-		"Pregunta": "407.- (4381) DURANTE UN VUELO IFR EN IMC, UNA CONDICION PELIGROSA ES ENCONTRADA, (FUEGO, MECANICA, FALLA ESTRUCTURAL). EL PILOTO DEBERA:",
+		"Pregunta": "407.- (4381) durante un vuelo IFR en IMC, una condición peligrosa es encontrada, (fuego, mecánica, falla estructural). el piloto deberá:",
 		"RespuestaCorrecta": "1",
-		"A": "NO TITUBEAR EN DECLARAR LA EMERGENCA Y OBTENER UNA AUTORIZACION ENMENDADA",
-		"B": "ESPERAR HASTA QUE LA SITUACION SEA DIRECTAMENTE PELIGROSA ANTES DE DECLARAR LA EMERGENCA",
-		"C": "CONTACTAR CON EL ATC Y AVISAR QUE EXISTE UNA CONDICION URGENTE Y REQUIERE UNA PRIORIDAD."
+		"A": "no titubear en declarar la emergencia y obtener una autorización enmendada",
+		"B": "esperar hasta que la situación sea directamente peligrosa antes de declarar la emergencia",
+		"C": "contactar con el ATC y avisar que existe una condición urgente y requiere una prioridad."
 	},
 	{
-		"Pregunta": "408.- LA CATEGORIA DE ESTELA TURBULENTA EN EL CASILLERO DEL PLAN DE VUELO TIENE COMO REFERENCIA PARA SU CLASIFICACION: ",
+		"Pregunta": "408.- la categoría de estela turbulenta en el casillero del plan de vuelo tiene como referencia para su clasificación: ",
 		"RespuestaCorrecta": "1",
-		"A": "EL PESO MAXIMO CERTIFICADO PARA EL DESPEGUE",
-		"B": "1.3 VECES LA VELOCIDAD DE PERDIDA EN LA CONFIGURACION DE ATERRIZAJE",
-		"C": "EL EQUIPO DE NAVEGACION QUE LLEVA A BORDO."
+		"A": "el peso máximo certificado para el despegue",
+		"B": "1.3 veces la velocidad de perdida en la configuración de aterrizaje",
+		"C": "el equipo de navegación que lleva a bordo."
 	},
 	{
-		"Pregunta": "409.- AL SELECTAR LA FRECUENCIA EN EL EQUIPO DE NAVEGACION A QUE FRECUENCIA CORRESPONDE EL SIGUIENTE CODIGO FONETICO",
+		"Pregunta": "409.- al selectar la frecuencia en el equipo de navegación a que frecuencia corresponde el siguiente código fonético",
 		"RespuestaCorrecta": "2",
 		"A": "114.5 CUV",
 		"B": "110.9 ILC",
 		"C": "221 CUR."
 	},
 	{
-		"Pregunta": "410.- LA FRECUENCIA DE TRABAJO Y TONO DE IDENTIFICACION DEL MARCADOR MEDIO ES DE: ",
+		"Pregunta": "410.- la frecuencia de trabajo y tono de identificación del marcador medio es de: ",
 		"RespuestaCorrecta": "1",
-		"A": "75 MHZ, CON 1300 HZ",
-		"B": "75 MHZ, CON 400 HZ",
-		"C": "75 MHZ, CON 3000 HZ",
-		"D": "75 MHZ, CON 300 HZ."
+		"A": "75 mhz, con 1300 hz",
+		"B": "75 mhz, con 400 hz",
+		"C": "75 mhz, con 3000 hz",
+		"D": "75 mhz, con 300 hz."
 	},
 	{
-		"Pregunta": "411.- PARA INTERCEPTAR CON EL ADF 125° IN BOUND, SI TENEMOS DEFLECTADA LA AGUJA 20° A LA DERECHA DEL AVIÓN, DEBEMOS SELECTAR UN RUMBO DE INTERCEPTACION DE:",
+		"Pregunta": "411.- para interceptar con el ADF 125° in bound, si tenemos deflectada la aguja 20° a la derecha del avión, debemos selectar un rumbo de interceptación de:",
 		"RespuestaCorrecta": "4",
 		"A": "145°",
 		"B": "105°",
@@ -127,38 +127,39 @@
 		"D": "170°."
 	},
 	{
-		"Pregunta": "412.- CUATRO DOCUMENTOS QUE DEBEN SER LLEVADOS A BORDO DE LAS AERONAVES EN TODOS LOS VUELOS, SON:",
+		"Pregunta": "412.- cuatro documentos que deben ser llevados a bordo de las aeronaves en todos los vuelos, son:",
 		"RespuestaCorrecta": "1",
-		"A": "CERTIFICADO DE AERONAVEGABILIDAD, MATRICULA, LICENCIAS DE UN Y MANUAL DE VUELO DE LA AERONAVE",
-		"B": "LISTA DE PASAJEROS, INFORMACION METEREOLOGICA, CERTIFICADOS MEDICOS Y MATRICULA.",
-		"C": "NÓMINA DE TRIPULANTES, LICENCAS, PASAPORTES Y MGO."
+		"A": "certificado de aeronavegabilidad, matricula, licencia y manual de vuelo de la aeronave",
+		"B": "lista de pasajeros, información meteorológica, certificados médicos y matricula.",
+		"C": "nómina de tripulantes, licencias, pasaportes y MGO."
 	},
 	{
-		"Pregunta": "413.- CUAL ES EL INSTRUMENTO DE CONTROL REQUERIDO SI SE CAMBIA DE VUELO RECTO Y NIVELADO A UN VIRAJE IZQUIERDO:",
+		"Pregunta": "413.- cual es el instrumento de control requerido si se cambia de vuelo recto y nivelado a un viraje izquierdo:",
 		"RespuestaCorrecta": "1",
-		"A": "INDICADOR DE ACTITUD",
-		"B": "INDICADOR RADIOMAGNETICO",
-		"C": "INDICADOR DE INCLINACION Y VIRAJE"
+		"A": "indicador de actitud",
+		"B": "indicador radio magnético",
+		"C": "indicador de inclinación y viraje"
 	},
 	{
-		"Pregunta": "414.- (4081) QUÉ CONDICIONES MINIMAS METEOROLOGICAS DEBERÁN SER PRONOSTICADAS PARA SU ETA EN UN AEROPUERTO QUE TIENE SÓLO UNA APROXIMACIÓN VOR CON MÍNIMOS ALTERNOS ESTÁNDAR, PARA QUE EL AEROPUERTO SEA REGISTRADO COMO ALTERNO EN EL PLAN DE VUELO IFR:",
+		"Pregunta": "414.- (4081) qué condiciones mínimas meteorológicas deberán ser pronosticadas para su eta en un aeropuerto que tiene sólo una aproximación vor con mínimos alternos estándar, para que el aeropuerto sea registrado como alterno en el plan de vuelo IFR:",
 		"RespuestaCorrecta": "2",
-		"A": "800 PIES DE TECHO Y 1 MILLA DE VISIBILIDAD",
-		"B": "800 PIES DE TECHO Y 2 MILLAS DE VISIBILIDAD",
-		"C": "1000 PIES DE TECHO Y VISIBILIDAD QUE PERMITA DESCENDER DE LA ALTITUD MÍNIMA EN RUTA (MEA), APROXIMACIÓN Y ATERRIZAR BAJO VFR BÁSICOS."
+		"A": "800 pies de techo y 1 milla de visibilidad",
+		"B": "800 pies de techo y 2 millas de visibilidad",
+		"C": "1000 pies de techo y visibilidad que permita descender de la altitud mínima en ruta (mea), aproximación y aterrizar bajo VFR básicos."
 	},
 	{
-		"Pregunta": "415.- (4083) CUÁLES CONDICIONES MÍNIMAS DEBERÁN EXISTIR EN UN AEROPUERTO DE DESTINO PARA EVITAR REGISTRAR UN AEROPUERTO ALTERNO EN ÜN PLAN DE VUELO IFR CUANDO UN PAIS ESTÁNDAR ESTÁ DISPONIBLE:",
+		"Pregunta": "415.- (4083) cuáles condiciones mínimas deberán existir en un aeropuerto de destino para evitar registrar un aeropuerto alterno en un plan de vuelo IFR cuando un país estándar está disponible:",
 		"RespuestaCorrecta": "3",
-		"A": "DESDE 2 HORAS ANTES Y 2 HORAS DESPUÉS DE ETA, TECHO PRONOSTICADO DE 2000 PIES Y VISIBILIDAD DE MAS DE 2 MILLAS",
-		"B": "DESDE 2 HORAS ANTES Y 2 HORAS DESPUÉS DE ETA, TECHO PRONOSTICADO DE 3000 PIES Y 3 MILLAS DE VISIBLDAD.",
-		"C": "DESDE 1 HORA ANTES Y 1 HORA DESPUÉS DE ETA, TECHO PRONOSTICADO DE 2000 PIES Y VISIBILIDAD DE 3 MILLAS."
+		"A": "desde 2 horas antes y 2 horas después de eta, techo pronosticado de 2000 pies y visibilidad de más de 2 millas",
+		"B": "desde 2 horas antes y 2 horas después de eta, techo pronosticado de 3000 pies y 3 millas de visibilidad.",
+		"C": "desde 1 hora antes y 1 hora después de eta, techo pronosticado de 2000 pies y visibilidad de 3 millas."
 	},
 	{
-		"Pregunta": "416.- (4085) CUÁLES SON LOS MÍNIMOS ESTÁNDARES REQUERIDOS PARA LISTAR UN AEROPUERTO COMO ALTERNO EN UN PLAN DE VUELO IFR SI EL AEROPUERTO TIENE UNA APROXIMACIÓN VOR SOLAMENTE:",
+		"Pregunta": "416.- (4085) cuáles son los mínimos estándares requeridos para listar un aeropuerto como alterno en un plan de vuelo IFR si el aeropuerto tiene una aproximación vor solamente:",
 		"RespuestaCorrecta": "1",
-		"A": "TECHO Y VISIBILIDAD EN ETA, 800 PIES Y 2 MILLAS, RESPECTIVAMENTE",
-		"B": "TECHO Y VISIBILIDAD DESDE 2 HORAS ANTES HASTA 2 HORAS DESPUÉS DE ETA, 800 PIES Y 2 MILLAS, RESPECTIVAMENTE",
-		"C": "TECHO Y VISIBILIDAD EN ETA, 600 PIES Y 2 MLIAS, RESPECTIVAMENTE."
+		"A": "techo y visibilidad en eta, 800 pies y 2 millas, respectivamente",
+		"B": "techo y visibilidad desde 2 horas antes hasta 2 horas después de eta, 800 pies y 2 millas, respectivamente",
+		"C": "techo y visibilidad en eta, 600 pies y 2 millas, respectivamente."
 	}
-    ]
+]
+

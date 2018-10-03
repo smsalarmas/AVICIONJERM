@@ -2,4 +2,14 @@ page-carreras {
     .item .item-content {
         background-color: #007EC9 !important; 
       }
+
+      $colors: (
+        primary: #0174DF,
+      );
+      
+  
+      .BgColor{
+          background-color: map-get($colors, primary);
+          
+      }
 }

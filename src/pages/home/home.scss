@@ -20,4 +20,23 @@ page-home {
         min-height:calc(56px + 20px);
         padding-top:20px;
       }
+
+      $colors: (
+        primary: #0174DF,
+      );
+
+      $ColorBlanco: (
+        primary: rgb(255, 255, 255),
+      );
+      
+  
+      .BgColor{
+          background-color: map-get($colors, primary);
+          
+      }
+
+      .BgColorBlanco{
+        background-color: map-get($ColorBlanco, primary);
+        
+        }
 }

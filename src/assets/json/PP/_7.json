@@ -1,524 +1,524 @@
-﻿[		
-		{
-			"Pregunta": "413. - DETERMINAR LA LONGITUD Y LATITUD APROXIMADA DEL AEROPUERTO 'GRAL. SERRANO (REF. CARTA (ANC-MACHALA-3011AB):",
+﻿[		{
+			"Pregunta": "413. - determinar la longitud y latitud aproximada del aeropuerto Gral. Serrano (ref. carta (anc-machala-3011ab):",
 			"RespuestaCorrecta": "1",
-			"A": "03º 18 MIN. S 79º58 MIN. W;",
-			"B": "03º 18 MIN. S 79º55 MIN. W;",
-			"C": "03º 16 MIN: S 79º50 MIN. W. "
+			"A": "03º 18 min. s 79º 58 min. w;",
+			"B": "03º 18 min. s 79º 55 min. w;",
+			"C": "03º 16 min: s 79º 50 min. w. "
 		},
 		{
-			"Pregunta": "414. - DETERMINAR LA LATITUD Y LONGITUD APROXIMADA DEL INGENIO VALDEZ 98 A 700 (REF. CARTA CAE - 2):",
+			"Pregunta": "414. - determinar la latitud y longitud aproximada del ingenio valdez 98 a 700 (ref. carta cae - 2):",
 			"RespuestaCorrecta": "2",
-			"A": "02º 10 MIN. S 79º 34 MIN. W;",
-			"B": "02º 06 MIN. S 79º 34 MIN. W;",
-			"C": "02º 08 MIN. S 79º 40 MIN. W. "
+			"A": "02º 10 min. s 79º 34 min. w;",
+			"B": "02º 06 min. s 79º 34 min. w;",
+			"C": "02º 08 min. s 79º 40 min. w. "
 		},
 		{
-			"Pregunta": "415. - DETERMINAR LA LATITUD Y LONGITUD APROXIMADA DE LINSA 18 - T 650 (REF. CARTA CAE -2):",
+			"Pregunta": "415. - determinar la latitud y longitud aproximada de linsa 18 - t 650 (ref. carta CAE -2):",
 			"RespuestaCorrecta": "3",
-			"A": "02º 25 MIN. S 79º 40 MIN. W;",
-			"B": "02º 40 MIN. S 79º 48 MIN. W;",
-			"C": "02º 37 MIN. S 79º 46 MIN. W. "
+			"A": "02º 25 min. s 79º 40 min. w;",
+			"B": "02º 40 min. s 79º 48 min. w;",
+			"C": "02º 37 min. s 79º 46 min. w. "
 		},
 		{
-			"Pregunta": "416. - DETERMINAR LA LATITUD Y LONGITUD APROXIMADA DEL SITIO LA PUNTILLA 45 - A 1000 (REF. CARTA CAE-2): ",
+			"Pregunta": "416. - determinar la latitud y longitud aproximada del sitio la puntilla 45 - a 1000 (ref. carta cae-2): ",
 			"RespuestaCorrecta": "1",
-			"A": "02º 26 MIN. S 79º 24 MIN. W;",
-			"B": "02º 30 MIN. S 79º 20 MIN. W;",
-			"C": "02º 22 MIN. S 79º 22 MIN. W. "
+			"A": "02º 26 min. s 79º 24 min. w;",
+			"B": "02º 30 min. s 79º 20 min. w;",
+			"C": "02º 22 min. s 79º 22 min. w. "
 		},
 		{
-			"Pregunta": "417. - DETERMINAR LA LATITUD Y LONGITUD APROXIMADA DEL PUNTO GUALE (REF. CARTA CAE - 2):",
+			"Pregunta": "417. - determinar la latitud y longitud aproximada del punto guale (ref. carta cae - 2):",
 			"RespuestaCorrecta": "2",
-			"A": "01º40 MIN. S 80º 13 MIN. W;",
-			"B": "01º37 MIN. S 80º 15 MIN. W;",
-			"C": "01º35 MIN. S 80º 18 MIN. W. "
+			"A": "01º 40 min. s 80º 13 min. w;",
+			"B": "01º 37 min. s 80º 15 min. w;",
+			"C": "01º 35 min. s 80º 18 min. w. "
 		},
 		{
-			"Pregunta": "418. - DETERMINAR LA LATITUD Y LONGITUD APROXIMADA DEL PUNTO SUCUA (REF. CARTA CAE - 2):",
+			"Pregunta": "418. - determinar la latitud y longitud aproximada del punto sucua (ref. carta cae - 2):",
 			"RespuestaCorrecta": "3",
-			"A": "02º15 MIN. S 78º 02 MIN. W;",
-			"B": "02º25 MIN. S 78º 04 MIN. W;",
-			"C": "02º28 MIN. S 78º 10 MIN. W;"
+			"A": "02º 15 min. s 78º 02 min. w;",
+			"B": "02º 25 min. s 78º 04 min. w;",
+			"C": "02º 28 min. s 78º 10 min. w;"
 		},
 		{
-			"Pregunta": "419. - DETERMINAR LA LATITUD Y LONGITUD APROXIMADA DE MIAZAL1250 T 600 (REF. CARTA CAE - 2):",
+			"Pregunta": "419. - determinar la latitud y longitud aproximada de miazal 1250 t 600 (ref. carta cae - 2):",
 			"RespuestaCorrecta": "2",
-			"A": "02º 32 MIN. S 77º 50 MIN. W;",
-			"B": "02º 37 MIN. S 77º 47 MIN. W;",
-			"C": "02º 40 MIN. S 77º 42 MIN. W. "
+			"A": "02º 32 min. s 77º 50 min. w;",
+			"B": "02º 37 min. s 77º 47 min. w;",
+			"C": "02º 40 min. s 77º 42 min. w. "
 		},
 		{
-			"Pregunta": "420. - DETERMINAR LA LATITUD Y LONGITUD APROXIMADA DEL PUNTO PACAYACU 1350 - T 480 (REF. CARTA CAE -2): ",
+			"Pregunta": "420. - determinar la latitud y longitud aproximada del punto pacayacu 1350 - t 480 (ref. carta CAE -2): ",
 			"RespuestaCorrecta": "1",
-			"A": "01º39 MIN. S 77º36 MIN. W",
-			"B": "01º45 MIN. S 77º31 MIN.W;",
-			"C": "01º35 MIN. S 77º42 MIN. W. "
+			"A": "01º 39 MIN. S 77º 36 MIN. W",
+			"B": "01º 45 MIN. S 77º 31 MIN.W;",
+			"C": "01º 35 MIN. S 77º 42 MIN. W. "
 		},
 		{
-			"Pregunta": "421. - DETERMINAR LA LATITUD Y LONGITUD APROXIMADA DEL PUNTO COPATAZA 1500 - T 425 (REF. CARTA CAE-2):",
+			"Pregunta": "421. - determinar la latitud y longitud aproximada del punto copataza 1500 - t 425 (ref. carta CAE-2):",
 			"RespuestaCorrecta": "2",
-			"A": "02º06 MIN. S 77º 35 MIN.W;",
-			"C": "02º03 MIN. S 77º 22 MIN.W. ",
-			"B": "02º05 MIN. S 77º 27 MIN.W. "
+			"A": "02º 06 MIN. S 77º 35 MIN.W.",
+			"B": "02º 05 MIN. S 77º 27 MIN.W.",
+			"C": "02º 03 MIN. S 77º 22 MIN.W."
 		},
 		{
-			"Pregunta": "422. - DETERMNAR LA LATITUD Y LONGITUD APROXIMADA DEL SITIO KUAKASH 2000 - C 440 (REF. CARTA CAE -2):",
-			"RespuestaCorrecta": "3",
+			"Pregunta": "422. - determinar la latitud y longitud aproximada del sitio kuakash 2000 - c 440 (ref. carta CAE -2):",
+			"RespuestaCorrecta": "1",
 			"A": "02º 02 MIN. S 77º 40 MIN.W;",
 			"B": "02º 08 MIN. S 77º 53 MIN.W;",
-			"C": "02º 12 MIN. S 78º 01 MIN.W. "
+			"C": "02º 12 MIN. S 78º 01 MIN.W."
 		},
 		{
-			"Pregunta": "423. - DETERMNAR QUE LUGAR ESTA UBICADO EN LAS SIGUIENTES COORDENADAS: 02º 11 MIN. S Y 79° 14 MN. W. (REF. CARTA CAE - 2):",
+			"Pregunta": "423. - determinar qué lugar está ubicado en las siguientes coordenadas: 02º 11 min. s y 79° 14 min. w. (ref. carta CAE - 2):",
 			"RespuestaCorrecta": "2",
-			"A": "SAN CARLOS;",
-			"B": "SAN RAFAEL;",
-			"C": "ALBA HELENA. "
+			"A": "San Carlos;",
+			"B": "San Rafael;",
+			"C": "Alba Helena. "
 		},
 		{
-			"Pregunta": "424.- DETERMNAR A QUE LUGAR CORRESPONDEN LAS SIGUIENTES COORDENADAS: 02º 26 MN. S Y 79° 21 MN. W. (REF. CARTA CAE - 2):",
+			"Pregunta": "424.- determinar a qué lugar corresponden las siguientes coordenadas: 02º 26 min. s y 79° 21 min. w. (ref. carta CAE - 2):",
 			"RespuestaCorrecta": "2",
-			"A": "LA PUNTILLA;",
-			"*B": "INGENIO AZTRA;",
-			"C": "SAUSALITO. "
+			"A": "la puntilla;",
+			"B": "ingenio aztra;",
+			"C": "sausalito. "
 		},
 		{
-			"Pregunta": "425. - DETERMNAR A QUE LUGAR CORRESPONDEN LAS SIGUIENTES COORDENADAS: 02° 32 MN. S Y 79° 57 MN. W. (REF CARTA CAE - 2):",
+			"Pregunta": "425. - determinar a qué lugar corresponden las siguientes coordenadas: 02° 32 min. s y 79° 57 min. w. (ref. carta CAE - 2):",
 			"RespuestaCorrecta": "1",
-			"*A": "PROLACAN;",
-			"B": "CALADEMAR;",
-			"C": "MAR ROJO."
+			"A": "prolacan;",
+			"B": "calademar;",
+			"C": "mar rojo."
 		},
 		{
-			"Pregunta": "426. - DETERMNAR A QUE LUGAR CORRESPONDEN LAS SIGUIENTES COORDENADAS: 02° 31 MN. S Y 80° 08 MN. W. (REF. CARTA CAE - 2)",
+			"Pregunta": "426. - determinar a qué lugar corresponden las siguientes coordenadas: 02° 31 min. s y 80° 08 min. w. (ref. carta CAE - 2)",
 			"RespuestaCorrecta": "2",
-			"A": "GRANJAS MARINAS;",
-			"*B": "CAUCA;",
-			"C": "CAMAGUAY. "
+			"A": "granjas marinas;",
+			"B": "calica;",
+			"C": "camaguay. "
 		},
 		{
-			"Pregunta": "427. - DETERMNE A QUE LUGAR CORRESPONDEN LAS SIGUIENTES COORDENADAS: 03° 20 MN. S Y 79° 47 MN. W. (REF. CARTA ANC MACHALA 3011AB).",
+			"Pregunta": "427. - determine a qué lugar corresponden las siguientes coordenadas: 03° 20 min. s y 79° 47 min. w. (ref. carta ANC machala 3011AB).",
+			"RespuestaCorrecta": "2",
+			"A": "Celia Maria;",
+			"B": "pasaje;",
+			"C": "banasur."
+		},
+		{
+			"Pregunta": "428. - determinar a qué lugar corresponden las siguientes coordenadas: 02° 31 min. s y 77° 32 min. w. (ref. carta CAE-2).",
+			"RespuestaCorrecta": "2",
+			"A": "tutinentza;",
+			"B": "patintza;",
+			"C": "putuimi."
+		},
+		{
+			"Pregunta": "429. - determinar a qué lugar corresponden las siguientes coordenadas: 02° 10 min. s y 77° 35 min. w. (ref. carta CAE - 2).",
+			"RespuestaCorrecta": "2",
+			"A": "yampuna;",
+			"B": "yuvientza;",
+			"C": "tamantza. "
+		},
+		{
+			"Pregunta": "430. - determinar a qué lugar corresponden las siguientes coordenadas: 02° 37 min. s y 77° 01 min. w. (ref. carta CAE-2).",
 			"RespuestaCorrecta": "3",
-			"A": "CELIA MARIA;",
-			"B": "PASAJE;",
-			"C": "BANASUR."
+			"A": "saumi;",
+			"B": "surikentza;",
+			"C": "wanpuik. "
 		},
 		{
-			"Pregunta": "428. - DETERMNAR A QUE LUGAR CORRESPONDEN LAS SIGUIENTES COORDENADAS: 02° 31 MN. S Y 77° 32 MN. W. (REF. CARTA CAE-2).",
-			"RespuestaCorrecta": "2",
-			"A": "TUTINEN7ZA;",
-			"B": "PATINTZA;",
-			"C": "PUTUIMI."
-		},
-		{
-			"Pregunta": "429. - DETERMNAR A QUE LUGAR CORRESPONDEN LAS SIGUIENTES COORDENADAS: 02° 10 MN. S Y 77° 35 MN. W. (REF. CARTA CAE - 2).",
-			"RespuestaCorrecta": "2",
-			"A": "YAMPUNA;",
-			"B": "YUVIENTZA;",
-			"C": "TAMANTZA. "
-		},
-		{
-			"Pregunta": "430. - DETERMNAR A QUE LUGAR CORRESPONDEN LAS SIGUIENTES COORDENADAS: 02° 37 MN. S Y 77° 01 MN. W. (REF. CARTA CAE-2).",
+			"Pregunta": "431. - determinar a qué lugar corresponden las siguientes coordenadas: 02° 38 min. s y 77° 26 min. w. (ref. carta CAE - 2).",
 			"RespuestaCorrecta": "3",
-			"A": "SAUMI;",
-			"B": "SURIKENTZA;",
-			"C": "WANPUIK. "
+			"A": "yasnunka;",
+			"B": "putuimi;",
+			"C": "numkuin. "
 		},
 		{
-			"Pregunta": "431. - DETERMNAR A QUE LUGAR CORRESPONDEN LAS SIGUIENTES COORDENADAS: 02° 38 MN. S Y 77° 26 MN. W. (REF. CARTA CAE - 2).",
-			"RespuestaCorrecta": "3",
-			"A": "YASNUNKA;",
-			"B": "PUTUIMI;",
-			"C": "NUMKUIN. "
-		},
-		{
-			"Pregunta": "432. - DETERMNAR A QUE LUGAR CORRESPONDEN LAS SIGUIENTES COORDENADAS: 02° 52 MN. S Y 77° 29 MN. W. (REF. CARTA CAE-2). ",
+			"Pregunta": "432. - determinar a qué lugar corresponden las siguientes coordenadas: 02° 52 MN. S y 77° 29 MN. W. (ref. carta CAE-2). ",
 			"RespuestaCorrecta": "2",
-			"A": "ACHUENTZA:   ",
-			"B": "NAYANTZA;",
-			"C": "PUERTO MORONA."
+			"A": "achuentza:   ",
+			"B": "nayantza;",
+			"C": "puerto morona."
 		},
 		{
-			"Pregunta": "433. - LA CIFRA DE ELEVACION MAXIMA (CEM) EN LA CUADRICULA 02° 00 A 03° 00 S Y 80° 00 A 81° 00 W. (REF. CARTA CAE-2). ES:",
+			"Pregunta": "433. - la cifra de elevación máxima (CEM) en la cuadricula 02° 00 a 03° 00 S y 80° 00 a 81° 00 W. (ref. carta CAE-2). es:",
 			"RespuestaCorrecta": "1",
-			"A": "1900 PIES:",
-			"B": "1513 PIES;",
-			"C": "1378 PIES"
+			"A": "1900 pies:",
+			"B": "1513 pies;",
+			"C": "1378 pies"
 		},
 		{
-			"Pregunta": "434. - LA CIFRA DE ELEVACION MAXIMA (CEM) EN LA CUADRICULA 01° 00 A 02° 00 S Y 79° 00 A 80° 00 W. (REF. CARTA CAE - 2). ES:",
+			"Pregunta": "434. - la cifra de elevación máxima (CEM) en la cuadricula 01° 00 a 02° 00 S y 79° 00 a 80° 00 W. (ref. carta CAE - 2). es:",
 			"RespuestaCorrecta": "2",
-			"A": "10500 PIES;",
-			"B": "11500 PIES;",
-			"C": "10900 PIES. "
+			"A": "10500 pies;",
+			"B": "11500 pies;",
+			"C": "10900 pies. "
 		},
 		{
-			"Pregunta": "435. - DETERMNAR EL RUMBO MAGNETICO Y DISTANCIA DESDE SALINAS HASTA GENERAL. SERRANO (MACHAL(REF. CARTA CAE - 2).",
+			"Pregunta": "435. - determinar el rumbo magnético y distancia desde salinas hasta general serrano (machala) (ref. carta CAE - 2).",
 			"RespuestaCorrecta": "2",
-			"A": "136º Y 91 MN;",
-			"B": "135º Y 89 MN;",
-			"C": "138º Y86 MN."
+			"A": "136º y 91 MN;",
+			"B": "134º y 89 MN;",
+			"C": "138º y 86 MN."
 		},
 		{
-			"Pregunta": "436. - DETERMNAR EL RUMBO MAGNETICO Y LA DISTANCIA DESDE EL AEROPUERTO SIMON BOLIVAR (GUAYAQUIL) HASTA REALES TAMARINDOS (PORTOVIE JO): (REF. CARTA CAE 2).",
+			"Pregunta": "436. - determinar el rumbo magnético y la distancia desde el aeropuerto Simón Bolívar (Guayaquil) hasta reales tamarindos (Portoviejo): (ref. carta CAE 2).",
 			"RespuestaCorrecta": "3",
-			"A": "335º Y 74 MN;",
-			"B": "333º Y 78 MN;",
-			"C": "331º Y 76 MN. "
+			"A": "335º y 74 MN;",
+			"B": "333º y 78 MN;",
+			"C": "331º y 76 MN. "
 		},
 		{
-			"Pregunta": "437. - DETERMNAR EL RUMBO MAGNETICO Y LA DISTANCIA DESDE AYANGUE HASTA MANTA (REF. CARTA CAE -2): ",
+			"Pregunta": "437. - determinar el rumbo magnético y la distancia desde ayangue hasta manta (ref. carta CAE -2): ",
 			"RespuestaCorrecta": "1",
-			"A": "360º Y 61 MN;",
-			"B": "002º Y 60MN:",
-			"C": "358º Y 62 MN. "
+			"A": "360º y 61 MN;",
+			"B": "002º y 60 MN:",
+			"C": "358º y 62 MN. "
 		},
 		{
-			"Pregunta": "438. - DETERMNAR EL RUMBO MAGNETICO Y LA DISTANCIA DESDE RIO AMAZONAS HASTA EL CARMEN (MONTALVO) (REF. CARTA CAE - 2):",
+			"Pregunta": "438. - determinar el rumbo magnético y la distancia desde rio amazonas hasta el Carmen (Montalvo) (ref. carta CAE - 2):",
 			"RespuestaCorrecta": "3",
-			"A": "117º Y 75 MN;",
-			"B": "118º Y 74MN;",
-			"C": "119º Y 73 MN. "
+			"A": "117º y 75 MN;",
+			"B": "118º y 74 MN;",
+			"C": "119º y 73 MN. "
 		},
 		{
-			"Pregunta": "439. - DETERMNAR EL RUMBO MAGNETICO Y LA DISTANCIA DESDE MACAS HASTA CAPATINENTZA (REF. CARTA CAE - 2): ",
-			"RespuestaCorrecta": "3",
-			"A": "117º Y 46 MN;",
-			"B": "119º Y 44MN;",
-			"C": "118º Y 46 MN. "
-		},
-		{
-			"Pregunta": "440. - DETERMNAR EL RUMBO MAGNETICO Y LA DISTANCIA DESDE TNTE. HUGO ORTIZ HASTA TAISHA (RE F. CARTA CAE-2): ",
+			"Pregunta": "439. - determinar el rumbo magnético y la distancia desde macas hasta capatinentza (ref. carta CAE - 2): ",
 			"RespuestaCorrecta": "1",
-			"A": "038º Y 50 MN;",
-			"B": "039º Y 49 MN;",
-			"C": "040º Y 51MN. "
+			"A": "117º y 46 MN;",
+			"B": "119º y 44 MN;",
+			"C": "118º y 46 MN. "
 		},
 		{
-			"Pregunta": "441. - DETERMNAR EL RUMBO MAGNETICO Y LA DISTANCIA DESDE LA HACIENDA GRAN CHAPARRAL HASTA LA GARDENIA (REF. CARTA CAE - 2):",
+			"Pregunta": "440. - determinar el rumbo magnético y la distancia desde Tnte. Hugo Ortiz hasta Taisha (re f. carta CAE-2): ",
+			"RespuestaCorrecta": "1",
+			"A": "038º y 50 MN;",
+			"B": "039º y 49 MN;",
+			"C": "040º y 51 MN. "
+		},
+		{
+			"Pregunta": "441. - determinar el rumbo magnético y la distancia desde la hacienda gran chaparral hasta la gardenia (ref. carta CAE - 2):",
 			"RespuestaCorrecta": "2",
-			"A": "165º Y 95 MN;",
-			"B": "163º Y 95 MN;",
-			"C": "167º Y 93 MN. "
+			"A": "165º y 95 MN;",
+			"B": "163º y 95 MN;",
+			"C": "167º y 93 MN. "
 		},
 		{
-			"Pregunta": "442. - DETERMINAR EL RUMBO MAGNETICO Y LA DISTANCIA DESDE GUALAQUIZA HASTA CAP. FEDERICO ENGELMAN (REF. CARTA CAE -2): ",
+			"Pregunta": "442. - determinar el rumbo magnético y la distancia desde Gualaquiza hasta Cap. Federico Engelman (ref. carta CAE -2): ",
 			"RespuestaCorrecta": "1",
-			"A": "058º Y 82 MN;",
-			"B": "060º Y 80MN;",
-			"C": "062ºY 78MN. "
+			"A": "058º y 82 MN;",
+			"B": "060º y 80 MN;",
+			"C": "062ºy 78 MN. "
 		},
 		{
-			"Pregunta": "443. - DURANTE UN ---AJELO DE NAVEGACION VISUAL HACIA GUAYAQUIL SI CHEQUEAMOS SANTO DOMINGO A LAS 1405 Y SOBRE QUE VEDO LAS 1430. A QUE TIEMPO NOS ENCONTRAREMOS DE GUAYAQUIL. (REF. CARTA CAE 2):",
+			"Pregunta": "443. - durante un vuelo de navegación visual hacia Guayaquil si chequeamos santo domingo a las 1405 y sobre Quevedo a las 1430. a que tiempo nos encontraremos de Guayaquil. (ref. carta CAE 2):",
 			"RespuestaCorrecta": "3",
 			"A": "1502;",
 			"B": "1469;",
 			"C": "1506."
 		},
 		{
-			"Pregunta": "444. - DURANTE UN VUELO DE NAVEGACION VISUAL HACIA RIO AMAZONAS SI CHEQUEAMOS IVENDEZ A LAS 0840 Y SOBRE MACAS LAS 0848. A QUE TIEMPO NOS ENCONTRAREMOS DEL PUYO. (REF. CARTA CAE 2):",
+			"Pregunta": "444. - durante un vuelo de navegación visual hacia rio amazonas, si chequeamos Méndez a las 0840 y sobre macas las 0848. a que tiempo nos encontraremos del puyo. (ref. carta CAE 2):",
 			"RespuestaCorrecta": "2",
 			"A": "902",
 			"B": "905",
 			"C": "910 "
 		},
 		{
-			"Pregunta": "445. - DURANTE UN VUELO DE NAVEGACION VISUAL HACIA MACHALA SI CHEQUEAMOS CHANDUY A LAS 1555 Y SOBRE PLAYAS LAS 1606. A QUE TIEMPO NOS ENCONTRAREMOS DE MACHALA. (REF. CARTA CAE 2):",
+			"Pregunta": "445. - durante un vuelo de navegación visual hacia Machala si chequeamos Chanduy a las 1555 y sobre playas las 1606. a que tiempo nos encontraremos de machala. (ref. carta CAE 2):",
 			"RespuestaCorrecta": "1",
 			"A": "1629",
 			"B": "1625",
 			"C": "1616 "
 		},
 		{
-			"Pregunta": "446. - DURANTE UN VUELO DE NAVEGACION VISUAL HACIA EL COCA SI CHEQUEAMOS ARAJUNO A LAS 1245 Y SOBRE LORETO LAS 1255 A QUE TIEMPO NOS ENCONTRAREMOS DEL COCA. (REF. CARTA CAE 2): ",
+			"Pregunta": "446. - durante un vuelo de navegación visual hacia el Coca si chequeamos Arajuno a las 1245 y sobre loreto las 1255 a que tiempo nos encontraremos del coca. (ref. carta CAE 2): ",
 			"RespuestaCorrecta": "1",
 			"A": "1301;",
 			"B": "1304;",
 			"C": "1307."
 		},
 		{
-			"Pregunta": "447. - DETERMINAR EL RUMBO MAGNETICO PARA EL VUELO DESDE RIO AMAZONAS HACIA FRANCISCO DE ORELLANA EL VIENTO ES DE LOS 330° CON 20 KT. Y LA VELOCIDAD VERDADERA ES 100 KT. (REF. CARTA CAE 2):",
+			"Pregunta": "447. - determinar el rumbo magnético para el vuelo desde Rio Amazonas hacia Francisco de Orellana. el viento es de los 330° con 20 kt. y la velocidad verdadera es 100 kt. (ref. carta CAE 2):",
 			"RespuestaCorrecta": "2",
-			"A": "046 ;",
-			"B": "035 ;",
-			"C": "057"
+			"A": "046º;",
+			"B": "035º;",
+			"C": "057º"
 		},
 		{
-			"Pregunta": "448. - DETERMINE EL RUMBO MAGNETICO PARA EL VUELO DESDE MACAS HACIA MONTALVO, EL VIENTO ES DE LOS 040° CON 20 KT. Y LA VELOCIDAD VERDADERA ES 120 KT. (REF. CARTA CAE 2):",
+			"Pregunta": "448. - determine el rumbo magnético para el vuelo desde Macas hacia Montalvo, el viento es de los 040° con 20 kt. y la velocidad verdadera es 120 kt. (ref. carta CAE 2):",
+			"RespuestaCorrecta": "2",
+			"A": "077º: ",
+			"B": "072º",
+			"C": "082º."
+		},
+		{
+			"Pregunta": "449.- determine el rumbo magnético para el vuelo desde Quito hacia Ambato, el viento es de los 060° con 10 kt. y la velocidad verdadera es 100 kt. (ref. carta CAE 2): ",
+			"RespuestaCorrecta": "1",
+			"A": "179º",
+			"B": "184º",
+			"C": "189º"
+		},
+		{
+			"Pregunta": "450.- determine el rumbo magnético para el vuelo desde Santo Domingo hacia Quito, el viento es de los 360° con 20 kt. y la velocidad verdadera es 120 kt. (ref. carta CAE-2): ",
+			"RespuestaCorrecta": "1",
+			"A": "072º",
+			"B": "081º",
+			"C": "090º"
+		},
+		{
+			"Pregunta": "451. - determine el rumbo magnético para el vuelo desde Manta hacia Bahía de Caraquez, el viento es de los 060° con 20 kt. y velocidad verdadera 100 kt. (ref. carta CAE 2):",
+			"RespuestaCorrecta": "1",
+			"A": "043º",
+			"B": "039º",
+			"C": "041º"
+		},
+		{
+			"Pregunta": "452. - determine el rumbo magnético para el vuelo desde Guayaquil hacia Playas, el viento es de los 180° con 20 kt. velocidad verdadera 120 kt. (ref. carta CAE 2):",
 			"RespuestaCorrecta": "3",
-			"A": "077': ",
-			"B": "072'",
-			"C": "082'."
+			"A": "234º",
+			"B": "227º",
+			"C": "220º"
 		},
 		{
-			"Pregunta": "449.- DETERMINE EL RUMBO MAGNETICO PARA EL VUELO DESDE QUITO HACIA AMBATO, EL VIENTO ES DE LOS 060° CON 10 KT. Y LA VELOCIDAD VERDADERA ES 100 KT. (REF. CARTA CAE 2): ",
+			"Pregunta": "453. - determine la velocidad con respecto a tierra (gs) para el vuelo desde Quito hasta Santo Domingo. el viento es de los 030° con 20 kt. y velocidad verdadera 150 kt. (ref. carta CAE - 2):",
+			"RespuestaCorrecta": "2",
+			"A": "137 kt;",
+			"B": "163 kt;",
+			"C": "146kt. "
+		},
+		{
+			"Pregunta": "454- determine la velocidad con respecto a tierra (gs) para el vuelo desde cuenca hasta macas, el viento es de los 120° con 30 kt. y velocidad verdadera 120 kt. (ref. carta cae - 2): ",
 			"RespuestaCorrecta": "1",
-			"A": "179'",
-			"B": "184';",
-			"C": "189 "
+			"A": "108 kt;",
+			"B": "116 kt;",
+			"C": "132 kt. "
 		},
 		{
-			"Pregunta": "450.- DETERMINE EL RUMBO MAGNETICO PARA EL VUELO DESDE SANTO DOMNGO HACIA QUITO, EL VIENTO ES DE LOS 360° CON 20 KT. Y LA VELOCIDAD VERDADERA ES 120 KT. (REF. CARTA CAE-2): ",
+			"Pregunta": "455. - determine la velocidad con respecto a tierra (gs) para el vuelo desde los reales tamarindos hasta salinas, el viento es de los 180° con 20 kt. y velocidad verdadera 140 kt. (ref. carta cae - 20): ",
 			"RespuestaCorrecta": "1",
-			"A": "072: ",
-			"B": "081",
-			"C": "090 "
+			"A": "122 kt;",
+			"B": "158 kt;",
+			"C": "132 kt. "
 		},
 		{
-			"Pregunta": "451. - DETERMINE EL RUMBO MAGNETICO PARA EL VUELO DESDE MANTA HACIA BAHIA DE CARAQUEZ, EL VIENTO ES DE LOS 060° CON 20 KT. Y VELOCIDAD VERDADERA 100 KT. (REF. CARTA CAE 2):",
+			"Pregunta": "456. - determine la velocidad con respecto a tierra (gs) para el vuelo desde Gualaquiza hasta Loja, el viento es de los 270° con 30 kt. y velocidad verdadera 160 kt. (ref. carta CAE - 2): ",
 			"RespuestaCorrecta": "1",
-			"A": "043«;",
-			"B": "039';",
-			"C": "04r. "
+			"A": "130 kt:",
+			"B": "148 kt;",
+			"C": "172kt."
 		},
 		{
-			"Pregunta": "452. - DETERMINE EL RUMBO MAGNETICO PARA EL VUELO DESDE GUAYAQUIL HACIA PLAYAS, EL VIENTO ES DE LOS 180° CON 20 KT. VELOCIDAD VERDADERA 120 KT. (REF. CARTA CAE 2):",
+			"Pregunta": "457. - determine la velocidad con respecto a tierra (gs) para el vuelo desde machala hasta playas, el viento es de los 270° con 156 kt. y velocidad verdadera 160 kt. (ref. carta cae-2):",
+			"RespuestaCorrecta": "2",
+			"A": "155 kt;",
+			"B": "145 kt;",
+			"C": "170 kt."
+		},
+		{
+			"Pregunta": "458. - determine la velocidad con respecto a tierra (gs) para el vuelo desde Chone hasta Guale, el viento es de los 090° con 20 kt. y velocidad verdadera 140 kt. (ref. carta cae-2):",
+			"RespuestaCorrecta": "2",
+			"A": "142 kt;",
+			"B": "138 kt;",
+			"C": "146 kt. "
+		},
+		{
+			"Pregunta": "459.- señale los valores de la temperatura standard y presión a nivel de mar: ",
+			"RespuestaCorrecta": "1",
+			"A": "15º c y 29.92 hg;",
+			"B": "59º c y 1013.2 hectopascales;",
+			"C": "59ºf y 29.92 hectopascales. "
+		},
+		{
+			"Pregunta": "460.- que efecto tiene una alta humedad en la performance del avión:",
+			"RespuestaCorrecta": "2",
+			"A": "aumenta la performance;",
+			"B": "disminuye la performance;",
+			"C": "no tiene ningún efecto "
+		},
+		{
+			"Pregunta": "461.- que factor tiende a aumentar la altitud de densidad dada en un aeropuerto:",
+			"RespuestaCorrecta": "2",
+			"A": "un aumento en la presión barométrica;",
+			"B": "un aumento en la temperatura ambiental;",
+			"C": "una disminución en la humedad relativa. "
+		},
+		{
+			"Pregunta": "462.- que efecto de la altitud de densidad alta, en comparación a la altitud de densidad baja, tienen eficiencia las hélices y porque:",
+			"RespuestaCorrecta": "2",
+			"A": "la eficiencia es aumentada debido a una fricción menor en las palas de la hélice;",
+			"B": "la eficiencia es aumentada porque la fuerza ejercida en las hélices es menor a altitud de densidad alta que a altitud de densidad baja;",
+			"C": "la eficiencia es reducida debido al aumento de la fuerza de las hélices en el reductor de aire . "
+		},
+		{
+			"Pregunta": "463.- que efecto tiene la altitud de densidad alta en la performance del avión: ",
+			"RespuestaCorrecta": "2",
+			"A": "aumento en la performance del avión;",
+			"B": "reduce la performance del avión;",
+			"C": "aumenta la performance del despegue. "
+		},
+		{
+			"Pregunta": "464. - que combinación de las condiciones atmosféricas reducirá la performance en el despegue y ascenso de un avión:",
 			"RespuestaCorrecta": "3",
-			"A": "234»;",
-			"B": "227",
-			"C": "220 "
+			"A": "baja temperatura, baja humedad relativa y altitud de densidad baja;",
+			"B": "alta temperatura, baja humedad relativa y altitud de densidad baja;",
+			"C": "alta temperatura, baja humedad relativa y altitud de densidad alta. "
 		},
 		{
-			"Pregunta": "453. - DETERMINE LA VELOCIDAD CON RESPECTO A TIERRA (GS) PARA EL VUELO DESDE QUITO  HASTA SANTO DOMNGO. EL VIENTO ES DE LOS 030° CON 20 KT. Y VELOCIDAD VERDADERA 150 KT. (REF. CARTA CAE - 2): ^",
-			"RespuestaCorrecta": "2",
-			"A": "137 KT;",
-			"B": "163 KT;",
-			"C": "146KT. "
-		},
-		{
-			"Pregunta": "454- DETERMINE LA VELOCIDAD CON RESPECTO A TIERRA (GS) PARA EL VUELO DESDE CUENCA HASTA MACAS, EL VIENTO ES DE LOS 120° CON 30 KT. Y VELOCIDAD VERDADERA 120 KT. (REF. CARTA CAE - 2): ",
+			"Pregunta": "465.- si la temperatura del aire exterior (OAT) de una altitud dada es mayor que la standard, la altitud de densidad será:",
 			"RespuestaCorrecta": "3",
-			"A": "108 KT;",
-			"B": "116 KT;",
-			"C": "132 KT. "
+			"A": "igual a la altitud de presión;",
+			"B": "menor que la altitud de presión;",
+			"C": "mayor que la altitud de presión. "
 		},
 		{
-			"Pregunta": "455. - DETERMINE LA VELOCIDAD CON RESPECTO A TIERRA (GS) PARA EL VUELO DESDE LOS REALES TAMARINDOS HASTA SALINAS, EL VIENTO ES DE LOS 180° CON 20 KT. Y VELOCIDAD VERDADERA 140 KT. (REF. CARTA CAE - 20): ",
-			"A": "122KT;",
-			"B": "158 KT;",
-			"C": "132 KT. "
-		},
-		{
-			"Pregunta": "456. - DETERMINE LA VELOCIDAD CON RESPECTO A TIERRA (GS) PARA EL VUELO DESDE GUALAQUIZA HASTA LOJA, EL VIENTO ES DE LOS 270° CON 30 KT. Y VELOCIDAD VERDADERA 160 KT. (REF. CARTA CAE - 2): ",
+			"Pregunta": "466. - determine la altitud de densidad con las siguientes condiciones: (figura. 8), ajuste altimétrico 30.35, temperatura +25 ºF, elevación del campo 3894 pies MSL",
 			"RespuestaCorrecta": "1",
-			"A": "136 KT:",
-			"B": "148 KT;",
-			"C": "172KT."
-		},
-		{
-			"Pregunta": "457. - DETERMINE LA VELOCIDAD CON RESPECTO A TIERRA (GS) PARA EL VUELO DESDE MACHALA HASTA PLAYAS, EL VIENTO ES DE LOS 270° CON 156 KT. Y VELOCIDAD VERDADERA 160 KT. (REF. CARTA CAE-2):",
-			"RespuestaCorrecta": "2",
-			"A": "155 KT;",
-			"B": "146 KT;",
-			"C": "170 KT."
-		},
-		{
-			"Pregunta": "458. - DETERMINE LA VELOCIDAD CON RESPECTO A TIERRA (GS) PARA EL VUELO DESDE CHONE HASTA GUALE, EL VIENTO ES DE LOS 090° CON 20 KT. Y VELOCIDAD VERDADERA 140 KT. (REF. CARTA CAE-2):",
-			"RespuestaCorrecta": "2",
-			"A": "142 KT;",
-			"B": "138 KT;",
-			"C": "146 KT. "
-		},
-		{
-			"Pregunta": "459.- SEÑALE LOS VALORES DE LA TEMPERATURA STANDARD Y PRESION A NIVEL DE MAR: ",
-			"RespuestaCorrecta": "1",
-			"A": "15ºC Y 29.92 HG;",
-			"B": "59ºC Y 1013.2 HECTOPASCALES;",
-			"C": "59ºF Y 29.92 HECTOPASCALES. "
-		},
-		{
-			"Pregunta": "460.- QUE EFECTO TIENE UNA ALTA HUMEDAD EN LA PERFORMANCE DEL AVION:",
-			"RespuestaCorrecta": "2",
-			"A": "AUMENTA LA PERFORMANCE;",
-			"B": "DISMINUYE LA PERFORMANCE;",
-			"C": "NO TIENE NINGUN EFECTO "
-		},
-		{
-			"Pregunta": "461.- QUE FACTOR TIENDE A AUMENTAR LA ALTITUD DE DENSIDAD DADA EN UN AEROPUERTO:",
-			"RespuestaCorrecta": "2",
-			"A": "UN AUMENTO EN LA PRESION BAROMETRICA;",
-			"B": "UN AUMENTO EN LA TEMPERATURA AMBIENTAL;",
-			"C": "UNA DISMINUCION EN LA HUMEDAD RELATIVA. "
-		},
-		{
-			"Pregunta": "462.- QUE EFECTO DE LA ALTITUD DE DENSIDAD ALTA, EN COlVPARACION A LA ALTITUD DE ^ DENSIDAD BAJA, TIENEN EFICIENCIA LAS HELICES Y PORQUE: f^:",
-			"RespuestaCorrecta": "2",
-			"A": "LA EFICIENCIA ES AUMENTADA DEBIDO A UNA FRICCION MENOR EN LAS PAU--- DE LA. HELICE;",
-			"B": "LA EFICIENCIA ES AUMENTADA PORQUE LA FUERZA EJERCIDA EN LAS HEUGES ES MENOR A ALTITUD DE DENSIDAD ALTA QUE A ALTITUD DE DENSIDAD BAJA;",
-			"C": "LA EFICIENCIA ES REDUCIDA DEBIDO AL AUMENTO DE LA FUERZA DELAS HEUCES EN EL REDUCTOR DE AIRE . "
-		},
-		{
-			"Pregunta": "463.- QUE EFECTO TIENE LA ALTITUD DE DENSIDAD ALTA EN LA PERFORMANCE DEL AVION: ",
-			"RespuestaCorrecta": "2",
-			"A": "AUMENTO EN LA PERFORMANCE DEL AVION;",
-			"B": "REDUCE LA PERFORMANCE DELAVION;",
-			"C": "AUMENTA LA PERFORMANCE DEL DESPEQUE. "
-		},
-		{
-			"Pregunta": "464. - QUE COMBINACION DE LAS CONDICIONES ATMOSFERICAS REDUCIRA LA PERFORMANCE EN EL DESPEQUE Y ASCENSO DE UN AVION:",
-			"RespuestaCorrecta": "3",
-			"A": "BAJA TEMPERATURA. BAJA HUMEDAD RELATIVA Y ALTITUD DE DENSIDAD BAJA;",
-			"B": "ALTA TEMPERATURA. BAJA HUMEDAD RELATIVA Y ALTITUD DE DENSIDAD BAJA;",
-			"C": "ALTA TEMPERATURA. BAJA HUMEDAD RELATIVA Y ALTITUD DE DENSIDAD ALTA. "
-		},
-		{
-			"Pregunta": "465.- SI LA TEMPERATURA DEL AIRE EXTERIOR (OAT) DE UNA ALTITUD DADA ES MAYOR QUE LA STANDARD, LA ALTITUD DE DENSIDAD SERA:",
-			"RespuestaCorrecta": "3",
-			"A": "IGUALA LA ALTITUD DE PRESION;",
-			"B": "MENOR QUE LAALTITUD DE PRESION;",
-			"C": "MAYOR QUE LAALTITUD DE PRESION. "
-		},
-		{
-			"Pregunta": "466. - DETERMINE LA ALTITUD DE DENSIDAD CON LAS SIGUIENTES CONDICIONES: (FIGURA. 8), AJUSTE ALTIMETRICO 30.35, TEMPERATURA +25 T, ELEVACION DEL CAIVPO 3894 PIES MSL. ~ ",
-			"RespuestaCorrecta": "1",
-			"A": "2000 PIES MSL;",
-			"B": "2900 PIES MSL;",
-			"C": "3500 PIES MSL. ",
+			"A": "2000 pies MSL;",
+			"B": "2900 pies MSL;",
+			"C": "3500 pies MSL. ",
             "FIGURA": "f8.png"
 		},
 		{
-			"Pregunta": "467. - CUAL ES EL EFECTO DEL AUMENTO DE TEMPERATURA DE 30 A 50 °F EN LA ALTITUD DE  DENSIDAD, SI LA ALTITUD DE PRESION PERMANECE A 3000 PIES MSL: (FIGURA 8). ^",
+			"Pregunta": "467. - cuál es el efecto del aumento de temperatura de 30 a 50 °F en la altitud de densidad, si la altitud de presión permanece a 3000 pies MSL: (figura 8). ^",
 			"RespuestaCorrecta": "3",
-			"A": "AUMENTA900 PIES;",
-			"B": "DISMINUYE 1100 PIES;",
-			"C": "AUMENTA 1300 PIES."
+			"A": "aumenta 900 pies;",
+			"B": "disminuye 1100 pies;",
+			"C": "aumenta 1300 pies."
 		},
 		{
-			"Pregunta": "468. - DETERMINE LA ALTITUD DE PRESION EN UN AEROPUERTO QUE ESTA A 3563 PIES MSL,  CON UN AJUSTE ALTIMETRO DE 29.96: (FIGURA 8). ,^ ",
+			"Pregunta": "468. - determine la altitud de presión en un aeropuerto que está a 3563 pies MSL,  con un ajuste altímetro de 29.96: (figura 8).",
 			"RespuestaCorrecta": "1",
-			"A": "3527 PIES MSL;",
-			"B": "3556 PIES MSL;",
-			"C": "363Q PIES MSL. ",
+			"A": "3527 pies MSL;",
+			"B": "3556 pies MSL;",
+			"C": "3639 pies MSL. ",
             "FIGURA": "f8.png"
 		},
 		{
-			"Pregunta": "469. - CUAL ES EL EFECTO DE LA DISMINUCION DE LA TEIVPERATURA Y UN AUMENTO EN LA ALTITUD DE PRESION SOBRE LA ALTITUD DE DENSIDAD DE 90 °F Y 1250 PIES, ALTITUD DE PRESION A 60 °F Y 1750 PIES ALTITUD DE PRESION:",
+			"Pregunta": "469. - cuál es el efecto de la disminución de la temperatura y un aumento en la altitud de presión sobre la altitud de densidad de 90 °F y 1250 pies, altitud de presión a 60 °F y 1750 pies altitud de presión:",
 			"RespuestaCorrecta": "2",
-			"A": "AUMENTO 500 PIES;",
-			"B": "DISMINUCION 1300 PIES;",
-			"C": "AUMENTO 1300 PIES. "
+			"A": "aumento 500 pies;",
+			"B": "disminución 1300 pies;",
+			"C": "aumento 1300 pies. "
 		},
 		{
-			"Pregunta": "470. - DETERMINAR LA ALTITUD DE PRESION DE UN AEROPUERTO QUE ESTA A 1386 PIES MSL, CON UN AJUSTE ALTIMETRICO DE 29.97",
+			"Pregunta": "470. - determinar la altitud de presión de un aeropuerto que está a 1386 pies MSL, con un ajuste altimétrico de 29.97",
 			"RespuestaCorrecta": "1",
-			"A": "1341 PIESMSL;",
-			"B": "1451 PIES MSL;",
-			"C": "1562 PIES MSL "
+			"A": "1341 pies MSL;",
+			"B": "1451 pies MSL;",
+			"C": "1562 pies MSL "
 		},
 		{
-			"Pregunta": "471. - CUAL ES EL EFECTO DE UN AUMENTO DE TEMPERATURA DE 25 A 50 °F SOBRE LA ALTITUD DE DENSIDAD, SI LA ALTITUD DE PRESION PERMANECE EN 5000 PIES: (FIGURA 8).",
+			"Pregunta": "471. - cuál es el efecto de un aumento de temperatura de 25 a 50 °F sobre la altitud de densidad, si la altitud de presión permanece en 5000 pies: (figura 8).",
 			"RespuestaCorrecta": "3",
-			"A": "AUMENTA 1200 PIES;",
-			"B": "AUMENTA 1400 PIES;",
-			"C": "AUMENTA 1650 PIES;",
+			"A": "aumenta 1200 pies;",
+			"B": "aumenta 1400 pies;",
+			"C": "aumenta 1650 pies;",
             "FIGURA": "f8.png"
 		},
 		{
-			"Pregunta": "472. - DETERMINAR LA ALTITUD DE PRESION CON UNA ALTITUD INDICADA DE 1380 PIES MSL, UN AJUSTE ALTIMETRO DE 28.22 TEMPERATURA STANDARD:",
+			"Pregunta": "472. - determinar la altitud de presión con una altitud indicada de 1380 pies MSL, un ajuste altímetro de 28.22 temperatura standard:",
 			"RespuestaCorrecta": "3",
-			"A": "1250 PIES MSL ",
-			"C": "3010 PIES MSL",
-			"B": "1373 PIES MSL "
+			"A": "1250 pies MSL ",
+			"B": "1373 pies MSL",
+			"C": "3010 pies MSL"
 		},
 		{
-			"Pregunta": "473. - DETERMINAR LA ALTITUD DE DENSIDAD CON LAS SIGUIENTES CONDICIONES: AJUSTE ALTIMETRICO 29.95 TEIVPERATURA + 81° F,ELEVACION DEL CAIVPO 5250 PIES MSL.: ",
+			"Pregunta": "473. - determinar la altitud de densidad con las siguientes condiciones: ajuste altimétrico 29.95 temperatura + 81 °F, elevación del campo 5250 pies MSL.: ",
 			"RespuestaCorrecta": "3",
-			"A": "4600 PIES MSL",
-			"B": "5877 PIES MSL ",
-			"C": "8500 PIES MSL "
+			"A": "4600 pies MSL",
+			"B": "5877 pies MSL ",
+			"C": "8500 pies MSL "
 		},
 		{
-			"Pregunta": "474. - DETERMINAR LA DENSIDAD TOTAL REQUERIDA PARA EL DESPEGUE, CLAREANDO UN OBSTACULO DE 50 PIES: (FIGURA. 41). OAT STANDARD, ALTITUD DE PRESION 4000 PIES, PESO DE DESPEGUE 2800 LIBRAS, COMPONENTE DE VIENTO DE FRENTE CALMA.",
+			"Pregunta": "474. - determinar la densidad total requerida para el despegue, clareando un obstáculo de 50 pies: (figura. 41). OAT standard, altitud de presión 4000 pies, peso de despegue 2800 libras, componente de viento de frente calma.",
 			"RespuestaCorrecta": "2",
-			"A": "1500 PIES;",
-			"B": "1750 PIES;",
-			"C": "2000 PIES. ",
+			"A": "1500 pies;",
+			"B": "1750 pies;",
+			"C": "2000 pies. ",
             "FIGURA": "f41.png"
 		},
 		{
-			"Pregunta": "475. - DETERMINE LA DISTANCIA APROXIMADA REQUERIDA EN TIERRA PARA EL DESPEGUE: (FIGURA. 41). OAT 100 °F, ALTITUD DE PRESION 2000 PIES, PESO DE DESPEGUE 2750 LIBRAS, COMPONENTE DEL VIENTO DE FRENTE CALMA. ",
+			"Pregunta": "475. - determine la distancia aproximada requerida en tierra para el despegue: (figura. 41). OAT 100 °F, altitud de presión 2000 pies, peso de despegue 2750 libras, componente del viento de frente calma. ",
 			"RespuestaCorrecta": "1",
-			"A": "1150 PIES;",
-			"B": "1300 PIES;",
-			"C": "1800 PIES. ",
+			"A": "1150 pies;",
+			"B": "1300 pies;",
+			"C": "1800 pies. ",
             "FIGURA": "f41.png"
 		},
 		{
-			"Pregunta": "476. - DETERMINE LA DISTANCIA TOTAL REQUERIDA PARA EL DESPEGUE, CLAREANDO UN OBSTACULO DE 50 PIES: (FIGURA 41). OAT STANDAR, ALTITUD DE PRESION NIVEL DEL MAR, PESO DE DESPEGUE 2700 LBS., COMPONENTE DE VIENTO DE FRENTE CALMA.",
+			"Pregunta": "476. - determine la distancia total requerida para el despegue, clareando un obstáculo de 50 pies: (figura 41). OAT estándar, altitud de presión nivel del mar, peso de despegue 2700 lbs., componente de viento de frente calma.",
 			"RespuestaCorrecta": "2",
-			"A": "1000 PIES;",
-			"B": "1400 PIES;",
-			"C": "1700 PIES. ",
+			"A": "1000 pies;",
+			"B": "1400 pies;",
+			"C": "1700 pies. ",
             "FIGURA": "f41.png"
 		},
 		{
-			"Pregunta": "477. - DETERMINE LA DISTANCIA APROXIMADA REQUERIDA EN TIERRA PARA EL DESPEGUE: (FIGURA. 41). OAT 90 °F, ALTITUD DE PRESION 2000 PIES, PESO DE DESPEGUE 2500 LBS., COMPONENTE DE VIENTO DE FRENTE 20 KT. ",
+			"Pregunta": "477. - determine la distancia aproximada requerida en tierra para el despegue: (figura. 41). OAT 90 °F, altitud de presión 2000 pies, peso de despegue 2500 lbs., componente de viento de frente 20 kt. ",
 			"RespuestaCorrecta": "1",
-			"A": "650 PIES;",
-			"B": "850 PÍES;",
-			"C": "1000 PIES. ",
+			"A": "650 pies;",
+			"B": "850 píes;",
+			"C": "1000 pies. ",
             "FIGURA": "f41.png"
 		},
 		{
-			"Pregunta": "478. - PRIORITARIAMENTE EN CADA VUELO, UN PILOTO DEBERIA COMO MNIMO:",
+			"Pregunta": "478. - prioritariamente en cada vuelo, un piloto debería como mínimo:",
 			"RespuestaCorrecta": "3",
-			"A": "CHEQUEAR LA OPERACION DELELT;",
-			"B": "DRENAR EL COMBUSTIBLE DE CADA PUNTO DE DRENAJE;",
-			"C": "REALIZAR UNA INSPECCION CAMINANDO ALREDEDOR DELAVION. "
+			"A": "chequear la operación del ELT;",
+			"B": "drenar el combustible de cada punto de drenaje;",
+			"C": "realizar una inspección caminando alrededor del avión. "
 		},
 		{
-			"Pregunta": "479. - QUE CHEQUEO ESPECIAL DEBERIA SER HECHO EN UN AVION DURANTE EL PREVUELO DESPUES QUE HA PERMANECIDO SIN ACTIVIDAD EN UN PERIODO LARGO DE TIEMPO:",
+			"Pregunta": "479. - que chequeo especial debería ser hecho en un avión durante el prevuelo después que ha permanecido sin actividad en un periodo largo de tiempo:",
 			"RespuestaCorrecta": "3",
-			"A": "LUBRICACION DE LOS SISTEMAS DE CONTROL. MOVIMIENTO DE LAS HELICES Y SUPERFICIES DE CONTROL;",
-			"B": "CHEQUEO POR CONDENSACION EN LOS TANQUES DE COMBUSTIBLE;",
-			"C": "CHEQUEAR DAÑOS U OBSTRUCCIONES CAUSADAS POR ANIMALES, PAJAROS O INSECTOS. "
+			"A": "lubricación de los sistemas de control, movimiento de las hélices y superficies de control;",
+			"B": "chequeo por condensación en los tanques de combustible;",
+			"C": "chequear daños u obstrucciones causadas por animales, pájaros o insectos. "
 		},
 		{
-			"Pregunta": "480. - EL USO DE LA LISTA DE CHEQUEO PARA LA INSPECCION DE PREVUELO Y ENCENDIDO DEL MOTOR ES RECOMENDADO:",
+			"Pregunta": "480. - el uso de la lista de chequeo para la inspección de prevuelo y encendido del motor es recomendado:",
 			"RespuestaCorrecta": "3",
-			"A": "COMO UN EXCELENTE RESPALDO PARA PILOTOS CON UNA FALTA DE MEMORIA;",
-			"B": "PARA MEMORIZAR LOS PROCEDIMIENTOS EN UNA SECUENCIA ORDENADA;",
-			"C": "PARA ASEGURAR QUE TODOS LOS PUNTOS NECESARIOS SON CHEQUEADOS EN UNA LOGICA SECUENCIA."
+			"A": "como un excelente respaldo para pilotos con una falta de memoria;",
+			"B": "para memorizar los procedimientos en una secuencia ordenada;",
+			"C": "para asegurar que todos los puntos necesarios son chequeados en una lógica secuencia."
 		},
 		{
-			"Pregunta": "481. - COMO SE CONTROLA LA OPERACION DE UN MOTOR ENCENDIDO, EQUIPADO CON HELICE DE VELOCIDAD CONSTANTE:",
+			"Pregunta": "481. - como se controla la operación de un motor encendido, equipado con hélice de velocidad constante:",
 			"RespuestaCorrecta": "2",
-			"A": "LA PALANCA DE CONTROL DE RPM DEL MOTOR. REGISTRADA EN UN TACOMETRO Y EL CONTROL DE LA MEZCLA REGULA LA POTENCIA DE SALIDA;",
-			"B": "LA PALANCA DE CONTROL DE POTENCIA DE SALIDA TIENE UN INDICADOR DE PRESSION DE ADMISION Y EL CONTROL DE HELICE REGULALAS RPM DEL MOTOR;",
-			"C": "LA PALANCA DE CONTROLDE RPM DELMOTOR TIENE UN TACOMETRO Y EL CONTROL DE LA HELICE REGULA LA POTENCIA DE SALIDA "
+			"A": "la palanca de control de rpm del motor, registrada en un tacómetro y el control de la mezcla regula la potencia de salida;",
+			"B": "la palanca de control de potencia de salida tiene un indicador de presión de admisión y el control de hélice regula las rpm del motor;",
+			"C": "la palanca de control de rpm del motor tiene un tacómetro y el control de la hélice regula la potencia de salida "
 		},
 		{
-			"Pregunta": "482. - CUAL ES LA VENTAJA DE LA HELICE A VELOCIDAD CONSTANTE: ",
+			"Pregunta": "482. - cuál es la ventaja de la hélice a velocidad constante: ",
 			"RespuestaCorrecta": "1",
-			"A": "PERMITE AL PILOTO SELECTAR EL ANGULO DE LA PALA PARA MAS EFICIENCIA EN SU RENDIMIENTO;",
-			"B": "PERMITE AL PILOTO SELECTAR Y MANTENER UNA VELOCIDAD DE CRUCERO DEFINIDA;",
-			"C": "PROPORCIONA UNA OPERACION ESTABLE DE RPM Y ELIMINA LAS VIBRACIONES. "
+			"A": "permite al piloto selectar el ángulo de la pala para más eficiencia en su rendimiento;",
+			"B": "permite al piloto selectar y mantener una velocidad de crucero definida;",
+			"C": "proporciona una operación estable de rpm y elimina las vibraciones. "
 		},
 		{
-			"Pregunta": "483. - LA REGLA MAS IMPORTANTE QUE SE DEBE RECORDAR EN UNA FALLA DE MOTOR LUEGO DELDESPEGUE ES:",
+			"Pregunta": "483. - la regla más importante que se debe recordar en una falla de motor luego del despegue es:",
 			"RespuestaCorrecta": "3",
-			"A": "DETERMINAR LA DIRECCION DEL VIENTO Y PUVNEAR UN ATERRIZAJE FORZOZO;",
-			"B": "RETORNAR INMEDIATAMENTE A PISTA;",
-			"C": "MANTENER LA VELOCIDAD DE SEGURIDAD. "
+			"A": "determinar la dirección del viento y planear un aterrizaje forzoso;",
+			"B": "retornar inmediatamente a pista;",
+			"C": "mantener la velocidad de seguridad. "
 		},
 		{
-			"Pregunta": "484. - UNA APROXIMACION VFR EN ATERRIZAJE NOCTURNO, DEBERIA SER REALIZADA:",
+			"Pregunta": "484. - una aproximación VFR en aterrizaje nocturno, debería ser realizada:",
 			"RespuestaCorrecta": "3",
-			"A": "CON UNA VELOCIDAD MAYOR;",
-			"B": "BAJA Y DE POCA PROFUNDIDAD;",
-			"*C": "DE MISMA MANERA QUE DURANTE EL DIA. "
+			"A": "con una velocidad mayor;",
+			"B": "baja y de poca profundidad;",
+			"C": "de misma manera que durante el día. "
 		},
 		{
-			"Pregunta": "485. - CUAL SERA EL CONSUMO DE COMBUSTIBLE PARA 500 NM DE VUELO BAJO LAS SIGUIENTES CONDICIONES: (FIGURA 36). ALTITUD DE PRESION 8000 PIES, TEMPERATURA -19ºC PRESION DE ADMISION 19.5 HG, VIENTO CALMA",
+			"Pregunta": "485. - cual será el consumo de combustible para 500 NM de vuelo bajo las siguientes condiciones: (figura 36). altitud de presión 8000 pies, temperatura -19º c presión de admisión 19.5 hg, viento calma",
 			"RespuestaCorrecta": "1",
 			"A": "36.5 GLS;",
 			"B": "46.0 GLS;",
-			"C": "33.5GLS. ",
+			"C": "33.5 GLS. ",
             "FIGURA": "f36.png"
 		},
 		{
-			"Pregunta": "486. - CUAL SERA EL CONSUMO DE COMBUSTIBLE PARA 1000 NM DE VUELO, BAJO LA SIGUIENTES CONDICIONES: (FIGURA 36). ALTITUD DE PRESION 4000 PIES, TEMPERATURA +29 ° C, PRESION DE ADMISION 21.3 HG,VIENTO CALMA",
+			"Pregunta": "486. - cuál será el consumo de combustible para 1000 NM de vuelo, bajo las siguientes condiciones: (figura 36). altitud de presión 4000 pies, temperatura +29 °C, presión de admisión 21.3 hg, viento calma",
 			"RespuestaCorrecta": "2",
 			"A": "70.4 GLS;",
 			"B": "72.3 GLS;",
@@ -526,13 +526,7 @@
             "FIGURA": "f36.png"
 		},
 		{
-			"Pregunta": "***487. - CUAL SERA EL CONSUMO DE COMBUSTIBLE PARA 400 NM DE VUELO, BAJO LAS SIGUIENTES CONDICIONES: (FIGURA 36). ALTITUD DE PRESION 10000 PIES, TEMPERATURA -2 ° C, PRESION DE ADMISION 19.9 HG,VIENTO CALMA.",
-			"RespuestaCorrecta": "1",
-			"A": "RESPUESTA. ",
-            "FIGURA": "f36.png"
-		},
-		{
-			"Pregunta": "488. - CUAL SERA EL CONSUMO DE COMBUSTIBLE PARA 600 NM DE VUELO, BAJO LAS SIGUIENTES CONDICIONES: (FIGURA 36). ALTITUD DE PRESION 6000 PIES, TEMPERATURA 5 °C, PRESION DE ADMISION 20.4 HG,VIENTO CALMA.",
+			"Pregunta": "488. - cuál será el consumo de combustible para 600 NM de vuelo, bajo las siguientes condiciones: (figura 36). altitud de presión 6000 pies, temperatura 5 °C, presión de admisión 20.4 hg, viento calma.",
 			"RespuestaCorrecta": "2",
 			"A": "40.5 GLS;",
 			"B": "43.5 GLS;",
@@ -540,307 +534,308 @@
             "FIGURA": "f36.png"
 		},
 		{
-			"Pregunta": "489. - QUE FLUJO DE COMBUSTIBLE DEBERIA EL PILOTO ESPERAR CONSUMIR A11000 PIES EN UN DIA STANDAR CON 65% MAXIMO CONTINUO DE MOTOR: (FIGURA 36).",
+			"Pregunta": "489. - que flujo de combustible debería el piloto esperar consumir a 11000 pies en un día estándar con 65% máximo continuo de motor: (figura 36).",
 			"RespuestaCorrecta": "3",
-			"A": "11.8 GLS/HORA;",
-			"B": "10.6 GLS/HORA;",
-			"C": "11.2 GLS/HORA. ",
+			"A": "11.8 gls/hora;",
+			"B": "10.6 gls/hora;",
+			"C": "11.2 gls/hora. ",
             "FIGURA": "f36.png"
 		},
 		{
-			"Pregunta": "490. - QUE FLUJO DE COMBUSTIBLE DEBERIA EL PILOTO ESPERAR CONSUMIR A 13000 PIES EN UN DIA STANDARD CON 65% MAXIMO CONTINUO DE MOTOR: (FIGURA. 36).",
+			"Pregunta": "490. - que flujo de combustible debería el piloto esperar consumir a 13000 pies en un día standard con 65% máximo continuo de motor: (figura. 36).",
 			"RespuestaCorrecta": "2",
-			"A": "10.9 GLS/HORA;",
-			"B": "10.5 GLS/HORA;",
-			"C": "10.2 GLS/HORA. ",
+			"A": "10.9 gls/hora;",
+			"B": "10.5 gls/hora;",
+			"C": "10.2 gls/hora. ",
             "FIGURA": "f36.png"
 		},
 		{
-			"Pregunta": "491. - CUAL ES LA VELOCIDAD VERDADERA APROXIMADA (MPH) QUE EL PILOTO DEBERIA ESPERAR CON 65% MAXIMO CONTINUO DE MOTOR A 9500 PIES CON UNA TEMPERATURA DE -20 °C BAJO LA STANDARD: (FIGURA. 36).",
+			"Pregunta": "491. - cuál es la velocidad verdadera aproximada (mph) que el piloto debería esperar con 65% máximo continuo de motor a 9500 pies con una temperatura de -20 °C bajo la standard: (figura. 36).",
 			"RespuestaCorrecta": "3",
-			"A": "178 MPH;",
-			"B": "181 MPH;",
-			"C": "183 MPH. ",
+			"A": "178 mph;",
+			"B": "181 mph;",
+			"C": "183 mph. ",
             "FIGURA": "f36.png"
 		},
 		{
-			"Pregunta": "492. - CUAL ES LA VELOCIDAD VERDADERA APROXIMADA (KT) QUE EL PILOTO DEBERIA ESPERAR CON 65% MAXIMO CONTINUO DE MOTOR A 5000 PIES EN UN DIA STANDARD: (FIGURA. 36).",
+			"Pregunta": "492. - cuál es la velocidad verdadera aproximada (kt) que el piloto debería esperar con 65% máximo continuo de motor a 5000 pies en un día standard: (figura. 36).",
 			"RespuestaCorrecta": "2",
-			"A": "160 KT;",
-			"B": "157 KT;",
-			"C": "155 KT. ",
+			"A": "160 kt;",
+			"B": "157 kt;",
+			"C": "155 kt. ",
             "FIGURA": "f36.png"
 		},
 		{
-			"Pregunta": "493. - CUAL ES EL TIEMPO APROXIMADO QUE TOMARIA TRASLADARSE 600 MN, CON LAS SIGUIENTES CONDICIONES: (FIGURA. 36). ALTITUD 2000 PIES, TEMPERATURA -7 °C, PRESION DE ADMISION 20.4 HG,VIENTO CALMA.",
+			"Pregunta": "493. - cuál es el tiempo aproximado que tomaría trasladarse 600 MN, con las siguientes condiciones: (figura. 36). altitud 2000 pies, temperatura -7 °C, presión de admisión 20.4 hg, viento calma.",
 			"RespuestaCorrecta": "2",
-			"A": "4H 6 MIN;",
-			"B": "4H 2 MIN;",
-			"C": "3H 56 MIN. ",
+			"A": "4h 6 MIN;",
+			"B": "4h 2 MIN;",
+			"C": "3h 56 MIN. ",
             "FIGURA": "f36.png"
 		},
 		{
-			"Pregunta": "494- DETERMINE LA DISTANCIA TOTAL DE ATERRIZAJE DE UN AVION BAJO LAS SIGUIENTES CONDICIONES: (FIGURA. 38) OAT 32 °F, ALTITUD DE PRESION 8000 PIES, PESO 2600 LB., COMPONENTE DEL VIENTO DE FRENTE 20 KT., OBSTACULO 50 PIES.",
+			"Pregunta": "494- determine la distancia total de aterrizaje de un avión bajo las siguientes condiciones: (figura. 38) OAT 32 °F, altitud de presión 8000 pies, peso 2600 lb., componente del viento de frente 20 kt., obstáculo 50 pies.",
 			"RespuestaCorrecta": "2",
-			"A": "1750 PIES;",
-			"B": "1400 PIES;",
-			"C": "2100 PIES. ",
+			"A": "1750 pies;",
+			"B": "1400 pies;",
+			"C": "2100 pies. ",
             "FIGURA": "f38.png"
 		},
 		{
-			"Pregunta": "495.- DETERMINAR LA DISTANCIA TOTAL DE ATERRIZAJE DE UN AVION BAJO LAS SIGUIENTES CONDICIONES: (FIGURA. 38) OAT STANDARD, ALTITUD DE PRESION 2000 PIES, PESO 2300 LB., COMPONENTE DEL VIENTO CALMA. ",
+			"Pregunta": "495.- determinar la distancia total de aterrizaje de un avión bajo las siguientes condiciones: (figura. 38) OAT standard, altitud de presión 2000 pies, peso 2300 lb., componente del viento calma. ",
 			"RespuestaCorrecta": "1",
-			"A": "850 PIES",
-			"B": "1250 PIES;",
-			"C": "1460 PIES.",
+			"A": "850 pies",
+			"B": "1250 pies;",
+			"C": "1460 pies.",
             "FIGURA": "f38.png"
 		},
 		{
-			"Pregunta": "436.- CUALES LA DISTANCIA APROXIMADA DESPUES DELATRRIZAJE BAJO LAS SIGUIENTES CONDICIONES: (FIGURA. 38) OAT 90 °F, ALTITUD DE PRESION 4000 PIES, PESO 2800 LB., COMPONENTE DE VIENTO DE COLA 10 KT.",
+			"Pregunta": "496.- cual es la distancia aproximada después del aterrizaje bajo las siguientes condiciones: (figura. 38) OAT 90 °F, altitud de presión 4000 pies, peso 2800 lb., componente de viento de cola 10 kt.",
 			"RespuestaCorrecta": "3",
-			"A": "1575 PIES;",
-			"B": "1725 PIES;",
-			"C": "1950 PIES.",
+			"A": "1575 pies;",
+			"B": "1725 pies;",
+			"C": "1950 pies.",
             "FIGURA": "f38.png"
 		},
 		{
-			"Pregunta": "497. - DETERMINAR LA DISTANCIA TOTAL DE ATERRIZAJE DE UN AVION BAJO LAS SIGUIENTES CONDICIONES: (FIGURA. 38) OAT 90 °F, ALTITUD DE PRESION 3000 PIES, PESO 2900 LB., COMPONENTE DE VIENTO DE FRENTE 10 KT., OBSTACULO 50 PIES. •",
-			"RespuestaCorrecta": "3",
-			"A": "1725 PIES;",
-			"B": "1560 PIES;",
-			"C": "1460 PIES. ",
+			"Pregunta": "497. - determinar la distancia total de aterrizaje de un avión bajo las siguientes condiciones: (figura. 38) OAT 90 °F, altitud de presión 3000 pies, peso 2900 lb., componente de viento de frente 10 kt., obstáculo 50 pies.",
+			"RespuestaCorrecta": "1",
+			"A": "1725 pies;",
+			"B": "1560 pies;",
+			"C": "1460 pies. ",
             "FIGURA": "f38.png"
 		},
 		{
-			"Pregunta": "498. - CON LAS SIGUIENTES CONDICIONES DETERMINE EL RODAJE EN EL ATERRIZAJE (GROUND ROLL), (FIGURA. 39) ALTITUD DE PRESION NIVEL DEL MAR, VIENTO DE FRENTE 4 KT., TEMPERATURA STANDARD.",
+			"Pregunta": "498. - con las siguientes condiciones determine el rodaje en el aterrizaje (ground roll), (figura. 39) altitud de presión nivel del mar, viento de frente 4 kt., temperatura standard.",
 			"RespuestaCorrecta": "2",
-			"A": "356 PIES;",
-			"B": "401 PIES;",
-			"C": "490 PIES. ",
+			"A": "356 pies;",
+			"B": "401 pies;",
+			"C": "490 pies. ",
             "FIGURA": "f39.png"
 		},
 		{
-			"Pregunta": "499. - CUAL ES LA DISTANCIA TOTAL DE ATERRIZAJE REQUERIDA PARA CLAREAR EL OBSTACULO DE 50 PIES, CON LAS SIGUIENTES CONDICIONES, USANDO LA CARTA DE LA DISTANCIA DE ATERRIZAJE: ALTITUD DE PRESION 7500 PIES, VIENTO DE FRENTE 8 KT., TEMPERATURA STANDARD, PISTA DE CESPED DURO.",
+			"Pregunta": "499. - cuál es la distancia total de aterrizaje requerida para clarear el obstáculo de 50 pies, con las siguientes condiciones, usando la carta de la distancia de aterrizaje: altitud de presión 7500 pies, viento de frente 8 kt., temperatura standard, pista de césped duro.",
 			"RespuestaCorrecta": "3",
-			"A": "1004 PIES;",
-			"B": "1506 PIES;",
-			"C": "1205 PIES. "
+			"A": "1004 pies;",
+			"B": "1506 pies;",
+			"C": "1205 pies. "
 		},
 		{
-			"Pregunta": "500. - DETERMINE EL RODAJE APROXIMADO EN EL ATERRIZAJE, USANDO LA CARTA DE LA DISTANCIA DE ATERRIZAJE (FIGURA. 39), ALTITUD DE PRESION 3750 PIES, VIENTO DE FRENTE 12 KT., TEMPERATURA STANDARD.",
+			"Pregunta": "500. - determine el rodaje aproximado en el aterrizaje, usando la carta de la distancia de aterrizaje (figura. 39), altitud de presión 3750 pies, viento de frente 12 kt., temperatura standard.",
 			"RespuestaCorrecta": "1",
-			"A": "338 PIES;",
-			"B": "193 PIES;",
-			"C": "483 PIES. ",
+			"A": "338 pies;",
+			"B": "193 pies;",
+			"C": "483 pies. ",
             "FIGURA": "f39.png"
 		},
 		{
-			"Pregunta": "501. - CUAL ES LA DISTANCIA TOTAL DE ATERRIZAJE REQUERIDA PARA CLAREAR UN OBSTACULO DE 50 PIES CON LAS SIGUIENTES CONDICIONES, USANDO LA CARTA DE DISTANCIA DE ATERRIZAJE: (FIGURA. 39) ALTITUD DE PRESION 5000 PIES, VIENTO DE FRENTE 8 KT., TEMPERATURA 41 °F, PISTA SUPERFICIE DURA.",
+			"Pregunta": "501. - cuál es la distancia total de aterrizaje requerida para clarear un obstáculo de 50 pies con las siguientes condiciones, usando la carta de distancia de aterrizaje: (figura. 39) altitud de presión 5000 pies, viento de frente 8 kt., temperatura 41 °F, pista superficie dura.",
 			"RespuestaCorrecta": "2",
-			"A": "837 PIES;",
-			"B": "956 PIES;",
-			"C": "1076 PIES. ",
+			"A": "837 pies;",
+			"B": "956 pies;",
+			"C": "1076 pies. ",
             "FIGURA": "f39.png"
 		},
 		{
-			"Pregunta": "502. - DETERMINE LA DISTANCIA TOTAL DE ATERRIZAJE PARA CLAREAR UN OBSTACULO DE 50 PIES USANDO LA CARTA DE DISTANCIA DE ATERRIZAJE, (FIGURA. 39) ALTITUD DE PRESION 5000 PIES, VIENTO DE FRENTE CALMA, TEMPERATURA 101 T.",
+			"Pregunta": "502. - determine la distancia total de aterrizaje para clarear un obstáculo de 50 pies usando la carta de distancia de aterrizaje, (figura. 39) altitud de presión 5000 pies, viento de frente calma, temperatura 101 ºF",
 			"RespuestaCorrecta": "3",
-			"A": "1099 PIES;",
-			"B": "1291 PIES;",
-			"C": "1314 PIES. ",
+			"A": "1099 pies;",
+			"B": "1291 pies;",
+			"C": "1314 pies. ",
             "FIGURA": "f39.png"
 		},
 		{
-			"Pregunta": "503. - CUAL ES EL RODAJE APROXIMADO EN EL ATERRIZAJE, USANDO LA CARTA DE DISTANCIA DE ATERRIZAJE, (FIGURA. 39) ALTITUD DE PRESION 1250 PIES, VIENTO DE FRENTE 8 KT., TEMPERATURA STANDARD.",
+			"Pregunta": "503. - cuál es el rodaje aproximado en el aterrizaje, usando la carta de distancia de aterrizaje, (figura. 39) altitud de presión 1250 pies, viento de frente 8 kt., temperatura standard.",
 			"RespuestaCorrecta": "2",
-			"A": "275 PIES;",
-			"B": "366 PIES;",
-			"C": "470 PIES. ",
+			"A": "275 pies;",
+			"B": "366 pies;",
+			"C": "470 pies. ",
             "FIGURA": "f39.png"
 		},
 		{
-			"Pregunta": "504- CUAL SERIA LA PRIMERA ACCION LUEGO DE ENCENDER EL MOTOR DE UN AVION: ",
+			"Pregunta": "504- cuál sería la primera accion luego de encender el motor de un avión: ",
 			"RespuestaCorrecta": "1",
-			"A": "AJUSTAR LAS RPM DE LA HELICE Y CHEQUEAR LAS MARCACIONES DE LOS INSTRUMENTOS DEL MOTOR;",
-			"B": "PROBAR CADA FRENO Y EL FRENO DE PARQUEO;",
-			"C": "CLAREAR VISUALMENTE EL AREA, POR GENTE Y OBSTACULOS. "
+			"A": "ajustar las rpm de la hélice y chequear las marcaciones de los instrumentos del motor;",
+			"B": "probar cada freno y el freno de parqueo;",
+			"C": "clarear visualmente el área, por gente y obstáculos. "
 		},
 		{
-			"Pregunta": "505. - CUAL ES LA COMPONENTE DEL VIENTO CRUZADO PARA ATERRIZAR EN LA PISTA 18, SI LA TWR REPORTA EL VIENTO DE 220° CON 30 KT: (FIGURA 37). ",
+			"Pregunta": "505. - cuál es la componente del viento cruzado para aterrizar en la pista 18, si la TWR reporta el viento de 220° con 30 kt: (figura 37). ",
 			"RespuestaCorrecta": "1",
-			"A": "19 KT;",
-			"B": "23KT;",
-			"C": "30KT. ",
+			"A": "19 kt;",
+			"B": "23kt;",
+			"C": "30kt. ",
             "FIGURA": "f37.png"
 		},
 		{
-			"Pregunta": "506. - CUAL ES LA COMPONENTE DEL VIENTO DE FRENTE PARA ATERRIZAR EN LA PISTA 18, SI LA TWR REPORTA EL VIENTO DE 220° CON 30 KT. (FIGURA 37).",
+			"Pregunta": "506. - cuál es la componente del viento de frente para aterrizar en la pista 18, si la TWR reporta el viento de 220° con 30 kt. (figura 37).",
 			"RespuestaCorrecta": "2",
-			"A": "19 KT;",
-			"B": "23 KT;",
-			"C": "26 KT. ",
+			"A": "19 kt;",
+			"B": "23 kt;",
+			"C": "26 kt. ",
             "FIGURA": "f37.png"
 		},
 		{
-			"Pregunta": "507. - DETERMINE LA MAXIMA VELOCIDAD DEL VIENTO PARA 45° DE VIENTO CRUZADO, SI EL MAXIMO COMPONENTE DE VIENTO CRUZADO PARA EL AVION ES DE 25 KT. (FIGURA 33).",
+			"Pregunta": "507. - determine la máxima velocidad del viento para 45° de viento cruzado, si el máximo componente de viento cruzado para el avión es de 25 kt. (figura 33).",
 			"RespuestaCorrecta": "3",
-			"A": "25 KT;",
-			"B": "29KT;",
-			"C": "35 KT. ",
+			"A": "25 kt;",
+			"B": "29kt;",
+			"C": "35 kt. ",
             "FIGURA": "f33.png"
 		},
 		{
-			"Pregunta": "508. - CON EL VIENTO REPORTADO DEL NORTE CON 20 KT., CUAL PISTA (06, 29 O 32), ESTA ACEPTABLE PARA SER UTILIZADA POR UN AVION CON 13 KT. MAXIMO DE COMPONENTE DE VIENTO CRUZADO:",
+			"Pregunta": "508. - con el viento reportado del norte con 20 kt., cual pista (06, 29 o 32), esta aceptable para ser utilizada por un avión con 13 kt. máximo de componente de viento cruzado:",
 			"RespuestaCorrecta": "3",
-			"A": "PISTA 06;",
-			"B": "PISTA 29;",
-			"C": "PISTA 32. "
+			"A": "pista 06;",
+			"B": "pista 29;",
+			"C": "pista 32. "
 		},
 		{
-			"Pregunta": "509. - CUAL ES LA MAXIMA VELOCIDAD DEL VIENTO PARA 30° DE VIENTO CRUZADO, SI LA MAXIMA COMPONENTE DE VIENTO CRUZADO DE UN AVION ES DE 12 KT: (FIGURA 37).",
+			"Pregunta": "509. - cuál es la máxima velocidad del viento para 30° de viento cruzado, si la máxima componente de viento cruzado de un avión es de 12 kt: (figura 37).",
 			"RespuestaCorrecta": "3",
-			"A": "16 KT;",
-			"B": "20 KT;",
-			"C": "24 KT. ",
+			"A": "16 kt;",
+			"B": "20 kt;",
+			"C": "24 kt. ",
             "FIGURA": "f37.png"
 		},
 		{
-			"Pregunta": "510. - CON UN VIENTO REPORTADO DEL SUR CON 20 KT., CUAL PISTA (10,14 O 24) ES APROPIADA PARA UN AVION CON LA MAXIMA COMPONENTE DE VIENTO CRUZADO DE 13 KT:(FIGURA.37). ",
+			"Pregunta": "510. - con un viento reportado del sur con 20 kt., cual pista (10,14 o 24) es apropiada para un avión con la máxima componente de viento cruzado de 13 kt:(figura.37). ",
 			"RespuestaCorrecta": "2",
-			"A": "PISTA 10;",
-			"B": "PISTA 14",
-			"C": "PISTA 24.",
+			"A": "pista 10;",
+			"B": "pista 14",
+			"C": "pista 24.",
             "FIGURA": "f37.png"
 		},
 		{
-			"Pregunta": "511. - LA LUZ VERDE FIJA SEÑALADA DIRECTAMENTE DE LA TWR AL AVION EN VUELO ES SEÑAL QUE EL PILOTO: ",
+			"Pregunta": "511. - la luz verde fija señalada directamente de la TWR al avión en vuelo es señal que el piloto: ",
 			"RespuestaCorrecta": "1",
-			"A": "ESTA AUTORIZAD O PARA ATERRIZAR;",
-			"B": "DEBERA DAR PASO A OTRO AVION Y CIRCULAR PARA ATERRIZAR;",
-			"C": "DEBERA RETORNAR PARA ATERRIZAR. "
+			"A": "esta autorizad o para aterrizar;",
+			"B": "deberá dar paso a otro avión y circular para aterrizar;",
+			"C": "deberá retornar para aterrizar. "
 		},
 		{
-			"Pregunta": "512. - LOS DESTELLOS BLANCOS SEÑALADOS DESDE LA TWR PARA UN AVION EN TAXEO ES UNA INDICACION DE:",
+			"Pregunta": "512. - los destellos blancos señalados desde la TWR para un avión en taxeo es una indicación de:",
 			"RespuestaCorrecta": "3",
-			"A": "TAXEE A UNA VELOCIDAD MAS RAPIDA;",
-			"B": "TAXEE SOLAMENTE POR LA CALLE DE RODAJE SIN CRUZAR LAS PISTAS;",
-			"C": "RETORNE AL PUNTO DE PARTIDA DEL AERODROMO."
+			"A": "taxee a una velocidad más rápida;",
+			"B": "taxee solamente por la calle de rodaje sin cruzar las pistas;",
+			"C": "retorne al punto de partida del aeródromo."
 		},
 		{
-			"Pregunta": "513. - SI LA TWR EMITE UNA SEÑAL PARA QUE EL PILOTO CEDA EL PASO A OTRAS AERONAVES Y SIGA EN EL CIRCUITO, LA LUZ DEBERIA SER:",
+			"Pregunta": "513. - si la TWR emite una señal para que el piloto ceda el paso a otras aeronaves y siga en el circuito, la luz debería ser:",
 			"RespuestaCorrecta": "2",
-			"A": "DESTELLOS ROJOS;",
-			"B": "ROJA FIJA;",
-			"C": "ALTERNADO ROJA Y VERDE. "
+			"A": "destellos rojos;",
+			"B": "roja fija;",
+			"C": "alternado roja y verde. "
 		},
 		{
-			"Pregunta": "514. - QUE SEÑAL DE LUZ AUTORIZA AL PILOTO PARA QUE TEXEE: ",
+			"Pregunta": "514. - que señal de luz autoriza al piloto para que taxee: ",
 			"RespuestaCorrecta": "1",
-			"A": "DESTELLOS VERDES;",
-			"B": "VERDE FIJA;",
-			"C": "DESTELLOS BLANCOS. "
+			"A": "destellos verdes;",
+			"B": "verde fija;",
+			"C": "destellos blancos. "
 		},
 		{
-			"Pregunta": "515. - SI UN AVION ESTA CON FALLA DE RADIO, CUAL ES EL PROCEDIMIENTO RECOMENDANDO CUANDO ATERRICE EN UN AEROPUERTO CONTROLADO: ",
+			"Pregunta": "515. - si un avión esta con falla de radio, cual es el procedimiento recomendando cuando aterrice en un aeropuerto controlado: ",
 			"RespuestaCorrecta": "1",
-			"A": "OBSERVAR EL FLUJO DE TRAFICO. INGRESAR AL PATRON Y ESPERAR LAS SEÑALES LUMINOSAS DESDE LA TWR;",
-			"B": "INGRESAR A PIERNA CON EL VIENTO Y MOVER LAS ALAS;",
-			"C": "DESTELLAR CON LAS LUCES DE ATERRIZAJE Y RECICLAR EL TREN MIENTRAS ESTE CIRCULANDO. "
+			"A": "observar el flujo de tráfico. ingresar al patrón y esperar las señales luminosas desde la TWR;",
+			"B": "ingresar a pierna con el viento y mover las alas;",
+			"C": "destellar con las luces de aterrizaje y reciclar el tren mientras este circulando. "
 		},
 		{
-			"Pregunta": "516. - CUANDO ACTIVAMOS UN RADIO ELT TRANSMITE EN:",
+			"Pregunta": "516. - cuando activamos un radio ELT transmite en:",
 			"RespuestaCorrecta": "2",
-			"A": "118.0 Y 118.8 MHZ;",
-			"B": "121.5 Y 243.0 MHZ;",
-			"C": "123.0 Y 119.0 MHZ."
+			"A": "118.0 y 118.8 mhz;",
+			"B": "121.5 y 243.0 mhz;",
+			"C": "123.0 y 119.0 mhz."
 		},
 		{
-			"Pregunta": "517. - CUALES DE LOS SIGUIENTES PARRAFOS ESTAN INCLUIDOS EN EL PESO VACIO DE UN AVION:",
+			"Pregunta": "517. - cuáles de los siguientes párrafos están incluidos en el peso vacío de un avión:",
 			"RespuestaCorrecta": "3",
-			"A": "LIQUIDO HIDRAULICO Y COMBUSTIBLE DISPONIBLE;",
-			"B": "TANQUES LLENOS DE COMBUSTIBLE Y CAPACIDAD DE ACEITE, EXCLUYENDO LA TRIPULACION Y EQUIPAJE;",
-			"C": "COMBUSTIBLE NO USADO Y EQUIPO OPCIONAL "
+			"A": "liquido hidráulico y combustible disponible;",
+			"B": "tanques llenos de combustible y capacidad de aceite, excluyendo la tripulación y equipaje;",
+			"C": "combustible no usado y equipo opcional "
 		},
 		{
-			"Pregunta": "518. - UN AVION ESTA SOBRE CARGADO 110 LB. DE SU PESO MAXIMO CERTIFICADO. SI SE DRENA COMBUSTIBLE PARA ALCANZAR EL PESO LIMITE DELAVION. QUE CANTIDAD DE COMBUSTIBLE DEBE SER DRENADA:",
+			"Pregunta": "518. - un avión esta sobre cargado 110 lb. de su peso máximo certificado. si se drena combustible para alcanzar el peso límite del avión. que cantidad de combustible debe ser drenada:",
 			"RespuestaCorrecta": "2",
-			"A": "16.2 GLS;",
-			"B": "18.4 GLS;",
-			"C": "17.1 GLS. "
+			"A": "16.2 gls;",
+			"B": "18.4 gls;",
+			"C": "17.1 gls. "
 		},
 		{
-			"Pregunta": "519. - UN AVION ESTA SOBRECARGADO EN 90 LB, DE SU PESO MAXIMO CERTIFICADO. SI SE DRENA COMBUSTIBLE PARA ALCANZAR EL PESO LIMITE DELAVION. QUE CANTIDAD DE COMBUSTIBLE DEBERA SER DRENADA:",
+			"Pregunta": "519. - un avión esta sobrecargado en 90 lb, de su peso máximo certificado. si se drena combustible para alcanzar el peso límite del avión. que cantidad de combustible deberá ser drenada:",
 			"RespuestaCorrecta": "3",
-			"A": "9 GLS;",
-			"B": "12 GLS;",
-			"C": "15 GLS. "
+			"A": "9 gls;",
+			"B": "12 gls;",
+			"C": "15 gls. "
 		},
 		{
-			"Pregunta": "520. - DADOS: PESO VACIO 1495 LBS., BRAZO 101.4 PULG. Y MOMENTO 151593 LBS./PULG., PILOTO Y PASAJEROS 380 LBS., BRAZO 64 PULG., COMBUSTIBLE UTIL 30 GLS., BRAZO 96 PULG., DETERMINAR A QUE DISTANCIA HACIA ATRAS DEL DATUM ESTA UBICADO EL CG:",
+			"Pregunta": "520. - dados: peso vacío 1495 lbs., brazo 101.4 pulg. y momento 151593 lbs./pulg., piloto y pasajeros 380 lbs., brazo 64 pulg., combustible útil 30 gls., brazo 96 pulg., determinar a qué distancia hacia atrás del datum está ubicado el cg:",
 			"RespuestaCorrecta": "2",
 			"A": "92.44;",
 			"B": "94.01;",
 			"C": "119.8. "
 		},
 		{
-			"Pregunta": "521. - CUAL ES LA MIAXIMIA CANTIDAD DE EQUIPAJE QUE PUEDE SER CARGADA ABORDO DE UN AVION PARA QUE EL CENTRO DE GRAVEDAD PERMIANEZCA SIN VARIAR SUS LIMITES. CARTA DE CARGA: (FIGURA.35): PESO VACIO 1350 LBS., (MK)MI/1000) 51.5 LBS./PULG., PILOTO Y PASAJERO DELANTERO 250 LBS., PASAJEROS POSTERIORES 400 LBS., COMBUSTIBLE (30 GLS.), ACEITE (8 CUARTOS) 15 LBS., (MK)ML/1000) -0.2 LBS./PULG. ",
+			"Pregunta": "521. - cuál es la máxima cantidad de equipaje que puede ser cargada abordo de un avión para que el centro de gravedad permanezca sin variar sus límites. carta de carga: (figura.35): peso vacío 1350 lbs., (mom/1000) 51.5 lbs./pulg., piloto y pasajero delantero 250 lbs., pasajeros posteriores 400 lbs., combustible (30 gls.), aceite (8 cuartos) 15 lbs., (mom/1000) -0.2 lbs./pulg. ",
 			"RespuestaCorrecta": "1",
-			"A": "105 LB;",
-			"B": "110 LB;",
-			"C": "120 LB. "
+			"A": "105 lb;",
+			"B": "110 lb;",
+			"C": "120 lb. "
 		},
 		{
-			"Pregunta": "522. - CALCULAR EL MOMENTO DE UN AVION (MOMENTO/1000), CARGADO COMO SIGUE Y DETERMINE SU CATEGORIA, UTILIZANDO LA CARTA (FIGURA. 35): PESO VACIO 1350 LBS., (MOM./1000) 51.5 LBS.yPULG., PILOTO Y PASAJERO DELANTERO 310 LBS., PASAJERO POSTERIOR 96 LBS., COMBUSTIBLE (38 GLNS.) 228 LBS., ACEITE (8 CUARTOS) 15 LBS., (MOM./1000)-0.2 LBS./PULG.",
+			"Pregunta": "522. - calcular el momento de un avión (momento/1000), cargado como sigue y determine su categoría, utilizando la carta (figura. 35): peso vacío 1350 lbs., (mom./1000) 51.5 lbs. y pulg., piloto y pasajero delantero 310 lbs., pasajero posterior 96 lbs., combustible (38 glns.) 228 lbs., aceite (8 cuartos) 15 lbs., (mom/1000) -0.2 lbs./pulg.",
 			"RespuestaCorrecta": "2",
-			"A": "79.2 CATEGORIA UTILITY;",
-			"B": "80.8 CATEGORIA UTILITY;",
-			"C": "81.2 CATEGORIA NORMAL ",
+			"A": "79.2 categoría utility;",
+			"B": "80.8 categoría utility;",
+			"C": "81.2 categoría normal ",
             "FIGURA": "f35.png"
 		},
 		{
-			"Pregunta": "523. - CUAL ES LA MAXIMA CANTIDAD DE COMBUSTIBLE QUE PUEDE SER CARGADA EN UN AVION PARA EL DESPEGUE, SI ESTA CARGADO COMO SE DETALLA: (FIGURA. 35). PESO VACIO 1350 LBS., (M)M./1000) 51.5 LBS./PULG., PILOTO Y PASAJERO DELANTERO 340 LBS., PASAJEROS POSTERIORES 310 LBS., EQUIPAJE 45 LBS., ACEITE (8 CUARTOS) 15 LBS., (MOM./1OO0)-0.2 LBS./PULG.",
+			"Pregunta": "523. - cuál es la máxima cantidad de combustible que puede ser cargada en un avión para el despegue, si está cargado como se detalla: (figura. 35). peso vacío 1350 lbs., (mom./1000) 51.5 lbs./pulg., piloto y pasajero delantero 340 lbs., pasajeros posteriores 310 lbs., equipaje 45 lbs., aceite (8 cuartos) 15 lbs., (mom./1000) -0.2 lbs./pulg.",
 			"RespuestaCorrecta": "3",
-			"A": "24 GLNS;",
-			"B": "32 GLNS;",
-			"C": "40 GLNS. ",
+			"A": "24 glns;",
+			"B": "32 glns;",
+			"C": "40 glns. ",
             "FIGURA": "f35.png"
 		},
 		{
-			"Pregunta": "524- DETERMINE EL MOMENTO CON LOS SIGUIENTES DATOS: REF. FIGURA. 35: PESO VACIO 1350 LBS., (MOML/1000) 51.5 LBS./PULG., PILOTO Y PASAJERO DELANTERO 340 LBS., COMBUSTIBLE (TANQUE STANDAR 228 LBS.,ACEITE(8 CUARTOS) 15 LBS.,(MOML / IOOO) - 0.2 LBS. / PULG.",
+			"Pregunta": "524- determine el momento con los siguientes datos: (ref. figura. 35) peso vacío 1350 lbs., (mom/1000) 51.5 lbs./pulg., piloto y pasajero delantero 340 lbs., combustible (tanque estándar) 228 lbs., aceite (8 cuartos) 15 lbs.,(mom/ 1000) - 0.2 lbs. / pulg.",
 			"RespuestaCorrecta": "2",
-			"A": "69.9 LBS/PULG;",
-			"B": "74.9 LBS/PULG;",
-			"C": "77.0 LBS/PULG. ",
+			"A": "69.9 lbs/pulg;",
+			"B": "74.9 lbs/pulg;",
+			"C": "77.0 lbs/pulg. ",
             "FIGURA": "f35.png"
 		},
 		{
-			"Pregunta": "525. - CALCULE EL MOMENTO DEL PESO Y DETERMINE SU POSICION EN EL GRAFICO, REF. CARTA DE MOMENTO. (FIGURA. 35): PESO VACIO 1350 LBS., (MOML/IOOO) 51.5 LBS./PULG. PILOTO Y PASAJERO DELANTERO 380 LBS., COMBUSTIBLE 48 GLNS. 288 LBS., ACEITE (8 CUARTOS) 15 LBS., (MK)M./1000) - 0.2 LBS./PULG.",
+			"Pregunta": "525. - calcule el momento del peso y determine su posición en el gráfico, ref. carta de momento. (figura. 35): peso vacío 1350 lbs., (mom/1000) 51.5 lbs./pulg. piloto y pasajero delantero 380 lbs., combustible 48 glns. 288 lbs., aceite (8 cuartos) 15 lbs., (mom./1000) - 0.2 lbs./pulg.",
 			"RespuestaCorrecta": "2",
-			"A": "78.2 CATEGORIA NORMAL;",
-			"B": "79.2 CATEGORIA NORMAL:",
-			"C": "80.4 CATEGORIA UTILITARIA. ",
+			"A": "78.2 categoría normal;",
+			"B": "79.2 categoría normal:",
+			"C": "80.4 categoría utilitaria. ",
             "FIGURA": "f35.png"
 		},
 		{
-			"Pregunta": "534- EL CENTRO DE GRAVEDAD EN UN AVION NORMALMENTE SE LOCALIZA EN LA CAM Y SE EXPRESA MEDIANTE:",
-			"RespuestaCorrecta": "3",
-			"A": "PORCENTAJE DE LA CAM, TRAS ELLEMAC DEL ALO.;",
-			"B": "UNIDADES DE LONGITUD DESDE LA LINEA DE DATUM;",
-			"C": "UNIDADES DE VOLUMEN. ",
-			"D": "A Y B SON CORRECTAS. "
+			"Pregunta": "534- el centro de gravedad en un avión normalmente se localiza en la CAM y se expresa mediante:",
+			"RespuestaCorrecta": "4",
+			"A": "porcentaje de la CAM, tras el LEMAC del ala.;",
+			"B": "unidades de longitud desde la línea de datum;",
+			"C": "unidades de volumen. ",
+			"D": "a y b son correctas. "
 		},
 		{
-			"Pregunta": "535. - LOS LIMITES DEL CENTRO DE GRAVEDAD SON:",
+			"Pregunta": "535. - los límites del centro de gravedad son:",
 			"RespuestaCorrecta": "2",
-			"A": "PUNTOS FIJOS HACIA ADELANTE Y HACIA ATRAS, MAS ALLA DE LOS CUALES EL CG PUEDE EXTENDERSE EN VUELO;",
-			"B": "PUNTOS IMAGINARIOS DELANTERO Y POSTERIOR DENTRO DE LOS CUALES EL CG PUEDE MOVERSE Y SON ESTABLECIDOS POR EL FABRICANTE;",
-			"C": "A Y B ES CORRECTO. "
+			"A": "puntos fijos hacia adelante y hacia atrás, mas allá de los cuales el cg puede extenderse en vuelo;",
+			"B": "puntos imaginarios delantero y posterior dentro de los cuales el cg puede moverse y son establecidos por el fabricante;",
+			"C": "a y b es correcto. "
 		},
 		{
-			"Pregunta": "536. - EL PESO CON EL CUAL SE INICIA LA CARRERA DE DESPEGUE, DEBE SER EL MENOR DE LOS PESOS LIMITADOS POR:",
+			"Pregunta": "536. - el peso con el cual se inicia la carrera de despegue, debe ser el menor de los pesos limitados por:",
 			"RespuestaCorrecta": "2",
-			"A": "PESO CERO COMBUSTIBLE, DE ATERRIZAJE Y MAXIMO DE DESPEGUE;",
-			"B": "VELOCIDAD DE NEUMATICOS Y ENERGIA DE FRENADO;",
-			"C": "NINGUNA RESPUESTA ES CORRECTA. "
+			"A": "peso cero combustible, de aterrizaje y máximo de despegue;",
+			"B": "velocidad de neumáticos y energía de frenado;",
+			"C": "ninguna respuesta es correcta. "
 		}
-	]
+]
+

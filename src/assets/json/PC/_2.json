@@ -1,402 +1,413 @@
 [		{
-            "Pregunta": "356. - DURANTE EL VUELO, CUANDO LAS CONDICIONES DEL COMPAS MIAGNETICO SON EXACTAS: ",
-            "RespuestaCorrecta": "1",
-            "A": "SOLAMENTE EN UN VUELO DESACELERANDO EN RECTO Y NIVELADO;",
-            "B": "TAN PRONTO COMO LA VELOCIDAD ES CONSTANTE;",
-            "C": "DURANÍE LOS VIRAJES SI EL BANQUEO NO EXCEDE DE 18 G. "
-        },
-        {
-            "Pregunta": "357. - LA DESVIACION EN EL COMPAS MIAGNETICO ES CAUSADA POR LA:",
-            "RespuestaCorrecta": "3",
-            "A": "PRESENCIA DE GRIETAS EN LOS MAGNETOS PERMANENTES DEL COMPAS;",
-            "B": "DIFERENCIA DE LOCALIZACION ENTRE EL NORTE VERDADERO Y NORTE MAGNETICO;",
-            "C": "CARGA EN LOS COMPAS MAGNETICOS DENTRO DELAVION DISTORSIONANDO LAS LINEAS DE LA FUERZA MAGNETICA "
-        },
-        {
-            "Pregunta": "358. - QUE INSTRUMENTOS RECIBEN PRESION DE IMPACTO DEL SISTEMIA PILOT:",
-            "RespuestaCorrecta": "3",
-            "A": "ALTIMETRO;",
-            "B": "CLIMB;",
-            "C": "VELOCIMETRO. "
-        },
-        {
-            "Pregunta": "359. - QUE INSTRUMENTOS NO FUNCIONAN SI EL SISTEMIA PILOT ESTA OBSTRUIDO:",
-            "RespuestaCorrecta": "3",
-            "A": "ALTIMETRO;",
-            "B": "CLIMB;",
-            "C": "VELOCIMETRO. "
-        },
-        {
-            "Pregunta": "360. - SI EL TUBO PILOT Y LAS TOMIAS ESTATICAS ESTAN OBSTRUIDAS, CUALES INSTRUMENTOS ESTARIAN AFECTADOS:",
-            "RespuestaCorrecta": "2",
-            "A": "ALTIMETRO, VELOCIMETRO Y PALO/BOLA;",
-            "B": "ALTIMETRO, VELOCIMETRO Y CLIMB;",
-            "C": "ALTIMETRO, HORIZONTE ARTIFICIAL Y PALO/BOLA."
-
-        },
-        {
-            "Pregunta": "361. - QUE INSTRUMENTOS ESTARAN INOPERATIVOS SI LAS TOMIAS ESTATICAS ESTAN OBSTRUIDAS:",
-            "RespuestaCorrecta": "3",
-            "A": "VELOCIMETRO SOLAMENTE;",
-            "B": "ALTIMETRO SOLAMENTE;",
-            "C": "VELOCIMETRO, ALTIMETRO Y CLIMB."
-        },
-        {
-            "Pregunta": "362. - QUE REPRESENTA LA LINEA ROJA DEL VELOCIMETRO:",
-            "RespuestaCorrecta": "3",
-            "A": "VELOCIDAD DE MANIOBRA;",
-            "B": "VELOCIDAD APROXIMADA DE TURBULENCIA;",
-            "C": "VELOCIDAD QUE NUNCA SE DEBE EXCEDER. "
-        },
-        {
-            "Pregunta": "363. - CUAL ES LA LIMITACION IMPORTANTE DE VELOCIDAD QUE NO TIENE CODIGO DE COLORES EN EL VELOCIIVCTRO:",
-            "RespuestaCorrecta": "3",
-            "A": "VELOCIDAD QUE NUNCA SE DEBE EXCEDER;",
-            "B": "VELOCIDAD MAXIMA DE CRUCERO;",
-            "C": "VELOCIDAD DE MANIOBRA."
-        },
-        {
-            "Pregunta": "364. - CUAL ES LA ZONA DE PRECAUCION EN UN AVION: (FIG 4AIR SPEED INDICADA).",
-            "RespuestaCorrecta": "3",
-            "A": "O A 60 MPH;",
-            "B": "100 A 165 MPH;",
-            "C": "165 A 208 MPH."
-        },
-        {
-            "Pregunta": "365. - LA MAXIMA VELOCIDAD EN LA CUAL ELAVION PUEDE OPERAR EN UN AIRE NO TURBULENTO ES: (FIG 4AIR SPEED INDICATOR).",
-            "RespuestaCorrecta": "3",
-            "A": "1000 MPH;",
-            "B": "165 MPH;",
-            "C": "208 MPH."
-        },
-        {
-            "Pregunta": "366. - QUE COLOR IDENTIFICA LA VELOCIDAD DE NUNCA EXCEDER, (FIG. 4 AIR SPEED INDICATOR):",
-            "RespuestaCorrecta": "3",
-            "A": "BAJO EL ARCO AMARILLO;",
-            "B": "SOBRE EL LIMITE DEL ARCO BLANCO;",
-            "C": "LA LINEA ROJA. "
-        },
-        {
-            "Pregunta": "367. - QUEL COLOR IDENTIFICA LA VELOCIDAD DE STALL SIN MOTOR EN UNA ESPECIFICADA CONDICION, (FIG 4AIR SPEED INDICATOR):",
-            "RespuestaCorrecta": "2",
-            "A": "SOBRE EL LIMITE DEL ARCO VERDE;",
-            "B": "BAJO EL LIMITE DEL ARCO VERDE;",
-            "C": "SOBRE EL LIMITE DEL ARCO BLANCO."
-        },
-        {
-            "Pregunta": "368. - CUAL ES LA VELOCIDAD MAXIMA DE EXTENDER LOS FLAPS, (FIG. 4 AIR SPEED INDICATOR):",
-            "RespuestaCorrecta": "2",
-            "A": "65 MPH;",
-            "B": "100 MPH;",
-            "C": "165 MPH. "
-        },
-        {
-            "Pregunta": "369. - QUE COLOR IDENTIFICA LA ZONA NORMAL DE OPERACION DE FLAPS, (FIG. 4 AIR SPEED INDICATOR):",
-            "RespuestaCorrecta": "3",
-            "A": "BAJO EL LIMITE DEL ARCO BLANCO Y SOBRE EL LIMITE DEL ARCO VERDE;",
-            "B": "EL ARCO VERDE;",
-            "C": "ELARCO BLANCO. "
-        },
-        {
-            "Pregunta": "370. - QUE COLOR IDENTIFICA LA VELOCIDAD DE STALL SIN MOTOR CON LOS FLAPS ABAJO, EN UNA CONFIGURACION DE ATERRIZAJE, (FIG. 4 AIR SPEED INDICATOR):",
-            "RespuestaCorrecta": "3",
-            "A": "SOBRE EL LIMITE DEL ARCO VERDE;",
-            "B": "SOBRE EL LIMITE DEL ARCO BLANCO;",
-            "C": "BAJO EL LIMITE DEL ARCO BLANCO. "
-        },
-        {
-            "Pregunta": "371. - CUAL ES LA VELOCIDAD MAXIMA DE CRUCERO:",
-            "RespuestaCorrecta": "2",
-            "A": "100 MPH;",
-            "B": "165 MPH;",
-            "C": "208 MPH. "
-        },
-        {
-            "Pregunta": "372. - EL ALTIIVETRO 2 INDICA, (FIG. 3 ALTIIVETRO):",
-            "RespuestaCorrecta": "2",
-            "A": "1500 PIES;",
-            "B": "14500 PIES;",
-            "C": "4600 PIES. "
-        },
-        {
-            "Pregunta": "373. - EL ALTIIVETRO 1 INDICA, (FIG. 3 ALTIIVETRO):",
-            "RespuestaCorrecta": "3",
-            "A": "500 PIES;",
-            "B": "1500 PIES;",
-            "C": "10500 PIES. "
-        },
-        {
-            "Pregunta": "374.- ELALTIMETRO 3 INDICA, (FIG. 3 ALTIMETRO): ",
-            "RespuestaCorrecta": "1",
-            "A": "9500 PIES;",
-            "B": "10950 PIES;",
-            "C": "15940 PIES. "
-        },
-        {
-            "Pregunta": "375. - QUE ES ALTITUD ABSOLUTA:",
-            "RespuestaCorrecta": "2",
-            "A": "LA ALTITUD LEIDA DIRECTAMENTE DEL ALTIMETRO;",
-            "B": "LA DISTANCIA VERTICAL DESDE LA SUPERFICIE HASTA ELAVION;",
-            "C": "LA ALTURA ARRIBA DE UN PLANO STANDARD."
-        },
-        {
-            "Pregunta": "376. - ALTITUD DE DENSIDAD ES:",
-            "RespuestaCorrecta": "2",
-            "A": "LA ALTURA ARRIBA DE UN PLANO STANDAR;",
-            "B": "LA ALTITUD DE PRESION CORREGIDA PARA LA TEMPERATURA NO STANDAR;",
-            "C": "LA ALTITUD LEIDA DIRECTAMENTE DEL ALTIMETRO. "
-        },
-        {
-            "Pregunta": "377. - QUE ES ALTITUD VERDADERA: ",
-            "RespuestaCorrecta": "1",
-            "A": "LADISTANCIAVERTICALDESDE ELAVION SOBRE EL NIVEL DEL MAR;",
-            "B": "LA DISTANCIA VERTICAL DELAVION SOBRE LA SUPERFICIE;",
-            "C": "LA ALTURA SOBRE UN PLANO STANDAR. "
-        },
-        {
-            "Pregunta": "378. - BAJO QUE CONDICION LA ALTITUD DE PRESION Y LA ALTITUD DE DENSIDAD TIENEN EL MISMK) VALOR:",
-            "RespuestaCorrecta": "3",
-            "A": "A NIVEL DEL MAR, CUANDO LA TEMPERATURA ES O G.",
-            "B": "CUANDO ELALTIMETRO NO TIENE ERROR DE INSTALACION;",
-            "C": "A TEMPERATURA STANDAR. "
-        },
-        {
-            "Pregunta": "379. - EN QUE CONDICIONES LA ALTITUD INDICADA ES LA MISMIA QUE LA ALTITUD VERDADERA:",
-            "RespuestaCorrecta": "2",
-            "A": "SI ELALTIMETRO NO TIENE ERROR MECANICO;",
-            "B": "CUANDO ESTA A NIVEL DEL MAR BAJO CONDICIONES STANDAR;",
-            "C": "CUANDO A 18000 PIES MSL CON ELALTIMETRO SELECTADO 29.92 'HG. "
-        },
-        {
-            "Pregunta": "380. - BAJO QUE CONDICIONES LA ALTITUD DE PRESION SERA IGUAL A LA ALTITUD VERDADERA:",
-            "RespuestaCorrecta": "2",
-            "A": "CUANDO LA PRESION ATMOSFERICA ES 29.92 HG;",
-            "B": "CUANDO EXISTEN CONDICIONES ATMOSFERICAS STANDAR;",
-            "C": "CUANDO L---D INDICADA ES IGUAL A LA ALTITUD DE PRESION. "
-        },
-        {
-            "Pregunta": "381. - LA ALTITUD DE PRESION ES:",
-            "RespuestaCorrecta": "2",
-            "A": "U---D INDICADA CORREGIDA POR ERROR DE POSICION E INSTALACION;",
-            "B": "LA ALTITUD INDICADA CUANDO LA PRESION BAROMETRICA ESTA SELECTADA 29,92 HG;",
-            "C": "LA ALTITUD INDICADA CORREGIDA PARA LA TEMPERATURA NO STANDAR. "
-        },
-        {
-            "Pregunta": "382. - SI ES NECESARIO SELECTAR ELALTIMETRO DE 29,15 A 29,85.QUE CAMBIO OCURRE:",
-            "RespuestaCorrecta": "3",
-            "A": "70 PIES DE AUMENTO EN LA ALTITUD INDICADA;",
-            "B": "70 PIES DE AUMENTO EN U---D DE DENSIDAD;",
-            "C": "700 PIES DE AUMENTO EN LA ALTITUD INDICADA."
-        },
-        {
-            "Pregunta": "383. - CUANDO EL PILOTO CAMBIA LA SELECCION DE ALTIMETRO DE 30.11 A 29,96. CUAL ES APROXIMADAMENTE EL CAMBIO EN LA INDICACION:",
-            "RespuestaCorrecta": "3",
-            "A": "ELALTIMETRO INDICARA 15 HG MAYOR",
-            "B": "ELALTIMETRO INDICARA 150 PIES MAS;",
-            "C": "EL ALTIMETRO INDICARA 150 PIES MENOS. "
-        },
-        {
-            "Pregunta": "384. - SI UN VUELO SE REALIZA DESDE UNA AREA DE BAJA PRESION A UNA AREA DE ALTA PRESION SIN SELECTAR EL AJUSTE BAROMETRICO, ELALTIMETRO INDICARA:",
-            "RespuestaCorrecta": "3",
-            "A": "LA ALTITUD ACTUAL SOBRE EL NIVEL DEL MAR;",
-            "B": "MAS QUE LA ALTITUD ACTUAL SOBRE EL NIVEL DEL MAR;",
-            "C": "MENOS QUE LA ALTITUD ACTUAL SOBRE EL NIVEL DEL MAR. "
-        },
-        {
-            "Pregunta": "385. - SI UN VUELO ES REALIZADO DESDE UNAAREA DE ALTA PRESION A UNA AREA DE BAJA PRESION SIN SELECTAR EL AJUSTE BAROMETRICO, ELALTIMETRO INDICARA:",
-            "RespuestaCorrecta": "2",
-            "A": "MENOS QUE LA ALTITUD ACTUAL SOBRE EL NIVEL DEL MAR;",
-            "B": "MAS QUE LA ALTITUD ACTUAL SOBRE EL NIVEL DEL MAR;",
-            "C": "LA ALTITUD ACTUAL SOBRE EL NIVEL DEL MAR. "
-        },
-        {
-            "Pregunta": "386. - QUE CONDICION ES LA CAUSA PARA QUE EL ALTIMETRO INDIQUE UNAALTITUD MENOR QUE LA ALTITUD VERDADERA:",
-            "RespuestaCorrecta": "3",
-            "A": "TEMPERATURA DELAIRE MENOR QUE LA STANDAR;",
-            "B": "PRESrON ATMOSFERICA MENOR QUE LA STANDAR;",
-            "C": "TEMPERATURA DELAIRE MAYOR QUE LA STANDAR. "
-        },
-        {
-            "Pregunta": "387. - BAJO QUE CONDICIONES LA ALTITUD VERDADERA SERA MENOR QUE LA ALTITUD INDICADA: ",
-            "RespuestaCorrecta": "1",
-            "A": "CUANDO LA TEMPERATURA DELAIRE ESTE MAS FRIA QUE LA STANDAR;",
-            "B": "CUANDO LA TEMPERATURA DELAIRE ESTE MAS CAUENTE QUE LA STANDARD;",
-            "C": "CUANDO LA ALTITUD DE DENSIDAD SEA MAYOR QUE LA ALTITUD INDICADA "
-        },
-        {
-            "Pregunta": "388. - COMO LAS VARIACIONES DE TEMPERATURA AFECTAN AL ALTIMETRO: ",
-            "RespuestaCorrecta": "1",
-            "A": "LOS NIVELES DE PRESION AUMENTAN EN DIAS CALUROSOS Y LA ALTITUD INDICADA ES MENOR QUE LA ALTITUD VERDADERA;",
-            "B": "A ALTAS TEMPERATURAS LOS NIVELES DE PRESION SE EXPANDEN Y L---D INDICADA ES MAYOR QUE LA ALTITUD VERDADERA;",
-            "C": "A BAJAS TEMPERATURAS Y BAJOS NIVELES DE PRESION LA ALTITUD INDICADA ES MENOR QUE LA ALTITUD VERDADERA. "
-        },
-        {
-            "Pregunta": "389. - UN AJUSTE APROPIADO EN EL INDICADOR DE ACTITUD (HORIZONTE ARTIFICIAL) DURANTE UN VUELO A NIVEL ES ALINEAR LA: (FIG 7 ATTITUDE INDICATOR).",
-            "RespuestaCorrecta": "3",
-            "A": "BARRA DEL HORIZONTE CON LA INDICACION DE VUELO A NIVEL",
-            "B": "BARRA DEL HORIZONTE CON ELAVION MINIATURA;",
-            "C": "AVION MINIATURA CON LA BARRA DEL HORIZONTE. "
-        },
-        {
-            "Pregunta": "390. - COMIO EL PILOTO DEBERIA DETERMINAR LA DIRECCION DEL BANQUEO EN EL INDICADOR DE ACTITUD (HORIZONTE ARTIFICIAL) TAL COMO ESTA EN LA ILUSTRACION: (FIG. 7 ATTITUDE INDICATOR).",
-            "RespuestaCorrecta": "3",
-            "A": "POR LA DIRECCION DE DEFLECCION EN LA ESCALA DE BANQUEO (A);",
-            "B": "POR LA DIRECCION DE DEFLECCION DE LA BARRA DEL HORIZONTE (B);",
-            "C": "POR LA RELACION DELAVION DE MINIATURA(C). CON LA DEFLECCION DE LA BARRA DEL HORIZONTE. "
-        },
-        {
-            "Pregunta": "391. - EL COORDINADOR DE VIRAJES PROPORCIONA UNA INDICACION: (FIG 5 TURN COORDINATOR). ",
-            "RespuestaCorrecta": "1",
-            "A": "DEL MOVIMIENTO DELAIRE EN LOS EJES VERTICAL Y LONGITUDINAL",
-            "B": "DEL ANGULO DE BANQUEO NO EXCEDE DE 30 G.",
-            "C": "ACTITUD DELAVION CON REFERENCIA AL EJE LONGITUDINAL "
-        },
-        {
-            "Pregunta": "392. - RECIBIR LAS INDICACIONES EXACTAS DURANTE EL VUELO DEL INDICADOR DE RUMBO, EL INSTRUMENTO DEBE SER: (FIG 6 HEADING INDICADOR).",
-            "RespuestaCorrecta": "3",
-            "A": "FIJAR CON PRIORIDAD EL VUELO EN UN RUMBO CONOCIDO;",
-            "B": "CAUBRAR EN UNA CAJA LOS VIENTOS A INTERVALOS REGULARES;",
-            "C": "REAUNEAR PERIODICAMENTE CON UN COMPAS MAGNETICO POR LA PRECESION DEL GIRO. "
-        },
-        {
-            "Pregunta": "393. - UNA INDICACION ANORMAL ALTA DE LA TEMPERATURA DEL ACEITE DEL MOTOR PUEDE SER CAUSADA POR: ",
-            "RespuestaCorrecta": "1",
-            "A": "LA EXISTENCIA DEL NIVEL DE ACEITE DEMASIADO BAJO;",
-            "B": "OPERANCION CON UN ACEITE DE ALTA VISCOSIDAD;",
-            "C": "OPERANCION CON UNA EXCESIVA MEZCLA RICA"
-        },
-        {
-            "Pregunta": "394- UNA ALZA EXCESIVA DE LA TEMPERATURA EN EL MOTOR CAUSA:",
-            "RespuestaCorrecta": "2",
-            "A": "DAÑOS POR CALOR EN LOS CONDUCTOS MEDIOS Y A LA VEZ DE LOS CIUNDROS DE ENFRIAMIENTO DE ALETAS;",
-            "B": "PERDIDA DE POTENCIA. EXCESIVO CONSUMO DE ACEITE Y UN POSIBLE DAÑO PERMANENTE EN ELINTERIOR DELMOTOR;",
-            "C": "UN EFECTO NO APRECIABLE EN EL MOTOR DELAVION. "
-        },
-        {
-            "Pregunta": "395. - EL ENFRIAIVIENTO INTERNO EN LOS MOTORES RECIPROCOS DE LOS AVIONES, DEPENDE ESPECIFICAR/ENTE DE:",
-            "RespuestaCorrecta": "3",
-            "A": "LA FUNCION PROPIA DEL TERMOSTATO;",
-            "B": "EL FLUJO DELAIRE SOBRE EL ESCAPE DEL MULTIPLE;",
-            "C": "LA CIRCULACION DEL ACEITE LUBRICANTE. "
-        },
-        {
-            "Pregunta": "396. - QUE ACCION DEBE TOMAR EL PILOTO COMO AYUDA EN EL ENFRIAIVIENTO DEL MOTOR QUE ESTACON SOBRE TEIVPERATURA DURANTE EL ASCENSO:",
-            "RespuestaCorrecta": "1",
-            "A": "REDUCIR LA RATA DELASCENSO Y AUMENTAR LA VELOCIDAD;",
-            "B": "REDUCIR LA VELOCIDAD DE ASCENSO Y AUMENTAR LAS RPM;",
-            "C": "AUMENTAR LA VELOCIDAD DE ASCENSO Y AUMENTAR LAS RPM. "
-        },
-        {
-            "Pregunta": "397. - QUE PROCEDIMENTO AYUDARIA EN EL ENFRIAIVIENTO DE UN MOTOR QUE ESTA CON SOBRE TEIVPERATURA: ",
-            "RespuestaCorrecta": "1",
-            "A": "ENRIQUECER LA MEZCLA DEL COMBUSTIBLE;",
-            "B": "AUMENTAR LAS RPM;",
-            "C": "REDUCIR LA VELOCIDAD;",
-            "D": "AUMENTAR LA VELOCIDAD. "
-        },
-        {
-            "Pregunta": "398. - UNA PRECAUCION PARA LA OPERACION DE UN MOTOR EQUIPADO CON UNA HELICE DE VELOCIDAD CONSTANTE ES:",
-            "RespuestaCorrecta": "2",
-            "A": "EVITAR SELECTAR ALTAS RPM CON ALTA PRESION DE ADMISION;",
-            "B": "EVITAR SELECTAR ALTA PRESION DE ADMISION CON BAJAS RPM;",
-            "C": "SIEMPRE USAR MESCLA RICA CON SELECCION DE ALTAS RPM. "
-        },
-        {
-            "Pregunta": "399. - CUAL ES LA VENTAJA DE UNA HELICE CON VELOCIDAD CONSTANTE: ",
-            "RespuestaCorrecta": "1",
-            "A": "PERMITIR AL PILOTO SELECTAR Y MANTENER UNA VELOCIDAD DE CRUCERO DESEADA;",
-            "B": "PERMITIR AL PILOTO SELECTAR ELANGULO DE LAS PALAS DE LAHELICE PARA EL MAS EFICIENTE RENDIMIENTO;",
-            "C": "PROPORCIONAR UNA OPERACION SUAVE CON RPM ESTABLES Y EÜMINAR VIBRACIONES. "
-        },
-        {
-            "Pregunta": "400. - EL PROPOSITO DE UN SISTEMA DOBLE DE ENCENDIDO EN EL MOTOR DE UN AVION ES PROPORCIONAR EL/LA: ",
-            "RespuestaCorrecta": "1",
-            "A": "MEJORAMIENTO DEL RENDIMIENTO DEL MOTOR;",
-            "B": "DISTRIBUCION UNIFORME DEL CALOR;",
-            "C": "BALANCEAR LA PRESION EN LA CABEZA DE LOS CILINDROS"
-        },
-        {
-            "Pregunta": "401. - QUE CONDICION ES LA MAS FAVORABLE PARA DESARROLLAR LA FORMACION DE HILO EN EL CARBURADOR:",
-            "RespuestaCorrecta": "3",
-            "A": "UNA TEMPERATURA DEBAJO DEL ENGELAMIENTO Y UNA HUMEDAD RELATIVA MENOR QUE EL 50%;",
-            "B": "TEMPERATURA ENTRE 32 Y50 G.'F Y BAJA HUMEDAD: ",
-            "C": "TEMPERATURA ENTRE 20 Y70 G. °F Y ALTA HUMEDAD"
-        },
-        {
-            "Pregunta": "402. - LA POSIBILIDAD DE FORMACION DE HILO EN EL CARBURADOR EXISTE AUN CUANDO LA TEIVPERATURA DEL AIRE DELHAMBIENTE ES: ",
-            "RespuestaCorrecta": "1",
-            "A": "MAYOR QUE 70 G. °F Y LA HUMEDAD RELATIVA ES ALTA:",
-            "B": "MAYOR DE 95 G. «F Y EXISTE UNA HUMEDAD VISIBLE;",
-            "C": "MENOS DE O G.'F Y UV HUMEDAD RELATIVA ES ALTA "
-        },
-        {
-            "Pregunta": "403. - EL USO DEL CALENTADOR DEL CARBURADOR TIENDE A: ",
-            "RespuestaCorrecta": "1",
-            "A": "DISMINUIR EL RENDIMIENTO DELMOTOR;",
-            "B": "AUMENTAR EL REDIMIENTO DEL MOTOR;",
-            "C": "NO TIENE EFECTO EN EL RENDIMIENTO DEL MOTOR. "
-        },
-        {
-            "Pregunta": "404. - QUE CAIVBIO OCURRE EN LA WEZCLA AIRE COMBUSTIBLE, CUANDO EL CALENTADOR TIENDE A:",
-            "RespuestaCorrecta": "2",
-            "A": "UNA DISMINUCION EN LAS RPM RESULTADO DE MEZCU---;",
-            "B": "lA MEZCLA AIRE COMBUSTIBLE SE VUELVE RICA;",
-            "C": "ÍA MEZCLA AIRE COMBUSTIBLE SE VUELVE POBRE. "
-        },
-        {
-            "Pregunta": "405. - EL PROPOSITO BASICO DE AJUSTAR LA MEZCLA AIRE COlVBUSTIBLE EN ALTITUD ES:",
-            "RespuestaCorrecta": "2",
-            "A": "DISMINUIR lA CANTIDAD DE COMBUSTIBLE EN lA MEZCLA EN COMPENSACION POR EL AUMENTO DE LA DENSIDAD DELAIRE;",
-            "B": "DISMINUIR ELFLUJO DE COMBUSTIBLE EN COMPENSACION POR LA DISMINUCION DE LA DENSIDAD DELAIRE;",
-            "C": "AUMENTAR LA CANTIDAD DE COMBUSTIBLE EN LA MEZCLA EN COMPENSACION POR LA DISMINUCION EN LA PRESION Y DENSIDAD DE AIRE. "
-        },
-        {
-            "Pregunta": "406. - MIENTRAS SE CRUZA 9500 PIES MSL, LA MEZCLA AIRE COMBUSTIBLE FUE APROPIADAMENTE AJUSTADA. QUE OCURRIRA SI DESCENDEMOS A 4500 PIES MSL Y NO SE REAJUSTA LA MEZCLA",
-            "RespuestaCorrecta": "1",
-            "A": "U---MEZCU---AIRE COMBUSTIBLE PUEDE VOLVERSE EXCESIVAMENTE POBRE;",
-            "B": "HABRA MAS COMBUSTIBLE EN LOS CILINDROS QUE EL NECESARIO PARA UNA NORMAL COMBUSTION Y EL EXCESO DE COMBUSTIBLE. SERA ABSORBIDOM POR EL CALOR Y FRIO DEL MOTOR;",
-            "C": "LA EXCESIVA MEZCLA RICA GENERARA MAYOR TEMPERATURA EN LA CABEZA DE LOS CILINDROS Y PUEDE CAUSAR DETONACION. "
-        },
-        {
-            "Pregunta": "407. - SI EL PILOTO SOSPECHA QUE EL MOTOR (CON HELICE DE PASO FIJO) ESTA DETONANDO DURANTE EL ASCESO DESPUES DEL DESPEQUE, LA ACCION CORRECTIVA INICIAL A TOMAR DEBERIA SER:",
-            "RespuestaCorrecta": "2",
-            "A": "AUMENTAR LA MEZCLA;",
-            "B": "BAJAR LA NARIZ LIGERAMENTE PARA AUMENTAR LA VELOCIDAD;",
-            "C": "APLICAR EL CALENTADOR DEL CARBURADOR. "
-        },
-        {
-            "Pregunta": "408. - SI EL OCTANAJE DEL COMBUSTIBLE USADO EN EL MOTOR DEL AVION ES MENOR QUE EL ESPECIFICADO PARA EL MOTOR, SERA LA MIAS PROBABLE CAUSA DE:",
-            "RespuestaCorrecta": "3",
-            "A": "LA MEZCLA. DEL COMBUSTIBLE Y EL AIRE NO SEA UNIFORME EN TODOS LOS CIUNDROS;",
-            "B": "MENOR TEMPERATURA EN LA CABEZA DE LOS CILINDROS;",
-            "C": "DETONACION. "
-        },
-        {
-            "Pregunta": "409. - QUE TIPO DE COMBUSTIBLE PUEDE SUSTITUIR AL USADO EN EL AVION, SI EL OCTANAJE RECOMENDADO NO HAY DISPONIBLE: ",
-            "RespuestaCorrecta": "1",
-            "A": "COMBUSTIBLE DE AVIACION DEL OCTANAJE MAYOR;",
-            "B": "COMBUSTIBLE DE AVIACION DE OCTANAJE MENOR;",
-            "C": "REEMPLAZAR CON EL COMBUSTIBLE DE AUTOMOTORES DEL MISMO OCTANAJE. "
-        },
-        {
-            "Pregunta": "410. - AL APLICAR EL CALENTADOR DE CARBURADOR:",
-            "RespuestaCorrecta": "3",
-            "A": "RESULTA EN MAYOR PASO COMPLETO DE AIRE AL CARBURADOR;",
-            "B": "U---A AIRE COMBUSTIBLE SEA RICA ",
-            "C": "NO AFECTA A MEZCLA AIRE COMBUSTIBLE."
-        },
-        {
-            "Pregunta": "411. - LLENAR LOS TANQUES DESPUES DEL ULTIMO VUELO DEL DIA ES CONSIDERADO UN BUEN PROCEDIMIENTO DE OPERACION, PORQUE:",
-            "RespuestaCorrecta": "3",
-            "A": "LA FUERZA EXISTENTE EN EL AGUA PERMITE QUE VAYA A U---E SUPERIOR DEL TANQUE EVITANDO QUE INGRESE COMBUSTIBLE;",
-            "B": "PREVIENE UK EXPANSION DEL COMBUSTIBLE POR ELIMINACION DE LOS ESPACIOS DELAIRE EN • LOS TANQUES;",
-            "C": "PREVIENE LA CONDESACION DE LA HUMEDAD POR ELIMINACION DE LOS ESPACIOS DE AIRE EN LOS TANQUES. "
-        },
-        {
-            "Pregunta": "412. - CUAL PODRIA SER LA PROBABLE CAUSA PARA QUE LAS AGUJAS INDICADORAS DE LA TEIVPERATURA DE LAS CABEZAS DE LOS CILINDROS Y LA TEMPERATURA DEL ACEITE DEL MOTOR EXCEDAN SU RANGO NORMAL DE OPERACION: ",
-            "RespuestaCorrecta": "1",
-            "A": "USAR COMBUSTIBLE QUE TIENE UN OCTANAJE MENOR QUE EL ESPECIFICADO;",
-            "B": "USAR COMBUSTIBLE QUE TIENE UN OCTANAJE MAYOR QUE EL ESPECIFICADO;",
-            "C": "OPERACION CON UNA PRESION DE ACEITE MAYOR QUE LA NORMAL "
-        }
-    ]
+			"Pregunta": "356.- durante el vuelo, cuando las condiciones del compás magnético son exactas: ",
+			"RespuestaCorrecta": "1",
+			"A": "solamente en un vuelo desacelerando en recto y nivelado;",
+			"B": "tan pronto como la velocidad es constante;",
+			"C": "durante los virajes si el banqueo no excede de 18 G. "
+		},
+		{
+			"Pregunta": "357.- la desviación en el compás magnético es causada por la:",
+			"RespuestaCorrecta": "3",
+			"A": "presencia de grietas en los magnetos permanentes del compás;",
+			"B": "diferencia de localización entre el norte verdadero y norte magnético;",
+			"C": "carga en los compas magnéticos dentro del avión distorsionando las líneas de la fuerza magnética "
+		},
+		{
+			"Pregunta": "358.- que instrumentos reciben presión de impacto del sistema pilot:",
+			"RespuestaCorrecta": "3",
+			"A": "altímetro;",
+			"B": "climb;",
+			"C": "velocímetro. "
+		},
+		{
+			"Pregunta": "359.- que instrumentos no funcionan si el sistema pilot esta obstruido:",
+			"RespuestaCorrecta": "3",
+			"A": "altímetro;",
+			"B": "climb;",
+			"C": "velocímetro. "
+		},
+		{
+			"Pregunta": "360.- si el tubo pilot y las tomas estáticas están obstruidas, cuales instrumentos estarían afectados:",
+			"RespuestaCorrecta": "2",
+			"A": "altímetro, velocímetro y palo/bola;",
+			"B": "altímetro, velocímetro y climb;",
+			"C": "altímetro, horizonte artificial y palo/bola."
+		},
+		{
+			"Pregunta": "361.- que instrumentos estarán inoperativos si las tomas estáticas están obstruidas:",
+			"RespuestaCorrecta": "3",
+			"A": "velocímetro solamente;",
+			"B": "altímetro solamente;",
+			"C": "velocímetro, altímetro y climb."
+		},
+		{
+			"Pregunta": "362.- que representa la línea roja del velocímetro:",
+			"RespuestaCorrecta": "3",
+			"A": "velocidad de maniobra;",
+			"B": "velocidad aproximada de turbulencia;",
+			"C": "velocidad que nunca se debe exceder. "
+		},
+		{
+			"Pregunta": "363.- cual es la limitación importante de velocidad que no tiene código de colores en el velocímetro:",
+			"RespuestaCorrecta": "3",
+			"A": "velocidad que nunca se debe exceder;",
+			"B": "velocidad máxima de crucero;",
+			"C": "velocidad de maniobra."
+		},
+		{
+			"Pregunta": "364.- cual es la zona de precaución en un avión: (fig. 4 air speed indicator).",
+			"RespuestaCorrecta": "3",
+			"A": "0 a 60 mph;",
+			"B": "100 a 165 mph;",
+			"C": "165 a 208 mph.",
+			"figura": "f4.png"
+		},
+		{
+			"Pregunta": "365.- la máxima velocidad en la cual el avión puede operar en un aire no turbulento es: (fig. 4 air speed indicator).",
+			"RespuestaCorrecta": "3",
+			"A": "1000 mph;",
+			"B": "165 mph;",
+			"C": "208 mph."
+		},
+		{
+			"Pregunta": "366.- qué color identifica la velocidad de nunca exceder, (fig. 4 air speed indicator):",
+			"RespuestaCorrecta": "3",
+			"A": "bajo el arco amarillo;",
+			"B": "sobre el límite del arco blanco;",
+			"C": "la línea roja. ",
+			"figura": "f4.png"
+		},
+		{
+			"Pregunta": "367.- qué color identifica la velocidad de stall sin motor en una específica condición, (fig. 4 air speed indicator):",
+			"RespuestaCorrecta": "2",
+			"A": "sobre el límite del arco verde;",
+			"B": "bajo el límite del arco verde;",
+			"C": "sobre el límite del arco blanco.",
+			"figura": "f4.png"
+		},
+		{
+			"Pregunta": "368.- cual es la velocidad máxima de extender los flaps, (fig. 4 air speed indicator):",
+			"RespuestaCorrecta": "2",
+			"A": "65 mph;",
+			"B": "100 mph;",
+			"C": "165 mph. ",
+			"figura": "f4.png"
+		},
+		{
+			"Pregunta": "369.- qué color identifica la zona normal de operación de flaps, (fig. 4 air speed indicator):",
+			"RespuestaCorrecta": "3",
+			"A": "bajo el límite del arco blanco y sobre el límite del arco verde;",
+			"B": "el arco verde;",
+			"C": "el arco blanco. ",
+			"figura": "f4.png"
+		},
+		{
+			"Pregunta": "370.- qué color identifica la velocidad de stall sin motor con los flaps abajo, en una configuración de aterrizaje, (fig. 4 air speed indicator):",
+			"RespuestaCorrecta": "3",
+			"A": "sobre el límite del arco verde;",
+			"B": "sobre el límite del arco blanco;",
+			"C": "bajo el límite del arco blanco. ",
+			"figura": "f4.png"
+		},
+		{
+			"Pregunta": "371.- cual es la velocidad máxima de crucero:",
+			"RespuestaCorrecta": "2",
+			"A": "100 mph;",
+			"B": "165 mph;",
+			"C": "208 mph. "
+		},
+		{
+			"Pregunta": "372.- el altímetro 2 indica, (fig. 3 altímetro):",
+			"RespuestaCorrecta": "2",
+			"A": "1500 pies;",
+			"B": "14500 pies;",
+			"C": "4600 pies. ",
+			"figura": "f3.png"
+		},
+		{
+			"Pregunta": "373.- el altímetro 1 indica, (fig. 3 altímetro):",
+			"RespuestaCorrecta": "3",
+			"A": "500 pies;",
+			"B": "1500 pies;",
+			"C": "10500 pies. ",
+			"figura": "f3.png"
+		},
+		{
+			"Pregunta": "374.- el altímetro 3 indica, (fig. 3 altímetro): ",
+			"RespuestaCorrecta": "1",
+			"A": "9500 pies;",
+			"B": "10950 pies;",
+			"C": "15940 pies. ",
+			"figura": "f3.png"
+		},
+		{
+			"Pregunta": "375.- que es altitud absoluta:",
+			"RespuestaCorrecta": "2",
+			"A": "la altitud leída directamente del altímetro;",
+			"B": "la distancia vertical desde la superficie hasta el avión;",
+			"C": "la altura arriba de un plano standard."
+		},
+		{
+			"Pregunta": "376.- altitud de densidad es:",
+			"RespuestaCorrecta": "2",
+			"A": "la altura arriba de un plano estándar;",
+			"B": "la altitud de presión corregida para la temperatura no estándar;",
+			"C": "la altitud leída directamente del altímetro. "
+		},
+		{
+			"Pregunta": "377.- que es altitud verdadera: ",
+			"RespuestaCorrecta": "1",
+			"A": "la distancia vertical desde el avión sobre el nivel del mar;",
+			"B": "la distancia vertical del avión sobre la superficie;",
+			"C": "la altura sobre un plano estándar. "
+		},
+		{
+			"Pregunta": "378.- bajo que condición la altitud de presión y la altitud de densidad tienen el mismo valor:",
+			"RespuestaCorrecta": "3",
+			"A": "a nivel del mar, cuando la temperatura es 0 grados.",
+			"B": "cuando el altímetro no tiene error de instalación;",
+			"C": "a temperatura estándar. "
+		},
+		{
+			"Pregunta": "379.- en qué condiciones la altitud indicada es la misma que la altitud verdadera:",
+			"RespuestaCorrecta": "2",
+			"A": "si el altímetro no tiene error mecánico;",
+			"B": "cuando está a nivel del mar bajo condiciones estándar;",
+			"C": "cuando a 18000 pies MSL con el altímetro selectado 29.92 pulgadas de hg. "
+		},
+		{
+			"Pregunta": "380.- bajo qué condiciones la altitud de presión será igual a la altitud verdadera:",
+			"RespuestaCorrecta": "2",
+			"A": "cuando la presión atmosférica es 29.92 hg;",
+			"B": "cuando existen condiciones atmosféricas estándar;",
+			"C": "cuando la altitud indicada es igual a la altitud de presión. "
+		},
+		{
+			"Pregunta": "381.- la altitud de presión es:",
+			"RespuestaCorrecta": "2",
+			"A": "la altitud indicada corregida por error de posición e instalación;",
+			"B": "la altitud indicada cuando la presión barométrica esta selectada 29,92 hg;",
+			"C": "la altitud indicada corregida para la temperatura no estándar. "
+		},
+		{
+			"Pregunta": "382.- si es necesario selectar el altímetro de 29,15 a 29,85. que cambio ocurre:",
+			"RespuestaCorrecta": "3",
+			"A": "70 pies de aumento en la altitud indicada;",
+			"B": "70 pies de aumento en la altitud de densidad;",
+			"C": "700 pies de aumento en la altitud indicada."
+		},
+		{
+			"Pregunta": "383.- cuando el piloto cambia la selección de altímetro de 30.11 a 29,96. cual es aproximadamente el cambio en la indicación:",
+			"RespuestaCorrecta": "3",
+			"A": "el altímetro indicara 15 hg mayor",
+			"B": "el altímetro indicara 150 pies más;",
+			"C": "el altímetro indicara 150 pies menos. "
+		},
+		{
+			"Pregunta": "384.- si un vuelo se realiza desde una área de baja presión a una área de alta presión sin selectar el ajuste barométrico, el altímetro indicara:",
+			"RespuestaCorrecta": "3",
+			"A": "la altitud actual sobre el nivel del mar;",
+			"B": "más que la altitud actual sobre el nivel del mar;",
+			"C": "menos que la altitud actual sobre el nivel del mar. "
+		},
+		{
+			"Pregunta": "385.- si un vuelo es realizado desde un área de alta presión a un área de baja presión sin selectar el ajuste barométrico, el altímetro indicara:",
+			"RespuestaCorrecta": "2",
+			"A": "menos que la altitud actual sobre el nivel del mar;",
+			"B": "más que la altitud actual sobre el nivel del mar;",
+			"C": "la altitud actual sobre el nivel del mar. "
+		},
+		{
+			"Pregunta": "386.- que condición es la causa para que el altímetro indique una altitud menor que la altitud verdadera:",
+			"RespuestaCorrecta": "3",
+			"A": "temperatura del aire menor que la estándar;",
+			"B": "presión atmosférica menor que la estándar;",
+			"C": "temperatura del aire mayor que la estándar. "
+		},
+		{
+			"Pregunta": "387.- bajo qué condiciones la altitud verdadera será menor que la altitud indicada: ",
+			"RespuestaCorrecta": "1",
+			"A": "cuando la temperatura del aire este más fría que la estándar;",
+			"B": "cuando la temperatura del aire este más caliente que la standard;",
+			"C": "cuando la altitud de densidad sea mayor que la altitud indicada"
+		},
+		{
+			"Pregunta": "388.- como las variaciones de temperatura afectan al altímetro: ",
+			"RespuestaCorrecta": "1",
+			"A": "los niveles de presión aumentan en días calurosos y la altitud indicada es menor que la altitud verdadera;",
+			"B": "a altas temperaturas los niveles de presión se expanden y la altitud indicada es mayor que la altitud verdadera;",
+			"C": "a bajas temperaturas y bajos niveles de presión la altitud indicada es menor que la altitud verdadera. "
+		},
+		{
+			"Pregunta": "389.- un ajuste apropiado en el indicador de actitud (horizonte artificial) durante un vuelo a nivel es alinear la: (fig. 7 attitude indicator).",
+			"RespuestaCorrecta": "3",
+			"A": "barra del horizonte con la indicación de vuelo a nivel",
+			"B": "barra del horizonte con el avión miniatura;",
+			"C": "avión miniatura con la barra del horizonte. ",
+			"figura": "f7.png"
+		},
+		{
+			"Pregunta": "390.- como el piloto debería determinar la dirección del banqueo en el indicador de actitud (horizonte artificial) tal como está en la ilustración: (fig. 7 attitude indicator).",
+			"RespuestaCorrecta": "3",
+			"A": "por la dirección de defleccion en la escala de banqueo (a);",
+			"B": "por la dirección de defleccion de la barra del horizonte (b);",
+			"C": "por la relación del avión de miniatura (c). con la defleccion de la barra del horizonte. "
+		},
+		{
+			"Pregunta": "391.- el coordinador de virajes proporciona una indicación: (fig. 5 turn coordinator). ",
+			"RespuestaCorrecta": "1",
+			"A": "del movimiento del aire en los ejes vertical y longitudinal",
+			"B": "del Angulo de banqueo no excede de 30 G.",
+			"C": "actitud del avión con referencia al eje longitudinal ",
+			"figura": "f5.png"
+		},
+		{
+			"Pregunta": "392.- recibir las indicaciones exactas durante el vuelo del indicador de rumbo, el instrumento debe ser: (fig. 6 heading indicador).",
+			"RespuestaCorrecta": "3",
+			"A": "fijar con prioridad el vuelo en un rumbo conocido;",
+			"B": "calibrar en una caja los vientos a intervalos regulares;",
+			"C": "realinear periódicamente con un compás magnético por la precesión del giro. ",
+			"figura": "f6.png"
+		},
+		{
+			"Pregunta": "393.- una indicación anormal alta de la temperatura del aceite del motor puede ser causada por: ",
+			"RespuestaCorrecta": "1",
+			"A": "la existencia del nivel de aceite demasiado bajo;",
+			"B": "operación con un aceite de alta viscosidad;",
+			"C": "operación con una excesiva mezcla rica"
+		},
+		{
+			"Pregunta": "394- una alza excesiva de la temperatura en el motor causa:",
+			"RespuestaCorrecta": "2",
+			"A": "daños por calor en los conductos medios y a la vez de los cilindros de enfriamiento de aletas;",
+			"B": "perdida de potencia. excesivo consumo de aceite y un posible daño permanente en el interior del motor;",
+			"C": "un efecto no apreciable en el motor del avión. "
+		},
+		{
+			"Pregunta": "395.- el enfriamiento interno en los motores recíprocos de los aviones, depende específicamente de:",
+			"RespuestaCorrecta": "3",
+			"A": "la función propia del termostato;",
+			"B": "el flujo del aire sobre el escape del múltiple;",
+			"C": "la circulación del aceite lubricante. "
+		},
+		{
+			"Pregunta": "396.- que accion debe tomar el piloto como ayuda en el enfriamiento del motor que esta con sobre temperatura durante el ascenso:",
+			"RespuestaCorrecta": "1",
+			"A": "reducir la rata del ascenso y aumentar la velocidad;",
+			"B": "reducir la velocidad de ascenso y aumentar las rpm;",
+			"C": "aumentar la velocidad de ascenso y aumentar las rpm. "
+		},
+		{
+			"Pregunta": "397.- que procedimiento ayudaría en el enfriamiento de un motor que esta con sobre temperatura: ",
+			"RespuestaCorrecta": "1",
+			"A": "enriquecer la mezcla del combustible;",
+			"B": "aumentar las rpm;",
+			"C": "reducir la velocidad;",
+			"D": "aumentar la velocidad. "
+		},
+		{
+			"Pregunta": "398.- una precaución para la operación de un motor equipado con una hélice de velocidad constante es:",
+			"RespuestaCorrecta": "2",
+			"A": "evitar selectar altas rpm con alta presión de admisión;",
+			"B": "evitar selectar alta presión de admisión con bajas rpm;",
+			"C": "siempre usar mescla rica con selección de altas rpm. "
+		},
+		{
+			"Pregunta": "399.- cual es la ventaja de una hélice con velocidad constante: ",
+			"RespuestaCorrecta": "1",
+			"A": "permitir al piloto selectar y mantener una velocidad de crucero deseada;",
+			"B": "permitir al piloto selectar el Angulo de las palas de la hélice para el más eficiente rendimiento;",
+			"C": "proporcionar una operación suave con rpm estables y eliminar vibraciones. "
+		},
+		{
+			"Pregunta": "400.- el propósito de un sistema doble de encendido en el motor de un avión es proporcionar el/la: ",
+			"RespuestaCorrecta": "1",
+			"A": "mejoramiento del rendimiento del motor;",
+			"B": "distribución uniforme del calor;",
+			"C": "balancear la presión en la cabeza de los cilindros"
+		},
+		{
+			"Pregunta": "401.- que condición es la más favorable para desarrollar la formación de hilo en el carburador:",
+			"RespuestaCorrecta": "3",
+			"A": "una temperatura debajo del engelamiento y una humedad relativa menor que el 50%;",
+			"B": "temperatura entre 32 y 50 ºF y baja humedad: ",
+			"C": "temperatura entre 20 y 70  ºF y alta humedad"
+		},
+		{
+			"Pregunta": "402.- la posibilidad de formación de hielo en el carburador existe aun cuando la temperatura del aire del ambiente es: ",
+			"RespuestaCorrecta": "1",
+			"A": "mayor que 70 G. ºF y la humedad relativa es alta:",
+			"B": "mayor de 95 G. ºF y existe una humedad visible;",
+			"C": "menos de o G. ºF la humedad relativa es alta"
+		},
+		{
+			"Pregunta": "403.- el uso del calentador del carburador tiende a: ",
+			"RespuestaCorrecta": "1",
+			"A": "disminuir el rendimiento del motor;",
+			"B": "aumentar el rendimiento del motor;",
+			"C": "no tiene efecto en el rendimiento del motor. "
+		},
+		{
+			"Pregunta": "404.- que cambio ocurre en la mezcla aire combustible, cuando el calentador tiende a:",
+			"RespuestaCorrecta": "2",
+			"A": "una disminución en las rpm resultado de mezcla pobre",
+			"B": "la mezcla aire combustible se vuelve rica",
+			"C": "la mezcla aire combustible se vuelve pobre"
+		},
+		{
+			"Pregunta": "405.- el propósito básico de ajustar la mezcla aire combustible en altitud es:",
+			"RespuestaCorrecta": "2",
+			"A": "disminuir la cantidad de combustible en la mezcla en compensación por el aumento de la densidad del aire;",
+			"B": "disminuir el flujo de combustible en compensación por la disminución de la densidad del aire;",
+			"C": "aumentar la cantidad de combustible en la mezcla en compensación por la disminución en la presión y densidad de aire. "
+		},
+		{
+			"Pregunta": "406.- mientras se cruza 9500 pies MSL, la mezcla aire combustible fue apropiadamente ajustada. que ocurrirá si descendemos a 4500 pies MSL y no se reajusta la mezcla",
+			"RespuestaCorrecta": "1",
+			"A": "la mezcla aire combustible puede volverse excesivamente pobre;",
+			"B": "habrá mas combustible en los cilindros que el necesario para una normal combustión y el exceso de combustible será absorbido por el calor y frio del motor;",
+			"C": "la excesiva mezcla rica generara mayor temperatura en la cabeza de los cilindros y puede causar detonación. "
+		},
+		{
+			"Pregunta": "407.- si el piloto sospecha que el motor (con hélice de paso fijo) esta detonando durante el ascenso después del despegue, la accion correctiva inicial a tomar debería ser:",
+			"RespuestaCorrecta": "2",
+			"A": "aumentar la mezcla;",
+			"B": "bajar la nariz ligeramente para aumentar la velocidad;",
+			"C": "aplicar el calentador del carburador. "
+		},
+		{
+			"Pregunta": "408.- si el octanaje del combustible usado en el motor del avión es menor que el especificado para el motor, será la más probable causa de:",
+			"RespuestaCorrecta": "3",
+			"A": "la mezcla. del combustible y el aire no sea uniforme en todos los cilindros;",
+			"B": "menor temperatura en la cabeza de los cilindros;",
+			"C": "detonación. "
+		},
+		{
+			"Pregunta": "409.- qué tipo de combustible puede sustituir al usado en el avión, si el octanaje recomendado no hay disponible: ",
+			"RespuestaCorrecta": "1",
+			"A": "combustible de aviación del octanaje mayor;",
+			"B": "combustible de aviación de octanaje menor;",
+			"C": "reemplazar con el combustible de automotores del mismo octanaje. "
+		},
+		{
+			"Pregunta": "410.- al aplicar el calentador de carburador:",
+			"RespuestaCorrecta": "3",
+			"A": "resulta en mayor paso completo de aire al carburador;",
+			"B": "la mezcla aire combustible sea rica ",
+			"C": "no afecta la mezcla aire combustible."
+		},
+		{
+			"Pregunta": "411.- llenar los tanques después del último vuelo del día es considerado un buen procedimiento de operación, porque:",
+			"RespuestaCorrecta": "3",
+			"A": "la fuerza existente en el agua permite que vaya a la parte superior del tanque evitando que ingrese combustible;",
+			"B": "previene la expansión del combustible por eliminación de los espacios del aire en los tanques;",
+			"C": "previene la condensación de la humedad por eliminación de los espacios de aire en los tanques. "
+		},
+		{
+			"Pregunta": "412.- cual podría ser la probable causa para que las agujas indicadoras de la temperatura de las cabezas de los cilindros y la temperatura del aceite del motor excedan su rango normal de operación: ",
+			"RespuestaCorrecta": "1",
+			"A": "usar combustible que tiene un octanaje menor que el especificado;",
+			"B": "usar combustible que tiene un octanaje mayor que el especificado;",
+			"C": "operación con una presión de aceite mayor que la normal"
+		}
+	]

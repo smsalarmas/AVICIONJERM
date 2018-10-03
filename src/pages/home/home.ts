@@ -17,11 +17,13 @@ export class HomePage {
   public navController: NavController
   pages: Array<{title: string, component: any}>;
   public TopBlack: string;
+  public Myplataforma: Boolean  = false;
   constructor(public navCtrl: NavController, public plt: Platform) {
     this.YourFancyButton = CarrerasPage;
     if (this.plt.is('ios')) {
       // This will only print when on iOS
       console.log('I am an iOS device!');
+      this.Myplataforma= true;
       this.TopBlack = "<BR/>";
     }else{
       this.TopBlack = "";

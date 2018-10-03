@@ -15,6 +15,8 @@ import { CarrerasPage } from '../pages/carreras/carreras';
 import { MateriasPage } from '../pages/materias/materias';
 import { PreguntasPage } from '../pages/preguntas/preguntas';
 import { ResultadoPage } from '../pages/resultado/resultado';
+
+//Service 
 import { JermSoftProvider } from '../providers/jerm-soft/jerm-soft';
 
 
