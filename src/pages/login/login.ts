@@ -1,7 +1,9 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { Storage } from '@ionic/storage';
-import { HttpClient } from '../../../node_modules/@angular/common/http';
+import { HttpClient  } from '@angular/common/http';
+
+//import {  RequestOptions,  Request } from '@angular/http';
 import { Observable } from '../../../node_modules/rxjs/Observable'; 
 /**
  * Generated class for the LoginPage page.
@@ -71,7 +73,25 @@ export class LoginPage {
 
   ChequeoSerial(){
     let data:Observable<any>;
-    console.log(this.userData.Serial);    
+    console.log(this.userData.Serial);  
+
+    /*let headers = new HttpHeaders();
+    headers.append('Content-Type', 'application/x-www-form-urlencoded');
+    headers.append("Access-Control-Allow-Origin", "*");
+ 
+    let options = new RequestOptions({ headers: headers });
+    //nombre=jhon&email=jhon&whatsapp=0&serial=469-f2288&idEscuela=1
+    return this.http.post('https://gps.soluseguridad.com/ssl/CheckSerialPOST.php',
+       "nombre=" + encodeURIComponent(this.userData.firstName) +
+       "&email=" + encodeURIComponent(this.userData.Email)+
+       "&serial=" + encodeURIComponent(this.userData.Serial)+
+       "&whatsapp=" + encodeURIComponent(this.userData.WhatsApp)+
+       "&idEscuela=1" 
+       , options)
+         .map(response => {
+           console.log(response.json());
+           return response
+          }
 
     data = this.http.get('/assets/json/lic.json');    
       data.subscribe(result => {        
@@ -92,9 +112,9 @@ export class LoginPage {
           }
         }
         console.log(JSON.stringify(result));
-      })
+      })*/
 
-    /*let URL: string  = `https://gps.soluseguridad.com/ssl/CheckSerial3.php?nombre=${ this.userData.firstName }&email=${this.userData.Email}&whatsapp=${this.userData.WhatsApp}&serial=${this.userData.Serial}&idEscuela=1`;
+    let URL: string  = `http://173.254.242.208/ssl/CheckSerial3.php?nombre=${ this.userData.firstName }&email=${this.userData.Email}&whatsapp=${this.userData.WhatsApp}&serial=${this.userData.Serial}&idEscuela=1`;
     //https://gps.soluseguridad.com/avl/movil/CheckSerial.php?nombre=jhon&email=jhon&whatsapp=0&serial=469-f2288&idEscuela=1
     console.log(URL);
     data = this.http.get(URL);    
@@ -109,7 +129,7 @@ export class LoginPage {
         this.storage.set('WhatsApp', this.userData.WhatsApp);
         this.storage.set('Serial', this.userData.Serial);
       }
-    })*/
+    })
   }
 
   StorageGet(Key: string, Default: any) {

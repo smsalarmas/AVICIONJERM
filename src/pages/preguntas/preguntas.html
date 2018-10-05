@@ -14,7 +14,7 @@
   </ion-header>
   
 
-  <ion-content padding > 
+  <ion-content padding *ngIf="!TocaResultado"> 
       <img width="350" height="91" src="assets/imgs/logo_aviacionesav.png"/>
       <ion-list *ngFor="let item of items ; let i = index">
         <ion-list-header *ngIf="StatusMostrar[i]"  class="BgColor3">
@@ -54,7 +54,33 @@
     </ion-list>
   </ion-content>
 
-  <ion-footer no-border > 
+
+  <ion-content padding *ngIf="TocaResultado">
+    <ion-item class="BgColor">        
+        <h4 style="text-align:center" ion-text color="light">{{Materia}}</h4>
+      </ion-item>
+      <img width="350" height="91" src="assets/imgs/logo_aviacionesav.png"/>
+    <ion-refresher on-refresh="doRefresh()" pulling-icon="ion-load-d" spinner="ios-small"></ion-refresher>
+    <div class="divider-title">Resultado </div>
+    <ul class="timeline" *ngFor="let item2 of itemsRespuesta2 ; let i = index">
+      <li *ngIf="i < ToalPreguntas" >
+        <div  class="timeline-thumb BgColor2 timeline-icon">
+          <i class="ion-heart"></i>
+        </div>
+        <div  class="timeline-item">
+          <h6>{{ item2.Pregunta.charAt(0).toUpperCase() + item2.Pregunta.substr(1).toLowerCase() }}</h6>
+          <p>Resputas Correcta:</p>
+          <!--<div class="timeline-stats">
+            <i *ngIf="!RespuestasCorrecta[i]" class="ion-heart">INCORRECTO</i> {{RespuestasCorrecta[i]}} 
+            <span *ngIf="RespuestasCorrecta[i]" class="pos-absolute-right"><i class="ion-ios-clock">CORRECTA</i> </span>
+          </div>-->
+        </div>
+      </li>        
+    
+     </ul>
+  </ion-content>
+
+  <ion-footer no-border  *ngIf="!TocaResultado"> 
         <ion-toolbar>
           <ion-buttons right>
             <button ion-button [disabled]="SiguenteActive" round shape="round" fill="outline" color="primary" (click)="SiguentePregunta()">Siguente</button>                
@@ -81,3 +107,5 @@
           <ion-label text-wrap>{{TimerRespuesta}}</ion-label>
         </ion-toolbar>
   </ion-footer>
+
+

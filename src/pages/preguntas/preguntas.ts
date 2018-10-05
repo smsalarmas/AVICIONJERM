@@ -25,6 +25,7 @@ export class PreguntasPage {
   public TimerRespuesta:number;
   public Pregunta:any;
   public items:any;
+  public itemsRespuesta2:any;
   public RespuestaCorrecta:number;
   public StatusMostrar:boolean[] = [true]; //Controla el Show o Hidden de las preguntas
   public Respuestas:number[] = [0];
@@ -37,6 +38,7 @@ export class PreguntasPage {
   public timer:number;
   public ColorTime:string = "circle_main";
   private TimeByPreguntas: number;
+  private TocaResultado: boolean = false;
   
   dataConfig = {
     TimeByPreguntas:0,
@@ -60,14 +62,14 @@ export class PreguntasPage {
     this.PreguntaActual = 1;
     this.RespuestaCorrecta = 0;
     this.SiguenteActive = true;
-
-    
+   
     //this.StorageGet('TimeByPreguntas', this.userData.TimeByPreguntas);
 
       data = this.http.get('/assets/json/' + this.navParams.get('Mat') + '/_' + this.Id + '.json');    
       data.subscribe(result => {        
          
         this.items = result;
+        this.itemsRespuesta2 = result;
         this.dataConfig.CantPreguntas = this.JermSoft.GetCantPreguntas();
         this.dataConfig.TimeByPreguntas = this.JermSoft.GetTime();
 
@@ -112,7 +114,8 @@ export class PreguntasPage {
     if (this.PreguntaIndex > this.ToalPreguntas)
     {
       //this.JermSoft.SetRespuestas(this.Respuestas);
-      this.navCtrl.push(ResultadoPage, {id:this.Id,Mat:this.Mat,Materia:this.Materia,respuestas:this.Respuestas,totalpregun:this.ToalPreguntas});
+      this.TocaResultado = true;
+      //this.navCtrl.push(ResultadoPage, {id:this.Id,Mat:this.Mat,Materia:this.Materia,respuestas:this.Respuestas,totalpregun:this.ToalPreguntas});
     }
     this.SiguenteActive = true;    
   }
