@@ -29,6 +29,8 @@ export class PreguntasPage {
   public RespuestaCorrecta:number;
   public StatusMostrar:boolean[] = [true]; //Controla el Show o Hidden de las preguntas
   public Respuestas:number[] = [0];
+  public Respondio:number[] = [0];
+  public RespondioBien:boolean[] = [true];
   public PreguntaIndex:number = 1;
   public radio: any;
   public SiguenteActive:boolean;
@@ -38,7 +40,7 @@ export class PreguntasPage {
   public timer:number;
   public ColorTime:string = "circle_main";
   private TimeByPreguntas: number;
-  private TocaResultado: boolean = false;
+  //private TocaResultado: boolean = false;
   
   dataConfig = {
     TimeByPreguntas:0,
@@ -81,7 +83,9 @@ export class PreguntasPage {
         for (var i=1;i<this.ToalPreguntas;i++)
         {
           this.StatusMostrar.push(false);
+          this.RespondioBien.push(false);
           this.Respuestas.push(0);
+          this.Respondio.push(0);
         }
         console.log(JSON.stringify(result));
       })
@@ -113,9 +117,9 @@ export class PreguntasPage {
     this.mColor.E = "BgColorb";  
     if (this.PreguntaIndex > this.ToalPreguntas)
     {
-      //this.JermSoft.SetRespuestas(this.Respuestas);
-      this.TocaResultado = true;
-      //this.navCtrl.push(ResultadoPage, {id:this.Id,Mat:this.Mat,Materia:this.Materia,respuestas:this.Respuestas,totalpregun:this.ToalPreguntas});
+      this.JermSoft.SetRespuestas(this.Respuestas);
+      //this.TocaResultado = true;
+      this.navCtrl.push(ResultadoPage, {id:this.Id,Mat:this.Mat,Materia:this.Materia,respuestas:this.Respuestas,respondio:this.Respondio,respondiobien:this.RespondioBien,totalpregun:this.ToalPreguntas});
     }
     this.SiguenteActive = true;    
   }
@@ -125,7 +129,8 @@ export class PreguntasPage {
   SelectOP(RepCorrecta:number){
       this.SiguenteActive = false;
       let Buscar:string;
-      this.Respuestas[this.PreguntaIndex] = RepCorrecta;
+      //Aqui guardo la respuesta correcta
+      this.Respuestas[this.PreguntaIndex - 1] = RepCorrecta;
 
       if (RepCorrecta == 1) {  Buscar = "A"; this.mColor.A = "BgColor2";}
       if (RepCorrecta == 2) {  Buscar = "B"; this.mColor.B = "BgColor2";}
@@ -134,13 +139,26 @@ export class PreguntasPage {
       if (RepCorrecta == 5) {  Buscar = "E"; this.mColor.E = "BgColor2";}
       this.BoolRespCorrecta = false;
       this.BgColor = "BgColor";
+      //console.log(JSON.stringify(this.radio).split(',')[0]);
+  
       var n = JSON.stringify(this.radio).search(Buscar);
+      //Me toca buscar lo que realmente respondio.
       if (n != -1) {
         this.RespuestaCorrecta = this.RespuestaCorrecta + 1;
         this.BoolRespCorrecta = true;
         this.BgColor = "BgColor2";
+        this.Respondio[this.PreguntaIndex - 1] = RepCorrecta;
+        this.RespondioBien[this.PreguntaIndex - 1] = this.BoolRespCorrecta;
         
+      }else{
+        if (JSON.stringify(this.radio).split(',')[0].search('A') != -1 ) this.Respondio[this.PreguntaIndex - 1] = 1;
+        else if (JSON.stringify(this.radio).split(',')[0].search('B') != -1 ) this.Respondio[this.PreguntaIndex - 1] = 2;
+        else if (JSON.stringify(this.radio).split(',')[0].search('C') != -1 ) this.Respondio[this.PreguntaIndex - 1] = 3;
+        else if (JSON.stringify(this.radio).split(',')[0].search('D') != -1 ) this.Respondio[this.PreguntaIndex - 1] = 4;
+        else  this.Respondio[this.PreguntaIndex - 1] = 5;
+
       }
+      console.log('Respondio: '+ this.Respondio[this.PreguntaIndex - 1]);
   }
 
   

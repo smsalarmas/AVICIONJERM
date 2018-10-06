@@ -25,9 +25,9 @@
       </div>
       <div  class="timeline-item">
         <h6>{{ item.Pregunta.charAt(0).toUpperCase() + item.Pregunta.substr(1).toLowerCase() }}</h6>
-        <p>{{RespuestaStr[i] | titlecase}}</p>
+        <p>Repuesta Correcta: {{RespuestaStr[i]}}</p>
         <div class="timeline-stats">
-          <i *ngIf="!RespuestasCorrecta[i]" class="ion-heart">INCORRECTO</i> {{RespuestasCorrecta[i]}} 
+          <i *ngIf="!RespuestasCorrecta[i]" class="ion-heart">INCORRECTO</i> 
           <span *ngIf="RespuestasCorrecta[i]" class="pos-absolute-right"><i class="ion-ios-clock">CORRECTA</i> </span>
         </div>
       </div>
