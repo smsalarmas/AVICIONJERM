@@ -20,9 +20,10 @@ export class JermSoftProvider {
     TimeByPreguntas: 0,
     CantPreguntas:0,
     Serial:'',
-    SerialActivo:false
-    
+    SerialActivo:false,
+    NameAlumno:''
   };
+
   private Respuestas:any;
 
   constructor(public http: HttpClient, private storage: Storage) {
@@ -36,9 +37,15 @@ export class JermSoftProvider {
     this.GetTime();
     this.GetCantPreguntasLoad();
     this.GetLicActiva();
+    this.GetNameLic()
   }
 
 
+  GetNameLic(){
+    this.StorageGet('NameAlumno', this.userData.NameAlumno);
+    return this.userData.NameAlumno;
+    
+  }
   GetLicActiva(){
     this.StorageGet('Serial', this.userData.Serial);
     return this.userData.SerialActivo;
@@ -96,6 +103,7 @@ export class JermSoftProvider {
             console.log(" Storage.get ", Key, data);
             if (Key === 'TimeByPreguntas') this.userData.TimeByPreguntas = data.toString();
             if (Key === 'CantPreguntas') this.userData.CantPreguntas = data.toString();
+            if (Key === 'NameAlumno') this.userData.NameAlumno = data.toString();
             if (Key === 'Serial') {
               this.userData.Serial = data.toString();
               if ( this.userData.Serial) {

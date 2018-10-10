@@ -17,10 +17,15 @@
       <h4 style="text-align:center" ion-text color="light">{{Materia}}</h4>
     </ion-item>
   <ion-refresher on-refresh="doRefresh()" pulling-icon="ion-load-d" spinner="ios-small"></ion-refresher>
-  <div class="divider-title">Resultado </div>
+  <div class="divider-title">
+    Resultado  
+    <button item-leftnpm clear (click)='SendResult($event)'>
+        <ion-icon  ios="ios-share" md="md-share"></ion-icon>
+    </button>
+  </div>
   <ul class="timeline" *ngFor="let item of items ; let i = index">
     <li *ngIf="StatusMostrar[i]">
-      <div  class="timeline-thumb {{ColorRespuesta(RespuestasCorrecta[i])}} timeline-icon">
+      <div  class="timeline-thumb {{ColorRespuesta(i)}} timeline-icon">
         <i class="ion-heart"></i>
       </div>
       <div  class="timeline-item">

@@ -1,0 +1,146 @@
+﻿[
+    {
+      "Pregunta": "1.Que es Motor Critico",
+      "RespuestaCorrecta": "3",
+      "A": "Motor izquierdo que afecta más adversamente al performance y la maniobrabilidad del avión",
+      "B": "Motor derecho que afecta más adversamente al performance y la maniobrabilidad del avión",
+      "C": "Aquel motor cuya falla afecta más adversamente al performance y la maniobrabilidad del avión",
+      "D": "Ninguna es correcta"
+    },
+    {
+      "Pregunta": "2.El techo de servicio con un motor inoperativo es la máxima altitud de densidad a la que Vyse producirá 50 fpm con un motor inoperativo",
+      "RespuestaCorrecta": "1",
+      "A": "Verdadero",
+      "B": "Falso"
+    },
+    {
+      "Pregunta": "3. El techo absoluto con un motor inoperativo es la máxima altitud de densidad a la que el avión puede obtener con un motor inop.",
+      "RespuestaCorrecta": "1",
+      "A": "Verdadero",
+      "B": "Falso"
+    },
+    {
+      "Pregunta": "4. Con respecto al performance de la aeronave con un motor inoperativo",
+      "RespuestaCorrecta": "1",
+      "A": "El avión pierde 50% de poder disponible",
+      "B": "Resulta en aproximadamente el 50% en aumento en resistencia",
+      "C": "El avión pierde el 80% de poder disponible",
+      "D": "Ninguna es correcta"
+    },
+    {
+      "Pregunta": "5. Con respecto al performance de la aeronave con un motor inoperativo",
+      "RespuestaCorrecta": "2",
+      "A": "Resulta en aproximadamente 50% aumento en resistencia",
+      "B": "Resulta en aproximadamente 80% aumento en resistencia",
+      "C": "El avión pierde 80% de poder disponible",
+      "D": "Ninguna es correcta"
+    },
+    {
+      "Pregunta": "6. Enumere los Factores del motor crítico  ",
+      "RespuestaCorrecta": "1",
+      "A": "________________________________",
+      "B": "________________________________",
+      "C": "________________________________",
+      "D": "________________________________"
+    },
+    {
+      "Pregunta": "7. Enumere 3 de los parámetros para certificación de Vmc",
+      "RespuestaCorrecta": "1",
+      "A": "________________________________",
+      "B": "________________________________",
+      "C": "________________________________",
+      "D": "________________________________"
+    },
+    {
+      "Pregunta": "8. Describa los significados de las siguientes Velocidades",
+      "RespuestaCorrecta": "1",
+      "A": "VMC: ______________________",
+      "B": "Vle: ______________________",
+      "C": "Vyse: ______________________",
+      "D": "Vxse: ______________________",
+      "E": "Vlo: ______________________",
+      "F": "Vr: ______________________"
+    },
+    {
+      "Pregunta": "9. La altitud de densidad crítica, es la altitud a la que la VMC es igual a la Vs ",
+      "RespuestaCorrecta": "1",
+      "A": "V",
+      "B": "F"
+    },
+    {
+      "Pregunta": "10. Escriba las siguientes velocidades de la Piper Aztec PA-23",
+      "RespuestaCorrecta": "1",
+      "A": "Vr: __________________",
+      "B": "Va: __________________",
+      "C": "Vyse: __________________",
+      "D": "Vxse: __________________",
+      "E": "Vs: __________________",
+      "F": "VMC: __________________"
+    },
+    {
+      "Pregunta": "11. Cuál es la Velocidad para bajar el tren",
+      "RespuestaCorrecta": "1",
+      "A": "150 MPH",
+      "B": "__________________"
+    },
+    {
+      "Pregunta": "12. Cuál es la velocidad para poner el primer punto de Falp",
+      "RespuestaCorrecta": "1",
+      "A": "120 MPH",
+      "B": "__________________"
+    },
+    {
+      "Pregunta": "13. Describa los pesos máximos de la Piper Aztec PA-23",
+      "RespuestaCorrecta": "1",
+      "A": "Peso Básico: ____________",
+      "B": "Peso Máximo de despegue: ____________",
+      "C": "Peso Máximo de Aterrizaje: ____________"
+    },
+    {
+      "Pregunta": "14. Cuantas formas de bajar el tren existen, en caso de una emergencia hidráulica y describa",
+      "RespuestaCorrecta": "1",
+      "A": "________________________________",
+      "B": "________________________________",
+      "C": "________________________________",
+      "D": "________________________________"
+    },
+    {
+      "Pregunta": "15. Describa sobre los motores que tiene la Piper Aztec",
+      "RespuestaCorrecta": "1",
+      "A": "________________________________",
+      "B": "________________________________"
+    },
+    {
+      "Pregunta": "16. Que es lo que pasa al perder el motor izquierdo en vuelo.",
+      "RespuestaCorrecta": "1",
+      "A": "________________________________",
+      "B": "________________________________"
+    },
+    {
+      "Pregunta": "17. Describa sobre el sistema eléctrico de la Piper Aztec",
+      "RespuestaCorrecta": "1",
+      "A": "________________________________",
+      "B": "________________________________"
+    },
+    {
+      "Pregunta": "18. Describa sobre el sistema de combustible de la Piper Aztec",
+      "RespuestaCorrecta": "1",
+      "A": "________________________________",
+      "B": "________________________________",
+      "C": "________________________________",
+      "D": "________________________________"
+    },
+    {
+      "Pregunta": "19. El Cross Feed es una válvula que transfiere combustible de cualquiera de los 4 tanques a cualquiera de los 2 motores en caso de falla de todas las bombas de un motor ",
+      "RespuestaCorrecta": "1",
+      "A": "Verdadero",
+      "B": "Falso"
+    },
+    {
+      "Pregunta": "20. Describa sobre Bomba de emergencia manual para activar el tren y los flap. ",
+      "RespuestaCorrecta": "1",
+      "A": "________________________________",
+      "B": "________________________________",
+      "C": "________________________________",
+      "D": "________________________________"
+    }]

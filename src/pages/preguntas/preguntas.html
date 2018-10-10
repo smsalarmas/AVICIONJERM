@@ -29,23 +29,23 @@
          <input type="hidden" ng-model="myRespuestaCorrecta" ng-init="myRespuestaCorrecta = item.RespuestaCorrecta">
           <ion-list radio-group [(ngModel)]="radio">
               <ion-item >
-                  <ion-label  class="{{mColor.A}}" text-wrap>A.- {{item.A | titlecase}}</ion-label>
+                  <ion-label  class="{{mColor.A}}" text-wrap>A.- {{item.A}}</ion-label>
                   <ion-radio [disabled]="!SiguenteActive" [value]="'A,' + i" (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
               <ion-item  >
-                  <ion-label class="{{mColor.B}}" text-wrap>B.- {{item.B | titlecase}}</ion-label>
+                  <ion-label class="{{mColor.B}}" text-wrap>B.- {{item.B}}</ion-label>
                   <ion-radio [disabled]="!SiguenteActive" [value]="'B,' + i" (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
               <ion-item *ngIf="item.C">
-                  <ion-label class="{{mColor.C}}" text-wrap>C.- {{item.C | titlecase}}</ion-label>
+                  <ion-label class="{{mColor.C}}" text-wrap>C.- {{item.C}}</ion-label>
                   <ion-radio [disabled]="!SiguenteActive" [value]="'C,' + i" (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
               <ion-item *ngIf="item.D"  class="{{mColor.D}}">
-                  <ion-label text-wrap>D.- {{item.D | titlecase}}</ion-label>
+                  <ion-label text-wrap>D.- {{item.D}}</ion-label>
                   <ion-radio [disabled]="!SiguenteActive" [value]="'D,' + i"  (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
               <ion-item *ngIf="item.E"  class="{{mColor.E}}">
-                  <ion-label text-wrap>E.- {{item.E | titlecase}}</ion-label>
+                  <ion-label text-wrap>E.- {{item.E}}</ion-label>
                   <ion-radio [disabled]="!SiguenteActive" [value]="'E,' + i"  (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
             </ion-list>

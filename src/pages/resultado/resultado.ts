@@ -2,6 +2,8 @@ import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from '../../../node_modules/rxjs/Observable';
+import { HomePage } from '../home/home';
+import { JermSoftProvider } from '../../providers/jerm-soft/jerm-soft';
 /**
  * Generated class for the ResultadoPage page.
  *
@@ -25,12 +27,13 @@ export class ResultadoPage {
   private RespondioBien:any;
   public items:any;
   public ToalPreguntas:number;
-  public StatusMostrar:boolean[] = [true];
-  public RespuestasCorrecta:boolean[] = [true];
-  public RespuestaColor:string[] = ["bg-color-green"];
+  public ToalCorrectas:number = 0;
+  public StatusMostrar:boolean[] = [false];
+  public RespuestasCorrecta:boolean[] = [false];
+  public RespuestaColor:string[] = ["bg-color-red"];
   public RespuestaStr:string[] = [""];
 
-  constructor(public navCtrl: NavController, 
+  constructor(public navCtrl: NavController, private JermSoft: JermSoftProvider,
     public navParams: NavParams, public http: HttpClient) {
     let data:Observable<any>;
     this.Id = this.navParams.get('id');
@@ -49,14 +52,13 @@ export class ResultadoPage {
         for (var i=1;i<this.items.length;i++)
         {
          this.RespuestaStr.push("");
-          
+         this.RespuestaColor.push("bg-color-red");
+         this.RespuestasCorrecta.push(false);
+         this.StatusMostrar.push(false);
         }
-        for (i=1;i<this.items.length;i++)
+        for (i=0;i<this.items.length;i++)
         {
-          if (this.ToalPreguntas > i) this.StatusMostrar.push(true);
-          else  this.StatusMostrar.push(false);
-          
-          console.log("Consola: " + JSON.stringify(this.items[i].C) + " Index " + i);
+          if (this.ToalPreguntas > i) this.StatusMostrar[i] = true;
 
           if (this.items[i].RespuestaCorrecta === "1") this.RespuestaStr[i] = this.items[i].A;
           if (this.items[i].RespuestaCorrecta === "2") this.RespuestaStr[i] = this.items[i].B;
@@ -65,7 +67,8 @@ export class ResultadoPage {
           if (this.items[i].RespuestaCorrecta === "5") this.RespuestaStr[i] = this.items[i].E;
           if (this.items[i].RespuestaCorrecta === "6") this.RespuestaStr[i] = this.items[i].F;
 
-          this.EvaluarRespuesta(this.Respuestas[i-1], this.Respondio[i-1], i);
+          console.log("Consola: " + JSON.stringify(this.RespuestaStr[i]) + " Index " + i);
+          this.EvaluarRespuesta(this.Respuestas[i], this.Respondio[i], i);
         }
 
         //console.log(JSON.stringify(result));
@@ -80,25 +83,58 @@ export class ResultadoPage {
     console.log(LoQueRespondi,RespuestaCorrecta);
 
     if (this.RespondioBien[Pregunta])  { 
-      this.RespuestaColor.push("bg-color-green");
+      this.RespuestaColor[Pregunta] = ("bg-color-green");
       resulta = true;
-    }   else this.RespuestaColor.push("bg-color-red");
+      this.ToalCorrectas = this.ToalCorrectas + 1;
+    } else this.RespuestaColor[Pregunta] = ("bg-color-red");
 
     /*if (LoQueRespondi === RespuestaCorrecta)  {      
       this.RespuestaColor.push("bg-color-green");
       resulta = true;
     } else this.RespuestaColor.push("bg-color-red");*/
 
-    this.RespuestasCorrecta.push(resulta);
+    this.RespuestasCorrecta[Pregunta] = resulta;
   } 
 
-  ColorRespuesta(value){
-    if (value === true) return "bg-color-green"
-    else return "bg-color-red"
+  ColorRespuesta(value){    
+    return this.RespuestaColor[value];
   }
 
   ionViewDidLoad() {
     console.log('ionViewDidLoad ResultadoPage');
+  }
+
+  SendResult(){
+    let data:Observable<any>;
+    let Param:string;
+
+    let Incorrectas = this.ToalPreguntas - this.ToalCorrectas;
+    let Alumno = this.GetAlumnoName();
+    Param = 'http://www.tecnoavl.com/movil/testmail.php';
+    Param = Param + '?Alumno=' + Alumno + '&materia=' + this.Materia;
+    Param = Param + '&cantPreguntas=' + this.ToalPreguntas;
+    Param = Param + '&cantPregCorrectas=' + this.ToalCorrectas;
+    Param = Param + '&cantPregInicorrectas=' + Incorrectas;
+    Param = Param + '&Duracion=60';
+    
+    /*Alumno
+    materia
+    cantPreguntas
+    cantPregCorrectas
+    cantPregInicorrectas
+    Duracion*/
+    data = this.http.get(Param);    
+      data.subscribe(result => {
+        console.log(result);
+      })
+
+      this.navCtrl.push(HomePage);
+    
+     
+  }
+
+  GetAlumnoName(){
+    return this.JermSoft.GetNameLic();
   }
 
   doRefresh(){

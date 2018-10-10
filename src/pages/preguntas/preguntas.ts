@@ -80,7 +80,7 @@ export class PreguntasPage {
         if (this.ToalPreguntas  > this.dataConfig.CantPreguntas) this.ToalPreguntas = this.dataConfig.CantPreguntas;
         if (this.ToalPreguntas == 0) this.ToalPreguntas = 5
 
-        for (var i=1;i<this.ToalPreguntas;i++)
+        for (var i=0;i<this.ToalPreguntas;i++)
         {
           this.StatusMostrar.push(false);
           this.RespondioBien.push(false);
@@ -148,7 +148,7 @@ export class PreguntasPage {
         this.BoolRespCorrecta = true;
         this.BgColor = "BgColor2";
         this.Respondio[this.PreguntaIndex - 1] = RepCorrecta;
-        this.RespondioBien[this.PreguntaIndex - 1] = this.BoolRespCorrecta;
+        this.RespondioBien[this.PreguntaIndex - 1] = true;
         
       }else{
         if (JSON.stringify(this.radio).split(',')[0].search('A') != -1 ) this.Respondio[this.PreguntaIndex - 1] = 1;
@@ -156,6 +156,7 @@ export class PreguntasPage {
         else if (JSON.stringify(this.radio).split(',')[0].search('C') != -1 ) this.Respondio[this.PreguntaIndex - 1] = 3;
         else if (JSON.stringify(this.radio).split(',')[0].search('D') != -1 ) this.Respondio[this.PreguntaIndex - 1] = 4;
         else  this.Respondio[this.PreguntaIndex - 1] = 5;
+        this.RespondioBien[this.PreguntaIndex - 1] = false;
 
       }
       console.log('Respondio: '+ this.Respondio[this.PreguntaIndex - 1]);
