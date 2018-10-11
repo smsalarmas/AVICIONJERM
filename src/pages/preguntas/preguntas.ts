@@ -105,6 +105,7 @@ export class PreguntasPage {
 
   SiguentePregunta(){        
     this.maxTime = this.dataConfig.TimeByPreguntas;
+    if (this.maxTime < 10) this.maxTime = 60;
     this.StartTimer();
 
     this.StatusMostrar[this.PreguntaIndex] = true;

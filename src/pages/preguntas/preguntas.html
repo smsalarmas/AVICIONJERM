@@ -40,12 +40,12 @@
                   <ion-label class="{{mColor.C}}" text-wrap>C.- {{item.C}}</ion-label>
                   <ion-radio [disabled]="!SiguenteActive" [value]="'C,' + i" (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
-              <ion-item *ngIf="item.D"  class="{{mColor.D}}">
-                  <ion-label text-wrap>D.- {{item.D}}</ion-label>
+              <ion-item *ngIf="item.D">
+                  <ion-label class="{{mColor.D}}" text-wrap>D.- {{item.D}}</ion-label>
                   <ion-radio [disabled]="!SiguenteActive" [value]="'D,' + i"  (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
-              <ion-item *ngIf="item.E"  class="{{mColor.E}}">
-                  <ion-label text-wrap>E.- {{item.E}}</ion-label>
+              <ion-item *ngIf="item.E">
+                  <ion-label  class="{{mColor.E}}" text-wrap>E.- {{item.E}}</ion-label>
                   <ion-radio [disabled]="!SiguenteActive" [value]="'E,' + i"  (ionSelect)="SelectOP(item.RespuestaCorrecta)"></ion-radio>
               </ion-item>
             </ion-list>
